@@ -6408,7 +6408,6 @@
   "FStringInGameMenuModernizationForcedUserIds": "3897391625;",
   "FStringInGameMenuModernizationStickyBarForcedUserIds": "3851853258;",
   "DFIntScriptContextTelemetryThrottleHundredthsPercent": "2",
-  "FFlagLSPBuiltInMethodSearcher": "True",
   "FFlagAvatarAutocompleteXbox": "True",
   "FFlagFaceAnimatorAudioWorkerThreadUseWakeCond": "True",
   "FFlagEnableExtraOOMTelemetries": "True",
