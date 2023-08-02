@@ -6391,7 +6391,6 @@
   "FFlagStudioCorrectPasteSnapping": "True",
   "DFFlagOverrideDefaultRCCJobHeartbeat2": "True",
   "FFlagLuauAllowIndexClassParameters": "True",
-  "FFlagLuauInstantiateInSubtyping": "True",
   "FFlagCheckThreadResetBeforeResume": "True",
   "FFlagPreventTagDuplicationOnModelImport": "True",
   "FFlagCompletionIconUpgrade": "True",
