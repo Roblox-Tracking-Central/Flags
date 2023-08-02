@@ -6300,7 +6300,6 @@
   "FFlagPWUpdateCompleteSignal": "True",
   "DFFlagIterationCompleteMetaFix": "False",
   "FFlagUserCarouselAlwaysClickableTitle": "True",
-  "FFlagLogOutputUseFontSizeForCalcWrappingDims": "True",
   "FFlagCIMoveInitCall_v1": "True",
   "FFlagScriptEditorMultiCursorChangedEvent": "True",
   "FFlagLuauCompileFunctionType": "True",
