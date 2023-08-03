@@ -252,5 +252,6 @@
   "FStringCapturesEntrypointActivated": "CapturesEntrypointActivatediOS",
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuiOS",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatediOS",
-  "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS"
+  "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS",
+  "FFlagReportFpsAndGfxQualityPercentiles_Rollout": "True;60;2023-08-03T20:46:30"
 }
