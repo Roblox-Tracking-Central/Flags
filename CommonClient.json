@@ -6505,6 +6505,7 @@
   "DFIntCLI73599A": "1536",
   "FFlagCOLLAB3970_FixPublishPackageCrash": "True",
   "FFlagEnableDetailsPageSelector": "True",
+  "DFFlagRemoveStreamedRegionSetCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
