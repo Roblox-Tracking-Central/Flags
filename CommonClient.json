@@ -6449,6 +6449,7 @@
   "FFlagUserSearchLayerPassAllProps": "True",
   "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
   "FFlagUnifyAddFriendsPageRouterName": "True",
+  "FFlagSimCSGV3IncrementalTriangulationPhase2v1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
