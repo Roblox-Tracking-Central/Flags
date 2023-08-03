@@ -6447,6 +6447,7 @@
   "FFlag9SliceEditorShorterLoadTime": "True",
   "DFFlagFlagRolloutTestDynamicBool0": "True",
   "FFlagUserSearchLayerPassAllProps": "True",
+  "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
