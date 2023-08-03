@@ -5952,7 +5952,6 @@
   "FFlagAvatarChatSubsessionAnalyticsV4": "True",
   "DFFlagExtraLoggingForCLI36936_2": "False",
   "FFlagACESaveRigWithAnimation": "True",
-  "FFlagUserFixOverlappingRtlChatMessages": "False",
   "FFlagEnableClientEventFields": "True",
   "FFlagHumanoidParallelFasterSetCollision": "True",
   "FFlagHumanoidParallelSafeCofmUpdate": "True",
