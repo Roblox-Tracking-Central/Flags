@@ -1072,7 +1072,7 @@
   "DFFlagRCCThumbnailReportErrorInflux": "True",
   "DFIntRCCThumbnailReportHundredthsPercent": "1",
   "FFlagFixLoadMoreScrollDebounce": "True",
-  "FStringUGCLCAllowedAssetTypeIds": "64,65,66,67,68,69,72",
+  "FStringUGCLCAllowedAssetTypeIds": "64,65,66,67,68,69,72,76,77",
   "DFIntAvatarEditorServiceCountersPercent": "100",
   "FFlagCollectMaterialServiceUsageMetrics": "True",
   "DFStringPacketProcessConfigUserIdPer100": "",
