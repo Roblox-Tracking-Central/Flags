@@ -241,7 +241,7 @@
   "FLogDataModelPatchAnalytics": "6",
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "DFFlagDebugSendTDigestDebugInfo": "False",
-  "FFlagEarlyCreateProfileTelemetry": "True",
+  "FFlagEarlyCreateProfileTelemetry": "False",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "DFFlagFixSessionTrackingSendSuccess": "False",
@@ -252,6 +252,5 @@
   "FStringCapturesEntrypointActivated": "CapturesEntrypointActivatediOS",
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuiOS",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatediOS",
-  "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS",
-  "FFlagEarlyCreateProfileTelemetry_Rollout": "False;60;2023-08-04T17:19:55"
+  "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS"
 }
