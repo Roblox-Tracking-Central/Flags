@@ -175,6 +175,7 @@
   "FFlagSTUDIOPLAT_30933_TrackLegacyLockUsage": "True",
   "FFlagStudioUseChangeRecords": "True",
   "FFlagSTUDIOPLAT_31476_ANRDetector_v2": "True",
+  "FFlagShowTagsInPropertiesBetaFeature": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
