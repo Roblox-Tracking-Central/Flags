@@ -4443,7 +4443,7 @@
   "FFlagFixFlaggingUseSingleLayoutForRichText5": "True",
   "FFlagRemoveMemoryApsGpu": "True",
   "FFlagUnifyGamePlayIntentEvent": "True",
-  "FFlagStudioPrelaunchTeamCreateOnDocClose": "True",
+  "FFlagStudioPrelaunchTeamCreateOnDocClose": "False",
   "DFFlagCollectStudioOpenRbxp": "True",
   "DFIntStudioOpenRbxpHundredthsPercentage": "10000",
   "DFFlagPlayersMoveChatReceive": "True",
