@@ -6533,6 +6533,8 @@
   "FFlagShareLinkFixErrorModal": "True",
   "FFlagKeepTextWhitespacing": "True",
   "FFlagHomeShareLinkRefactor": "True",
+  "DFFlagMemoryPressureGCStats_Rollout": "False;60;2023-08-07T16:47:45",
+  "FFlagFCIgnoreDeformersNotReady3_Rollout": "True;60;2023-08-07T16:50:22",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
