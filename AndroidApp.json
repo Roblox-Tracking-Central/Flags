@@ -295,5 +295,6 @@
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "FIntFriendsLandingUserProfileApiRollout": "100",
   "FIntSocialTabUserProfileApiRollout": "100",
-  "FFlagEnableLoadPatchMetric": "True"
+  "FFlagEnableLoadPatchMetric": "True",
+  "DFFlagDiagsLateDMInit": "True"
 }
