@@ -6563,6 +6563,7 @@
   "DFFlagNfwlTracking": "True",
   "FFlagDisablePurchasePromptFunctionForMaquettes": "True",
   "FFlagIsCollectibleSellableInShopFix": "True",
+  "FIntDevGlyphAtlasHeight_Rollout": "4096;60;2023-08-07T22:13:59",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
