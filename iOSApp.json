@@ -256,5 +256,6 @@
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "FIntFriendsLandingUserProfileApiRollout": "100",
-  "FIntSocialTabUserProfileApiRollout": "100"
+  "FIntSocialTabUserProfileApiRollout": "100",
+  "FFlagEnableLoadPatchMetric": "True"
 }
