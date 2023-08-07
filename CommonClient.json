@@ -6549,6 +6549,8 @@
   "DFFlagLuauFastcallGC": "True",
   "FFlagGraphicsBufferSRVCreateWithDesc": "True",
   "DFFlagModelLODCalculateTopMostAncestor": "True",
+  "FFlagReportFirstExperienceCancelled": "True",
+  "DFFlagAutoNetworkOwnershipUsesNOUs_Rollout": "True;30;2023-08-07T19:10:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
