@@ -6559,6 +6559,8 @@
   "FFlagLuaAppUnifyAppGameTile": "True",
   "FFlagLuaAppUnifyAppGameTileHoverState": "True",
   "FFlagUIBloxExperienceTileHoverDelay": "True",
+  "DFFlagBBouncingFix": "True",
+  "DFFlagNfwlTracking": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
