@@ -287,5 +287,12 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedAndroid",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
   "DFFlagDebugSendTDigestDebugInfo2": "True",
-  "FFlagEnableDMInitMeasurement": "True"
+  "FFlagEnableDMInitMeasurement": "True",
+  "FFlagAppChatUserProfileApiEnabledForAll": "True",
+  "FFlagPeopleListContextualMenuUserProfileApiEnabledForAll": "True",
+  "FFlagUplevelAliasIXPEnabled": "True",
+  "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
+  "FIntCharacterNameHandlerUserProfileApiRollout": "100",
+  "FIntFriendsLandingUserProfileApiRollout": "100",
+  "FIntSocialTabUserProfileApiRollout": "100"
 }
