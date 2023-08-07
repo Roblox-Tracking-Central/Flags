@@ -57,7 +57,6 @@
   "FFlagMultiTryOnPurchaseIXPEnabled2": "True",
   "FFlagVerifiedBadgeInFriendsLanding": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "False",
-  "DFFlagIgnoreCustomEventReceiverSource": "False",
   "DFIntCLI64234Max": "100000000",
   "FFlagPersistentPerPlayer": "False",
   "DFFlagCLI64234Metrics": "True",
