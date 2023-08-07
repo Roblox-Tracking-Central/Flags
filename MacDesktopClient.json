@@ -90,6 +90,7 @@
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
+  "FFlagEnableDMInitMeasurement": "True",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
   "DFLogSoundTrace": "4",

@@ -290,5 +290,6 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuAndroid",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedAndroid",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
-  "DFFlagDebugSendTDigestDebugInfo2": "True"
+  "DFFlagDebugSendTDigestDebugInfo2": "True",
+  "FFlagEnableDMInitMeasurement": "True"
 }
