@@ -130,7 +130,6 @@
   "DFIntAuthMetadataRequestTimeoutMs": "10000",
   "DFFlagGoogleAnalyticsUseEventIngest": "True",
   "DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": "True",
-  "DFFlagReportControllerManagerUse": "True",
   "DFIntReportControllerManagerPercent": "100",
   "DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": "True",
   "FFlagStudioSupportRunContextInAutocomplete": "True",
