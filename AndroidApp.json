@@ -296,5 +296,8 @@
   "FIntPlayerListUserProfileApiRollout_v2": "100",
   "FFlagUserSearchRealNamesEnabled_v1": "True",
   "FIntExperienceChatUserProfileApiRollout_v1": "100",
-  "FFlagAppChatUserProfileApiEnabledForAll": "True"
+  "FFlagAppChatUserProfileApiEnabledForAll": "True",
+  "FFlagPeopleListContextualMenuUserProfileApiEnabledForAll": "True",
+  "FIntFriendsLandingUserProfileApiRollout": "100",
+  "FIntSocialTabUserProfileApiRollout": "100"
 }
