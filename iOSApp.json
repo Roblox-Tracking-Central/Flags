@@ -260,5 +260,7 @@
   "FFlagAppChatUserProfileApiEnabledForAll": "True",
   "FFlagPeopleListContextualMenuUserProfileApiEnabledForAll": "True",
   "FIntFriendsLandingUserProfileApiRollout": "100",
-  "FIntSocialTabUserProfileApiRollout": "100"
+  "FIntSocialTabUserProfileApiRollout": "100",
+  "FFlagUplevelAliasIXPEnabled": "True",
+  "FFlagUplevelAliasIXPSetupEnabled_v4": "True"
 }

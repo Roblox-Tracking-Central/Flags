@@ -6588,8 +6588,6 @@
   "FFlagAvatarChatSelfViewShowDefaultCursor": "True",
   "FFlagSelfViewMakeClonePartsNonTransparent2": "True",
   "FFlagUIBloxFixExpandableTextAreaSizing": "True",
-  "FFlagUplevelAliasIXPEnabled": "True",
-  "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "FFlagProfilePeekViewAliasTooltip_v1": "True",
   "FFlagDeprecateDuplicateThumbnailConstants": "True",
