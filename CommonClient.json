@@ -6567,6 +6567,7 @@
   "FFlagUserSearchRealNamesUseDifferentLayer": "True",
   "FFlagUIBloxFixLoadingShimmerForPlayerTileNames": "True",
   "FFlagDevFrameworkBetterInit": "True",
+  "FFlagDisableStudioPluginOTAForLocalBuild": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
