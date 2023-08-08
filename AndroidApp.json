@@ -302,5 +302,6 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagPlayerListFixNilUserId_v2": "True",
   "FIntPlayerListUserProfileApiRollout_v2": "0",
-  "FFlagUserSearchRealNamesEnabled_v1": "True"
+  "FFlagUserSearchRealNamesEnabled_v1": "True",
+  "FIntExperienceChatUserProfileApiRollout_v1": "25"
 }
