@@ -300,8 +300,7 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FFlagPlayerListFixNilUserId_v2": "True",
-  "FIntPlayerListUserProfileApiRollout_v2": "0",
+  "FIntPlayerListUserProfileApiRollout_v2": "10",
   "FFlagUserSearchRealNamesEnabled_v1": "True",
-  "FIntExperienceChatUserProfileApiRollout_v1": "25"
+  "FIntExperienceChatUserProfileApiRollout_v1": "100"
 }
