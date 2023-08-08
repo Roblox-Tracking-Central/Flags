@@ -300,7 +300,7 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FIntPlayerListUserProfileApiRollout_v2": "10",
+  "FIntPlayerListUserProfileApiRollout_v2": "100",
   "FFlagUserSearchRealNamesEnabled_v1": "True",
   "FIntExperienceChatUserProfileApiRollout_v1": "100"
 }
