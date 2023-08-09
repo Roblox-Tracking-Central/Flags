@@ -99,7 +99,6 @@
   "EnableGameOrientationWithDelayInMs": "0",
   "EnableMarshallerAsync": "False",
   "EventStreamBatchSize": "10",
-  "FFlagAppBridgeRewrite": "False",
   "FFlagDebugCrashEnabled": "False",
   "FFlagEnableCancelInputEvent": "True",
   "FFlagGraphicsGL3UseUBO3": "False",

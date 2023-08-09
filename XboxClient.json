@@ -90,7 +90,6 @@
   "DFLogSoundTrace": "4",
   "DFStringCrashUploadToBacktraceXboxPlayerToken": "a604d0cebc61b31687842404ac5add8588a98ad0719dbe0769dbc9abdf5618e1",
   "DFStringSendJoinTimeDeltasHundPrecCountryOverride": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000,JP,4000,NO,2000,FI,2000,SE,1000,FR,1000,DK,1000",
-  "FFlagAppBridgeRewrite": "False",
   "FFlagDebugCrashEnabled": "False",
   "FFlagGraphicsGL3UseUBO3": "True",
   "FFlagNeverUseJoinBlobRobloxLocaleEvenAsDefault": "True",
