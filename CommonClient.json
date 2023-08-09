@@ -6614,6 +6614,7 @@
   "DFFlagSimModelLodAsync": "True",
   "DFIntPurchaseProductUrlV2GCSResponseHandlingRollout_Rollout": "1;60;2023-08-09T20:52:15",
   "FFlagListImportedProjectsInDependencies": "True",
+  "FFlagSimCSG3AsyncChangeToNewPerformAPI_Rollout": "True;60;2023-08-09T21:10:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
