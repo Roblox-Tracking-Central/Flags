@@ -85,6 +85,7 @@
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagAvatarChatServiceEnabled3": "True",
   "FFlagEnableLocationRecording": "False",
+  "FFlagReportUIOcclusionMetrics3": "False",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": "5",
   "DFIntHttpCacheCleanMinFilesRequired": "3000",

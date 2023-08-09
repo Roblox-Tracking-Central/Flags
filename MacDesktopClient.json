@@ -85,6 +85,7 @@
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagAvatarChatServiceEnabled3": "True",
   "FFlagEnableLocationRecording": "True",
+  "FFlagReportUIOcclusionMetrics3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

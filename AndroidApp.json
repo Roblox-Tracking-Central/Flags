@@ -85,6 +85,7 @@
   "FFlagUserIsChatTranslationEnabled": "True",
   "FFlagAvatarChatServiceEnabled3": "True",
   "FFlagEnableLocationRecording": "True",
+  "FFlagReportUIOcclusionMetrics3": "False",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
