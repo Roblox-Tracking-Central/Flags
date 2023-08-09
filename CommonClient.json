@@ -6600,6 +6600,8 @@
   "FFlagTrackAppsFlyerLinksInGrafana": "True",
   "FFlagRemoveLegacyLocksInPackageManagementVerbs": "True",
   "FFlagFixCameraResetOnBrowse": "True",
+  "DFFlagDisableAirControllerJump": "True",
+  "FFlagListImportedProjectsInDependencies_Rollout": "True;30;2023-08-09T20:18:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
