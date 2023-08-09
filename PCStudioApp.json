@@ -85,7 +85,6 @@
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagAvatarChatServiceEnabled3": "False",
   "FFlagEnableLocationRecording": "True",
-  "FFlagReportUIOcclusionMetrics3": "False",
   "DFFlagLockViolationScriptCrash": "True",
   "DFIntConnectionMTUSize": "1200",
   "DFIntContentProviderReportBlockedRequestsRate": "500",
