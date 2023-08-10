@@ -6627,6 +6627,7 @@
   "DFFlagIdempotentRejectionReporting": "True",
   "FFlagHttpCacheMetrics2": "True",
   "DFFlagMemoryStoreUseCustomPollingQueueRead": "True",
+  "FFlagDontPoseSkinnedCharacters": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
