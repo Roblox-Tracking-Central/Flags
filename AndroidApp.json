@@ -38,6 +38,7 @@
   "FIntLuaAppLoginRollout": "100",
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "False",
+  "DFIntPredictedOOMPercent": "20",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -47,6 +48,7 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "FFlagCLI56034": "True",
+  "DFIntSessionTelemetryOSWarningMinimum": "1",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -301,6 +303,5 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "DFIntPredictedOOMPercent_Rollout": "20;60;2023-08-10T17:47:39",
-  "DFIntSessionTelemetryOSWarningMinimum_Rollout": "1;60;2023-08-10T17:52:58"
+  "DFIntPredictedOOMExitContinuePercent_Rollout": "20;60;2023-08-10T18:57:25"
 }
