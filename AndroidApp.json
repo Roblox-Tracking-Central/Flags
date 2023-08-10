@@ -88,6 +88,7 @@
   "FFlagUserIsChatTranslationEnabled": "True",
   "FFlagAvatarChatServiceEnabled3": "True",
   "FFlagEnableLocationRecording": "True",
+  "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1m\u0022, \u0022pos\u0022:[1, -56, 0, 4], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2m\u0022, \u0022pos\u0022:[1, -100, 0, 4], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a3m\u0022, \u0022pos\u0022:[0, 0, 0, 4], \u0022size\u0022:[1, 0, 0, 48]}, {\u0022id\u0022:\u0022a4m\u0022, \u0022pos\u0022:[1, -418, 0, 4], \u0022size\u0022:[0, 406, 0, 48]}]",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -303,5 +304,6 @@
   "FIntFriendsLandingUserProfileApiRollout": "100",
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
-  "FFlagUplevelAliasIXPSetupEnabled_v4": "True"
+  "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
+  "DFFlagDataModelDestroyAsAsyncTask_Rollout": "False;60;2023-08-10T21:12:55"
 }
