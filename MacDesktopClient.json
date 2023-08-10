@@ -48,6 +48,7 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "150",
   "FFlagCLI56034": "True",
+  "DFIntPredictedOOMExitContinuePercent": "10",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "False",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
