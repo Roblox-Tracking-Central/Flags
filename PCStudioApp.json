@@ -89,6 +89,7 @@
   "FFlagAvatarChatServiceEnabled3": "False",
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
+  "DFIntReportUIOcclusionRectQuery": "0",
   "DFFlagLockViolationScriptCrash": "True",
   "DFIntConnectionMTUSize": "1200",
   "DFIntContentProviderReportBlockedRequestsRate": "500",
