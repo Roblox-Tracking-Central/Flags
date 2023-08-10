@@ -87,6 +87,7 @@
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagAvatarChatServiceEnabled3": "False",
+  "DFFlagDataModelDestroyAsAsyncTask": "True",
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
