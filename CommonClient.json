@@ -6616,7 +6616,7 @@
   "FixBaseURLForDevApp": "True",
   "DFFlagSimAnimatingPrimitiveContactFix": "True",
   "FFlagLuaAppHomeGameGridCleanUp": "True",
-  "FFlagMacUseUpdateController": "True",
+  "FFlagMacUseUpdateController": "False",
   "VersionSupportForMaquettes": "True",
   "DFFlagBrickColorRandomDoesNotUseRand": "True",
   "FFlagSimCSG3AsyncChangeToNewPerformAPI": "True",
