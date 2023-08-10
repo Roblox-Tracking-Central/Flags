@@ -308,6 +308,7 @@
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "EnableAndroidRealtimeProtocolRollout": "1",
-  "FFlagRealtimeProtocolEnabledRolloutV2": "True"
+  "EnableAndroidRealtimeProtocolRollout": "5",
+  "FFlagRealtimeProtocolEnabledRolloutV2": "True",
+  "DFFlagInitDataModelLater3": "True"
 }
