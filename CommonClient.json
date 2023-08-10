@@ -6628,6 +6628,8 @@
   "DFFlagMemoryStoreUseCustomPollingQueueRead": "True",
   "FFlagDontPoseSkinnedCharacters": "True",
   "FFlagLuaAppTopicContentsTimestamp": "True",
+  "FFlagLuaAppCheckLocalPlayerOnMount": "True",
+  "FFlagStudioPluginsBetterReactStacktraces": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
