@@ -6668,8 +6668,6 @@
   "FFlagEnableUpdateAddPhoneDescriptionTextExperimentRelease1": "True",
   "FFlagReportUIOcclusionMetrics3": "True",
   "FFlagStudioRetryOnGameJoinDnsFailure": "True",
-  "FFlagOnlyUpdateDocWhenACVisible": "True",
-  "FFlagSalvageOutdatedCompletions1": "True",
   "FFlagLSPBuiltInMethodSearcher1": "True",
   "DFIntLuaKickIngestBasisPoint": "10000",
   "FIntTerrainEditorOverhaulBetaFeatureRolloutPercent": "100",
