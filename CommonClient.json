@@ -6683,6 +6683,8 @@
   "FFlagInitUIQuadTreeRework": "True",
   "FIntUGCBundleCreationPollStatusAttempts": "6",
   "FFlagTerrainFixGrassFlickering_Rollout": "True;60;2023-08-11T16:13:59",
+  "DFFlagCOLLAB2385TranslatedErrorMessagingNonTCEnabled2": "True",
+  "FFlagAssetImporterFixScrollbar": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
