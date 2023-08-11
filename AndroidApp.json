@@ -49,7 +49,7 @@
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "FFlagCLI56034": "True",
   "DFIntPredictedOOMExitContinuePercent": "20",
-  "DFIntSessionTelemetryOSWarningMinimum": "1",
+  "DFIntSessionTelemetryOSWarningMinimum": "5",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -91,7 +91,6 @@
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1m\u0022, \u0022pos\u0022:[1, -56, 0, 4], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2m\u0022, \u0022pos\u0022:[1, -100, 0, 4], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a3m\u0022, \u0022pos\u0022:[0, 0, 0, 4], \u0022size\u0022:[1, 0, 0, 48]}, {\u0022id\u0022:\u0022a4m\u0022, \u0022pos\u0022:[1, -418, 0, 4], \u0022size\u0022:[0, 406, 0, 48]}]",
   "DFIntReportUIOcclusionRectQuery": "2",
-  "FFlagEnableOptOutDUAR3_Rollout": "True;30;2023-08-10T23:41:29",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -310,6 +309,5 @@
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnableAndroidRealtimeProtocolRollout": "5",
-  "FFlagRealtimeProtocolEnabledRolloutV2": "True",
-  "DFIntSessionTelemetryOSWarningMinimum_Rollout": "5;30;2023-08-10T23:28:36"
+  "FFlagRealtimeProtocolEnabledRolloutV2": "True"
 }

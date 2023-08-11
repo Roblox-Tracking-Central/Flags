@@ -91,7 +91,6 @@
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
-  "FFlagEnableOptOutDUAR3_Rollout": "True;30;2023-08-10T23:41:29",
   "DFFlagLockViolationScriptCrash": "True",
   "DFIntConnectionMTUSize": "1200",
   "DFIntContentProviderReportBlockedRequestsRate": "500",
