@@ -230,7 +230,7 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadiOS",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadiOS",
   "FStringFeature_DisableOldCookieManagementSticky": "573;0",
-  "FStringFeature_SingleSurfaceEnabled": "588;20",
+  "FStringFeature_SingleSurfaceEnabled": "588;0",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
