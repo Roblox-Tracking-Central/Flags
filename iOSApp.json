@@ -267,5 +267,6 @@
   "FIntFriendsLandingUserProfileApiRollout": "100",
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
-  "FFlagUplevelAliasIXPSetupEnabled_v4": "True"
+  "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
+  "FIntCharacterNameHandlerUserProfileApiRollout": "100"
 }
