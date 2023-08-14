@@ -270,5 +270,6 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FIntCharacterNameHandlerUserProfileApiRollout": "100"
+  "FIntCharacterNameHandlerUserProfileApiRollout": "100",
+  "FFlagLeaderboardUserProfileApiEnabledForAll": "True"
 }

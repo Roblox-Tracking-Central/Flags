@@ -313,5 +313,6 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
-  "FFlagTeardownInSingleSurface": "True"
+  "FFlagTeardownInSingleSurface": "True",
+  "FFlagLeaderboardUserProfileApiEnabledForAll": "True"
 }
