@@ -315,7 +315,7 @@
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
   "FFlagTeardownInSingleSurface": "True",
   "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
-  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426",
-  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426",
+  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237",
+  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237",
   "FFlagProfilePeekViewAliasTooltip_v2": "True"
 }
