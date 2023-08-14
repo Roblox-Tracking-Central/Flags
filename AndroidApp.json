@@ -312,5 +312,6 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
-  "DFFlagPredictedOOMAbs_Rollout": "True;30;2023-08-14T20:27:37"
+  "DFFlagPredictedOOMAbs_Rollout": "True;30;2023-08-14T20:27:37",
+  "FFlagTeardownInSingleSurface_Rollout": "True;60;2023-08-14T20:35:00"
 }
