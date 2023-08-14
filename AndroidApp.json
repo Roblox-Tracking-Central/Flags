@@ -68,6 +68,7 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
+  "DFFlagPredictedOOMAbs": "True",
   "DFIntPredictedOOMAbsLimitFreeMB": "320",
   "FFlagEnableHarmonyV2API2": "False",
   "FFlagIntegrityCheckedProcessorUsePerfControlV2Api2": "False",
@@ -312,6 +313,5 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
-  "DFFlagPredictedOOMAbs_Rollout": "True;30;2023-08-14T20:27:37",
   "FFlagTeardownInSingleSurface_Rollout": "True;60;2023-08-14T20:35:00"
 }
