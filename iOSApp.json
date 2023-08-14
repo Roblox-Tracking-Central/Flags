@@ -271,5 +271,6 @@
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "FFlagLeaderboardUserProfileApiEnabledForAll": "True"
+  "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
+  "FFlagProfilePeekViewAliasTooltip_v2": "True"
 }

@@ -69,7 +69,7 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "DFFlagPredictedOOMAbs": "True",
-  "DFIntPredictedOOMAbsLimitFreeMB": "320",
+  "DFIntPredictedOOMAbsLimitFreeMB": "380",
   "FFlagEnableHarmonyV2API2": "False",
   "FFlagIntegrityCheckedProcessorUsePerfControlV2Api2": "False",
   "FFlagSingleAndDualSurfaceAppUsePerfControlV2Api2": "False",
@@ -314,5 +314,8 @@
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
   "FFlagTeardownInSingleSurface": "True",
-  "FFlagLeaderboardUserProfileApiEnabledForAll": "True"
+  "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
+  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426",
+  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426",
+  "FFlagProfilePeekViewAliasTooltip_v2": "True"
 }
