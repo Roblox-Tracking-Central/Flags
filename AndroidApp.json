@@ -48,7 +48,7 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "FFlagCLI56034": "True",
-  "DFIntSessionTelemetryOSWarningMinimum": "15",
+  "DFIntSessionTelemetryOSWarningMinimum": "5",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -309,6 +309,5 @@
   "EnableAndroidRealtimeProtocol": "True",
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
-  "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "FFlagTeardownInSingleSurface": "True"
+  "FIntCharacterNameHandlerUserProfileApiRollout": "100"
 }
