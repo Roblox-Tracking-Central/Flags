@@ -48,7 +48,7 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "FFlagCLI56034": "True",
-  "DFIntSessionTelemetryOSWarningMinimum": "5",
+  "DFIntSessionTelemetryOSWarningMinimum": "15",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -68,6 +68,7 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
+  "DFIntPredictedOOMAbsLimitFreeMB": "320",
   "FFlagEnableHarmonyV2API2": "False",
   "FFlagIntegrityCheckedProcessorUsePerfControlV2Api2": "False",
   "FFlagSingleAndDualSurfaceAppUsePerfControlV2Api2": "False",
@@ -310,7 +311,6 @@
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "DFIntSessionTelemetryOSWarningMinimum_Rollout": "15;30;2023-08-14T19:34:03",
-  "DFIntPredictedOOMAbsLimitFreeMB_Rollout": "320;30;2023-08-14T19:38:43",
-  "DFIntPredictedOOMAbsLimitOSMB_Rollout": "16384;30;2023-08-14T19:38:46"
+  "DFIntPredictedOOMAbsLimitOSMB": "16384",
+  "DFFlagPredictedOOMAbs_Rollout": "True;30;2023-08-14T20:27:37"
 }

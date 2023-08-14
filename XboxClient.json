@@ -68,6 +68,7 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "False",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "False",
+  "DFIntPredictedOOMAbsLimitFreeMB": "125",
   "FFlagEnableHarmonyV2API2": "False",
   "FFlagIntegrityCheckedProcessorUsePerfControlV2Api2": "False",
   "FFlagSingleAndDualSurfaceAppUsePerfControlV2Api2": "False",
