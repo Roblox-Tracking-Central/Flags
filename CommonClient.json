@@ -6685,7 +6685,7 @@
   "DFFlagIkControlRecacheFix": "True",
   "DFFlagJointSetC01Improvement": "True",
   "DFFlagMatrixFromEulerPerf": "True",
-  "DFFlagUseJointAnalytics": "True",
+  "DFFlagUseJointAnalytics": "False",
   "FFlagToolboxVideoTestUseLocalAudioFile": "True",
   "DFIntDSTelemetryUpdateV1Rollout": "100",
   "FFlagVideoPrintErrorLog": "True",
