@@ -262,7 +262,7 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntPlayerListUserProfileApiRollout_v2": "100",
   "FFlagUserSearchRealNamesEnabled_v1": "True",
-  "FIntExperienceChatUserProfileApiRollout_v1": "0",
+  "FIntExperienceChatUserProfileApiRollout_v1": "100",
   "FFlagAppChatUserProfileApiEnabledForAll": "True",
   "FFlagPeopleListContextualMenuUserProfileApiEnabledForAll": "True",
   "FIntFriendsLandingUserProfileApiRollout": "100",

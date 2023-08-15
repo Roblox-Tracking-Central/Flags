@@ -6750,6 +6750,7 @@
   "FFlagSimpleTabFontStyle": "True",
   "FFlagToolboxStartUGCBundleValidationInInit": "True",
   "DFFlagRemoveStudioOnlyToolDependencies_Rollout": "True;60;2023-08-15T19:33:16",
+  "FFlagUpgradeExpChatV4_1_4": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
