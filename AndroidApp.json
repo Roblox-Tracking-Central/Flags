@@ -38,7 +38,6 @@
   "FIntLuaAppLoginRollout": "100",
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "False",
-  "DFIntPredictedOOMPercent": "10",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -48,6 +47,8 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "FFlagCLI56034": "True",
+  "DFIntPredictedOOMExitContinuePercent": "5",
+  "DFIntSessionTelemetryOSWarningMinimum": "5",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -67,8 +68,6 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
-  "DFFlagPredictedOOMAbs": "True",
-  "DFIntPredictedOOMAbsLimitFreeMB": "380",
   "FFlagEnableHarmonyV2API2": "False",
   "FFlagIntegrityCheckedProcessorUsePerfControlV2Api2": "False",
   "FFlagSingleAndDualSurfaceAppUsePerfControlV2Api2": "False",
@@ -310,10 +309,9 @@
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "DFIntPredictedOOMAbsLimitOSMB": "16384",
   "FFlagTeardownInSingleSurface": "True",
   "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
+  "FFlagProfilePeekViewAliasTooltip_v2": "True",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222",
-  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
-  "FFlagProfilePeekViewAliasTooltip_v2": "True"
+  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222"
 }
