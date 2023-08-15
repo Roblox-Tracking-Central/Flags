@@ -48,7 +48,6 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "FFlagCLI56034": "True",
-  "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -273,6 +272,6 @@
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
   "FFlagProfilePeekViewAliasTooltip_v2": "True",
-  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237",
-  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237"
+  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222",
+  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222"
 }
