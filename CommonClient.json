@@ -6758,6 +6758,7 @@
   "DFFlagStoreOutputDeviceSelection": "True",
   "DFFlagInferredMobileSuccess": "True",
   "FFlagUseRuntimeConfigForFlipProfilerFrame_Rollout": "True;60;2023-08-15T22:23:27",
+  "FFlagEnableQuickOpenActionsAction_Rollout": "True;28;2023-08-15T22:25:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
