@@ -309,7 +309,7 @@
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "FFlagTeardownInSingleSurface": "True",
+  "FFlagTeardownInSingleSurface": "False",
   "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
   "FFlagProfilePeekViewAliasTooltip_v2": "True",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222",
