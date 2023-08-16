@@ -206,7 +206,7 @@
   "DFLogMaxJoinDataSizeKB": "20",
   "DFLogPartStreamingRequests": "0",
   "DFLogPartStreamingRequests_PlaceFilter": "6;2291717546;2623652930;3027055174;7027922660;9133022367;6510504476;9338517646",
-  "DFLogSessionCrypto": "333",
+  "DFLogSessionCrypto": "0",
   "DFLogSoundCheckResult": "4",
   "DFLogTrackTeamCreateSaveMD5HashOutput": "6",
   "DFStringAdditionalBlacklistHeaders": "SOAPAction",
