@@ -311,6 +311,6 @@
   "FFlagTeardownInSingleSurface": "False",
   "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
   "FFlagProfilePeekViewAliasTooltip_v2": "True",
-  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222",
-  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222"
+  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",
+  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542"
 }
