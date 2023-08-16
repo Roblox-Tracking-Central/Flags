@@ -305,7 +305,7 @@
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "EnableAndroidRealtimeProtocolRollout": "5",
+  "EnableAndroidRealtimeProtocolRollout": "15",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "FFlagTeardownInSingleSurface": "False",
