@@ -82,7 +82,6 @@
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
   "FFlagAXGridRefactorForWidgets3": "True",
   "FFlagEnableCatalogWidgets3": "True",
-  "FFlagSafeDataModelDestroy": "True",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "False",
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagAvatarChatServiceEnabled3": "True",

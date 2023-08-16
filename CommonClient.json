@@ -5729,6 +5729,7 @@
   "DFFlagSkipNullItemsProcessing": "True",
   "DFFlagAddAdditionalTagsEventIngest2": "True",
   "FFlagVector2MinMaxDefinitions": "True",
+  "FFlagSafeDataModelDestroy": "True",
   "DFFlagNotifyUnderLockAdditional": "True",
   "FFlagEnableBacktraceForXboxAppShell": "True",
   "FFlagSetFilterButtonDefaultChild": "True",
