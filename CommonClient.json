@@ -6538,7 +6538,7 @@
   "FFlagVoiceBanPromptShowSeconds": "True",
   "FFlagEnableMenuModernizationABTest": "True",
   "FFlagEnableMenuModernizationABTest2": "True",
-  "FFlagWriteRbxthumbsIntoStore": "True",
+  "FFlagWriteRbxthumbsIntoStore": "False",
   "FFlagUseLegacyContentTableInFontProvider": "True",
   "FFlagLuaAppUnifyAppGameTile": "True",
   "FFlagLuaAppUnifyAppGameTileHoverState": "True",
