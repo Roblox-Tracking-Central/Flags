@@ -181,6 +181,7 @@
   "FIntRuntimeMaxNumOfMutexes": "512",
   "FIntRuntimeMaxNumOfSchedulers": "512",
   "FIntRuntimeMaxNumOfThreads": "512",
+  "FFlagStudioFindReplaceScrollHistoryChangeRefreshesResults_Rollout": "True;60;2023-08-17T16:47:30",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
