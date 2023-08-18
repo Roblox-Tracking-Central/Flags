@@ -87,7 +87,6 @@
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
-  "FFlagReportFpsAndGfxQualityPercentiles_Rollout": "True;60;2023-08-18T17:43:49",
   "DFFlagLockViolationScriptCrash": "True",
   "DFIntConnectionMTUSize": "1200",
   "DFIntContentProviderReportBlockedRequestsRate": "500",

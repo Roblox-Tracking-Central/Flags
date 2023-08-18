@@ -87,7 +87,6 @@
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1d\u0022, \u0022pos\u0022:[1, -56, 0, 10], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2d\u0022, \u0022pos\u0022:[1, -100, 0, 10], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a4d\u0022, \u0022pos\u0022:[1, -418, 0, 10], \u0022size\u0022:[0, 406, 0, 48]}, {\u0022id\u0022:\u0022a5d\u0022, \u0022pos\u0022:[0.5, -102, 0, 10], \u0022size\u0022:[0, 202, 0, 48]}]",
   "DFIntReportUIOcclusionRectQuery": "2",
-  "FFlagReportFpsAndGfxQualityPercentiles_Rollout": "True;60;2023-08-18T17:43:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

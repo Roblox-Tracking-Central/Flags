@@ -273,7 +273,6 @@
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
-  "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedAndroid",
   "EnableSdk33PostNotifications": "True",
   "FFlagShouldHandleNotificationSettingChanged": "True",

@@ -240,7 +240,6 @@
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "False",
-  "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "DFFlagDebugSendTDigestDebugInfo2": "True",
