@@ -6889,6 +6889,8 @@
   "FFlagMacUseUpdateController2": "True",
   "DFFlagSimAlignPositionFixTargetVelocityClamp": "True",
   "FFlagEnableTagsTelemetry": "True",
+  "FFlagAvatarJointUpgrade": "False",
+  "FFlagAvatarJointUpgrade_PlaceFilter": "True;11571326476;5828997002",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
