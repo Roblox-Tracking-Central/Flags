@@ -80,8 +80,6 @@
   "FFlagAvatarChatServiceEnabled2": "True",
   "FFlagAvatarChatCoreScriptSupport6": "True",
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "10",
-  "FFlagAXGridRefactorForWidgets3": "True",
-  "FFlagEnableCatalogWidgets3": "True",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagAvatarChatServiceEnabled3": "True",
