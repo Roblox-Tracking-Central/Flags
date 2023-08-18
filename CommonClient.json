@@ -6891,6 +6891,7 @@
   "FFlagEnableTagsTelemetry": "True",
   "FFlagAvatarJointUpgrade": "False",
   "FFlagAvatarJointUpgrade_PlaceFilter": "True;11571326476;5828997002",
+  "FFlagFFlagUserProfileTurnCacheBackOn": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
