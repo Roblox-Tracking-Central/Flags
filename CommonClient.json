@@ -6955,6 +6955,8 @@
   "FFlagLuauIndentTypeMismatch": "True",
   "FFlagOpenXrLifeCycleManagement": "True",
   "FFlagRtlTextSupportDefaultIsEnabled": "True",
+  "FFlagEnableResetScaleButton_Rollout": "True;60;2023-08-21T22:39:16",
+  "FFlagSmoothRegionTurnOffSanityCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
