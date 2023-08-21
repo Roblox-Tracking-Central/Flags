@@ -6906,6 +6906,8 @@
   "DFFlagCheckInvokePathUse_Rollout": "True;60;2023-08-21T17:14:29",
   "FFlagEnableOOMMessageBoxSessionThrottle_Rollout": "True;60;2023-08-21T17:26:03",
   "DFFlagParentRequireCountFix_Rollout": "True;60;2023-08-21T17:30:53",
+  "FFlagRenderPerformanceTelemetry1_Rollout": "True;30;2023-08-21T17:34:57",
+  "FFlagSessionTrackingUseMapFields_Rollout": "True;60;2023-08-21T17:40:42",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
