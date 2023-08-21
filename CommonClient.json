@@ -6924,6 +6924,7 @@
   "FFlagDraggerHandleTinyPartsBetter": "True",
   "DFIntTrackingGcStatsHundredths": "100",
   "FFlagDraggerSlightlyOffgridFix": "True",
+  "FFlagEnableWindControlRBXTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
