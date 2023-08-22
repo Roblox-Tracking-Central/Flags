@@ -6968,6 +6968,7 @@
   "FFlagCOLLAB3917RemoveOnPlacePublishedToDifferentSlotLegacyLock_Rollout": "True;60;2023-08-22T19:16:40",
   "FFlagCOLLAB3971RemoveWaitForLongProcessInPlacePublish_Rollout": "True;60;2023-08-22T19:17:10",
   "FFlagWireNoThrowSetters_Rollout": "True;60;2023-08-22T19:23:46",
+  "DFFlagSoundDspShutdownOrdering_Rollout": "True;60;2023-08-22T19:25:04",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
