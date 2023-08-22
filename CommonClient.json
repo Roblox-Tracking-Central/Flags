@@ -6943,7 +6943,7 @@
   "FFlagOffCenterOriginImporterGltf": "True",
   "FFlagResetRotations2": "True",
   "FFlagMaterialGeneratorAnalyticsImprovements": "True",
-  "FFlagExploreApiSortContentsMigration2": "True",
+  "FFlagExploreApiSortContentsMigration2": "False",
   "FFlagSimCSGV3PrimitiveNameOutOfBoundFix": "True",
   "FFlagPrepTerrainToolsForDraggerImprovements": "True",
   "FFlagLuauIndentTypeMismatch": "True",
