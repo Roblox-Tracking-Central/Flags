@@ -6994,6 +6994,7 @@
   "FFlagFixStylizerUse2": "True",
   "FFlagDevFrameworkStopDiggingIntoRoactInternals": "True",
   "FFlagLuaAppFixSelectionCursor": "True",
+  "FFlagLuaAppMigrateSeeAllImpressions3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
