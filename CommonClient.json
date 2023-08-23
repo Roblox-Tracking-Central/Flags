@@ -7005,6 +7005,8 @@
   "FFlagGltfAnimationFixes": "True",
   "FFlagGltfDontAlterTranslationOnZeroRotation": "True",
   "FFlagRemoveOrderAssumptionInRemoveUnusedJoints": "True",
+  "FFlagGamesSearchOmniFeedPaddingFix2": "True",
+  "FFlagSearchResultsOmnificationIXP": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
