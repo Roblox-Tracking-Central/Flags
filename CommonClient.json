@@ -6990,6 +6990,7 @@
   "DFFlagSuperSafeChatStats": "True",
   "DFFlagStreamingSolverServerSkipCountStuff": "True",
   "FFlagFixMaxCharacterLimitLogging": "True",
+  "FFlagFixReportMenu": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
