@@ -6952,7 +6952,6 @@
   "FFlagSmoothRegionTurnOffSanityCheck": "True",
   "DFFlagClientLightingTechnologyChangedTelemetryTrackTimeSpent": "True",
   "DFFlagUnlimitTrussLengthDM": "True",
-  "FFlagEnableResetScaleButton": "True",
   "DFFlagTrackingGcStats": "True",
   "DFFlagWorkspaceSkipBounds": "True",
   "DFFlagFlagRolloutTestDynamicBool9": "false",
