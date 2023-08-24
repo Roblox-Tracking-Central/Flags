@@ -292,7 +292,7 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "EnableAndroidRealtimeProtocol": "True",
-  "EnableAndroidRealtimeProtocolRollout": "100",
+  "EnableAndroidRealtimeProtocolRollout": "0",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagTeardownInSingleSurface": "False",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",

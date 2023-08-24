@@ -258,7 +258,7 @@
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
-  "FIntEnableiOSRealtimeProtocolRollout": "50",
+  "FIntEnableiOSRealtimeProtocolRollout": "0",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True"
 }
