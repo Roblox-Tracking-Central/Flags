@@ -73,6 +73,7 @@
   "FFlagTextureManagerUsePerfControlV2Api2": "False",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "0",
+  "FIntEnableCullableScene2HundredthPercent2": "000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
   "FFlagAXGridRefactorForWidgets2": "False",
   "FFlagEnableCatalogWidgets2": "False",
