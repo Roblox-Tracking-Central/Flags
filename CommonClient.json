@@ -7031,6 +7031,7 @@
   "FFlagAttachIssuerIdToAuthRequests": "True",
   "DFFlagAudioGraphStringAppend": "True",
   "FFlagUseConstantBufferViewsDurango": "True",
+  "FFlagEnableSoundTelemetry2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
