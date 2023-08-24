@@ -261,5 +261,5 @@
   "FIntEnableiOSRealtimeProtocolRollout": "50",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
-  "FFlagGpuGeometryManager5_Rollout": "True;60;2023-08-23T22:53:37"
+  "FFlagGpuGeometryManager5": "True"
 }
