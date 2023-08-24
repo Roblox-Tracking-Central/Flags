@@ -7059,6 +7059,8 @@
   "FFlagSurfaceGuiMaxDistance": "True",
   "FFlagFaceChatSelfieViewShowOutlinedMicrophoneWhenIdle": "True",
   "FFlagPWDeprecateOldPopupLaunchEditor2_Rollout": "True;60;2023-08-24T20:22:28",
+  "FFlagFixRichTextUpdateFont3_Rollout": "True;60;2023-08-24T20:25:40",
+  "DFFlagStudioUploadVideoWithEncryption": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
