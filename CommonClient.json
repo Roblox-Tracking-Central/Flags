@@ -7086,6 +7086,7 @@
   "DFFlagHttpServiceInternalUrlWhitelistEnabled": "True",
   "DFFlagReportHttpServiceUsagetoEventStreamV2": "True",
   "DFStringHttpServiceInternalUrlWhitelist": "https://economy.roblox.com/v1/game-pass/{pass-id}/game-pass-product-info,https://catalog.roblox.com/v1/search/items/details",
+  "DFIntCSGV3NodeOperationMetricsHundredthsPercentage": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
