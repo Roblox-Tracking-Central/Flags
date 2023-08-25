@@ -7087,6 +7087,8 @@
   "DFStringHttpServiceInternalUrlWhitelist": "https://economy.roblox.com/v1/game-pass/{pass-id}/game-pass-product-info,https://catalog.roblox.com/v1/search/items/details",
   "DFIntCSGV3NodeOperationMetricsHundredthsPercentage": "100",
   "RefactorExperienceSession": "False",
+  "DFFlagSimSolverOptimizedNanInfDetection_Rollout": "True;60;2023-08-25T17:27:51",
+  "DFIntDSTelemetryGroupFiveRollout_Rollout": "10;5;2023-08-25T17:29:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
