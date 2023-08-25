@@ -5836,7 +5836,7 @@
   "FFlagAppsFlyerUDL": "True",
   "FFlagAddMemoryCategoryToTaskQueue": "True",
   "FFlagAssetProxyRedirectOnlyLocalAssets": "True",
-  "FStringFeature_AndroidRestartAfterProcDeathEnabled": "581;0",
+  "FStringFeature_AndroidRestartAfterProcDeathEnabled": "591;100",
   "DFFlagPlayerGuiOverlayCustomStatus": "True",
   "FFlagAICOFixCommitableIndicator": "True",
   "FFlagCOLLAB3769FixStudioHang": "True",
