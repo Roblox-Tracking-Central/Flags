@@ -7100,6 +7100,7 @@
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "True",
   "FFlagMacMoveLaunchTimeExpLaunchBegin": "True",
   "FFlagWinMoveLaunchTimeExpLaunchBegin": "True",
+  "FFlagUGCValidateCageUVTriangleArea": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
