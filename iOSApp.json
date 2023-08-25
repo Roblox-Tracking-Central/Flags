@@ -262,5 +262,6 @@
   "FFlagEnableiOSRealtimeProtocol": "True",
   "FIntEnableiOSRealtimeProtocolRollout": "0",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
-  "FFlagEnableIOSAutofillPhoneNumber": "True"
+  "FFlagEnableIOSAutofillPhoneNumber": "True",
+  "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS"
 }
