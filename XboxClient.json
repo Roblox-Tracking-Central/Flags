@@ -89,6 +89,7 @@
   "DFIntReportUIOcclusionRectQuery": "2",
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
+  "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
   "DFLogSoundTrace": "4",

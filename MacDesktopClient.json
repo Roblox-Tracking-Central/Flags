@@ -89,6 +89,7 @@
   "DFIntReportUIOcclusionRectQuery": "2",
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
+  "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
