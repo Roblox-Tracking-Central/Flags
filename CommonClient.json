@@ -7142,6 +7142,8 @@
   "FFlagDeferResourceDeletesGL_Rollout": "True;60;2023-08-28T21:02:56",
   "DFFlagSoundSanitizeCFrames_Rollout": "True;60;2023-08-28T21:07:05",
   "DFFlagDSTelemetryPublishStdOutAllApis_Rollout": "True;30;2023-08-28T21:09:47",
+  "DFFlagOnlyStopRecordingIfSucceeded_Rollout": "True;60;2023-08-28T21:30:53",
+  "DFFlagSessionTelemetryTeleport2_Rollout": "True;60;2023-08-28T21:38:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
