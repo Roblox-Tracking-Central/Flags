@@ -185,7 +185,7 @@
   "DFFlagAUMProperty": "True",
   "FFlagRemapR6Animation2": "True",
   "FFlagStudioPropagateBreakpointsWhenAddedOnOriginalScripts": "True",
-  "DFFlagReportDisconnectToEventIngestAndPoints_Rollout": "True;60;2023-08-28T16:03:08",
+  "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
