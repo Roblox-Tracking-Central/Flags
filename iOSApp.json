@@ -264,5 +264,6 @@
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
-  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222"
+  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
+  "DFFlagReportDisconnectToEventIngestAndPoints_Rollout": "True;60;2023-08-28T16:03:08"
 }
