@@ -190,5 +190,6 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
-  "DFFlagSkipRenderEventInShutdown": "True"
+  "DFFlagSkipRenderEventInShutdown": "True",
+  "FFlagDebugDisableSpatialGridOptimizeStep_Rollout": "True;30;2023-08-28T21:46:03"
 }
