@@ -191,5 +191,5 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagDebugDisableSpatialGridOptimizeStep_Rollout": "True;30;2023-08-28T21:46:03"
+  "FFlagDebugDisableSpatialGridOptimizeStep": "True"
 }
