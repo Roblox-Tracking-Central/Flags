@@ -7178,6 +7178,8 @@
   "FFlagDisableHotStartOnWindows_Rollout": "True;60;2023-08-29T23:01:08",
   "DFFlagGameLdrPerformanceReportSwitchEnabled_Rollout": "True;30;2023-08-29T23:34:52",
   "MaquettesForcedUpgradeFix": "True",
+  "FFlagUGCValidateMeshTriangleAreaForCages": "False",
+  "FFlagUGCValidateMeshTriangleAreaForMeshes": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
