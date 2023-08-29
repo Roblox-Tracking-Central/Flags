@@ -265,5 +265,7 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
-  "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True"
+  "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
+  "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
+  "FFlagEnableIOSAutofillPhoneNumber_Rollout": "True;60;2023-08-29T18:42:02"
 }
