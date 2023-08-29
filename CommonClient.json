@@ -7154,6 +7154,8 @@
   "DFFlagImprovedGCDeletionRateMetrics": "True",
   "DFFlagUseImprovedGCDeletionRate": "True",
   "DFFlagOptimizeMidphaseCollisions_Rollout": "True;60;2023-08-29T16:09:49",
+  "FFlagLuaAppEnableToastNotificationsForMobileCoreScript2": "True",
+  "FFlagTrackAllDeviceMemory9_Rollout": "True;60;2023-08-29T16:30:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
