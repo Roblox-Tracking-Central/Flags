@@ -82,7 +82,6 @@
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagUserIsChatTranslationEnabled": "False",
-  "DFFlagDataModelDestroyAsAsyncTask": "True",
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
