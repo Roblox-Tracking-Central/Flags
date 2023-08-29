@@ -7165,6 +7165,8 @@
   "FFlagEnableCompensatingScrollingFrame": "True",
   "FFlagToolboxFixTimeFiltering": "True",
   "FStringAerodynamicsBetaFeatureUrl": "https://devforum.roblox.com/t/introducing-aerodynamic-forces-beta/2569269",
+  "FFlagDevFrameworkStopDiggingIntoRoactInternals": "True",
+  "FFlagVRFreeUIPanel": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
