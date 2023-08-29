@@ -31,7 +31,7 @@
   "FFlagClearCachedChannelOnLaunchZFlagOnly": "True",
   "FFlagWindowsBootstrapperStaticCdn": "True",
   "FFlagMacBootstrapperStaticCdn": "True",
-  "FFlagMacOSInstallerUseStaticCdn": "False",
+  "FFlagMacOSInstallerUseStaticCdn": "True",
   "DFFlagDeeplinkShouldPassToExistingClient": "True",
   "FFlagWinBootstrapperVistaToolRemoval": "True",
   "FFlagBootstrapperHasSeparatedPkgManifest": "True",

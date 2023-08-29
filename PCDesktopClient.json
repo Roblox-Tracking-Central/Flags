@@ -84,7 +84,7 @@
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1d\u0022, \u0022pos\u0022:[1, -56, 0, 10], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2d\u0022, \u0022pos\u0022:[1, -100, 0, 10], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a4d\u0022, \u0022pos\u0022:[1, -418, 0, 10], \u0022size\u0022:[0, 406, 0, 48]}, {\u0022id\u0022:\u0022a5d\u0022, \u0022pos\u0022:[0.5, -102, 0, 10], \u0022size\u0022:[0, 204, 0, 48]}, {\u0022id\u0022:\u0022a5dl\u0022, \u0022pos\u0022:[0.5, -305, 0, 10], \u0022size\u0022:[0, 204, 0, 48]}]",
-  "DFIntReportUIOcclusionRectQuery": "2",
+  "DFIntReportUIOcclusionRectQuery": "100",
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
@@ -190,6 +190,5 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagDebugDisableSpatialGridOptimizeStep": "True",
-  "DFIntReportUIOcclusionRectQuery_Rollout": "100;30;2023-08-29T22:27:45"
+  "FFlagDebugDisableSpatialGridOptimizeStep": "True"
 }
