@@ -7171,6 +7171,8 @@
   "FFlagWhitelistCoreGuiTextBoxesFromUnverifiedCheck": "True",
   "FFlagToolboxFixTimeFiltering": "True",
   "FFlagDevFrameworkStopDiggingIntoRoactInternals": "True",
+  "FFlagConstantGamepadScrolling": "True",
+  "FFlagGamepadScrollingPlaysNiceWithMouse": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
