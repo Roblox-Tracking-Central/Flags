@@ -303,5 +303,6 @@
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
-  "DFFlagSkipRenderEventInShutdown": "True"
+  "DFFlagSkipRenderEventInShutdown": "True",
+  "DFIntReportUIOcclusionRectQuery_Rollout": "100;30;2023-08-29T22:27:45"
 }
