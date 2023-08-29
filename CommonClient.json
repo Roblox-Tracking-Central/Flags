@@ -7142,7 +7142,7 @@
   "DFFlagDSTelemetryPublishStdOutAllApis": "True",
   "FFlagLuauPCallDebuggerFix": "True",
   "DFFlagSoundSanitizeCFrames": "True",
-  "DFFlagEnableDestroyedAdSlotFiltering": "True",
+  "DFFlagEnableDestroyedAdSlotFiltering": "False",
   "FFlagUseRbxthumbForLocalThumbnailUrls3": "True",
   "DFFlagOnlyStopRecordingIfSucceeded": "True",
   "DFFlagSessionTelemetryTeleport2": "True",
