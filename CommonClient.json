@@ -7195,6 +7195,8 @@
   "FFlagAppUpdateAdapterWithChannels_Rollout": "True;30;2023-08-30T18:36:31",
   "FFlagFastPhysicsSolverOptimization": "True",
   "DFFlagSignalFixLock": "True",
+  "DFFlagTextBoxServiceCheckTextFits_Rollout": "True;30;2023-08-30T18:45:53",
+  "FFlagSettingsMenuUseHardwareSafeArea": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
