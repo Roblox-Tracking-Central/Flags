@@ -93,6 +93,7 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
+  "FFlagUpdateCheckOnLogin": "True",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
   "DFIntHttpParallelLimit_RequestContentProvider": "0",
