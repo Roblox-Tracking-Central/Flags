@@ -303,5 +303,6 @@
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
-  "DFFlagSkipRenderEventInShutdown": "True"
+  "DFFlagSkipRenderEventInShutdown": "True",
+  "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True"
 }
