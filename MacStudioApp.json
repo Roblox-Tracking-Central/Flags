@@ -87,7 +87,6 @@
   "FStringStudioEmergencyMessageV4": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNTc3LjAuMSIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
-  "DFIntGameLdrPerformanceReportSwitch2_Rollout": "1;10;2023-08-30T16:31:01",
   "DFFlagLockViolationScriptCrash": "True",
   "DFIntConnectionMTUSize": "1200",
   "DFIntContentProviderReportBlockedRequestsRate": "500",

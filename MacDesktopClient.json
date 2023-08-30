@@ -87,7 +87,6 @@
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
-  "DFIntGameLdrPerformanceReportSwitch2_Rollout": "1;10;2023-08-30T16:31:01",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

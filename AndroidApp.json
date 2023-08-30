@@ -87,7 +87,6 @@
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
-  "DFIntGameLdrPerformanceReportSwitch2_Rollout": "1;10;2023-08-30T16:31:01",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
