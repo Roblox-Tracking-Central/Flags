@@ -7204,7 +7204,6 @@
   "FFlagTagEditorImprovements2": "True",
   "FFlagAppGameTileUnificationDUA2": "True",
   "FFlagStudioTeamCreateInitialConnectRetry": "True",
-  "FFlagLuauNativeCodegenBetaFeature": "True",
   "FFlagVideoServiceFixPermissionCheck": "True",
   "FFlagPropertiesWidgetWithoutDM2": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
