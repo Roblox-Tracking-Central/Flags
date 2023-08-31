@@ -7259,6 +7259,8 @@
   "FFlagStudioOpenAutoSavesIcon": "True",
   "FFlagDisconnectReasonPerConnection_Rollout": "True;60;2023-08-31T20:45:27",
   "FFlagStudioSetIdeDocFocusProxyTo3dView": "True",
+  "FFlagEnableUnifiedChatUpsell4": "True",
+  "FFlagEnableUnifiedChatUpsellIXP": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
