@@ -7271,6 +7271,7 @@
   "DFFlagFixComputedPrimaryPart": "True",
   "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTags_Rollout": "True;60;2023-09-01T16:12:26",
   "DFFlagMicroprofilerFixInvalidLabelDisplayed_Rollout": "True;60;2023-09-01T16:12:35",
+  "FFlagStudioDebuggerShowExceptionPopup_Rollout": "True;60;2023-09-01T16:49:46",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
