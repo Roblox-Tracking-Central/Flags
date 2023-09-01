@@ -192,6 +192,5 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "DFFlagHttpCacheTrackAllAssets": "True",
-  "FFlagEnableCullableSceneOctree2": "True"
+  "DFFlagHttpCacheTrackAllAssets": "True"
 }
