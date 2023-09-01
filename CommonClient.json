@@ -7277,6 +7277,7 @@
   "LinkingProtocolCleanUp": "True",
   "FFlagAXFixShoeAssetType": "True",
   "FFlagAinErrorForTextureOnAtt": "True",
+  "FFlagNavigationFixAVBURST12965": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
