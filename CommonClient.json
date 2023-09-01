@@ -6903,7 +6903,7 @@
   "FFlagDraggerFixGetGeometry": "True",
   "DFFlagOrientationNeverMinus180": "True",
   "FFlagAddPivotRibbonTool": "True",
-  "DFFlagEnableV2POCStat": "True",
+  "DFFlagEnableV2POCStat": "False",
   "FFlagAssetImportGltfApplyBindShapeScale": "True",
   "FFlagAssetImportGltfMeshJointAndSkinningSupport": "True",
   "FFlagDetectGltfScaleAndWeightAnimations": "True",
