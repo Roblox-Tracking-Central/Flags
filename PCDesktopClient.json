@@ -94,7 +94,7 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
-  "FFlagUpdateCheckOnLogin": "True",
+  "FFlagUpdateCheckOnLogin": "False",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
   "DFIntHttpParallelLimit_RequestContentProvider": "0",
@@ -192,5 +192,6 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "DFFlagHttpCacheTrackAllAssets": "True"
+  "DFFlagHttpCacheTrackAllAssets": "True",
+  "FFlagEnableCullableSceneOctree2_Rollout": "True;60;2023-09-01T17:56:35"
 }
