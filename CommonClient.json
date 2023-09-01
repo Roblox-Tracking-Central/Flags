@@ -7202,7 +7202,6 @@
   "FFlagAppGameTileUnificationDUA2": "True",
   "FFlagStudioTeamCreateInitialConnectRetry": "True",
   "FFlagVideoServiceFixPermissionCheck": "True",
-  "FFlagPropertiesWidgetWithoutDM2": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
   "FFlagVideoDownloadFailMetrics": "False",
   "DFFlagReportPongTimeDistribution": "True",
