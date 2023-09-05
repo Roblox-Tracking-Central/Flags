@@ -7305,6 +7305,7 @@
   "FFlagAddRobloxChannelToLuaBacktrace": "True",
   "FFlagLuaAppGameTileHoverDelay": "True",
   "FFlagSimIslandizerManager_Rollout": "True;60;2023-09-05T21:41:13",
+  "FFlagVRDisableAutomaticScalingOnHeadscale_Rollout": "True;60;2023-09-05T22:10:37",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
