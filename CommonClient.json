@@ -7284,6 +7284,8 @@
   "FFlagAssetManagerVideoPreviewFix": "True",
   "FFlagVideoSoundVolumeMetrics": "True",
   "FFlagVideoAssetPrivacyForPreview": "True",
+  "FFlagLuaAppUseCustomStackRouter": "True",
+  "FFlagAXGenerateSortAndFiltersKey": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
