@@ -55,5 +55,6 @@
   "enableDeveloperSubscriptionActivation": "false",
   "enableDeveloperSubscriptionDocAnchors": "false",
   "enableItemConfigResaleRestriction": "true",
-  "enableManualTranslationFeedback": "false"
+  "enableManualTranslationFeedback": "false",
+  "enableDocSiteLanguagePreference": "true"
 }

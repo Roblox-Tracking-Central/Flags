@@ -7295,6 +7295,7 @@
   "FFlagDisableSubmitButtonForValidationInInit": "True",
   "FFlagEmoteUtilityTweaks3": "True",
   "DFFlagSimAlignOrientationConstraintRemovalFix": "True",
+  "FFlagRigVisualizationMetrics_Rollout": "True;60;2023-09-05T20:23:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
