@@ -7297,6 +7297,7 @@
   "FFlagRigVisualizationFixJointSelection_Rollout": "True;60;2023-09-05T20:31:38",
   "DFFlagSetMainWindowFocusAfterClosingWebView": "True",
   "DFIntHttpCacheUnnecessaryWritesHundredthsPercent": "25",
+  "FFlagDelayedImmediateDisconnect_Rollout": "True;60;2023-09-05T21:21:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
