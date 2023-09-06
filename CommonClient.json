@@ -7327,6 +7327,7 @@
   "FFlagEnableUGCMissingPartsMessage": "True",
   "FFlagCLI83623": "True",
   "FFlagFixSingleSurfaceAndDualSurfaceTunableReset2": "True",
+  "FFlagPlayerSetCharacterAllowActors": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
