@@ -40,6 +40,7 @@
   "FFlagCloudsSunCover": "False",
   "DFIntPredictedOOMPercent": "5",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
+  "DFIntCrashReportingHundredthsPercentage": "10000",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
   "FFlagPreloadMinimalFonts": "True",
