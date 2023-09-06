@@ -195,8 +195,6 @@
   "FFlagShouldHandleWebviewJSCommandForDeepLinks": "True",
   "FFlagEnableDeeplinkLoggingPolicy": "True",
   "FFlagEnableLoggingInterceptor": "True",
-  "FFlagIAExperiencePanelFix": "True",
-  "FFlagIAExperimentation4": "True",
   "FFlagEnablePrefetchTimeout": "True",
   "FFlagiOSCopyEntryIndex": "False",
   "FFlagShouldTrackPNMetadataRetrievedAppState": "True",

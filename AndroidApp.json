@@ -230,8 +230,6 @@
   "DFFlagCLI59083": "True",
   "FFlagEnableDeeplinkLoggingPolicy": "True",
   "FFlagEnableLoggingInterceptor": "True",
-  "FFlagIAExperiencePanelFix": "True",
-  "FFlagIAExperimentation4": "True",
   "FFlagEnablePrefetchTimeout": "True",
   "DFFlagCLI61776b": "True",
   "DFIntCLI61776a": "10000",

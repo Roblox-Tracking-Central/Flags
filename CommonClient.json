@@ -7317,6 +7317,7 @@
   "FFlagVideoThreadPoolUseWaitForRunningTasksShutdownPolicy": "True",
   "FFlagRemoveQrCodeAppContent": "True",
   "FFlagSessionTelemetryClientQos": "True",
+  "FFlagHideAnimationSettingForGltf": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
