@@ -7318,6 +7318,8 @@
   "FFlagRemoveQrCodeAppContent": "True",
   "FFlagSessionTelemetryClientQos": "True",
   "FFlagHideAnimationSettingForGltf": "True",
+  "DFFlagStudioUploadVideoCutLfuFeatures": "True",
+  "FFlagAddRuntimeSourceProperty": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
