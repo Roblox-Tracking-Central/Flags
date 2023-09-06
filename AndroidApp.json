@@ -303,5 +303,6 @@
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True"
+  "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
+  "FFlagFixSessionTrackingSendSuccess2_Rollout": "True;30;2023-09-06T17:55:22"
 }
