@@ -7199,7 +7199,6 @@
   "DFFlagStudioVideoUploadPermissionErrorMessage": "True",
   "FFlagSocialTabReplaceSearchExperimentEnabled_v3": "True",
   "FFlagTagEditorImprovements2": "True",
-  "FFlagAppGameTileUnificationDUA2": "True",
   "FFlagStudioTeamCreateInitialConnectRetry": "True",
   "FFlagVideoServiceFixPermissionCheck": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
