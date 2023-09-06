@@ -7316,6 +7316,7 @@
   "FFlagSimLinearVelocityVectorForceLimit": "True",
   "FFlagVideoThreadPoolUseWaitForRunningTasksShutdownPolicy": "True",
   "FFlagRemoveQrCodeAppContent": "True",
+  "FFlagSessionTelemetryClientQos": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
