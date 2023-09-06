@@ -185,6 +185,7 @@
   "FFlagRemapR6Animation2": "True",
   "FFlagStudioPropagateBreakpointsWhenAddedOnOriginalScripts": "True",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
+  "FFlagLuauNativeCodegenBetaFeature": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -195,6 +196,5 @@
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-  "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FFlagLuauNativeCodegenBetaFeature": "True"
+  "FFlagTaskSchedulerUseRobloxRuntime": "True"
 }

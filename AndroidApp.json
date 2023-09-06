@@ -278,7 +278,7 @@
   "EnableSdk33PostNotifications": "True",
   "FFlagShouldHandleNotificationSettingChanged": "True",
   "EnablePushNotificationsPromptAndroid13": "True",
-  "DFFlagFixSessionTrackingSendSuccess": "False",
+  "DFFlagFixSessionTrackingSendSuccess": "True",
   "FFlagTerrainVTEnableRelease587Fix": "True",
   "FStringCapturesActivatedInGameMenu": "CapturesActivatedInGameMenuAndroid",
   "FStringCapturesCarouselOpened": "CapturesCarouselOpenedAndroid",
@@ -304,5 +304,5 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "FFlagFixSessionTrackingSendSuccess2_Rollout": "True;30;2023-09-06T17:55:22"
+  "FFlagFixSessionTrackingSendSuccess2": "True"
 }
