@@ -89,7 +89,6 @@
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
-  "DFFlagReportDisconnectToEventIngestAndPoints_Rollout": "True;60;2023-09-07T16:36:49",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
   "DFLogSoundTrace": "4",
