@@ -7328,6 +7328,7 @@
   "FFlagCLI83623": "True",
   "FFlagFixSingleSurfaceAndDualSurfaceTunableReset2": "True",
   "FFlagPlayerSetCharacterAllowActors": "False",
+  "FFlagCLI81941_Rollout": "True;30;2023-09-07T16:35:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
