@@ -7299,7 +7299,6 @@
   "FFlagRigVisualizationFixJointSelection": "True",
   "FFlagAddRobloxChannelToLuaBacktrace": "True",
   "FFlagLuaAppGameTileHoverDelay": "True",
-  "FFlagEnableMultigetExperienceThumbnails": "True",
   "FFlagUpdateSourceAsync": "True",
   "FFlagDelayedImmediateDisconnect": "True",
   "FFlagVoiceChatCheckAudioOutputFormat": "True",
