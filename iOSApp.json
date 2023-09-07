@@ -264,5 +264,6 @@
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
-  "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True"
+  "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
+  "FFlagFixSessionTrackingSendSuccess2_Rollout": "True;60;2023-09-07T16:47:50"
 }
