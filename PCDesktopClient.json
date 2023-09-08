@@ -190,6 +190,5 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagAddFontAtlasMipmaps": "True",
-  "DFFlagHttpCacheTrackAllAssets": "True"
+  "FFlagAddFontAtlasMipmaps": "True"
 }
