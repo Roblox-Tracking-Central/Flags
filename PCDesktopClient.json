@@ -170,8 +170,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagRealtimeIxpExperimentation": "False",
-  "FFlagUseRealtimePublisher": "True",
-  "FIntUseRealtimePublisherHundredthPercent": "10000",
+  "FFlagUseRealtimePublisher": "False",
+  "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
@@ -189,7 +189,6 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
-  "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True"
 }

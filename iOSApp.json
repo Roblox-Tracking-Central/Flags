@@ -260,7 +260,6 @@
   "FFlagEnableIOSAutofillPhoneNumber": "True",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
-  "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
