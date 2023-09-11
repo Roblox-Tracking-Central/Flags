@@ -85,6 +85,7 @@
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
+  "FFlagSingleAndDualSurfaceAppUsePerfControlV2Api2_Rollout": "True;30;2023-09-11T22:00:35",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
   "DFLogSoundTrace": "4",
