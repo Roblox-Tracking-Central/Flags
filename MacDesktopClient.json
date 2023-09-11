@@ -68,7 +68,6 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
-  "FFlagIntegrityCheckedProcessorUsePerfControlV2Api2": "True",
   "FFlagSingleAndDualSurfaceAppUsePerfControlV2Api2": "True",
   "FFlagTextureManagerUsePerfControlV2Api2": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
