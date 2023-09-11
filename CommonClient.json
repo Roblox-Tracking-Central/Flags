@@ -7433,6 +7433,7 @@
   "DFFlagStreamingDistanceTunableFixFlappingOfCurrentValue_Rollout": "True;30;2023-09-11T23:24:22",
   "DFFlagStreamingDistanceTunableAddFallbackForMinRegions_Rollout": "True;30;2023-09-11T23:24:27",
   "FFlagProfileMoveDetailContextAccess": "True",
+  "FFlagProfileMoveDetailIXPAccess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
