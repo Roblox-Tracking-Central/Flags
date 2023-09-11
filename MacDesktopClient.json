@@ -69,7 +69,6 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "FFlagSingleAndDualSurfaceAppUsePerfControlV2Api2": "True",
-  "FFlagTextureManagerUsePerfControlV2Api2": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -186,5 +185,5 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "FFlagMacUpdateAdapterUseInstaller1_Rollout": "True;60;2023-09-11T20:26:14"
+  "FFlagMacUpdateAdapterUseInstaller1": "True"
 }
