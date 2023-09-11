@@ -185,5 +185,6 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
   "FFlagMacUpdateAdapterUseInstaller1": "True",
-  "FFlagUpdateCheckOnLogin": "True"
+  "FFlagUpdateCheckOnLogin": "True",
+  "FFlagMacUpdateAdapter_Rollout": "True;30;2023-09-11T23:26:08"
 }
