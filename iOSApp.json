@@ -263,6 +263,6 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FFlagDoNotPauseLuaAppIfNotRunning_Rollout": "True;60;2023-09-11T15:58:44",
-  "FFlagFixSessionTrackingSendSuccess2_Rollout": "True;60;2023-09-11T16:22:38"
+  "FFlagFixSessionTrackingSendSuccess2_Rollout": "True;60;2023-09-11T16:22:38",
+  "FFlagDoNotPauseLuaAppIfNotRunning": "True"
 }
