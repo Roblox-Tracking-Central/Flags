@@ -116,11 +116,11 @@
   "FFlagRealtimeIxpExperimentation": "False",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FFlagUseRealtimePublisher": "True",
-  "FIntUseRealtimePublisherHundredthPercent": "80",
+  "FFlagUseRealtimePublisher": "False",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707"
+  "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+  "FIntUseRealtimePublisherHundredthPercent_Rollout": "0;30;2023-09-11T20:20:08"
 }

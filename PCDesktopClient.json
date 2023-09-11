@@ -190,5 +190,5 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "FFlagAppUpdateAdapterWithChannels_Rollout": "True;60;2023-09-11T19:08:49"
+  "FFlagAppUpdateAdapterWithChannels": "True"
 }
