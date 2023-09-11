@@ -186,5 +186,6 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagAddFontAtlasMipmaps": "True"
+  "FFlagAddFontAtlasMipmaps": "True",
+  "FFlagMacUpdateAdapterUseInstaller1_Rollout": "True;60;2023-09-11T20:26:14"
 }
