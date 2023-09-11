@@ -117,7 +117,7 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagUseRealtimePublisher": "True",
-  "FIntUseRealtimePublisherHundredthPercent": "90",
+  "FIntUseRealtimePublisherHundredthPercent": "80",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
