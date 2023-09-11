@@ -163,8 +163,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadMacClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadMacClient",
   "FFlagRealtimeIxpExperimentation": "False",
-  "FFlagUseRealtimePublisher": "True",
-  "FIntUseRealtimePublisherHundredthPercent": "10000",
+  "FFlagUseRealtimePublisher": "False",
+  "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
@@ -184,5 +184,6 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "FFlagMacUpdateAdapterUseInstaller1": "True"
+  "FFlagMacUpdateAdapterUseInstaller1": "True",
+  "FFlagUpdateCheckOnLogin": "True"
 }
