@@ -7449,6 +7449,8 @@
   "DFFlagSessionStartTimeUpdateMove_Rollout": "True;30;2023-09-12T20:43:41",
   "FFlagExposeOpenXrAPI1": "True",
   "DFFlagUseAeroInterpolatorTCMatrices2": "True",
+  "FFlagEnableAmpUpsellWizard": "True",
+  "FFlagSimAdaptiveFlagDelete_Rollout": "True;60;2023-09-12T21:03:15",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
