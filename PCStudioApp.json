@@ -187,6 +187,7 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
+  "FFlagEnablePerformanceControlStreamingDistance2_Rollout": "True;30;2023-09-12T20:45:51",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",

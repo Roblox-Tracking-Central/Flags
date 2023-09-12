@@ -259,5 +259,6 @@
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FFlagDoNotPauseLuaAppIfNotRunning": "True"
+  "FFlagDoNotPauseLuaAppIfNotRunning": "True",
+  "FFlagEnablePerformanceControlStreamingDistance2_Rollout": "True;30;2023-09-12T20:45:51"
 }
