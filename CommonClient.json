@@ -7468,6 +7468,8 @@
   "DFIntSimBroadPhaseMaxTotalPairCount": "1000000",
   "FFlagExplorerWidgetShiftClickNoDm": "True",
   "DFFlagSimModelLodAsync": "True",
+  "DFIntReportBroadPhasePairCountPercent_PlaceFilter": "100;333164326;10128144192",
+  "DFIntSimBroadPhaseMaxTotalPairCount_PlaceFilter": "10000;333164326;10128144192",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
