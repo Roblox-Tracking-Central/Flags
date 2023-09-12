@@ -84,6 +84,7 @@
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
+  "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",

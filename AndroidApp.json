@@ -84,6 +84,7 @@
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
+  "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
