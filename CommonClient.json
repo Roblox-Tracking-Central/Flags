@@ -7504,6 +7504,8 @@
   "DFIntDataStoreSameKeyWriteTimeoutSec_PlaceFilter": "60;8789237466",
   "FFlagSoundServiceUsePerfControlV2Api_Rollout": "True;60;2023-09-13T23:03:28",
   "FFlagGameSettingsAddFloatEqualityCheck": "True",
+  "FFlagStudioFeatureActivityTracker": "True",
+  "FFlagStudioFeatureActivityTrackerAllowEndNonExistentSession": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
