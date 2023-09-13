@@ -7363,7 +7363,6 @@
   "FFlagSimFixV1BallErrorAtSpecificPosition": "True",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSimSolverUseActualPivotsForConstraintAchievePositionPositionalCorrection": "True",
-  "FFlagSimConditionallyDisallowCreationOfConstraintsReferencingIdenticalBodiesViaTheStudioTool": "True",
   "FFlagSimRemoveEnumIkDragMultiSelectMode": "True",
   "FFlagSimRemoveIkDraggerAnchoredDragParts": "True",
   "FFlagCOLLAB4667RevertDMIdOnPublishAsFailure": "True",
