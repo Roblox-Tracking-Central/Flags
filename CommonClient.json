@@ -7499,6 +7499,8 @@
   "DFFlagEnablePerformanceControlSoundCache3_Rollout": "True;60;2023-09-13T22:27:10",
   "FFlagStudioHardwareSleepListenerComponent": "True",
   "FFlagStudioMainWindowComponent": "True",
+  "FFlagExplorerWidgetRootInstance_Rollout": "True;60;2023-09-13T22:40:06",
+  "FFlagDragDetectorDragStyleAndResponseStyleChangesTriggerRestart_Rollout": "True;60;2023-09-13T22:45:24",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
