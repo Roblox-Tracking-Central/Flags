@@ -14,6 +14,7 @@
   "FStringGraphicsVulkanBlacklist": "",
   "FStringStudioEmergencyMessageV3": "",
   "DFIntHardwareTelemetryHundredthsPercent": "50",
+  "FFlagMemoryPrioritizationEnabledForTextures": "False",
   "FIntUpsellAccountBalanceRetryAttemps": "10",
   "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
   "DFIntHttpCurlMaxConnectionsPerHost": "4",
