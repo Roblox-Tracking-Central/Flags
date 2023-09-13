@@ -182,6 +182,7 @@
   "FFlagStudioPropagateBreakpointsWhenAddedOnOriginalScripts": "True",
   "FFlagLuauNativeCodegenBetaFeature": "True",
   "FFlagReplaceCanManageWithAssetPermissionsCheck": "True",
+  "FFlagEnableInGameMenuChromeSignalAPI_Rollout": "True;60;2023-09-13T19:23:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
