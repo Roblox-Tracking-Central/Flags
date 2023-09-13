@@ -7471,6 +7471,8 @@
   "FFlagClearLatentPlaceLauncherUsage": "True",
   "FFlagStudioComponentizeUserPluginsModel": "True",
   "FFlagStudioShowWeldTooltip": "True",
+  "FFlagSimIslandizerManager_Rollout": "True;60;2023-09-13T19:26:57",
+  "FFlagCleanUpSeatWeld_Rollout": "False;60;2023-09-13T19:28:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
