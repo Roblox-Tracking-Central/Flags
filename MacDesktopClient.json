@@ -187,5 +187,5 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FFlagRefactorGuiRTCacheImpl_Rollout": "True;60;2023-09-12T23:21:13"
+  "FFlagRefactorGuiRTCacheImpl": "True"
 }
