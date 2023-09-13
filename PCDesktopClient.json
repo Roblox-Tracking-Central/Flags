@@ -62,7 +62,6 @@
   "FFlagPersistentPerPlayer": "True",
   "DFFlagCLI64234Metrics": "False",
   "FFlagMovePrerender": "False",
-  "FFlagGuiObjectSafeAreaBackgroundExtension": "True",
   "FFlagModelScale": "True",
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
