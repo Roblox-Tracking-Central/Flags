@@ -7532,6 +7532,7 @@
   "FFlagRemapR6Animation2_Rollout": "True;60;2023-09-14T19:19:45",
   "FFlagScriptEditorResetBatchChangesBugfix": "True",
   "FFlagSelfViewAdaptToScreenOrientationChange": "True",
+  "FFlagStudioEnableOnlineHelpStartPage": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
