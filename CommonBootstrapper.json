@@ -45,5 +45,6 @@
   "FFlagDeploymentHasMultipleFileTypes": "True",
   "FFlagDisableWindowsClientUpdateFromWebLaunch": "True",
   "FFlagMacChannelFromPathOnly": "True",
-  "FFlagMacInstallerStartClient": "True"
+  "FFlagMacInstallerStartClient": "True",
+  "FFlagMacInstallerVersionGuidParam": "True"
 }
