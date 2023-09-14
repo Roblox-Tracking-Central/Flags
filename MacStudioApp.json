@@ -179,8 +179,6 @@
   "FIntRuntimeMaxNumOfSchedulers": "512",
   "FIntRuntimeMaxNumOfThreads": "512",
   "FFlagStudioFindReplaceScrollHistoryChangeRefreshesResults": "True",
-  "DFFlagAUMProperty": "True",
-  "FFlagRemapR6Animation2": "True",
   "FFlagStudioPropagateBreakpointsWhenAddedOnOriginalScripts": "True",
   "FFlagLuauNativeCodegenBetaFeature": "True",
   "FFlagReplaceCanManageWithAssetPermissionsCheck": "True",
