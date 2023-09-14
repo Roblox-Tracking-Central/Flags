@@ -87,14 +87,13 @@
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringPerformanceControlIncludedTunables": "",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;30;2023-09-14T21:58:18",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMaxFilesToKeep": "7500",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
@@ -191,5 +190,6 @@
   "FFlagAddFontAtlasMipmaps": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagAppUpdateAdapterWithChannels": "True",
-  "FFlagRefactorGuiRTCacheImpl": "True"
+  "FFlagRefactorGuiRTCacheImpl": "True",
+  "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374"
 }

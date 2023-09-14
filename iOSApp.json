@@ -87,7 +87,7 @@
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "False",
-  "FStringPerformanceControlIncludedTunables": "",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": "5",
   "DFIntHttpCacheCleanMaxFilesToKeep": "7500",
@@ -264,6 +264,5 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
-  "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;30;2023-09-14T21:58:18"
+  "DFFlagSkipRenderEventInShutdown": "True"
 }
