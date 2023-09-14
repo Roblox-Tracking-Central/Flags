@@ -187,5 +187,6 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
   "FFlagUpdateCheckOnLogin": "True",
-  "FFlagAppUpdateAdapterWithChannels": "True"
+  "FFlagAppUpdateAdapterWithChannels": "True",
+  "FFlagRefactorGuiRTCacheImpl_Rollout": "True;60;2023-09-14T21:04:52"
 }
