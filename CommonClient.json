@@ -7465,7 +7465,6 @@
   "DFIntReportBroadPhasePairCountPercent_PlaceFilter": "100;333164326;10128144192",
   "DFIntSimBroadPhaseMaxTotalPairCount_PlaceFilter": "10000;333164326;10128144192",
   "FFlagIOSSendAsymmetricSafeInsets": "True",
-  "FFlagFlagRolloutTestStaticBool2": "True",
   "FFlagClearLatentPlaceLauncherUsage": "True",
   "FFlagStudioComponentizeUserPluginsModel": "True",
   "FFlagStudioShowWeldTooltip": "True",
@@ -7513,10 +7512,15 @@
   "FFlagTrackSessionTags": "True",
   "DFIntDataStoreInitialBudget_PlaceFilter": "2000;8789237466",
   "FFlagUseDesignSystemGamepadIcons3": "True",
-  "FFlagTextureReloadFix3_Rollout": "True;60;2023-09-14T16:13:24",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438",
   "DFFlagVisualizeNonAnchoredParts_Rollout": "True;60;2023-09-14T16:32:41",
+  "DFFlagSensorSkipIfManual_Rollout": "True;60;2023-09-14T17:01:38",
+  "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-09-14T17:12:45",
+  "FFlagPlaceManagerOpenPlace2": "True",
+  "FFlagEnableEnableToastSession": "True",
+  "FFlagGameSettingsFixPermissionsSelection": "True",
+  "FFlagTextureReloadFix3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7677,6 +7681,5 @@
   "StartPageUrl": "/ide/welcome",
   "VideoPreRollWaitTimeSeconds": "45",
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
-  "DFFlagRenderTC2_6": "False",
-  "FFlagGpuGeometryManager7_Rollout": "True;60;2023-09-14T16:50:24"
+  "DFFlagRenderTC2_6": "False"
 }
