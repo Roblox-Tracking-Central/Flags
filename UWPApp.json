@@ -88,6 +88,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringPerformanceControlIncludedTunables": "None",
+  "FFlagMemoryPrioritizationEnabledForTextures_Rollout": "True;30;2023-09-14T22:53:33",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMaxFilesToKeep": "7500",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",

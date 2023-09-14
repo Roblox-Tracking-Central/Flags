@@ -88,6 +88,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+  "FFlagMemoryPrioritizationEnabledForTextures_Rollout": "True;30;2023-09-14T22:53:33",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
