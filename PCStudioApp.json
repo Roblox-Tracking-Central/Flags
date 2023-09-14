@@ -187,7 +187,7 @@
   "FFlagEnableInGameMenuChromeSignalAPI": "True",
   "FFlagStudioHideSizeGrip": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FFlagStudioFixSchroedingerLogin_Rollout": "True;60;2023-09-14T17:15:56",
+  "FFlagStudioFixSchroedingerLogin": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
