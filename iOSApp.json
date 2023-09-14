@@ -77,9 +77,11 @@
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "10",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagUserIsChatTranslationEnabled": "False",
+  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "True",
   "FFlagEnableLocationRecording": "False",
   "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1m\u0022, \u0022pos\u0022:[1, -56, 0, 4], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2m\u0022, \u0022pos\u0022:[1, -100, 0, 4], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a3m\u0022, \u0022pos\u0022:[0, 0, 0, 4], \u0022size\u0022:[1, 0, 0, 48]}, {\u0022id\u0022:\u0022a4m\u0022, \u0022pos\u0022:[1, -418, 0, 4], \u0022size\u0022:[0, 406, 0, 48]}]",
   "DFIntReportUIOcclusionRectQuery": "100",
+  "FFlagLuaAppEnableToastNotifications4": "True",
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
@@ -262,5 +264,6 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
-  "DFFlagSkipRenderEventInShutdown": "True"
+  "DFFlagSkipRenderEventInShutdown": "True",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;30;2023-09-14T21:58:18"
 }
