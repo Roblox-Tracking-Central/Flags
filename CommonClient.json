@@ -7677,5 +7677,6 @@
   "StartPageUrl": "/ide/welcome",
   "VideoPreRollWaitTimeSeconds": "45",
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
-  "DFFlagRenderTC2_6": "False"
+  "DFFlagRenderTC2_6": "False",
+  "FFlagGpuGeometryManager7_Rollout": "True;60;2023-09-14T16:50:24"
 }
