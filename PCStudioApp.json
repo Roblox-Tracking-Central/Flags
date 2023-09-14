@@ -197,5 +197,5 @@
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FFlagStudioPrivateChannelSupport_Rollout": "True;30;2023-09-14T23:09:54"
+  "FFlagStudioPrivateChannelSupport": "True"
 }
