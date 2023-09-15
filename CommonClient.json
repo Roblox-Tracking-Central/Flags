@@ -7547,6 +7547,7 @@
   "DFIntDynamicFastVariableReloaderTest3": "34",
   "DFIntDynamicFastVariableReloaderTest3_DataCenterFilter": "35;380",
   "DFFlagControllerManagerWakeOnPropChange": "True",
+  "FFlagUserVRTorsoEstimation": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
