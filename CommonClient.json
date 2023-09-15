@@ -7550,6 +7550,8 @@
   "FFlagVideoFixStudioGreyScreen2": "True",
   "FFlagVideoFixTempPlaceDownloadCheck": "True",
   "FFlagToolboxMigrateCreatorLabelAndPillToRoact17": "True",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2023-09-15T21:37:34",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2023-09-15T21:38:47",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
