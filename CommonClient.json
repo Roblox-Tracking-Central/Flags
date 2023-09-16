@@ -5959,7 +5959,7 @@
   "DFFlagReportOSInRakNetHighwaterMark": "True",
   "DFFlagInitDataModelLater2": "False",
   "FFlagWin32EarlyInitWebProtocol": "True",
-  "DFFlagIncludeAndroidAdviceAPIFreeOsMemForComparisonForSessionTracking2": "True",
+  "DFFlagIncludeAndroidAdviceAPIFreeOsMemForComparisonForSessionTracking2": "False",
   "DFFlagUseAndroidMemoryAdviceLibrary2": "True",
   "DFIntAndroidAdviceChohortHundredthsPercent": "10000",
   "FFlagExplorerSafeStudioPMAccess": "True",
