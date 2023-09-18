@@ -187,6 +187,7 @@
   "FFlagStudioHideSizeGrip": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
   "FFlagStudioFixSchroedingerLogin": "True",
+  "FFlagStudioAutoLoginResurrectedUsers_Rollout": "True;60;2023-09-18T16:24:48",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
