@@ -7553,7 +7553,7 @@
   "DFFlagTaskLibWarnWithCallstack_Rollout": "True;60;2023-09-18T18:27:13",
   "FFlagToolboxIconTileRedesign2": "True",
   "FFlagFixSessionTrackingDoubleReporting_Rollout": "True;30;2023-09-18T18:46:09",
-  "FStringRenderIGGPUBlacklist_Rollout": "Intel;5;2023-09-18T18:48:22",
+  "FStringRenderIGGPUBlacklist": "Intel",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
