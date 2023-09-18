@@ -7564,7 +7564,7 @@
   "FFlagModelLodStats_Rollout": "True;60;2023-09-18T23:04:04",
   "FFlagPerformanceControlTextureManagerIXPEnabled5": "True",
   "DFFlagUseNetworkIxpLog": "True",
-  "FFlagHandleDoubleCloseEvent_Rollout": "True;1;2023-09-18T23:15:51",
+  "FFlagHandleDoubleCloseEvent": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
