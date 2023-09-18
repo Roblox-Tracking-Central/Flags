@@ -87,6 +87,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringPerformanceControlIncludedTunables": "None",
+  "DFFlagAUMPAnalytics_Rollout": "False;60;2023-09-18T23:37:04",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMaxFilesToKeep": "4000",
   "DFIntHttpCacheCleanMinFilesRequired": "5000",
@@ -120,5 +121,5 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "DFIntHttpCacheRetryCount_Rollout": "5000;60;2023-09-18T22:39:38"
+  "DFIntHttpCacheRetryCount": "5000"
 }

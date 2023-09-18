@@ -7003,7 +7003,6 @@
   "DFFlagAudioGraphStringAppend": "True",
   "FFlagUseConstantBufferViewsDurango": "True",
   "FFlagEnableSoundTelemetry2": "False",
-  "DFFlagAUMPAnalytics": "True",
   "DFIntReportAUMPAnalyticsPercentageHundredths": "100",
   "DFFlagFixControllerManagerHumanoidParallel": "True",
   "FFlagLuaAppFixSearchSessionClose": "True",
