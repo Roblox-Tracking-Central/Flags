@@ -190,6 +190,8 @@
   "FFlagRefactorGuiRTCacheImpl": "True",
   "FFlagStudioFixSchroedingerLogin": "True",
   "FFlagEnableChromeBackwardsSignalAPI": "True",
+  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2023-09-19T18:13:16",
+  "FFlagStudioAutoLoginResurrectedUsers_Rollout": "True;60;2023-09-19T18:15:25",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
