@@ -7576,6 +7576,7 @@
   "DFFlagVoiceChatEnableEndpointErrorLogging": "True",
   "FFlagApplyLocaleForDualSurfaceApp_Rollout": "True;60;2023-09-19T18:15:09",
   "FFlagEnableResetScaleButton2": "True",
+  "FFlagKeepVRAppNavBar": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
