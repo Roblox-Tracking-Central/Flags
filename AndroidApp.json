@@ -86,6 +86,7 @@
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "DFFlagFixSessionTrackingSendSuccess": "True",
+  "DFFlagSessionStartTimeUpdateMove": "True",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
   "CatalogPromoAssetId": "-1",

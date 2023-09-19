@@ -86,6 +86,7 @@
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "False",
+  "DFFlagSessionStartTimeUpdateMove": "False",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
   "DFFlagLockViolationScriptCrash": "False",
@@ -264,6 +265,5 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
-  "DFFlagSkipRenderEventInShutdown": "True",
-  "DFFlagSessionStartTimeUpdateMove_Rollout": "False;30;2023-09-19T16:55:13"
+  "DFFlagSkipRenderEventInShutdown": "True"
 }
