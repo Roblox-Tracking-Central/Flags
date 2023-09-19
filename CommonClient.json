@@ -7580,6 +7580,7 @@
   "DFIntVideoSplitCacheRolloutHundredthsPercent": "1000",
   "FFlagFaceControlsUseMetaDataObject": "True",
   "FFlagApplyLocaleForDualSurfaceApp": "True",
+  "FFlagLuauAutocompleteDoEnd_Rollout": "True;60;2023-09-19T19:30:19",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
