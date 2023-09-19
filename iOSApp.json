@@ -90,6 +90,7 @@
   "DFFlagSessionStartTimeUpdateMove": "False",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
+  "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4_Rollout": "True;30;2023-09-19T22:31:26",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": "5",
   "DFIntHttpCacheCleanMaxFilesToKeep": "7500",

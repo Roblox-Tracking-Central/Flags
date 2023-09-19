@@ -90,6 +90,7 @@
   "DFFlagSessionStartTimeUpdateMove": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
+  "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4_Rollout": "True;30;2023-09-19T22:31:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -192,6 +193,5 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FFlagRefactorGuiRTCacheImpl": "True",
-  "FFlagRefactorGuiRTCacheImpl_Rollout": "False;15;2023-09-19T22:13:16"
+  "FFlagRefactorGuiRTCacheImpl": "False"
 }
