@@ -191,6 +191,7 @@
   "FFlagStudioFixSchroedingerLogin": "True",
   "FFlagEnableChromeBackwardsSignalAPI": "True",
   "FFlagCLI37642": "True",
+  "FFlagStudioAutoLoginResurrectedUsers_Rollout": "True;60;2023-09-19T21:06:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

@@ -95,7 +95,7 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
-  "FFlagRenderEnableGlobalInstancingMetal_Rollout": "True;5;2023-09-19T20:48:25",
+  "FFlagRenderEnableGlobalInstancingMetal": "True",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMaxFilesToKeep": "7500",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
