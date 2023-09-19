@@ -87,7 +87,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringPerformanceControlIncludedTunables": "None",
-  "DFFlagAUMPAnalytics_Rollout": "False;60;2023-09-18T23:37:04",
+  "DFFlagAUMPAnalytics": "False",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMaxFilesToKeep": "4000",
   "DFIntHttpCacheCleanMinFilesRequired": "5000",

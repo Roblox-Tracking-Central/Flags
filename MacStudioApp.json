@@ -87,7 +87,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
-  "DFFlagAUMPAnalytics_Rollout": "True;60;2023-09-18T23:37:04",
+  "DFFlagAUMPAnalytics": "True",
   "DFFlagLockViolationScriptCrash": "True",
   "DFIntConnectionMTUSize": "1200",
   "DFIntContentProviderReportBlockedRequestsRate": "500",
