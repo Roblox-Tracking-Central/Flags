@@ -65,6 +65,7 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
+  "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4": "False",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
