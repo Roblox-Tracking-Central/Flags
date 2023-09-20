@@ -194,6 +194,7 @@
   "FFlagEnableChromeBackwardsSignalAPI": "True",
   "FFlagCLI37642": "True",
   "FFlagStudioAutoLoginResurrectedUsers": "True",
+  "FFlagDisableSkipFrameForBusyInTestMode": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
