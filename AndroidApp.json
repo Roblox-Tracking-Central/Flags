@@ -305,5 +305,6 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "FFlagEnableSeamlessForceOTAUpdate_Rollout": "True;60;2023-09-20T19:08:48"
+  "FFlagEnableSeamlessForceOTAUpdate_Rollout": "True;60;2023-09-20T19:08:48",
+  "DFIntDataModelPatchPollingIntervalMilliSeconds_Rollout": "3600000;60;2023-09-20T19:13:04"
 }
