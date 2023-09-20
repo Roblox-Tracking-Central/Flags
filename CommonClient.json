@@ -7588,6 +7588,7 @@
   "DFFlagMaxPhysicsPacketCounter": "True",
   "DFIntTelemetryProfilerHundredthsPercentage": "10",
   "DFFlagCLI82175": "True",
+  "DFFlagCollectParallelOptimization_Rollout": "True;60;2023-09-20T16:13:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
