@@ -190,7 +190,7 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagAddFontAtlasMipmaps": "True",
+  "FFlagAddFontAtlasMipmaps": "False",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagAppUpdateAdapterWithChannels": "True",
   "FFlagRefactorGuiRTCacheImpl": "False",
