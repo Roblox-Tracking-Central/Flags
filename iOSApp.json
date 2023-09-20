@@ -268,7 +268,7 @@
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "DFIntDataModelPatchPollingIntervalMilliSeconds_Rollout": "3600000;60;2023-09-20T21:27:38",
+  "DFIntDataModelPatchPollingIntervalMilliSeconds_Rollout": "50;60;2023-09-20T22:35:37",
   "FFlagEnableSeamlessForceOTAUpdate_Rollout": "True;60;2023-09-20T21:27:38",
   "FFlagEnableSeamlessForceOTAUpdateIOS_Rollout": "True;60;2023-09-20T21:27:38",
   "FIntDataModelPatchEnableOTAPollingPercentage_Rollout": "25;60;2023-09-20T21:27:38"
