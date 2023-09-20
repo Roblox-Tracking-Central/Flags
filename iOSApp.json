@@ -267,5 +267,6 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
-  "DFFlagSkipRenderEventInShutdown": "True"
+  "DFFlagSkipRenderEventInShutdown": "True",
+  "FIntDataModelPatchEnableOTAPollingPercentage_Rollout": "25;60;2023-09-20T16:31:35"
 }
