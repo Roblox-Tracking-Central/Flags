@@ -195,5 +195,7 @@
   "FFlagAppUpdateAdapterWithChannels": "True",
   "FFlagRefactorGuiRTCacheImpl": "False",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
-  "FFlagSessionTrackingResetMoreFields": "True"
+  "FFlagSessionTrackingResetMoreFields": "True",
+  "FFlagRenderEnableGlobalInstancing5": "True",
+  "FFlagRenderEnableGlobalInstancingD3D11": "True"
 }

@@ -271,5 +271,6 @@
   "DFIntDataModelPatchPollingIntervalMilliSeconds_Rollout": "3600000;60;2023-09-20T22:54:03",
   "FFlagEnableSeamlessForceOTAUpdate": "True",
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
-  "FIntDataModelPatchEnableOTAPollingPercentage": "25"
+  "FIntDataModelPatchEnableOTAPollingPercentage": "25",
+  "FIntDataModelPatchEnableOTAPollingPercentage_Rollout": "50;60;2023-09-20T23:04:41"
 }
