@@ -91,7 +91,6 @@
   "DFFlagSessionStartTimeUpdateMove": "True",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
-  "DFFlagGoogleAnalyticsUseEventIngest_Rollout": "True;60;2023-09-20T19:45:52",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -305,7 +304,5 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "EnableAndroidRealtimeProtocol": "True",
-  "FFlagEnableSeamlessForceOTAUpdate_Rollout": "True;60;2023-09-20T19:08:48",
-  "DFIntDataModelPatchPollingIntervalMilliSeconds_Rollout": "3600000;60;2023-09-20T19:13:04"
+  "EnableAndroidRealtimeProtocol": "True"
 }

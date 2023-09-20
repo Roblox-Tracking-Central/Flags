@@ -91,7 +91,6 @@
   "DFFlagSessionStartTimeUpdateMove": "False",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
-  "DFFlagGoogleAnalyticsUseEventIngest_Rollout": "True;60;2023-09-20T19:45:52",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": "5",
   "DFIntHttpCacheCleanMaxFilesToKeep": "7500",
@@ -268,8 +267,5 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
-  "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagEnableSeamlessForceOTAUpdateIOS_Rollout": "True;60;2023-09-20T19:06:52",
-  "FFlagEnableSeamlessForceOTAUpdate_Rollout": "True;60;2023-09-20T19:08:48",
-  "DFIntDataModelPatchPollingIntervalMilliSeconds_Rollout": "3600000;60;2023-09-20T19:13:04"
+  "DFFlagSkipRenderEventInShutdown": "True"
 }
