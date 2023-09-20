@@ -5871,7 +5871,7 @@
   "FFlagStudioUseBetterSaveFailureMessaging": "True",
   "FFlagStudioSaveSettingsFixAndRefactor": "True",
   "FFlagBootcampCLI73758": "True",
-  "FFlagDraggerBetterRigidConstraints": "False",
+  "FFlagDraggerBetterRigidConstraints": "True",
   "FFlagStudioReloadLocalPlugins": "True",
   "DFFlagLogServiceClearOutput": "True",
   "DFFlagStreamingVelocityAwareMissingRegionsFix": "True",
