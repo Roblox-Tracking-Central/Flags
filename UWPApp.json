@@ -91,6 +91,7 @@
   "DFFlagSessionStartTimeUpdateMove": "True",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
+  "DFFlagGoogleAnalyticsUseEventIngest_Rollout": "True;60;2023-09-20T23:43:49",
   "DFFlagLockViolationScriptCrash": "False",
   "DFIntHttpCacheCleanMaxFilesToKeep": "7500",
   "DFIntHttpCacheCleanMinFilesRequired": "10000",
