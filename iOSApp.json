@@ -267,5 +267,7 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
-  "DFFlagSkipRenderEventInShutdown": "True"
+  "DFFlagSkipRenderEventInShutdown": "True",
+  "FFlagEnableSeamlessForceOTAUpdateIOS_Rollout": "True;60;2023-09-20T19:06:52",
+  "FFlagEnableSeamlessForceOTAUpdate_Rollout": "True;60;2023-09-20T19:08:48"
 }

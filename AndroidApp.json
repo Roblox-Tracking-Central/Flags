@@ -304,5 +304,6 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "EnableAndroidRealtimeProtocol": "True"
+  "EnableAndroidRealtimeProtocol": "True",
+  "FFlagEnableSeamlessForceOTAUpdate_Rollout": "True;60;2023-09-20T19:08:48"
 }
