@@ -7594,6 +7594,8 @@
   "DFFlagSimForgoSolverNumericalExplosionTelemetryForPlaySessionsWithNoPhysics_Rollout": "True;60;2023-09-20T19:03:12",
   "DFIntSceneUpdaterELTDurationsHundredths_Rollout": "0;60;2023-09-20T19:10:25",
   "DFFlagVoiceChatSendPiiUserIdOnJoin": "True",
+  "FFlagDragDetectorsUseInternalConstraints3_Rollout": "True;60;2023-09-20T19:45:51",
+  "FFlagDragDetectorJointType_Rollout": "True;60;2023-09-20T19:54:27",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
