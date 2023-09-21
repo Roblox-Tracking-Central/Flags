@@ -304,6 +304,5 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "EnableAndroidRealtimeProtocol": "True",
-  "FFlagGpuGeometryManager7": "True"
+  "EnableAndroidRealtimeProtocol": "True"
 }
