@@ -91,7 +91,6 @@
   "DFFlagSessionStartTimeUpdateMove": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
-  "DFFlagGoogleAnalyticsUseEventIngest_Rollout": "True;60;2023-09-20T23:43:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -194,9 +193,6 @@
   "FFlagAddFontAtlasMipmaps": "False",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagAppUpdateAdapterWithChannels": "True",
-  "FFlagRefactorGuiRTCacheImpl": "False",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
-  "FFlagSessionTrackingResetMoreFields": "True",
-  "FFlagRenderEnableGlobalInstancing5": "True",
-  "FFlagRenderEnableGlobalInstancingD3D11": "True"
+  "FFlagSessionTrackingResetMoreFields": "True"
 }
