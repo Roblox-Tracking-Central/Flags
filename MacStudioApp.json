@@ -203,5 +203,6 @@
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
-  "DFLogTrackHttpRequest": "0"
+  "DFLogTrackHttpRequest": "0",
+  "FFlagTaskSchedulerUseRobloxRuntime_Rollout": "True;60;2023-09-21T19:52:47"
 }
