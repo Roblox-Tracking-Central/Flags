@@ -164,7 +164,6 @@
   "FStringProfileQRPageFriendRequestBannerShown": "ProfileQRPageFriendRequestBannerShownWindowsClient",
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedWindowsClient",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
-  "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "DFIntReportBadGlyphProviderIdHundredthsPercent": "10000",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",

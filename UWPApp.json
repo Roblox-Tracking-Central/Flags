@@ -113,7 +113,6 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagUseRealtimePublisher": "False",
   "FFlagEnableRealtimeRolloutCheck2": "True",

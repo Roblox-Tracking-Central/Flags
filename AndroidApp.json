@@ -252,7 +252,6 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedAndroid",
   "DFFlagDeferInferredCrashEvaluation": "True",
   "DFFlagStoreUniqueIdInferredCrashSystem": "True",
-  "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadAndroid",
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
@@ -300,5 +299,6 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "EnableAndroidRealtimeProtocol": "True"
+  "EnableAndroidRealtimeProtocol": "True",
+  "EnablePushNotificationSessionUtilsAndroid": "True"
 }

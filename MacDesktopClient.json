@@ -188,6 +188,5 @@
   "FFlagAddFontAtlasMipmaps": "False",
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
-  "FFlagMacUpdateAdapter": "True",
-  "FFlagTaskSchedulerUseRobloxRuntime_Rollout": "True;60;2023-09-21T19:52:47"
+  "FFlagMacUpdateAdapter": "True"
 }

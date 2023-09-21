@@ -221,7 +221,6 @@
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;90",
   "DFFlagHttpClientCookieProtocolMetrics": "True",
   "DFFlagUnifiedCookieProtocolEnabled": "True",
-  "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "FFlagDoNotInitializeLuaAppIfAlreadyInitialized": "True",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadiOS",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadiOS",

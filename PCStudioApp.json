@@ -202,6 +202,5 @@
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-  "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "FFlagStudioPrivateChannelSupport": "True"
 }
