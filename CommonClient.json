@@ -7690,7 +7690,6 @@
   "DFFlagDoVIPTeleport": "True",
   "DFFlagTeleportVIPPlayerPassThrough": "True",
   "FFlagVoiceChatLogClientTurnServerConnectedEvent": "True",
-  "FFlagDraggerFixScalePivot": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
