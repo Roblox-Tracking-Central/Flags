@@ -7689,6 +7689,7 @@
   "DFFlagTeleportVIPPlayerPassThrough": "True",
   "FFlagVoiceChatLogClientTurnServerConnectedEvent": "True",
   "DFFlagSimModelLodAsync": "True",
+  "DFFlagPersistentLoadedWithTarget_Rollout": "True;60;2023-09-21T23:47:40",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
