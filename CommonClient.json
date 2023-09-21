@@ -7683,6 +7683,7 @@
   "FFlagDragDetectorsUseInternalConstraints3": "True",
   "FFlagEnableExperienceService": "True",
   "DFFlagImmediateTTUpdate": "True",
+  "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7843,6 +7844,5 @@
   "StartPageUrl": "/ide/welcome",
   "VideoPreRollWaitTimeSeconds": "45",
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
-  "DFFlagRenderTC2_6": "False",
-  "FFlagTaskSchedulerUseRobloxRuntime": "True"
+  "DFFlagRenderTC2_6": "False"
 }
