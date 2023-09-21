@@ -266,7 +266,6 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableSeamlessForceOTAUpdate": "True",
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
-  "FIntDataModelPatchEnableOTAPollingPercentage": "50",
-  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FIntDataModelPatchEnableOTAPollingPercentage_Rollout": "100;60;2023-09-21T18:08:35"
+  "FIntDataModelPatchEnableOTAPollingPercentage": "100",
+  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000"
 }
