@@ -93,6 +93,7 @@
   "DFFlagSessionStartTimeUpdateMove": "False",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
+  "FFlagUISelectionJumping3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

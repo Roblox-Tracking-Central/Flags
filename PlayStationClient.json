@@ -93,6 +93,7 @@
   "DFFlagSessionStartTimeUpdateMove": "True",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
+  "FFlagUISelectionJumping3": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -101,6 +102,5 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagLuaAppLocalizationConsistencyFixes": "True",
   "FFlagNativePurchaseWithLocalPlayer": "True",
-  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
-  "FFlagUISelectionJumping3_Rollout": "False;60;2023-09-22T19:26:19"
+  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True"
 }

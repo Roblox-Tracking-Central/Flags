@@ -7576,7 +7576,6 @@
   "FFlagAinStatusesV2Release": "False",
   "DFIntReportLodOscillationHundredthsPercentage": "0",
   "DFStringAutosaveIntervalOptInPlaceIds": "12252783835,14355111754",
-  "FFlagUISelectionJumping3": "True",
   "DFFlagMaxPhysicsPacketCounter": "True",
   "DFIntTelemetryProfilerHundredthsPercentage": "10",
   "DFFlagCLI82175": "True",
