@@ -124,5 +124,6 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
-  "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox"
+  "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
+  "FFlagUISelectionJumping3_Rollout": "False;60;2023-09-22T19:26:19"
 }
