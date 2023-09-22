@@ -7688,6 +7688,7 @@
   "DFFlagPersistentLoadedWithTarget": "True",
   "DFFlagVoiceChatSendPiiUserIdOnJoin": "True",
   "FFlagFmodMixerThreadTracking_Rollout": "True;60;2023-09-22T16:45:30",
+  "FFlagConvertDynamicHeadScaleFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
