@@ -7673,7 +7673,6 @@
   "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue": "True",
   "FFlagAvatarPreviewerLimitDummyChildren": "True",
   "FFlagEnableUserProfilesLogging": "True",
-  "FFlagDragDetectorsUseInternalConstraints3": "True",
   "FFlagEnableExperienceService": "True",
   "DFFlagImmediateTTUpdate": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
