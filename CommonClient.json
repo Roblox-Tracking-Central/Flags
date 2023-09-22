@@ -7691,6 +7691,7 @@
   "FFlagOpenXrCreationFix": "True",
   "FFlagSimCSG3FixNoSplitApart_Rollout": "True;60;2023-09-22T17:41:43",
   "FFlagFmodMixerThreadTracking": "True",
+  "FFlagLuaAppEnableNativeRobuxProducts": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
