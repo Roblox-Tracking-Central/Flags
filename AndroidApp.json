@@ -299,6 +299,5 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "EnablePushNotificationSessionUtilsAndroid": "True",
-  "DFFlagUseAndroidMemoryAdviceLibrary3": "True"
+  "EnablePushNotificationSessionUtilsAndroid": "True"
 }

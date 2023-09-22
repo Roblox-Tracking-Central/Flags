@@ -7691,6 +7691,7 @@
   "FFlagOpenXrCreationFix": "True",
   "FFlagFmodMixerThreadTracking": "True",
   "FFlagLuaAppEnableNativeRobuxProducts": "True",
+  "DFFlagUseAndroidMemoryAdviceLibrary3": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
