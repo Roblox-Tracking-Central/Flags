@@ -7690,6 +7690,7 @@
   "FFlagFmodMixerThreadTracking_Rollout": "True;60;2023-09-22T16:45:30",
   "FFlagConvertDynamicHeadScaleFix": "True",
   "FFlagOpenXrCreationFix": "True",
+  "FFlagSimCSG3FixNoSplitApart_Rollout": "True;60;2023-09-22T17:41:43",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
