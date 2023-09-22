@@ -254,7 +254,7 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
-  "FIntEnableiOSRealtimeProtocolRollout": "0",
+  "FIntEnableiOSRealtimeProtocolRollout": "20",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
@@ -265,6 +265,5 @@
   "FFlagEnableSeamlessForceOTAUpdate": "True",
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
-  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FIntEnableiOSRealtimeProtocolRollout_Rollout": "20;10;2023-09-22T15:56:42"
+  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000"
 }
