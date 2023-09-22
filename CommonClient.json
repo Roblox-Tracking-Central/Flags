@@ -7689,6 +7689,8 @@
   "FFlagFmodMixerThreadTracking": "True",
   "FFlagLuaAppEnableNativeRobuxProducts": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary3": "False",
+  "DFFlagEnableRobloxTelemetryV2POC_Rollout": "True;60;2023-09-22T23:09:23",
+  "DFFlagEnableV2POCCounter_Rollout": "True;60;2023-09-22T23:09:34",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFIntHttpSendStatsEveryXSeconds": "300",
   "DFIntSendRakNetStatsThrottle": "2",
