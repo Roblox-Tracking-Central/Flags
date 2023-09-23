@@ -7689,7 +7689,7 @@
   "FFlagFmodMixerThreadTracking": "True",
   "FFlagLuaAppEnableNativeRobuxProducts": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary3": "False",
-  "DFFlagTwoMoreFieldsForRolloutCounter_Rollout": "True;60;2023-09-23T00:03:19",
+  "DFFlagTwoMoreFieldsForRolloutCounter": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFIntHttpSendStatsEveryXSeconds": "300",
   "DFIntSendRakNetStatsThrottle": "2",
