@@ -7672,6 +7672,7 @@
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2023-09-25T16:13:32",
   "FFlagFixPluginDebugGuiServiceContextMenu_Rollout": "True;60;2023-09-25T16:31:23",
   "FFlagKeepVRAppNavBar": "True",
+  "FFlagFixFutureHbaoTextureBinding_Rollout": "True;60;2023-09-25T16:41:51",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFIntHttpSendStatsEveryXSeconds": "300",
   "DFIntSendRakNetStatsThrottle": "2",
