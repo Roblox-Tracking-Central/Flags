@@ -96,7 +96,7 @@
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "False",
-  "FFlagRemoveDeprecatedBool2_Rollout": "False;60;2023-09-25T22:32:47",
+  "FFlagRemoveDeprecatedBool2_Rollout": "True;60;2023-09-25T23:00:55",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
