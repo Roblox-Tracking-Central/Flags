@@ -231,5 +231,6 @@
   "FFlagFixGamepadDisconnectHighlight2": "True",
   "FFlagFixPlayerListOpenOnLaunch": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FFlagRemoveDeprecatedBool2_Rollout": "True;60;2023-09-25T23:00:55"
+  "FFlagRemoveDeprecatedBool2_Rollout": "True;60;2023-09-25T23:00:55",
+  "DFStringSendJoinTimeDeltasHundPrecCountryOverride": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000,JP,4000,NO,2000,FI,2000,SE,1000,FR,1000,DK,1000"
 }
