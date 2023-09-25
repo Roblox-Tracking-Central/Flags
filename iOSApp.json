@@ -69,6 +69,7 @@
   "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "True",
+  "FFlagDragDetectors1": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
   "FFlagFontAtlasMipsAndRefactor2": "True",
