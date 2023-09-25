@@ -102,5 +102,7 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagLuaAppLocalizationConsistencyFixes": "True",
   "FFlagNativePurchaseWithLocalPlayer": "True",
-  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True"
+  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
+  "FFlagDisablePrefetchProtocol": "True",
+  "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True"
 }
