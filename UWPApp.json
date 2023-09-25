@@ -78,6 +78,7 @@
   "FFlagAvatarChatServiceEnabled2": "True",
   "FFlagAvatarChatCoreScriptSupport6": "False",
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
+  "FFlagFriendsCarouselUserProfileApiEnabledForAll": "False",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "False",
   "FFlagUserIsChatTranslationEnabled": "False",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "False",
