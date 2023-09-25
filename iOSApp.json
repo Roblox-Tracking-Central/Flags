@@ -111,7 +111,6 @@
   "DFFlagLockViolationScriptCrash": "False",
   "DFFlagOrder66": "False",
   "DFFlagPreventReturnOfElevatedPhysicsFPS": "True",
-  "DFFlagReportClientMemoryCat": "True",
   "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
   "DFFlagSupportMeshLOD": "True",
   "DFFlagSupportMeshLOD_PlaceFilter": "True;2900823006",
