@@ -105,5 +105,6 @@
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
   "FFlagDisablePrefetchProtocol": "True",
-  "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True"
+  "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
+  "FIntGamePerfMonitorPercentage": "100"
 }

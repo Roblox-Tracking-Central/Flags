@@ -351,6 +351,7 @@
   "FFlagCLI37642": "True",
   "FFlagStudioAutoLoginResurrectedUsers": "True",
   "FFlagDisableSkipFrameForBusyInTestMode": "True",
+  "FFlagPlaceManagerClosePlace": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
