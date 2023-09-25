@@ -284,5 +284,5 @@
   "DFIntHttpCacheRetryCount": "5000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
-  "FFlagEnableGetImageForKeyCodeAPI_Rollout": "True;60;2023-09-25T20:55:23"
+  "FFlagEnableGetImageForKeyCodeAPI": "True"
 }
