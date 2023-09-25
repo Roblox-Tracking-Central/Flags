@@ -72,6 +72,7 @@
   "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
+  "FFlagFontAtlasMipsAndRefactor2": "True",
   "FFlagAXGridRefactorForWidgets2": "True",
   "FFlagEnableCatalogWidgets2": "True",
   "FFlagAvatarChatServiceEnabled2": "True",
