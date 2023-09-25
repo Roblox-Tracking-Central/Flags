@@ -135,8 +135,6 @@
   "DFIntS2PhysicsSenderRate": "15",
   "DFIntSendJoinTimeDeltasToDiag_HundredthsPercentage": "100",
   "DFIntSessionReporterUserQuitLoadTimeout": "60",
-  "DFIntStreamJobMaxBufferHealthThresholdHundredths": "75",
-  "DFIntStreamJobMaxBufferHealthThresholdHundredths_PlaceFilter": "50;1526666203",
   "DFIntTargetTimeDelayFacctorTenths": "20",
   "DFLogPlaceLauncherTeleportLog": "6",
   "DFLogSoundTrace": "1",
