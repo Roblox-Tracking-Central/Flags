@@ -47,7 +47,6 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "False",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "FFlagRemoveDeprecatedBool2": "True",
   "FFlagCLI56034": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
@@ -284,5 +283,6 @@
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
-  "FStringLuaAppEphemeralCounterPrefix": "Xbox-"
+  "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
+  "FFlagEnableGetImageForKeyCodeAPI_Rollout": "True;60;2023-09-25T20:55:23"
 }

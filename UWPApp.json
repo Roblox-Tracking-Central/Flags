@@ -47,7 +47,6 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "FFlagRemoveDeprecatedBool2": "True",
   "FFlagCLI56034": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
@@ -279,5 +278,6 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntUseRealtimePublisherHundredthPercent": "0",
-  "DFFlagCLI82264": "True"
+  "DFFlagCLI82264": "True",
+  "FFlagEnableGetImageForKeyCodeAPI_Rollout": "True;60;2023-09-25T20:55:23"
 }

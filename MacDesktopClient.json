@@ -47,7 +47,6 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "150",
-  "FFlagRemoveDeprecatedBool2": "True",
   "FFlagCLI56034": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "False",
@@ -96,7 +95,6 @@
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -104,6 +102,7 @@
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -346,5 +345,6 @@
   "FFlagAddFontAtlasMipmaps": "False",
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
-  "FFlagMacUpdateAdapter": "True"
+  "FFlagMacUpdateAdapter": "True",
+  "FFlagEnableGetImageForKeyCodeAPI_Rollout": "True;60;2023-09-25T20:55:23"
 }

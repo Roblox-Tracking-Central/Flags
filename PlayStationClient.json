@@ -47,7 +47,6 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "FFlagRemoveDeprecatedBool2": "False",
   "FFlagCLI56034": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
@@ -96,7 +95,6 @@
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "False",
-  "FFlagRemoveDeprecatedBool2_Rollout": "True;60;2023-09-25T19:44:45",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -229,5 +227,6 @@
   "FFlagEnableTenftUiDetailsMoreDropupMenu": "True",
   "FFlagUseExternalBrowserForAgeGuidelines10ft": "True",
   "FFlagFixGamepadDisconnectHighlight2": "True",
-  "FFlagFixPlayerListOpenOnLaunch": "True"
+  "FFlagFixPlayerListOpenOnLaunch": "True",
+  "FFlagEnableGetImageForKeyCodeAPI_Rollout": "True;60;2023-09-25T20:55:23"
 }
