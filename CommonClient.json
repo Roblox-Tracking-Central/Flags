@@ -7688,6 +7688,7 @@
   "DFFlagProcessTokenInRakPeer": "True",
   "FFlagSimCSG3FixNoSplitApart_Rollout": "True;60;2023-09-25T22:37:55",
   "FFlagUnifyModuleLoading2_Rollout": "True;60;2023-09-25T22:44:50",
+  "FFlagToolboxSwimlanesUseFrames": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
   "DFIntHttpSendStatsEveryXSeconds": "300",
