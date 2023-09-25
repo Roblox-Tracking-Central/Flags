@@ -7687,6 +7687,7 @@
   "FFlagFlagRolloutTestStaticBool5_Rollout": "False;60;2023-09-25T21:10:51",
   "DFFlagFlagRolloutTestDynamicBool5_Rollout": "False;60;2023-09-25T21:11:26",
   "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2023-09-25T21:11:59",
+  "FFlagSessionTrackingUseCategoryMap_Rollout": "True;30;2023-09-25T21:42:26",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
   "DFIntHttpSendStatsEveryXSeconds": "300",
