@@ -7550,7 +7550,6 @@
   "DFFlagMaxPhysicsPacketCounter": "True",
   "DFIntTelemetryProfilerHundredthsPercentage": "10",
   "DFFlagCLI82175": "True",
-  "DFFlagChangeSortShadowsToFocusFromCamera": "True",
   "FFlagStudioRequireWaypointByDefault": "True",
   "FFlagStudioDebuggerDropdownMenuSelectionRerender": "True",
   "FFlagModelThumbnailLuaCameraPositioning": "True",
