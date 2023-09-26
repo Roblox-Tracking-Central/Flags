@@ -47,7 +47,6 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "10000",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "FFlagRemoveDeprecatedBool2": "True",
   "FFlagCLI56034": "False",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
