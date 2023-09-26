@@ -5611,7 +5611,7 @@
   "FFlagFixEditAliasInputInLightMode": "True",
   "FFlagRemoveEditAliasPlaceholderTransparency": "True",
   "FFlagUserProfilesDataLoaderUpdateFieldsEnabled": "True",
-  "FFlagNewUserOnboardingABTest": "True",
+  "FFlagNewUserOnboardingABTest": "False",
   "DFFlagTeleportServiceV2MetricsPart1": "True",
   "FFlagToolboxFixAutocompleteCloseForRoact17": "True",
   "FFlagVRBottomBarFixes": "True",
