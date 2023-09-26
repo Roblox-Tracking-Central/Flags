@@ -7692,6 +7692,7 @@
   "FFlagUnifyModuleLoading2": "True",
   "CleanUpDualProcessCodePhase1": "True",
   "FFlagVRBottomBarUsePositionConfig": "True",
+  "DFFlagVoiceChatTriggerEventOnBlocklistUpdate": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
