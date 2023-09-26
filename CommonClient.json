@@ -7699,6 +7699,7 @@
   "DFIntVideoSplitCacheRolloutHundredthsPercent": "1000",
   "FFlagRealNamesInDisplayNameExperimentRunning": "True",
   "FFlagHideVRLoadingJudderBehindSplashScreen": "True",
+  "FFlagFixVRNavigationClippingAndAlignment2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
