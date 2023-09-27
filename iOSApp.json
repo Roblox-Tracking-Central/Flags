@@ -19,6 +19,7 @@
   "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
   "DFIntHttpCurlMaxConnectionsPerHost": "3",
   "FIntCrashUploadToBacktraceIOSPercentage": "5",
+  "DFIntSessionReportSuccessThrottleHundredthsPercent": "100",
   "FStringTextureFormatFilterString": "Apple A7 GPU;Apple A8 GPU;Apple A11 GPU@*.*.*@12.*.*",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoadediOS",
