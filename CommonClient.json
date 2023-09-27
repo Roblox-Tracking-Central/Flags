@@ -7705,6 +7705,8 @@
   "FFlagExplorerImproveLogging_Rollout": "True;60;2023-09-27T19:08:19",
   "DFIntPerfDataOnHiveThrottleHundredthPercent_Rollout": "10000;60;2023-09-27T19:15:48",
   "FFlagAvatarChatCameraTrackerStatusAnalytics": "True",
+  "FFlagVRBottomBarFixMoreMenuPosition": "True",
+  "FFlagUserSearchMoveAnalyticsV2_2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
