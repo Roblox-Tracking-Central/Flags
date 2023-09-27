@@ -7696,6 +7696,7 @@
   "FFlagDevFrameworkSegmentedButtonPolish": "True",
   "FFlagDevFrameworkFormBetterSizing": "True",
   "DFFlagTelemetryUseTDigestSafeMethods": "True",
+  "FFlagAvatarBackgroundManagementOptional": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
