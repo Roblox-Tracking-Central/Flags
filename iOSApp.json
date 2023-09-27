@@ -39,6 +39,7 @@
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "False",
   "DFIntPredictedOOMPercent": "5",
+  "DFIntAppLaunchFlowThrottlingRate": "500",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",

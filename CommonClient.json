@@ -1176,7 +1176,6 @@
   "DFIntPerPauseStatsInfluxHundredthsPercentage": "100",
   "DFFlagRccReadChannelFromGameServerMetadata": "True",
   "FFlagEnableVoiceRccCheck": "True",
-  "DFIntAppLaunchFlowThrottlingRate": "500",
   "FIntNavigationServicePercentStatsReported": "10",
   "FFlagPredictedOOMExit": "False",
   "FFlagDisableUgcPartTintMask": "True",
