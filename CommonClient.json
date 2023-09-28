@@ -5568,7 +5568,7 @@
   "FFlagAddPublishAssetPrompt6": "True",
   "FFlagAddPublishResponse": "True",
   "FFlagUGCValidationContentUrl": "True",
-  "FFlagFacialAnimationStreamingDisableLipsyncForVRUser": "True",
+  "FFlagFacialAnimationStreamingDisableLipsyncForVRUser": "False",
   "FFlagImprovePluginSpeed_DraftsWidget": "True",
   "FFlagRCCAllowTempStoreS3Urls": "True",
   "FFlagExtraSelectionDynamicType": "True",
