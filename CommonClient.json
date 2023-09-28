@@ -7763,6 +7763,8 @@
   "DFFlagSimReportActiveConstraints_Rollout": "True;60;2023-09-28T16:48:40",
   "DFFlagCOLLAB2385TranslatedErrorMessagingNonTCEnabled4": "True",
   "FFlagOrphanTemporaryScripts": "True",
+  "FFlagStudioReloadOnStartPageGroupChange": "True",
+  "FFlagAFTSupportAdditionalAnalyticsLogging": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
