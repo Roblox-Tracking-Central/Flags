@@ -7777,6 +7777,7 @@
   "FFlagDragDetectorsUseInternalConstraints3": "True",
   "FFlagSimCSGV3HalfedgeMapTombstone": "True",
   "FFlagLuaAppHomeJoinYourFriendsLogging2": "True",
+  "FFlagUpdateCameraPrivacyDescription": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
