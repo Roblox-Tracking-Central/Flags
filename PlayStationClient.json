@@ -165,7 +165,6 @@
   "FFlagAddPreviousPageToLuaPageLoad": "True",
   "FFlagAvatarSceneManagerSwitchTabFix": "True",
   "FFlagLuaAppNavigationAnalytics": "True",
-  "FFlagLuaAppRefactorSelectRouteDev": "True",
   "FFlagPlayerContextualMenuAnalytics": "True",
   "FFlagFixTenFootUiExperienceDetailsSeeAll": "True",
   "FFlagFixTenFootUiMorePage": "True",
