@@ -231,5 +231,6 @@
   "FFlagFixGamepadDisconnectHighlight2": "True",
   "FFlagFixPlayerListOpenOnLaunch": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFStringSendJoinTimeDeltasHundPrecCountryOverride": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000,JP,4000,NO,2000,FI,2000,SE,1000,FR,1000,DK,1000"
+  "DFStringSendJoinTimeDeltasHundPrecCountryOverride": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000,JP,4000,NO,2000,FI,2000,SE,1000,FR,1000,DK,1000",
+  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;10;2023-09-28T18:29:03"
 }
