@@ -438,7 +438,6 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagTeardownInSingleSurface": "False",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedAndroid",
-  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
