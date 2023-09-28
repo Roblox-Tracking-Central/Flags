@@ -7792,7 +7792,7 @@
   "DFFlagAsyncHttpQueuePriority_Rollout": "True;60;2023-09-28T22:47:32",
   "DFFlagInferredMobileSuccess_Rollout": "False;60;2023-09-28T22:53:49",
   "FFlagFixLockToolCursor_Rollout": "True;60;2023-09-28T23:00:24",
-  "FFlagUpdatedGetDescendants_Rollout": "True;30;2023-09-28T23:00:26",
+  "FFlagUpdatedGetDescendants": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
