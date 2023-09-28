@@ -7776,6 +7776,7 @@
   "FFlagTargetHeapSelect_Rollout": "True;30;2023-09-28T18:34:41",
   "FFlagSimCSGV3HalfedgeMapTombstone_Rollout": "True;60;2023-09-28T18:35:23",
   "FFlagEnableToastNotificationEventMissingFieldsFix": "True",
+  "FFlagUGCValidateAssetStatusNameChange": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
