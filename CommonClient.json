@@ -7768,6 +7768,7 @@
   "DFFlagDestroyedModuleRequireReport_Rollout": "True;60;2023-09-28T17:54:21",
   "DFFlagSimReportActiveConstraints": "True",
   "DFFlagSimShowPrimaryAxisOnlyForLegacyTypes": "True",
+  "FFlagDragDetectorsUseInternalConstraints3_Rollout": "True;60;2023-09-28T18:12:38",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

@@ -344,6 +344,7 @@
   "FFlagStudioAutoLoginResurrectedUsers": "True",
   "FFlagDisableSkipFrameForBusyInTestMode": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
+  "DFFlagDestroyedModuleRequireWarning_Rollout": "True;30;2023-09-28T18:08:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
