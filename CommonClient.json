@@ -7785,6 +7785,7 @@
   "DFFlagSimLimitAssemblyCount_Rollout": "True;60;2023-09-28T20:26:07",
   "FFlagStudioActionConversionGroup2_Rollout": "True;60;2023-09-28T20:26:25",
   "FFlagFixLockToolCursor_Rollout": "True;60;2023-09-28T20:27:26",
+  "FFlagFixRichTextLineHeight_Rollout": "True;60;2023-09-28T20:47:31",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
