@@ -7758,6 +7758,8 @@
   "DFFlagFixMapFieldContainerMergeWith": "True",
   "FFlagUpdateSourceAsync2": "True",
   "DFFlagCOLLAB2385TranslatedErrorMessagingNonTCEnabled4_Rollout": "True;30;2023-09-28T16:21:23",
+  "FFlagAttributeNameEditModifiedCheck_Rollout": "True;60;2023-09-28T16:25:22",
+  "FFlagDisablePackageConvertionForPluginDebug_Rollout": "True;60;2023-09-28T16:25:53",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
