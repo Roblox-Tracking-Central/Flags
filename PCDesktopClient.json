@@ -339,5 +339,6 @@
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
-  "FFlagEnableGetImageForKeyCodeAPI": "True"
+  "FFlagEnableGetImageForKeyCodeAPI": "True",
+  "DFFlagDisableControllerManagerAsChild2_Rollout": "True;30;2023-09-29T17:08:48"
 }

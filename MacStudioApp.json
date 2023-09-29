@@ -345,6 +345,7 @@
   "FFlagDisableSkipFrameForBusyInTestMode": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagDestroyedModuleRequireWarning": "True",
+  "DFFlagDisableControllerManagerAsChild2_Rollout": "True;30;2023-09-29T17:08:48",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

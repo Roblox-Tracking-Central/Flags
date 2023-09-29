@@ -338,5 +338,6 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FFlagEnableGetImageForKeyCodeAPI": "True"
+  "FFlagEnableGetImageForKeyCodeAPI": "True",
+  "DFFlagDisableControllerManagerAsChild2_Rollout": "True;30;2023-09-29T17:08:48"
 }
