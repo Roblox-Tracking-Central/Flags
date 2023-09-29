@@ -7699,7 +7699,6 @@
   "FFlagVRSafetyBubblePrimaryPartBugFix": "True",
   "FFlagVRControllerModelsSetByDevFix": "True",
   "FFlagDevFrameworkAlert": "True",
-  "FFlagMoveToolboxCodeToUGCValidation": "True",
   "FFlagExplorerFixInsertSelection": "True",
   "FFlagExplorerImproveLogging": "True",
   "DFIntLegacyStyleUsed_ReportPercentHundredths": "100",
