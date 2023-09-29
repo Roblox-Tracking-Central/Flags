@@ -52,7 +52,6 @@
   "DFIntGameJoinFlowTelemetryThrottle": "100",
   "FFlagCLI56034": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
-  "DFFlagSimHumanoidPhysics": "True",
   "FFlagRobuxUpsellIXPV2": "False",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -121,8 +120,6 @@
   "DFFlagOrder66": "False",
   "DFFlagPreventReturnOfElevatedPhysicsFPS": "True",
   "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
-  "DFFlagSupportMeshLOD": "True",
-  "DFFlagSupportMeshLOD_PlaceFilter": "True;2900823006",
   "DFFlagThrottleDebuggerMetrics": "True",
   "DFIntAnalyticsCDNProbeInfluxPermyriad": "100",
   "DFIntAnalyticsNS1CDNProbeChancePercent": "5",
@@ -341,5 +338,6 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFFlagDisableControllerManagerAsChild2": "True"
+  "DFFlagDisableControllerManagerAsChild2": "True",
+  "DFFlagSimHumanoidPhysics": "True"
 }
