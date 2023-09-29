@@ -52,6 +52,7 @@
   "DFIntGameJoinFlowTelemetryThrottle": "100",
   "FFlagCLI56034": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "5",
+  "DFFlagSimHumanoidPhysics": "False",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",

@@ -52,6 +52,7 @@
   "DFIntGameJoinFlowTelemetryThrottle": "100",
   "FFlagCLI56034": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
+  "DFFlagSimHumanoidPhysics": "True",
   "FFlagRobuxUpsellIXPV2": "False",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
   "FFlagDebugStudioFailedToParseIdToken": "False",
@@ -340,6 +341,5 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFFlagSimHumanoidPhysics_Rollout": "True;30;2023-09-29T17:32:08",
   "DFFlagDisableControllerManagerAsChild2": "True"
 }
