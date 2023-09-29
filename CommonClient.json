@@ -7782,7 +7782,6 @@
   "FFlagUGCValidateUVValuesInReference": "True",
   "FFlagEnableStudioPlacePublishTelemetry": "True",
   "FFlagEnableUnifiedChatU13Upsell": "True",
-  "FFlagEnableExternalPauseToastNotification": "True",
   "FFlagUGCValidationAddThumbnailFrustumCheckingv2": "True",
   "FFlagAddFriendsIAExperiment_v2": "True",
   "FFlagUseUpdatedModelToGetHumanoid": "True",
