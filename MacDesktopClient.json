@@ -339,5 +339,6 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFFlagDisableControllerManagerAsChild2_Rollout": "True;30;2023-09-29T17:08:48"
+  "DFFlagDisableControllerManagerAsChild2_Rollout": "True;30;2023-09-29T17:08:48",
+  "DFFlagSimHumanoidPhysics_Rollout": "True;30;2023-09-29T17:32:08"
 }
