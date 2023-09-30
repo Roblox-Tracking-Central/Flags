@@ -7792,6 +7792,7 @@
   "FFlagStudioSelectionProxyConnectSignalLater": "True",
   "FFlagStudioUseBasicMessageReceiver": "True",
   "DFFlagReportFmodInitErrors": "True",
+  "DFFlagReportControllerManagerUse2_Rollout": "True;1;2023-09-30T01:33:27",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
