@@ -201,7 +201,6 @@
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagLuaAppResetNavigationHistoryTenFoot": "True",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
-  "FFlagLandingPageQuickMenuToolTip": "True",
   "FFlagEnableUseShowTopBar4": "False",
   "FFlagAX10ftUIPadding2": "True",
   "FFlagAXFixCatalogResultsListForGamepad": "True",
