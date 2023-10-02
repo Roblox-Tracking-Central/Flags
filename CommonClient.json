@@ -7826,6 +7826,7 @@
   "DFFlagSimActivateNewAlignTypes": "True",
   "FFlagFixUnnecessaryTranslationInvalidations": "True",
   "FFlagFixDoubleMacUpdateAdapterInit": "True",
+  "DFFlagSecondaryMetricsShouldOverwriteByDefault_Rollout": "True;30;2023-10-02T21:04:25",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
