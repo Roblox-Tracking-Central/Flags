@@ -98,6 +98,7 @@
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
+  "FFlagCLI37642_Rollout": "True;60;2023-10-02T17:12:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -338,5 +339,6 @@
   "FFlagMacUpdateAdapter": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagDisableControllerManagerAsChild2": "True",
-  "DFFlagSimHumanoidPhysics": "True"
+  "DFFlagSimHumanoidPhysics": "True",
+  "DFFlagHttpCacheTrackAllAssets2_Rollout": "True;60;2023-10-02T17:15:19"
 }

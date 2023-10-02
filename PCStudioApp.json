@@ -337,7 +337,6 @@
   "FFlagEnableInGameMenuChromeSignalAPI": "True",
   "FFlagStudioHideSizeGrip": "True",
   "FFlagStudioFixSchroedingerLogin": "True",
-  "FFlagEnableChromeBackwardsSignalAPI": "True",
   "FFlagCLI37642": "True",
   "FFlagStudioAutoLoginResurrectedUsers": "True",
   "FFlagDisableSkipFrameForBusyInTestMode": "True",
