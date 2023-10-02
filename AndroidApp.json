@@ -57,7 +57,7 @@
   "FFlagDebugStudioFailedToParseIdToken": "False",
   "FIntLuauTypeInferRecursionLimit": "165",
   "DFStringCrashUploadToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post",
-  "FLogDataModelPatchConfigurer": "0",
+  "FLogDataModelPatchConfigurer": "15",
   "FFlagMultiTryOnPurchaseIXPEnabled2": "True",
   "FFlagVerifiedBadgeInFriendsLanding": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "True",
@@ -441,6 +441,5 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FLogDataModelPatchConfigurer_Rollout": "15;60;2023-10-02T18:28:36"
+  "EnablePushNotificationSessionUtilsAndroid": "True"
 }
