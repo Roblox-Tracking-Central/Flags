@@ -57,7 +57,7 @@
   "FFlagDebugStudioFailedToParseIdToken": "False",
   "FIntLuauTypeInferRecursionLimit": "165",
   "DFStringCrashUploadToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post",
-  "FLogDataModelPatchConfigurer": "15",
+  "FLogDataModelPatchConfigurer": "0",
   "FFlagMultiTryOnPurchaseIXPEnabled2": "True",
   "FFlagVerifiedBadgeInFriendsLanding": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "True",
