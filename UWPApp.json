@@ -98,7 +98,6 @@
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
-  "FFlagCLI37642_Rollout": "True;60;2023-10-02T17:12:31",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -271,5 +270,5 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFFlagHttpCacheTrackAllAssets2_Rollout": "True;60;2023-10-02T17:15:19"
+  "DFFlagHttpCacheTrackAllAssets2": "True"
 }
