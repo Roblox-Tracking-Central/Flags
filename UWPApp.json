@@ -6,6 +6,7 @@
   "DFIntCrashUploadToBacktracePercentage": "100",
   "DFIntMeshNLoDs": "5",
   "DFIntParallelNarrowPhaseSerialCutoff": "50",
+  "DFIntPerfDataGlobalThrottleHundredthsPercent": "20",
   "FFlagFixFirstPersonMouseCursorSnapping_CenterPos": "True",
   "FFlagLeaveStartingCoreScriptsToPlaceLauncher": "True",
   "FIntHttpCacheRedirectsTimeoutMs": "14400000",
