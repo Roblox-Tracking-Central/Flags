@@ -7855,6 +7855,7 @@
   "FFlagFlagRolloutTestStaticBool9_Rollout": "False;60;2023-10-03T20:02:04",
   "FFlagDisableAddFriendsInCarousel": "True",
   "FFlagFixNonSelfCalls": "True",
+  "DFFlagReconstructBVHRefactor_Rollout": "True;60;2023-10-03T20:34:28",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
