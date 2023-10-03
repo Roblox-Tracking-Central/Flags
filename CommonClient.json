@@ -7242,7 +7242,6 @@
   "FFlagSessionTelemetryClientQos": "True",
   "FFlagHideAnimationSettingForGltf": "True",
   "DFFlagStudioUploadVideoCutLfuFeatures": "True",
-  "FFlagAddRuntimeSourceProperty": "True",
   "FFlagDevFrameworkTextInputFocusLostParamFix": "True",
   "FFlagToolboxMigrateOffItemConfig": "True",
   "FFlagToolboxFixUrlsFormatting": "True",
