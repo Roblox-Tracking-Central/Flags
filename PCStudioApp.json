@@ -98,7 +98,6 @@
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "True",
   "FFlagUISelectionJumping3": "True",
-  "FFlagMacUpdateAdapter_Rollout": "True;60;2023-10-02T23:52:40",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
