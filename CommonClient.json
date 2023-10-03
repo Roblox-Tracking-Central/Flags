@@ -7014,7 +7014,6 @@
   "FFlagMacMoveLaunchTimeExpLaunchBegin": "True",
   "FFlagWinMoveLaunchTimeExpLaunchBegin": "True",
   "FFlagUGCValidateCageUVTriangleArea": "True",
-  "FFlagACENamedKeyframesChannel": "True",
   "FFlagACEEscapeEventsFilter": "True",
   "FFlagLuauTypecheckLimitControls": "True",
   "FFlagUpdatedTaskDefinitions": "True",
