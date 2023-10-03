@@ -7863,6 +7863,7 @@
   "FFlagImprovePluginSpeedMoveDragger": "True",
   "FFlagImprovePluginSpeedRotateDragger": "True",
   "FFlagImprovePluginSpeedScaleDragger": "True",
+  "DFIntReportControllerManagerPercent_Rollout": "100;60;2023-10-03T23:29:07",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

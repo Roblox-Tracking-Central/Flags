@@ -284,7 +284,6 @@
   "FStringNonuniformUnionsBetaFeatureUrl": "https://devforum.roblox.com/t/non-uniform-union-scaling-beta/1834472",
   "DFIntAuthMetadataRequestTimeoutMs": "10000",
   "DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": "True",
-  "DFIntReportControllerManagerPercent": "100",
   "DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": "True",
   "FFlagStudioSupportRunContextInAutocomplete": "True",
   "FFlagStudioUseRunContextIcons2": "True",
