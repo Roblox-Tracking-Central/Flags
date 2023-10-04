@@ -7870,6 +7870,8 @@
   "FFlagBulkImportShowVideoQuota": "True",
   "FFlagLuaAppUnifyAppGameTileUiMode": "True",
   "FFlagChatDetailsUserProfileApiEnabled": "True",
+  "FFlagFixGameCarouselHorizontalScrollDoubleFetch": "True",
+  "FStringCustomVideoUploadBetaFeatureUrl": "https://devforum.roblox.com/t/video-uploads-beta-add-short-form-video-to-your-experience/2630621",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
