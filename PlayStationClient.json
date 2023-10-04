@@ -233,5 +233,7 @@
   "DFStringSendJoinTimeDeltasHundPrecCountryOverride": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000,JP,4000,NO,2000,FI,2000,SE,1000,FR,1000,DK,1000",
   "FFlagLuaAppSessionUseGetActiveRoute": "True",
   "FFlagLuaAppSessionUseGetActiveRoute2": "True",
-  "FFlagUseCoreScriptsRootProviderForUpsellModal": "True"
+  "FFlagUseCoreScriptsRootProviderForUpsellModal": "True",
+  "FFlagBreakUpEventBusyLoop": "True",
+  "FFlagBreakUpEventBusyLoopWithSleep": "False"
 }
