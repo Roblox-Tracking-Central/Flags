@@ -266,5 +266,7 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFFlagHttpCacheTrackAllAssets2": "True"
+  "DFFlagHttpCacheTrackAllAssets2": "True",
+  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
 }

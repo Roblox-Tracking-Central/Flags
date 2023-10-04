@@ -440,5 +440,7 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "EnablePushNotificationSessionUtilsAndroid": "True"
+  "EnablePushNotificationSessionUtilsAndroid": "True",
+  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
 }

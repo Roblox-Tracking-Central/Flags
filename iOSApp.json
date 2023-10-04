@@ -407,5 +407,7 @@
   "FFlagEnableSeamlessForceOTAUpdate": "True",
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
-  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000"
+  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
+  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
 }

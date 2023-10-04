@@ -239,5 +239,7 @@
   "FFlagProximityPromptGamepadIcons": "True",
   "DFLogHttpCache": "6",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
-  "FFlagPlayStationSystemUtilUpdates": "True"
+  "FFlagPlayStationSystemUtilUpdates": "True",
+  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
 }

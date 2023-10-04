@@ -274,5 +274,7 @@
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFLogHttpCache": "6"
+  "DFLogHttpCache": "6",
+  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
 }
