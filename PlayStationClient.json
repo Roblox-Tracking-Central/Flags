@@ -238,5 +238,6 @@
   "FFlagBreakUpEventBusyLoop": "True",
   "FFlagBreakUpEventBusyLoopWithSleep": "False",
   "DFIntHangDetectionJobTimeoutMs": "0",
-  "DFLogHttpCache_Rollout": "6;60;2023-10-04T20:11:09"
+  "DFLogHttpCache_Rollout": "6;60;2023-10-04T20:11:09",
+  "FFlagProximityPromptGamepadIcons": "True"
 }
