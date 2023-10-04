@@ -7872,6 +7872,7 @@
   "FFlagChatDetailsUserProfileApiEnabled": "True",
   "FFlagFixGameCarouselHorizontalScrollDoubleFetch": "True",
   "FStringCustomVideoUploadBetaFeatureUrl": "https://devforum.roblox.com/t/video-uploads-beta-add-short-form-video-to-your-experience/2630621",
+  "DFFlagPathfindingReportClickToMoveSetting_Rollout": "False;60;2023-10-04T18:30:05",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
