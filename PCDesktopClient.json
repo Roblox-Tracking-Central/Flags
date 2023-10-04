@@ -96,9 +96,7 @@
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess": "False",
   "FFlagEnableInGameMenuModernization": "True",
-  "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -335,6 +333,5 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
-  "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FFlagSessionTrackingResetMoreFields_Rollout": "False;30;2023-10-04T20:11:54"
+  "DFFlagHttpCacheTrackAllAssets2": "True"
 }

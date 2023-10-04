@@ -96,9 +96,7 @@
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuModernization": "True",
-  "FFlagSessionTrackingResetMoreFields": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -409,6 +407,5 @@
   "FFlagEnableSeamlessForceOTAUpdate": "True",
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
-  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess_Rollout": "False;30;2023-10-04T20:11:06"
+  "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000"
 }
