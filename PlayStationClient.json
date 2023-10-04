@@ -237,5 +237,6 @@
   "FFlagBreakUpEventBusyLoopWithSleep": "False",
   "DFIntHangDetectionJobTimeoutMs": "0",
   "FFlagProximityPromptGamepadIcons": "True",
-  "DFLogHttpCache": "6"
+  "DFLogHttpCache": "6",
+  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512"
 }
