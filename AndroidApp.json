@@ -97,6 +97,7 @@
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "True",
+  "FFlagRevertcd51c3c6DisableAppSessionSuccess_Rollout": "False;30;2023-10-04T18:44:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
