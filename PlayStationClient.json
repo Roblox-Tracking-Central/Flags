@@ -98,7 +98,7 @@
   "FFlagUISelectionJumping3": "False",
   "FFlagRevertcd51c3c6DisableAppSessionSuccess": "False",
   "FFlagEnableInGameMenuModernization": "False",
-  "FFlagSessionTrackingResetMoreFields_Rollout": "False;30;2023-10-04T19:34:21",
+  "FFlagSessionTrackingResetMoreFields": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
