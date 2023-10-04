@@ -238,5 +238,6 @@
   "DFIntHangDetectionJobTimeoutMs": "0",
   "FFlagProximityPromptGamepadIcons": "True",
   "DFLogHttpCache": "6",
-  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512"
+  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
+  "FFlagPlayStationSystemUtilUpdates": "True"
 }
