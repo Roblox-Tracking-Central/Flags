@@ -7869,6 +7869,7 @@
   "FFlagCustomVideoUploadBetaFeature": "True",
   "FFlagBulkImportShowVideoQuota": "True",
   "FFlagLuaAppUnifyAppGameTileUiMode": "True",
+  "FFlagChatDetailsUserProfileApiEnabled": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
