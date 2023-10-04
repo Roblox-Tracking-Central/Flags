@@ -7864,6 +7864,8 @@
   "DFIntReportControllerManagerPercent": "100",
   "DFStringPerfFilterPlatform": "PlayStation",
   "DFLogNetworkPauseLogging_PlaceFilter": "6;14515858837",
+  "FFlagCustomVideoUploadBetaFeature": "True",
+  "FFlagBulkImportShowVideoQuota": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
