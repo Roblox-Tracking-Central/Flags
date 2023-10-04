@@ -333,5 +333,6 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
-  "DFFlagHttpCacheTrackAllAssets2": "True"
+  "DFFlagHttpCacheTrackAllAssets2": "True",
+  "FIntLuaAppPresencePollingIntervalInSecondsV377": "120"
 }
