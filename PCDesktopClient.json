@@ -335,5 +335,6 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
-  "DFFlagHttpCacheTrackAllAssets2": "True"
+  "DFFlagHttpCacheTrackAllAssets2": "True",
+  "FFlagSessionTrackingResetMoreFields_Rollout": "False;30;2023-10-04T20:11:54"
 }
