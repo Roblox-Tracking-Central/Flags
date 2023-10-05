@@ -97,7 +97,6 @@
   "DFFlagAUMPAnalytics": "True",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "False",
-  "FFlagGetImageForKeyCodeReturns2x_Rollout": "True;60;2023-10-05T21:01:49",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -341,7 +340,7 @@
   "DFFlagDestroyedModuleRequireWarning": "True",
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
-  "FFlagGamepadDeviceTypeSelectionFix_Rollout": "True;60;2023-10-05T21:03:11",
+  "FFlagGamepadDeviceTypeSelectionFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -352,5 +351,6 @@
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
-  "DFLogTrackHttpRequest": "0"
+  "DFLogTrackHttpRequest": "0",
+  "FFlagStudioPrivateChannelSupport_Rollout": "True;30;2023-10-05T22:13:17"
 }

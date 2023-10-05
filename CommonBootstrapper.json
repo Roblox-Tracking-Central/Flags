@@ -48,5 +48,6 @@
   "FFlagMacInstallerStartClient": "True",
   "FFlagMacInstallerVersionGuidParam": "True",
   "FFlagUseClientAsProtocolHandler": "True",
-  "FFlagUseNewWindowsUninstaller": "True"
+  "FFlagUseNewWindowsUninstaller": "True",
+  "FFlagMacInstallerRetryTerminateCheck2": "True"
 }

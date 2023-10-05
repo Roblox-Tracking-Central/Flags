@@ -97,7 +97,6 @@
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "False",
   "FFlagEnableInGameMenuModernization": "False",
-  "FFlagGetImageForKeyCodeReturns2x_Rollout": "True;60;2023-10-05T21:01:49",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

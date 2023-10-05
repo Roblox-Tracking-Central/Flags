@@ -277,7 +277,6 @@
   "FFlagTenFootUiFixAutoFocusRace": "True",
   "DFFlagLuaOSTimeManual": "True",
   "FFlagLuaAppEnable10ftCloseSignupDropdown": "True",
-  "FFlagGetImageForKeyCodeReturns2x": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True"
 }
