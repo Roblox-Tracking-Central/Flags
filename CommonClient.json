@@ -7880,6 +7880,8 @@
   "FIntTTIDelayExperimentDelayIncrementMs": "2000",
   "FStringTTIDelayExperimentBucketSettings": "5;2",
   "FFlagDragDetectorMinMaxTranslationUsesCurrentReferenceFrame": "True",
+  "FFlagMovePremiumIcon": "True",
+  "FFlagShowProfilePeekView": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
