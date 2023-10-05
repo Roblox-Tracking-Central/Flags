@@ -243,5 +243,6 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagPlayStationConditionedRunLoop": "True",
-  "FFlagPlaystationAvoidClusterSwitches": "True"
+  "FFlagPlaystationAvoidClusterSwitches": "True",
+  "DFLogMemoryStats": "6"
 }
