@@ -276,5 +276,7 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFLogHttpCache": "6",
   "FFlagTTIDelayExperimentEnabled": "False",
-  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FFlagEnableCentralOverlayForUpsellPrompt": "True",
+  "FFlagGuardTermOfUseByIsLinkAllowed": "True"
 }
