@@ -1410,7 +1410,6 @@
   "FFlagMuteButtonRaceConditionFix": "True",
   "DFFlagUpdateBroadphaseForClearTerrainWelds": "True",
   "DFFlagAssemblyBroadphaseExcludeCrashFix": "True",
-  "DFFlagSkipSingePartAssemblyUpdate": "True",
   "FFlagWriteBootstrapperMetrics": "True",
   "FFlagMacReportBootstrapperTelemetry": "True",
   "FIntBootstrapperTelemetryReportingHundredthsPercentage": "100",
