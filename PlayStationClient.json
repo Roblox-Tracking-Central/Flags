@@ -235,7 +235,7 @@
   "FFlagUseCoreScriptsRootProviderForUpsellModal": "True",
   "FFlagBreakUpEventBusyLoop": "True",
   "FFlagBreakUpEventBusyLoopWithSleep": "False",
-  "DFIntHangDetectionJobTimeoutMs": "0",
+  "DFIntHangDetectionJobTimeoutMs": "15000",
   "FFlagProximityPromptGamepadIcons": "True",
   "DFLogHttpCache": "6",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
@@ -244,5 +244,7 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagPlayStationConditionedRunLoop": "True",
   "FFlagPlaystationAvoidClusterSwitches": "True",
-  "DFLogMemoryStats": "6"
+  "DFLogMemoryStats": "6",
+  "DFFlagHangDetectionForceCrash": "True",
+  "DFFlagHangDetectionReport": "True"
 }
