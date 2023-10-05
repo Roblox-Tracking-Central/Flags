@@ -166,7 +166,6 @@
   "FFlagLuaAppConvertUniverseIdToStringV364": "False",
   "FFlagLuaAppEnableErrorReporterRateLimit": "True",
   "FFlagLuaAppGameSearchPlayerSuggestion376": "True",
-  "FFlagLuaAppSiteMessageBannerEnabled": "True",
   "FFlagLuaChatBoldUnreadMessageText": "True",
   "FFlagLuaChatCenterAndroidHeader": "True",
   "FFlagLuaChatFixConversationHubHeaders369": "True",
@@ -352,5 +351,5 @@
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
-  "FFlagStudioPrivateChannelSupport_Rollout": "True;30;2023-10-05T22:13:17"
+  "FFlagStudioPrivateChannelSupport": "True"
 }

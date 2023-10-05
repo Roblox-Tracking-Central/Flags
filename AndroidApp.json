@@ -167,7 +167,6 @@
   "FFlagLuaAppEnableErrorReporterRateLimit": "True",
   "FFlagLuaAppEnableSinglePageSignUp": "True",
   "FFlagLuaAppGameSearchPlayerSuggestion376": "True",
-  "FFlagLuaAppSiteMessageBannerEnabled": "True",
   "FFlagLuaChatBoldUnreadMessageText": "True",
   "FFlagLuaChatCenterAndroidHeader": "True",
   "FFlagLuaChatFixConversationHubHeaders369": "True",
