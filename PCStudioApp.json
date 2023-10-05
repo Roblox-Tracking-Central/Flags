@@ -80,6 +80,7 @@
   "FFlagAvatarChatServiceEnabled2": "False",
   "FFlagAvatarChatCoreScriptSupport6": "True",
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
+  "FFlagEnableBacktraceForXboxAppShell": "True",
   "FFlagFriendsCarouselUserProfileApiEnabledForAll": "False",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagUserIsChatTranslationEnabled": "False",
@@ -97,6 +98,7 @@
   "DFFlagAUMPAnalytics": "True",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "False",
+  "FFlagDebugLuaAppValidateProps": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -346,7 +348,6 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
-  "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
   "FFlagStudioPrivateChannelSupport": "True"
