@@ -7882,6 +7882,8 @@
   "FFlagDragDetectorMinMaxTranslationUsesCurrentReferenceFrame": "True",
   "FFlagMovePremiumIcon": "True",
   "FFlagShowProfilePeekView": "True",
+  "FFlagTruncateTextChatDetails": "True",
+  "FFlagContactImporterAlignButton": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
