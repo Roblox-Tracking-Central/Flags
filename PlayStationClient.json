@@ -233,17 +233,13 @@
   "FFlagLuaAppSessionUseGetActiveRoute": "True",
   "FFlagLuaAppSessionUseGetActiveRoute2": "True",
   "FFlagUseCoreScriptsRootProviderForUpsellModal": "True",
-  "FFlagBreakUpEventBusyLoop": "True",
-  "FFlagBreakUpEventBusyLoopWithSleep": "False",
-  "DFIntHangDetectionJobTimeoutMs": "15000",
+  "DFIntHangDetectionJobTimeoutMs": "0",
   "FFlagProximityPromptGamepadIcons": "True",
   "DFLogHttpCache": "6",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
   "FFlagPlayStationSystemUtilUpdates": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagPlayStationConditionedRunLoop": "True",
-  "DFLogMemoryStats": "6",
-  "DFFlagHangDetectionForceCrash": "True",
-  "DFFlagHangDetectionReport": "True"
+  "FFlagPlayStationConditionedRunLoop": "False",
+  "DFLogMemoryStats": "6"
 }
