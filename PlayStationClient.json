@@ -241,5 +241,7 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
   "FFlagPlayStationSystemUtilUpdates": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
-  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FFlagPlayStationConditionedRunLoop": "True",
+  "FFlagPlaystationAvoidClusterSwitches": "True"
 }
