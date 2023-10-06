@@ -268,5 +268,6 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
-  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FIntLuaAppPresencePollingIntervalInSecondsV377": "120"
 }
