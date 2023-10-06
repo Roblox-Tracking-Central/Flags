@@ -279,5 +279,6 @@
   "DFFlagLuaOSTimeManual": "True",
   "FFlagLuaAppEnable10ftCloseSignupDropdown": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
-  "FFlagGuardTermOfUseByIsLinkAllowed": "True"
+  "FFlagGuardTermOfUseByIsLinkAllowed": "True",
+  "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True"
 }
