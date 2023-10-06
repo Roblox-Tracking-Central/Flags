@@ -7784,7 +7784,7 @@
   "FFlagStudioActionConversionGroup2": "True",
   "DFFlagCorrectCylinderSupportPoint": "True",
   "FFlagCorrectCachedSeparatingAxis": "True",
-  "FFlagFixRichTextLineHeight": "True",
+  "FFlagFixRichTextLineHeight": "False",
   "FFlagVersionedFlagTestNotDebug2": "True",
   "FFlagReportSelectedSoundDevice": "True",
   "FFlagStudioSelectionProxyConnectSignalLater": "True",
