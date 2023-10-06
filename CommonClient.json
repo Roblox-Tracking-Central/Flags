@@ -7984,6 +7984,7 @@
   "FFlagDevFrameworkSelectInputIcon": "True",
   "FFlagDisplayTopbarSafeInsetsInStudio": "True",
   "DFFlagMd5FlagHashMethodExperiment2": "True",
+  "FFlagFlagRolloutTestStaticBool4_Rollout": "False;60;2023-10-06T21:06:25",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
