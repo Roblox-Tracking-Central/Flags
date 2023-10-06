@@ -98,7 +98,6 @@
   "DFFlagAUMPAnalytics": "True",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "False",
-  "FLogSignalRNotification": "0",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -349,8 +348,8 @@
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
+  "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
-  "DFLogTrackHttpRequest": "0",
-  "FFlagStudioPrivateChannelSupport": "True"
+  "DFLogTrackHttpRequest": "0"
 }
