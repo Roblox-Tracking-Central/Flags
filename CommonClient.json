@@ -7713,7 +7713,7 @@
   "FFlagStudioSignalRToRobloxEventStream": "True",
   "FFlagAinStatusesV2Telemetry2": "True",
   "FFlagAinPreviewLighting": "True",
-  "FFlagAffineSkinning4": "True",
+  "FFlagAffineSkinning4": "False",
   "FFlagAffineSkinning4_PlaceFilter": "True;14891028303",
   "FFlagDynamicMeshSkinMorph": "False",
   "FFlagDynamicMeshSkinMorph_PlaceFilter": "True;14891028303",
