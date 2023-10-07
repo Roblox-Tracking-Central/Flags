@@ -98,6 +98,7 @@
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "False",
   "FFlagEnableInGameMenuModernization": "False",
+  "DFFlagYieldInsideSpinLoopOnPlayStation": "True",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
