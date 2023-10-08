@@ -247,7 +247,7 @@
   "DFFlagHangDetectionReport": "True",
   "FFlagBreakUpEventBusyLoop": "False",
   "FFlagBreakUpEventBusyLoopWithSleep": "False",
-  "FFlagPlayStationConditionedRunLoop": "True",
+  "FFlagPlayStationConditionedRunLoop": "False",
   "DFIntMemoryLargeCategorySizeMB": "10",
   "DFIntMemoryLogFreqSec": "30",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
