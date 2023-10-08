@@ -7983,6 +7983,7 @@
   "FFlagDevFrameworkSelectInputIcon": "True",
   "FFlagDisplayTopbarSafeInsetsInStudio": "True",
   "DFFlagMd5FlagHashMethodExperiment2": "True",
+  "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "False;15003439025",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
