@@ -7923,7 +7923,7 @@
   "FFlagToolboxEnableAudioSearchOptions5": "True",
   "FFlagToolboxAddSortIntentFiltering": "True",
   "FFlagToolboxTrackCurrentSubcategory2": "True",
-  "DFFlagFixBoneTransformChangedCrash": "False",
+  "DFFlagFixBoneTransformChangedCrash": "True",
   "DFFlagPreserveCollisionGroupNameForUnion": "True",
   "FFlagTouchEventSupportStreamingEnabledAnalytics1": "False",
   "FFlagNewCameraControls_SmoothCursorDelta": "True",
