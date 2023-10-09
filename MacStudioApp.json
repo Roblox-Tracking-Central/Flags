@@ -348,6 +348,7 @@
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
+  "FFlagUseExperienceService": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

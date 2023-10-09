@@ -444,5 +444,6 @@
   "EnablePushNotificationSessionUtilsAndroid": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagDisableAppLaunchFlowThrottling": "True"
+  "FFlagDisableAppLaunchFlowThrottling": "True",
+  "FFlagUseExperienceService": "True"
 }

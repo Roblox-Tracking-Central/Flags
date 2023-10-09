@@ -411,5 +411,6 @@
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagDisableAppLaunchFlowThrottling": "True"
+  "FFlagDisableAppLaunchFlowThrottling": "True",
+  "FFlagUseExperienceService": "True"
 }

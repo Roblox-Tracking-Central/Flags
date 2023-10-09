@@ -106,6 +106,7 @@
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
+  "FFlagUseExperienceService": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
