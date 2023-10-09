@@ -7990,6 +7990,8 @@
   "FFlagPlayStationConditionedRunLoop": "False",
   "DFFlagEnableDualWriteEphemeralCounterCrashToV2Counter": "True",
   "DFFlagEnableDualWriteEventCrashToV2Counter": "True",
+  "FFlagUserSearchAddLoadingReport": "True",
+  "FFlagVoiceUseUpdatedAudibilityTracking_Rollout": "True;60;2023-10-09T18:44:38",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
