@@ -20,7 +20,6 @@
   "DFIntLightstepHTTPTransportHundredthsPercent2": "100",
   "DFIntHttpCurlMaxConnectionsPerHost": "4",
   "FIntCrashUploadToBacktraceIOSPercentage": "1",
-  "DFIntSessionReportSuccessThrottleHundredthsPercent": "100",
   "FStringTextureFormatFilterString": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoaded",

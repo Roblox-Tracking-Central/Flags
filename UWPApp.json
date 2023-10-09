@@ -20,7 +20,6 @@
   "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
   "DFIntHttpCurlMaxConnectionsPerHost": "3",
   "FIntCrashUploadToBacktraceIOSPercentage": "1",
-  "DFIntSessionReportSuccessThrottleHundredthsPercent": "100",
   "FStringTextureFormatFilterString": "",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoaded",
