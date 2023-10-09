@@ -280,5 +280,6 @@
   "FFlagLuaAppEnable10ftCloseSignupDropdown": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True"
+  "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
+  "FFlagPlayStationConditionedRunLoop2": "True"
 }
