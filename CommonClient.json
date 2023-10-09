@@ -7990,6 +7990,8 @@
   "DFFlagAtomicPlayerStarterGuiNoReset_PlaceFilter": "False;15010330779",
   "FFlagSimAdornRendererAfterPhysicsSettingsChange_PlaceFilter": "False;15010330779",
   "FFlagPlayStationConditionedRunLoop": "False",
+  "FFlagLuauAutocompleteDoEnd_Rollout": "True;60;2023-10-09T16:10:33",
+  "FFlagCancelEventOnUnbindCAS_Rollout": "True;60;2023-10-09T16:19:17",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
