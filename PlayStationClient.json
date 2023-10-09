@@ -282,5 +282,6 @@
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
   "FFlagPlayStationConditionedRunLoop2": "True",
   "DFFlagLuaOsTimeManual": "True",
-  "FFlagDisableAppLaunchFlowThrottling": "False"
+  "FFlagDisableAppLaunchFlowThrottling": "False",
+  "DFIntSessionReportSuccessThrottleHundredthsPercent_Rollout": "100;60;2023-10-09T22:42:30"
 }
