@@ -338,5 +338,6 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagDisableAppLaunchFlowThrottling": "True"
+  "FFlagDisableAppLaunchFlowThrottling": "True",
+  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;60;2023-10-09T21:28:03"
 }
