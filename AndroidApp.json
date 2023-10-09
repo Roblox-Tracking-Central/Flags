@@ -443,5 +443,6 @@
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
-  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FFlagDisableAppLaunchFlowThrottling": "True"
 }

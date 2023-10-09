@@ -279,5 +279,6 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
-  "FFlagGuardTermOfUseByIsLinkAllowed": "True"
+  "FFlagGuardTermOfUseByIsLinkAllowed": "True",
+  "FFlagDisableAppLaunchFlowThrottling": "False"
 }

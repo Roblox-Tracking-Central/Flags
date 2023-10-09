@@ -410,5 +410,6 @@
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTTIDelayExperimentEnabled": "False",
-  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FFlagDisableAppLaunchFlowThrottling": "True"
 }

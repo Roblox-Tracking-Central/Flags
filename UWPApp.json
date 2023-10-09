@@ -269,5 +269,6 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
-  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False"
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FFlagDisableAppLaunchFlowThrottling": "True"
 }
