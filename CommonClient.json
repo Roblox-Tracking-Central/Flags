@@ -7998,6 +7998,7 @@
   "FFlagSynchronizeCallStateWithDatamodel_Rollout": "True;60;2023-10-09T19:06:48",
   "DFFlagAudioWiringApiTelemetry_Rollout": "True;60;2023-10-09T19:07:23",
   "FFlagLuaAppFetchHomeDataHandleFailure": "True",
+  "FFlagReportRecommendedExperienceSeeAllButtonClickEvent": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
