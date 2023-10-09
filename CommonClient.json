@@ -7992,6 +7992,7 @@
   "FFlagPlayStationConditionedRunLoop": "False",
   "FFlagLuauAutocompleteDoEnd_Rollout": "True;60;2023-10-09T16:10:33",
   "FFlagCancelEventOnUnbindCAS_Rollout": "True;60;2023-10-09T16:19:17",
+  "DFFlagSingularAssetRequestReportAccessoryOrPartName_Rollout": "True;60;2023-10-09T16:35:25",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
