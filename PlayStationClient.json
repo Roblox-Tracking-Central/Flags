@@ -276,10 +276,10 @@
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagTenFootUiDetectFocusFailure": "True",
   "FFlagTenFootUiFixAutoFocusRace": "True",
-  "DFFlagLuaOSTimeManual": "True",
   "FFlagLuaAppEnable10ftCloseSignupDropdown": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
-  "FFlagPlayStationConditionedRunLoop2": "True"
+  "FFlagPlayStationConditionedRunLoop2": "True",
+  "DFFlagLuaOsTimeManual": "True"
 }
