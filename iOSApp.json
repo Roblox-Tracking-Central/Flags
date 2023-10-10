@@ -239,7 +239,6 @@
   "FIntEnableStartGameAfterSignUp": "100",
   "FIntEventReporterBatchSize": "10",
   "FIntFixForBulkPresenceNotifications": "100",
-  "FIntGamePerfMonitorPercentage": "10",
   "FIntGraphicsVulkanARMVaryingBufferMb": "160",
   "FIntGraphicsVulkanMinAndroidVersion": "25",
   "FIntGraphicsVulkanMinDriverVersionPVR": "4981305",

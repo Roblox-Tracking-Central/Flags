@@ -228,7 +228,6 @@
   "FFlagVideoRecordFix": "True",
   "FFlagVideoRecordFix2": "True",
   "FIntCLI20390_2": "16",
-  "FIntGamePerfMonitorPercentage": "10",
   "FIntGameViewItemCap": "10000",
   "FIntGraphicsVulkanARMVaryingBufferMb": "160",
   "FIntGraphicsVulkanMinAndroidVersion": "25",
