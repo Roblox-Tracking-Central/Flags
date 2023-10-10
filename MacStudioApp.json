@@ -70,7 +70,6 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
-  "FFlagDragDetectors1": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "0",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "False",
   "FFlagFontAtlasMipsAndRefactor2": "True",

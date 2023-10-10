@@ -5128,6 +5128,7 @@
   "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "True",
   "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
+  "FFlagDragDetectors1": "True",
   "FFlagCOLLAB3629EnableCloudEditControllerOnWakeTelemetry": "True",
   "FFlagStudioRemoveEmptySplitters": "True",
   "FFlagStudioRemoveEmptySplittersTopological": "True",
