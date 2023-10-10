@@ -280,5 +280,6 @@
   "FFlagPlayStationConditionedRunLoop2": "True",
   "DFFlagLuaOsTimeManual": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "DFFlagHttpSslCertCacheEnabled": "False"
+  "DFFlagHttpSslCertCacheEnabled": "False",
+  "FFlagDeviceOrbisDefaultSwapChainTo1080p": "True"
 }
