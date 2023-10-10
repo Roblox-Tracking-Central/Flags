@@ -276,7 +276,7 @@
   "FFlagTenFootUiDetectFocusFailure": "True",
   "FFlagTenFootUiFixAutoFocusRace": "True",
   "FFlagLuaAppEnable10ftCloseSignupDropdown": "True",
-  "FFlagEnableCentralOverlayForUpsellPrompt": "True",
+  "FFlagEnableCentralOverlayForUpsellPrompt": "False",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
   "FFlagPlayStationConditionedRunLoop2": "True",

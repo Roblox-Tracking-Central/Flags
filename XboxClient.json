@@ -274,7 +274,7 @@
   "DFLogHttpCache": "6",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagEnableCentralOverlayForUpsellPrompt": "True",
+  "FFlagEnableCentralOverlayForUpsellPrompt": "False",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False"
 }
