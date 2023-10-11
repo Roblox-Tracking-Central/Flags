@@ -7775,7 +7775,6 @@
   "FFlagAddFriendsIAExperiment_v2": "True",
   "FFlagUseUpdatedModelToGetHumanoid": "True",
   "FFlagEnableEvaluateStateMachine3": "True",
-  "FFlagUseCompositedPoseForLowerTorso": "True",
   "DFFlagAddSessionIdToDisconnectEvent": "True",
   "FFlagUpdatedGetDescendants": "True",
   "DFFlagAsyncHttpQueuePriority": "True",
