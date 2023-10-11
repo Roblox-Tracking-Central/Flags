@@ -334,5 +334,6 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagRefactorGuiRTCacheImpl2": "True",
-  "FFlagEditProfileSetupNewExperimentFlow": "True"
+  "FFlagEditProfileSetupNewExperimentFlow": "True",
+  "FFlagFixExperienceDetailsPageIssues2": "True"
 }
