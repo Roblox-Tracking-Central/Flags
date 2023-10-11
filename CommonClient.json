@@ -8030,6 +8030,7 @@
   "FFlagFixLocalScriptsUnderTestService2": "True",
   "FFlagEnableFmodSoundLoaderChanges": "True",
   "DFFlagFixControllerManagerHumanoidParallel_PlaceFilter": "False;15017701560",
+  "FFlagDevFrameworkAssetRenderModelCornerRadius": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
