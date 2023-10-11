@@ -275,7 +275,7 @@
   "FFlagBetterTrackpadScrolling": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
-  "FFlagUniversalAppCsat": "True",
+  "FFlagUniversalAppCsat": "False",
   "DFFlagSimHumanoidNewStopOverlap_PlaceFilter": "False;2573981315;6317172524;4999654929",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersMacClient",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
@@ -332,7 +332,7 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagDisableAppLaunchFlowThrottling": "True",
+  "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True"
 }

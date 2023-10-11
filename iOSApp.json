@@ -308,7 +308,7 @@
   "DFFlagPredictedOOM": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageiOS",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataiOS",
-  "FFlagUniversalAppCsat": "True",
+  "FFlagUniversalAppCsat": "False",
   "FFlagLuaVerifiedSignupExperiment2": "True",
   "FFlagDestroyDMBeforeJoiningExperience": "True",
   "DFIntLaunchUGCExperienceWithExistingDMHundredthPercentage": "300",
@@ -405,7 +405,7 @@
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagDisableAppLaunchFlowThrottling": "True",
+  "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagUseExperienceService": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True"
 }
