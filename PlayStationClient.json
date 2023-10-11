@@ -281,5 +281,6 @@
   "DFFlagLuaOsTimeManual": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "DFFlagHttpSslCertCacheEnabled": "False",
-  "FFlagDeviceOrbisDefaultSwapChainTo1080p": "True"
+  "FFlagDeviceOrbisDefaultSwapChainTo1080p": "True",
+  "FFlagReportBackgroundEvents": "True"
 }
