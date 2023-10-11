@@ -332,5 +332,6 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FFlagDisableAppLaunchFlowThrottling": "True"
+  "FFlagDisableAppLaunchFlowThrottling": "True",
+  "FFlagEditProfileSetupNewExperimentFlow": "True"
 }

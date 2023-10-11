@@ -439,5 +439,7 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
-  "FFlagUseExperienceService": "True"
+  "FFlagUseExperienceService": "True",
+  "FFlagEditProfileSetupNewExperimentFlow": "True",
+  "FFlagConvertCallbackModeToExcludedTunables_Rollout": "True;30;2023-10-11T22:11:50"
 }
