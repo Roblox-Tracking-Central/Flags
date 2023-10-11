@@ -8035,6 +8035,7 @@
   "FFlagRbxAnalyticsSessions": "True",
   "FFlagXboxAttachDeviceIdToSessions": "True",
   "FFlagXboxClassicUseSessions": "True",
+  "FFlagDevFrameworkTextInputBottomComponent": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
