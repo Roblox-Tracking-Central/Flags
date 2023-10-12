@@ -408,6 +408,6 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagUseExperienceService": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
-  "FFlagGpuGeometryManager9_Rollout": "True;60;2023-10-12T18:01:11",
-  "FFlagNotchSupportExperimentTrackExposure_Rollout": "True;30;2023-10-12T18:47:57"
+  "FFlagGpuGeometryManager9": "True",
+  "FFlagNotchSupportExperimentTrackExposure": "True"
 }
