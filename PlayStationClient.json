@@ -244,7 +244,7 @@
   "FFlagBreakUpEventBusyLoop": "True",
   "FFlagBreakUpEventBusyLoopWithSleep": "False",
   "DFIntMemoryLargeCategorySizeMB": "10",
-  "DFIntMemoryLogFreqSec": "30",
+  "DFIntMemoryLogFreqSec": "0",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFFlagHttpCacheReportCleanReason": "True",
   "DFFlagHttpReplaceBoostSpaceTemp": "True",

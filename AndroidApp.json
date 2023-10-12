@@ -446,5 +446,7 @@
   "FFlagUpdateCheckOnLogin": "True",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
-  "FFlagGpuGeometryManager9_Rollout": "True;60;2023-10-12T19:58:47"
+  "FStringEditProfileOpened": "EditProfileOpenedAndroid",
+  "FFlagUserProfileBetterErrors": "True",
+  "FFlagGpuGeometryManager9": "True"
 }

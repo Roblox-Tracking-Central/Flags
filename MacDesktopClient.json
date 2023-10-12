@@ -335,5 +335,6 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
-  "FFlagFixExperienceDetailsPageIssues2": "True"
+  "FFlagFixExperienceDetailsPageIssues2": "True",
+  "FStringEditProfileOpened": "EditProfileOpenedMacClient"
 }

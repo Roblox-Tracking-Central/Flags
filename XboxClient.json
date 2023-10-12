@@ -274,5 +274,6 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagEnableCentralOverlayForUpsellPrompt": "False",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FFlagDisableAppLaunchFlowThrottling": "False"
+  "FFlagDisableAppLaunchFlowThrottling": "False",
+  "FStringXboxUARolloutGroups": "aaBB"
 }
