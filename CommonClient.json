@@ -8048,6 +8048,7 @@
   "FFlagStudioStartPageUIControllerStateMachine": "True",
   "FFlagDisableGameSettingsAvatarPreview": "True",
   "FFlagStudioHonorFloatingPluginRequestedSizeUponFirstShowing": "True",
+  "DFFlagDestroyedModuleRequireWarning": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
