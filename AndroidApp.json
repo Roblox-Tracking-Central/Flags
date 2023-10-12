@@ -440,5 +440,6 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagUseExperienceService": "True",
-  "FFlagEditProfileSetupNewExperimentFlow": "True"
+  "FFlagEditProfileSetupNewExperimentFlow": "True",
+  "EnableSendrChatNotificationReply": "True"
 }
