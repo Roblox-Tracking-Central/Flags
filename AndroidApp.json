@@ -441,5 +441,6 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagUseExperienceService": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
-  "EnableSendrChatNotificationReply": "True"
+  "EnableSendrChatNotificationReply": "True",
+  "FFlagNotchSupportExperimentTrackExposure_Rollout": "True;30;2023-10-12T18:47:57"
 }
