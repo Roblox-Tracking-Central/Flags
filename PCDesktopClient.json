@@ -335,5 +335,5 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FFlagGpuGeometryManager9_Rollout": "True;60;2023-10-12T16:51:10"
+  "FFlagGpuGeometryManager9": "True"
 }
