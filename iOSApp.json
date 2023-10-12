@@ -412,5 +412,6 @@
   "FFlagGpuGeometryManager9": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
   "FStringEditProfileOpened": "EditProfileOpenediOS",
-  "FFlagUserProfileBetterErrors": "True"
+  "FFlagUserProfileBetterErrors": "True",
+  "FFlagUserProfilesEnableRetries": "True"
 }

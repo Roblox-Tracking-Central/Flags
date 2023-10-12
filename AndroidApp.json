@@ -449,5 +449,6 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringEditProfileOpened": "EditProfileOpenedAndroid",
   "FFlagUserProfileBetterErrors": "True",
-  "FFlagGpuGeometryManager9": "True"
+  "FFlagGpuGeometryManager9": "True",
+  "FFlagUserProfilesEnableRetries": "True"
 }

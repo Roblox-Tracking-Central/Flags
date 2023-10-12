@@ -346,7 +346,6 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUseExperienceService": "True",
-  "FFlagGpuGeometryManager9_Rollout": "True;60;2023-10-12T21:19:00",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

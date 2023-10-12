@@ -119,7 +119,6 @@
   "FFlagFriendCarouselLocalShowRecommendationsLogic": "True",
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": "True",
   "FFlagFriendsCarouselUsesAppLogger": "True",
-  "FFlagLuaAppUpdateFriendStatusesReducer": "True",
   "FFlagPassInCloseCentralOverlayToChildren": "True",
   "FFlagPlayerContextualMenuAlwaysShowReportAndBlock": "True",
   "FFlagPlayerContextualMenuFriendRequestResponses": "True",
