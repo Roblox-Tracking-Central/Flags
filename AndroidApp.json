@@ -440,6 +440,5 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagUseExperienceService": "True",
-  "FFlagEditProfileSetupNewExperimentFlow": "True",
-  "FFlagConvertCallbackModeToExcludedTunables": "True"
+  "FFlagEditProfileSetupNewExperimentFlow": "True"
 }
