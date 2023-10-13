@@ -336,7 +336,6 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FFlagGpuGeometryManager9": "True",
   "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
   "FFlagUserProfileBetterErrors": "True"
 }
