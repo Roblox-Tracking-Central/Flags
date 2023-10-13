@@ -338,5 +338,6 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FStringEditProfileOpened": "EditProfileOpenedMacClient",
-  "FFlagUserProfileBetterErrors": "True"
+  "FFlagUserProfileBetterErrors": "True",
+  "FFlagUserProfilesEnableRetries": "True"
 }
