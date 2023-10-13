@@ -444,9 +444,6 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "EnableSendrChatNotificationReply": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
-  "FFlagUpdateCheckOnLogin": "True",
-  "AndroidInitializeAndroidUpdateAdapter": "True",
-  "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringEditProfileOpened": "EditProfileOpenedAndroid",
   "FFlagUserProfileBetterErrors": "True",
   "FFlagUserProfilesEnableRetries": "True"
