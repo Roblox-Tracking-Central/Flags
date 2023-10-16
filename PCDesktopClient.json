@@ -336,5 +336,10 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringEditProfileOpened": "EditProfileOpenedWindowsClient"
+  "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginWindowsClient",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailWindowsClient",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient"
 }

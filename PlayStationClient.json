@@ -281,5 +281,10 @@
   "DFFlagHttpSslCertCacheEnabled": "False",
   "FFlagDeviceOrbisDefaultSwapChainTo1080p": "True",
   "FFlagReportBackgroundEvents": "True",
-  "FFlagPlaystationAvoidClusterSwitches2": "True"
+  "FFlagPlaystationAvoidClusterSwitches2": "True",
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginPlayStation",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailPlayStation",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryPlayStation",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessPlayStation",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryPlayStation"
 }

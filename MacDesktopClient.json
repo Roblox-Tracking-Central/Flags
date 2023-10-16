@@ -337,5 +337,10 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringEditProfileOpened": "EditProfileOpenedMacClient"
+  "FStringEditProfileOpened": "EditProfileOpenedMacClient",
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginMacClient",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailMacClient",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient"
 }

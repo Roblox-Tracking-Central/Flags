@@ -276,5 +276,10 @@
   "FFlagEnableCentralOverlayForUpsellPrompt": "False",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FStringXboxUARolloutGroups": "AABBccDDDDDDDDDDDDDD"
+  "FStringXboxUARolloutGroups": "AABBccDDDDDDDDDDDDDD",
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginXBoxClient",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailXBoxClient",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient"
 }

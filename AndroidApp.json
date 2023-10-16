@@ -444,5 +444,10 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "EnableSendrChatNotificationReply": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
-  "FStringEditProfileOpened": "EditProfileOpenedAndroid"
+  "FStringEditProfileOpened": "EditProfileOpenedAndroid",
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginAndroid",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailAndroid",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryAndroid",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessAndroid",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryAndroid"
 }

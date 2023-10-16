@@ -411,5 +411,10 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
   "FStringEditProfileOpened": "EditProfileOpenediOS",
-  "FFlagEnableiOSReservedServerJoin": "True"
+  "FFlagEnableiOSReservedServerJoin": "True",
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginiOS",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailiOS",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS"
 }
