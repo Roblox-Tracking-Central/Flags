@@ -98,7 +98,6 @@
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "True",
   "DFFlagYieldInsideSpinLoopOnPlayStation": "False",
-  "FFlagFixPlayerListOpenOnLaunch_Rollout": "True;60;2023-10-16T21:23:13",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
