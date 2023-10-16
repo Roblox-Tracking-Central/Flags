@@ -444,5 +444,6 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "EnableSendrChatNotificationReply": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
-  "FStringEditProfileOpened": "EditProfileOpenedAndroid"
+  "FStringEditProfileOpened": "EditProfileOpenedAndroid",
+  "FFlagUserProfilesEnableRetries": "True"
 }
