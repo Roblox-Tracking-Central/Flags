@@ -336,6 +336,5 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
-  "FFlagUserProfilesEnableRetries": "True"
+  "FStringEditProfileOpened": "EditProfileOpenedWindowsClient"
 }

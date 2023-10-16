@@ -411,6 +411,5 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
   "FStringEditProfileOpened": "EditProfileOpenediOS",
-  "FFlagEnableiOSReservedServerJoin": "True",
-  "FFlagUserProfilesEnableRetries": "True"
+  "FFlagEnableiOSReservedServerJoin": "True"
 }
