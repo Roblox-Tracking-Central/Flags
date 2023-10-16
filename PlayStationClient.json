@@ -285,5 +285,8 @@
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailPlayStation",
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryPlayStation",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessPlayStation",
-  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryPlayStation"
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryPlayStation",
+  "FFlagGraphicsEnableOrbisContextNullResource": "True",
+  "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
+  "FFlagUndoTextureManagerStudioCursorHack": "True"
 }
