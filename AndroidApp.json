@@ -449,5 +449,6 @@
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailAndroid",
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryAndroid",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessAndroid",
-  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryAndroid"
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryAndroid",
+  "EnableIrisGameJoinAndroid2": "True"
 }

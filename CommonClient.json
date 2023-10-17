@@ -8165,6 +8165,7 @@
   "DFFlagHttpUnifyCacheCleanup": "True",
   "DFFlagHttpCacheCleanScheduleUseFastInt": "True",
   "FFlagFixBigModelUploadCrash": "True",
+  "FFlagUserProfilesLogErrorCodes": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
