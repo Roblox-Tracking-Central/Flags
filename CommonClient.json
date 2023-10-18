@@ -8131,7 +8131,6 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack": "True",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack_PlaceFilter": "True;12123120785",
-  "DFFlagOptimizeAutosaveInterval2": "True",
   "FFlagScreenshotsUseTopbarInsetHeight": "True",
   "FFlagRefactorGeometryGenerator3": "True",
   "DFFlagFixSoundTunableMemoryCurveIssueWithNonMonotonicity": "True",
