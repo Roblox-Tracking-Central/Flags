@@ -456,5 +456,6 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessAndroid",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryAndroid",
   "EnableIrisGameJoinAndroid2": "True",
-  "EnableCallNotificationHandler4": "True"
+  "EnableCallNotificationHandler4": "True",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;30;2023-10-18T16:57:49"
 }

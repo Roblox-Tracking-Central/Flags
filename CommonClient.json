@@ -8171,6 +8171,7 @@
   "FFlagStudioTutorialDockingLayoutCustomization2": "True",
   "FFlagMaterialGeneratorRemoveAccounting_Rollout": "True;30;2023-10-18T16:34:38",
   "FFlagConcurrentMaterialMapsRequests_Rollout": "True;30;2023-10-18T16:35:26",
+  "FStringToolboxAssetConfigDisabledVideoSharingLearnMoreLink": "https://create.roblox.com/docs/ui/video-assets#video-asset-privacy-system",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
