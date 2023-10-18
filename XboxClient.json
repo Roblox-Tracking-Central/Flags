@@ -285,5 +285,18 @@
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailXBoxClient",
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
-  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient"
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
+  "FFlagApolloClientUserProfileReadPolicy": "True",
+  "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
+  "DFFlagHttpCacheReportCleanReason": "True",
+  "DFIntHttpCacheCleanCheckAfterKB": "1048576",
+  "FFlagAuthDisclaimerUseArgs": "True",
+  "FFlagAddMenuNavigationToggleDialog": "True",
+  "FFlagAddPreviousPageToLuaPageLoad": "True",
+  "FFlagAvatarSceneManagerSwitchTabFix": "True",
+  "FFlagAppConfigurerEnabled2": "True",
+  "FFlagAvatarBackgroundManagementOptional": "True",
+  "FFlagAddFriendsComponentsTransparent": "True",
+  "FFlagAddFriendsPageUseToken": "True",
+  "FFlagAddExperienceGuidelinesToActionBar10ft1": "True"
 }
