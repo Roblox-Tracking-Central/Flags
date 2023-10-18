@@ -8201,6 +8201,7 @@
   "FFlagAinRemoveRigVizProp": "True",
   "FFlagAinTelemetryForSettings": "True",
   "FIntCloudTestFetchTimeoutSeconds_Rollout": "30;20;2023-10-18T23:26:24",
+  "FFlagAUMApplyNoNecks_Rollout": "True;60;2023-10-18T23:46:18",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
