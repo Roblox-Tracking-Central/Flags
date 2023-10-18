@@ -116,7 +116,6 @@
   "FFlagUIBloxIncreaseImageResolutionForTenFoot": "True",
   "FFlagUIBloxUseTokensInPlayerTile": "True",
   "FFlagApolloClientUserProfileReadPolicy": "True",
-  "FFlagFriendCarouselContainerRefactor": "True",
   "FFlagFriendCarouselFetchHandleRejections": "True",
   "FFlagFriendCarouselGetCarouseListSorting": "True",
   "FFlagFriendCarouselHas10ftPolicies": "True",
