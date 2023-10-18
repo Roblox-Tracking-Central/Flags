@@ -293,5 +293,5 @@
   "FFlagGraphicsEnableOrbisContextNullResource": "True",
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "FFlagUndoTextureManagerStudioCursorHack": "True",
-  "DFIntHttpCacheCleanScheduleAfterMs_Rollout": "30000;60;2023-10-18T19:33:54"
+  "DFIntHttpCacheCleanScheduleAfterMs": "30000"
 }
