@@ -458,5 +458,6 @@
   "EnableCallNotificationHandler4": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True"
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
+  "FFlagEnablePerformanceControlStreamingDistance2_Rollout": "True;30;2023-10-18T23:19:02"
 }
