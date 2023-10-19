@@ -102,6 +102,7 @@
   "FFlagUISelectionJumping3": "False",
   "FFlagEnableInGameMenuModernization": "False",
   "DFFlagYieldInsideSpinLoopOnPlayStation": "True",
+  "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

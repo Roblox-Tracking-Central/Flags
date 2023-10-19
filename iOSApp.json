@@ -102,6 +102,7 @@
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "True",
   "DFFlagYieldInsideSpinLoopOnPlayStation": "False",
+  "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
