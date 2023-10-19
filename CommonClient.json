@@ -8209,6 +8209,8 @@
   "FFlagWebRtcStackEnableLimits": "True",
   "DFFlagOptimizeAutosaveInterval2": "True",
   "FFlagStudioTutorialDockingLayoutCustomization2": "True",
+  "FFlagStudioAddScopeEnterExitTelemetry": "True",
+  "FFlagLuauInlineArrConstOffset_Rollout": "True;30;2023-10-19T17:51:11",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
