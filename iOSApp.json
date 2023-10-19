@@ -318,7 +318,6 @@
   "FFlagDestroyDMBeforeJoiningExperience": "True",
   "DFIntLaunchUGCExperienceWithExistingDMHundredthPercentage": "300",
   "DFFlagPredictedOOMMessage": "True",
-  "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersiOS",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadediOS",
   "FFlagDestorySurfaceBeforeDestroyUGCDM": "True",

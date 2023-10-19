@@ -96,7 +96,7 @@
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
-  "FFlagEnablePerformanceControlStreamingDistance2": "False",
+  "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
@@ -306,7 +306,6 @@
   "FFlagLuaBridgePropertyProfiling": "False",
   "FFlagLuaBridgeMethodProfiling": "False",
   "HandleSecureCookie": "True",
-  "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "DFFlagCLI52218a": "True",
   "DFFlagCLI52218ad": "True",
   "DFFlagCLI52218ag": "True",
@@ -458,6 +457,5 @@
   "EnableCallNotificationHandler4": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
-  "FFlagEnablePerformanceControlStreamingDistance2_Rollout": "True;30;2023-10-18T23:19:02"
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True"
 }
