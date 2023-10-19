@@ -8208,6 +8208,7 @@
   "DFIntWebRtcStackMaximumSizeKB": "128",
   "FFlagWebRtcStackEnableLimits": "True",
   "DFFlagOptimizeAutosaveInterval2": "True",
+  "FFlagStudioTutorialDockingLayoutCustomization2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
