@@ -75,7 +75,6 @@
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
-  "FIntEnableCullableScene2HundredthPercent2": "000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
   "FFlagFontAtlasMipsAndRefactor2": "True",
   "FFlagAXGridRefactorForWidgets2": "True",
