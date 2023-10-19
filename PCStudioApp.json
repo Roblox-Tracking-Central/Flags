@@ -342,7 +342,7 @@
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
   "FFlagGamepadDeviceTypeSelectionFix": "True",
-  "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled": "True",
+  "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
