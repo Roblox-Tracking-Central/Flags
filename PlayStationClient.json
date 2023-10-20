@@ -292,5 +292,7 @@
   "FFlagGraphicsEnableOrbisContextNullResource": "True",
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "FFlagUndoTextureManagerStudioCursorHack": "True",
-  "DFIntHttpCacheCleanScheduleAfterMs": "30000"
+  "DFIntHttpCacheCleanScheduleAfterMs": "30000",
+  "FFlagLuaAppEnableRelinkingCooldownError": "True",
+  "FFlagLuaAppFix10ftSignUpDropdown": "True"
 }
