@@ -8245,6 +8245,7 @@
   "DFFlagAddMultToEventIngest": "True",
   "DFFlagEfficientBitstreamPackingV2": "True",
   "DFFlagEnableAdaptiveEffectPredictorShadow": "True",
+  "DFIntVideoStatsInfluxReportHundredthsPercent_Rollout": "10;60;2023-10-20T22:44:10",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
