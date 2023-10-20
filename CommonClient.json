@@ -7826,7 +7826,7 @@
   "DFFlagLuaIterCallTelemetry": "True",
   "DFIntLuaIterCallInfluxHundrethsPercentage": "100",
   "FFlagVideoFixTempPlacePermissionRequest": "True",
-  "FFlagUserSearchAddSessionIdToURL": "True",
+  "FFlagUserSearchAddSessionIdToURL": "False",
   "FFlagAutoUpgradeEnableVersionCheckWithChannels": "True",
   "FFlagUGCValidationAnalytics": "True",
   "FFlagSimSolverEnableLookAtConstraint2": "False",
