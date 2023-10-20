@@ -314,5 +314,20 @@
   "FFlagAXRetryAvatarLoadOnTabSwitch": "True",
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagTenFootUiDetectFocusFailure": "True",
-  "FFlagTenFootUiFixAutoFocusRace": "True"
+  "FFlagTenFootUiFixAutoFocusRace": "True",
+  "FFlagEnablePlatformName": "True",
+  "FFlagEnableActionBarTokens": "True",
+  "FFlagEnableFriendsLandingControllerBar2": "True",
+  "FFlagEnableFriendsListAnimation": "True",
+  "FFlagEnableMediaGalleryDesignTokens": "True",
+  "FFlagEnableAbuseReport10ft2": "True",
+  "FFlagEnableExperienceDetailsFuncComponent": "True",
+  "FFlagEndOfScrollCursor": "True",
+  "FFlagEnableUseShowTopBar4": "False",
+  "FFlagEnableTenFootInterfaceCheckForLegacyChat": "True",
+  "FFlagEnableTopBarPageWrapper": "True",
+  "FFlagEnableAddFriendsPageSearchBar": "True",
+  "FFlagEnableAEScrollingListSelectionFix": "True",
+  "FFlagEnableBigGameIconInDetailsPage": "True",
+  "FFlagEnableTenftUiDetailsMoreDropupMenu": "True"
 }
