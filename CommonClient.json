@@ -8241,6 +8241,7 @@
   "FFlagRoactChatFixProfileClickFocus": "True",
   "DFFlagPolicyServiceMigrationEndpointsEnabled2_Rollout": "True;60;2023-10-20T17:22:24",
   "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2_Rollout": "1;60;2023-10-20T17:22:24",
+  "FFlagScriptEditorLiveEditingTelemetryRename2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
