@@ -457,5 +457,10 @@
   "EnableCallNotificationHandler4": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True"
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
+  "DFFlagCheckAdviceContextValid": "True",
+  "DFFlagIncludeAndroidAdviceAPIFreeOsMemForComparisonForSessionTracking3": "True",
+  "DFFlagIncludeExpandedAndroidAdviceStatsPerfData2": "True",
+  "DFFlagMemoryAdviceReorderAPICheck": "True",
+  "DFFlagUseAndroidMemoryAdviceLibrary6": "True"
 }
