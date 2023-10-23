@@ -294,5 +294,6 @@
   "FFlagUndoTextureManagerStudioCursorHack": "True",
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
   "FFlagLuaAppEnableRelinkingCooldownError": "True",
-  "FFlagLuaAppFix10ftSignUpDropdown": "True"
+  "FFlagLuaAppFix10ftSignUpDropdown": "True",
+  "FFlagLuaAppEnable10ftPrivacyLink": "True"
 }
