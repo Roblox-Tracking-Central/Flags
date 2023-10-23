@@ -103,6 +103,7 @@
   "DFFlagYieldInsideSpinLoopOnPlayStation": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
+  "FFlagSettingsHubButtonCanBeDisabled_Rollout": "True;60;2023-10-23T19:25:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
