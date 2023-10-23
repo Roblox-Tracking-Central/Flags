@@ -316,7 +316,6 @@
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagTenFootUiDetectFocusFailure": "True",
   "FFlagTenFootUiFixAutoFocusRace": "True",
-  "FFlagEnablePlatformName": "True",
   "FFlagEnableActionBarTokens": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagEnableFriendsListAnimation": "True",

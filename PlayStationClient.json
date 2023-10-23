@@ -131,7 +131,6 @@
   "FFlagUserProfilePlatformName": "True",
   "FFlagLocalUserGameVoteCounterReducer": "True",
   "FFlagDeviceRestrictedErrorShowDevice": "True",
-  "FFlagEnablePlatformName": "True",
   "FFlagLuaAppEnable10ftSignUpView": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagRefactorAuthPageForTenFoot": "True",
