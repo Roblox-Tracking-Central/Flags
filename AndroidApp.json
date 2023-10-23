@@ -464,5 +464,5 @@
   "DFFlagIncludeExpandedAndroidAdviceStatsPerfData2": "True",
   "DFFlagMemoryAdviceReorderAPICheck": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary6": "True",
-  "FFlagEnableSeamlessForceOTAUpdate2_Rollout": "True;60;2023-10-23T20:36:01"
+  "FFlagEnableSeamlessForceOTAUpdate2": "True"
 }
