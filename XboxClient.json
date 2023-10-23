@@ -287,7 +287,6 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
-  "FFlagApolloClientUserProfileReadPolicy": "True",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFFlagHttpCacheReportCleanReason": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "1048576",
@@ -338,7 +337,6 @@
   "FFlagFriendsCarouselUsesAppLogger": "True",
   "FFlagExpDetailsUseSelectionBumpers": "True",
   "FFlagFixIgnoreAllGamepad": "True",
-  "FFlagFixPlayersLoadingState": "True",
   "FFlagFixTenFootUiExperienceGridPadding": "True",
   "FFlagFriendsLandingSafeAreaPadding": "True",
   "FFlagExperienceDetailsPlayButtonAutoFocus10ft": "True",
@@ -346,5 +344,6 @@
   "FFlagFixTenFootUiMorePage": "True",
   "FFlagFixDescendantHasFocusInitialValue": "True",
   "FFlagExperienceDetailsTextUseTokens": "True",
-  "FFlagFixGamepadDisconnectHighlight2": "True"
+  "FFlagFixGamepadDisconnectHighlight2": "True",
+  "FFlagLuaAppEnable10ftPrivacyLink": "True"
 }
