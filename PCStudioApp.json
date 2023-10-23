@@ -343,6 +343,8 @@
   "DFFlagSimHumanoidPhysics": "True",
   "FFlagGamepadDeviceTypeSelectionFix": "True",
   "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled": "False",
+  "FFlagLuauLintDeprecatedFenv_Rollout": "True;60;2023-10-23T17:43:21",
+  "FFlagLuauLintTableIndexer_Rollout": "True;60;2023-10-23T17:43:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

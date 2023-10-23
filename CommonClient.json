@@ -8257,6 +8257,8 @@
   "DFIntTimeCurveCurrentEncodingVersion": "1",
   "DFIntWiringApiReportingHundredthsPercent_Rollout": "100;60;2023-10-23T17:19:13",
   "FFlagFixOutdoorIbl_Rollout": "True;60;2023-10-23T17:25:44",
+  "DFIntPointsMods_Rollout": "100;60;2023-10-23T17:39:39",
+  "FFlagProfileQrCodeScannerFollowUps": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
