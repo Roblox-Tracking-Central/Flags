@@ -269,7 +269,7 @@
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentEnabled": "True",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True"

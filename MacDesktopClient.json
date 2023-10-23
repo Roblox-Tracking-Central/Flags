@@ -337,7 +337,7 @@
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentEnabled": "True",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagRefactorGuiRTCacheImpl2": "True",
