@@ -8312,6 +8312,7 @@
   "FFlagOpenCloudCoreScriptLuaEnabled": "False",
   "FFlagOpenCloudCoreScriptLuaEnabled_PlaceFilter": "True;15107017654",
   "FFlagStudioComponentizeRoblox_Rollout": "True;60;2023-10-24T23:33:59",
+  "DFIntPlayStationIAPTelemetryThrottleHundredthsPercent_Rollout": "10000;60;2023-10-24T23:45:00",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
