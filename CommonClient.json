@@ -8289,6 +8289,8 @@
   "FFlagEnableIrisDua": "True",
   "FFlagDecodeToastPayload": "True",
   "FIntAssetImportMaxPresetNameLength": "50",
+  "DFIntCallsBetweenUnreliablePing_Rollout": "1;20;2023-10-24T16:08:12",
+  "FFlagLuauInitializeStringMetatableInGlobalTypes_Rollout": "True;60;2023-10-24T16:14:24",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
