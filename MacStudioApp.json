@@ -357,5 +357,6 @@
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
-  "DFLogTrackHttpRequest": "0"
+  "DFLogTrackHttpRequest": "0",
+  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;60;2023-10-24T21:07:43"
 }
