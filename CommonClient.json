@@ -8289,7 +8289,7 @@
   "FFlagEnableIrisDua": "True",
   "FFlagDecodeToastPayload": "True",
   "FIntAssetImportMaxPresetNameLength": "50",
-  "FFlagLuauInitializeStringMetatableInGlobalTypes_Rollout": "True;60;2023-10-24T16:14:24",
+  "FFlagLuauInitializeStringMetatableInGlobalTypes": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
