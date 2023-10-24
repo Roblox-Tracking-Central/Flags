@@ -8307,6 +8307,7 @@
   "FFlagStudioFeatureActivityTrackerAllowEndNonExistentSession": "True",
   "FFlagStudioFeatureActivityTrackerFixCrashOnSleep": "True",
   "FFlagUIBloxToastButtonTypesAutoAlignAndNoBorder": "True",
+  "FFlagScriptEditorStandardIcons_Rollout": "True;60;2023-10-24T21:34:27",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
