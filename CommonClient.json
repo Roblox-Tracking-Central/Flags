@@ -8293,6 +8293,7 @@
   "FFlagVoiceChatStreamingGrpcEnablePotentialRaceConditionFix2": "True",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;12123120785;9096881148;13772394625;12699642568;2788229376",
+  "FFlagLuauAutocompleteDoEnd_Rollout": "True;60;2023-10-24T19:43:39",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
