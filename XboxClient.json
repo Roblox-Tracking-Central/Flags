@@ -345,5 +345,21 @@
   "FFlagFixDescendantHasFocusInitialValue": "True",
   "FFlagExperienceDetailsTextUseTokens": "True",
   "FFlagFixGamepadDisconnectHighlight2": "True",
-  "FFlagLuaAppEnable10ftPrivacyLink": "True"
+  "FFlagLuaAppEnable10ftPrivacyLink": "True",
+  "FFlagLocalUserGameVoteCounterReducer": "True",
+  "FFlagLuaAppEnable10ftSignUpView": "True",
+  "FFlagLuaAppNavigationAnalytics": "True",
+  "FFlagGamesListBackgroundFix": "True",
+  "FFlagGridCarouselHeaderHeightFix": "True",
+  "FFlagLuaAppMorePageRefactor2": "True",
+  "FFlagLegacyInputBindingsInControllerBar": "True",
+  "FFlagLuaAppLaunchConnectorFix2": "True",
+  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
+  "FFlagLuaAppLocalizationConsistencyFixes": "True",
+  "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
+  "FFlagLuaAppEnable10ftCloseSignupDropdown": "True",
+  "FFlagLuaAppEnable10ftPlatformName": "True",
+  "FFlagLuaAppExperienceDescriptionPanel3": "True",
+  "FFlagLuaAppExperienceInfoPanel2": "True",
+  "FFlagHttpRequestMsxmlLeakFix": "True"
 }
