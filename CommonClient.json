@@ -8335,6 +8335,7 @@
   "DFIntLiveScriptingSessionRolloutPercent": "1",
   "DFFlagStreamingPreMinimumStats_Rollout": "True;60;2023-10-25T22:34:36",
   "DFIntPostJoinSetsStatsHundredths_Rollout": "100;60;2023-10-25T22:34:54",
+  "DFFlagTouchEventSupportStreamingEnabledAnalyticsEarlyOut_Rollout": "True;60;2023-10-25T22:45:07",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
