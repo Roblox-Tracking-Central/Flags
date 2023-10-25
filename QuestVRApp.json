@@ -465,7 +465,7 @@
   "DFFlagMemoryAdviceReorderAPICheck": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary6": "True",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
-  "FFlagUpdateCheckOnLogin": "True",
+  "FFlagUpdateCheckOnLogin": "False",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
