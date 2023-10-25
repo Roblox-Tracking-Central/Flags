@@ -362,5 +362,20 @@
   "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagHttpRequestMsxmlLeakFix": "True",
-  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient"
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",
+  "FFlagRefactorAuthPageForTenFoot": "True",
+  "FFlagRefactorBirthdayPicker": "True",
+  "FFlagTenFootUiDisableContactImporter": "True",
+  "FFlagSupportsOverscanPolicy": "True",
+  "FFlagTenFootUiAchievements": "True",
+  "FFlagTenFootUiCategoryTabRemovePadding": "True",
+  "FFlagTenFootUiDisableInviteFriends": "True",
+  "FFlagRefactorGuiRTCacheImpl2": "True",
+  "FFlagTenFootUiCategoryTabSafeArea": "True",
+  "FFlagShareGamePageNullCheckEnabled": "True",
+  "FFlagTenFootGameSortImpressionsScrollFix": "True",
+  "FFlagTenFootUiEnableCrossPlay": "True",
+  "FFlagSetNotificationServiceThemeToOverride10ft": "True",
+  "FFlagTenFootUiAvatar4": "True",
+  "FFlagRefactorPlayerNameTag2": "True"
 }
