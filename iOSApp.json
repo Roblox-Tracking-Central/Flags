@@ -421,5 +421,6 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FFlagEnableSeamlessForceOTAUpdate2": "True"
+  "FFlagEnableSeamlessForceOTAUpdate2": "True",
+  "FFlagLuaAppSystemBar_Rollout": "True;60;2023-10-25T16:48:52"
 }
