@@ -486,6 +486,5 @@
   "FFlagLuafiedReportThumbnail": "True",
   "SingleSurfaceEnabledAndroid2": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
-  "FFlagEnableMaquettesAgeBracketReporting": "True"
+  "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000"
 }
