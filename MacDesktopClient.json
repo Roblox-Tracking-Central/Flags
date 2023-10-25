@@ -111,6 +111,7 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUseExperienceService": "True",
+  "FFlagGpuGeometryManager10_Rollout": "True;30;2023-10-25T23:02:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
