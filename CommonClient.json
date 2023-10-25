@@ -8311,6 +8311,7 @@
   "DFIntOpenCloudInvokeAsyncPerMinuteThrottle_PlaceFilter": "100;15107017654",
   "FFlagOpenCloudCoreScriptLuaEnabled": "False",
   "FFlagOpenCloudCoreScriptLuaEnabled_PlaceFilter": "True;15107017654",
+  "FFlagProfileRemoveQRCodeExperimentGating": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
