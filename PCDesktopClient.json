@@ -346,5 +346,6 @@
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailWindowsClient",
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
-  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient"
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient"
 }

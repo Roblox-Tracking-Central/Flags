@@ -347,5 +347,6 @@
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailMacClient",
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
-  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient"
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient"
 }

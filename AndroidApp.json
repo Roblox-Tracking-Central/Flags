@@ -467,5 +467,7 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "AndroidInitializeAndroidUpdateAdapter": "True",
-  "FFlagEnableSetAndroidUpdateAdapter": "True"
+  "FFlagEnableSetAndroidUpdateAdapter": "True",
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
+  "DFFlagRealtimeClientDeduplicateNotifications_Rollout": "True;60;2023-10-25T17:06:59"
 }

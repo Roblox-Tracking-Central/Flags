@@ -292,5 +292,6 @@
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
   "FFlagLuaAppEnableRelinkingCooldownError": "True",
   "FFlagLuaAppFix10ftSignUpDropdown": "True",
-  "FFlagLuaAppEnable10ftPrivacyLink": "True"
+  "FFlagLuaAppEnable10ftPrivacyLink": "True",
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation"
 }
