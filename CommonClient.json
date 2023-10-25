@@ -8312,6 +8312,7 @@
   "FFlagProfileRemoveQRCodeExperimentGating": "True",
   "DFIntPlayStationIAPTelemetryThrottleHundredthsPercent": "10000",
   "FLogExplorerEnhanced": "6",
+  "FFlagDraggerImprovementsCallout_Rollout": "True;60;2023-10-25T19:48:33",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
