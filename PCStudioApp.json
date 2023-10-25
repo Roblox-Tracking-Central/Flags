@@ -353,6 +353,7 @@
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagUseExperienceService": "True",
+  "FFlagGpuGeometryManager10_Rollout": "True;30;2023-10-25T22:23:11",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"
