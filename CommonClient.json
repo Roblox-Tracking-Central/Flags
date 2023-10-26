@@ -8430,7 +8430,7 @@
   "FFlagStartPageContextMenuDisableArchive": "True",
   "FFlagStudioIgnoreOnboardingTemplates": "True",
   "FFlagSocialSquareTileStyleProps2": "True",
-  "FIntSessionTransitionFSMHundredthsPercent": "200",
+  "FIntSessionTransitionFSMHundredthsPercent": "0",
   "FFlagMaterialFrameworkUpdates": "True",
   "FFlagLuaProfileStopCallingFriendRequests": "True",
   "FFlagStudioUseOauthV1UserInfo": "True",
