@@ -293,5 +293,6 @@
   "FFlagLuaAppEnableRelinkingCooldownError": "True",
   "FFlagLuaAppFix10ftSignUpDropdown": "True",
   "FFlagLuaAppEnable10ftPrivacyLink": "True",
-  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation"
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
+  "DFFlagHttpSslCertCacheEnabled2_Rollout": "True;60;2023-10-26T17:24:31"
 }

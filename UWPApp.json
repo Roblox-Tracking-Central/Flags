@@ -271,5 +271,6 @@
   "FFlagTTIDelayExperimentEnabled": "True",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FFlagFixExperienceDetailsPageIssues2": "True"
+  "FFlagFixExperienceDetailsPageIssues2": "True",
+  "DFFlagInferredCrashProfileSyncFlushSwitch_Rollout": "True;30;2023-10-26T16:58:28"
 }

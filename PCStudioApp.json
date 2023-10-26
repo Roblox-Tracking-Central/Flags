@@ -347,6 +347,7 @@
   "FFlagLuauLintDeprecatedFenv": "True",
   "FFlagLuauLintTableIndexer": "True",
   "FFlagPhysicalPropertiesReadOnlyFix_Rollout": "True;60;2023-10-26T16:20:26",
+  "DFFlagInferredCrashProfileSyncFlushSwitch_Rollout": "True;30;2023-10-26T16:58:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
