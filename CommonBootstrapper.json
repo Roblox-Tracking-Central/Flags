@@ -49,5 +49,6 @@
   "FFlagMacInstallerVersionGuidParam": "True",
   "FFlagUseClientAsProtocolHandler": "True",
   "FFlagUseNewWindowsUninstaller": "True",
-  "FFlagMacInstallerRetryTerminateCheck2": "True"
+  "FFlagMacInstallerRetryTerminateCheck2": "True",
+  "FFlagMacBootstrapperIgnore401_Rollout": "True;30;2023-10-26T16:34:30"
 }

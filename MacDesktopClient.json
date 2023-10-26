@@ -112,6 +112,7 @@
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUseExperienceService": "True",
   "FFlagGpuGeometryManager10": "True",
+  "FFlagGpuGeometryManager10_Rollout": "True;30;2023-10-26T16:32:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
