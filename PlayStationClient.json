@@ -295,5 +295,5 @@
   "FFlagLuaAppEnable10ftPrivacyLink": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "DFFlagHttpSslCertCacheEnabled2": "True",
-  "DFFlagRealtimeClientDeduplicateNotifications": "True"
+  "DFFlagAnimInstanceAllocs2_Rollout": "True;60;2023-10-26T20:51:50"
 }

@@ -396,6 +396,5 @@
   "FFlagLuaAppSessionUseGetActiveRoute2": "True",
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
-  "FFlagNativeProductFallbackToPlatformService": "True",
-  "DFFlagRealtimeClientDeduplicateNotifications": "True"
+  "FFlagNativeProductFallbackToPlatformService": "True"
 }

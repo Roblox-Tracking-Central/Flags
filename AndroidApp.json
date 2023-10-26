@@ -463,6 +463,5 @@
   "FFlagUpdateCheckOnLogin": "True",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
-  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
-  "DFFlagRealtimeClientDeduplicateNotifications": "True"
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid"
 }
