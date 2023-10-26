@@ -103,7 +103,6 @@
   "DFFlagYieldInsideSpinLoopOnPlayStation": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
-  "DFFlagRealtimeClientDeduplicateNotifications_Rollout": "True;60;2023-10-26T19:20:20",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -295,5 +294,6 @@
   "FFlagLuaAppFix10ftSignUpDropdown": "True",
   "FFlagLuaAppEnable10ftPrivacyLink": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
-  "DFFlagHttpSslCertCacheEnabled2": "True"
+  "DFFlagHttpSslCertCacheEnabled2": "True",
+  "DFFlagRealtimeClientDeduplicateNotifications": "True"
 }
