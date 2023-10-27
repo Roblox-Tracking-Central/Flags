@@ -8390,7 +8390,6 @@
   "DFIntImmersiveAdVideoCompletionEventThrottleHundrethsPercent": "10000",
   "FFlagStudioActionConversionGroup5a": "True",
   "FFlagUGCValidationValidateTransparencyServer": "False",
-  "FFlagUGCValidationValidateTransparencyClient": "True",
   "DFIntImmersiveAdVideoVolumeToggledEventThrottleHundrethsPercent": "10000",
   "FFlagStudioTasksAsyncConfiguration": "True",
   "DFIntPerfDataOnHiveLocalThrottleHundredthPercent": "10000",
