@@ -468,6 +468,7 @@
   "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": "1000",
   "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
   "FFlagRealtimeProtocolNewInterface": "True",
+  "DFIntStreamingDistanceEmergencyGcUtility": "2500",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
