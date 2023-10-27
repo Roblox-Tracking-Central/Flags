@@ -463,5 +463,9 @@
   "FFlagUpdateCheckOnLogin": "True",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
-  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid"
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
+  "DFFlagHttpCacheReportSlowWrites": "True",
+  "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": "1000",
+  "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
+  "FFlagRealtimeProtocolNewInterface_Rollout": "True;20;2023-10-27T17:23:30"
 }
