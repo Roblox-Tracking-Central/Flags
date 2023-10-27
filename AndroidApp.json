@@ -465,9 +465,8 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
   "DFFlagHttpCacheReportSlowWrites": "True",
-  "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": "5000",
-  "DFIntHttpCacheReportSlowWritesMinDuration": "5000",
+  "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": "1000",
+  "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "DFIntStreamingDistanceEmergencyGcUtility": "2500",
-  "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-10-27T18:37:22"
+  "DFIntStreamingDistanceEmergencyGcUtility": "2500"
 }
