@@ -8085,7 +8085,7 @@
   "FFlagAESGraphDetailsOnATCSaveFailure": "True",
   "FFlagDoNotSetupVTShaders": "True",
   "FFlagVTFeedbackShadersSetupFix": "True",
-  "FFlagRenderEnableGlobalInstancing6": "True",
+  "FFlagRenderEnableGlobalInstancing6": "False",
   "DFFlagSynchronizeSurfaceControllerStopWithRender": "True",
   "FIntRakNetDatagramMessageIdArrayLength": "2048",
   "DFFlagFixTrueCast": "True",
