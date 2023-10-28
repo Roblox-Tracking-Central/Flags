@@ -8199,7 +8199,7 @@
   "DFIntReportControllerManagerPercent": "1000",
   "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
   "DFFlagPolicyServiceMigrationEndpointsEnabled2": "True",
-  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "100",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "50",
   "FFlagUXForCameraPerformanceEnabled": "True",
   "FFlagUXForCameraPerformanceIXPEnabled": "True",
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
