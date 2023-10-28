@@ -8382,7 +8382,6 @@
   "FFlagSupportAuxiliaryGuiRender": "True",
   "FFlagLuaAppHomeJoinYourFriendsSession": "True",
   "DFFlagAdsFixInfinityAngle": "True",
-  "FFlagUGCValidationRefactorAssetTraversal": "True",
   "FFlagUGCValidateDynamicHeadMoodClient": "True",
   "FFlagUGCValidateDynamicHeadMoodRCC": "True",
   "FFlagFixParamsScaleNotApplied": "True",
