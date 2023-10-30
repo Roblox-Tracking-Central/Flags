@@ -360,7 +360,6 @@
   "FFlagLuaAppEnable10ftPlatformName": "True",
   "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
-  "FFlagHttpRequestMsxmlLeakFix": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",
   "FFlagRefactorAuthPageForTenFoot": "True",
   "FFlagRefactorBirthdayPicker": "True",
