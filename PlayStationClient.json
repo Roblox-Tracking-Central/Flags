@@ -102,6 +102,7 @@
   "DFFlagYieldInsideSpinLoopOnPlayStation": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
+  "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

@@ -102,6 +102,7 @@
   "DFFlagYieldInsideSpinLoopOnPlayStation": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
+  "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
