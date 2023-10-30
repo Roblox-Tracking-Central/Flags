@@ -103,6 +103,7 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
+  "DFFlagAnimInstanceAllocs2_Rollout": "True;60;2023-10-30T20:53:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
