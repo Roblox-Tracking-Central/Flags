@@ -289,6 +289,5 @@
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "FFlagUndoTextureManagerStudioCursorHack": "True",
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
-  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
-  "DFFlagAnimInstanceAllocs2": "True"
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation"
 }
