@@ -469,7 +469,7 @@
   "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
   "FFlagRealtimeProtocolNewInterface": "True",
   "DFIntStreamingDistanceEmergencyGcUtility": "2500",
-  "DFStringMemoryBufferForHarmonyData_Rollout": "{\\\u0022memCurve\\\u0022:[{\\\u0022maxsize\\\u0022:1024,\\\u0022reserve\\\u0022:0.10}]};30;2023-10-30T22:51:52",
+  "DFStringMemoryBufferForHarmonyData": "{\\\u0022memCurve\\\u0022:[{\\\u0022maxsize\\\u0022:1024,\\\u0022reserve\\\u0022:0.10}]}",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
