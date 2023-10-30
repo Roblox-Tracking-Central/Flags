@@ -90,7 +90,6 @@
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
-  "DFFlagGameUsesEngineContext": "False",
   "FFlagLuaAppEnableToastNotifications4": "False",
   "FStringStudioEmergencyMessageV4": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNTc3LjAuMSIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
   "FFlagQrCodeScannerExperimentEnabled": "False",
