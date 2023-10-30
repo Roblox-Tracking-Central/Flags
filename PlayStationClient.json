@@ -270,7 +270,6 @@
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagTenFootUiDetectFocusFailure": "True",
   "FFlagTenFootUiFixAutoFocusRace": "True",
-  "FFlagLuaAppEnable10ftCloseSignupDropdown": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
@@ -290,9 +289,6 @@
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "FFlagUndoTextureManagerStudioCursorHack": "True",
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
-  "FFlagLuaAppEnableRelinkingCooldownError": "True",
-  "FFlagLuaAppFix10ftSignUpDropdown": "True",
-  "FFlagLuaAppEnable10ftPrivacyLink": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "DFFlagAnimInstanceAllocs2": "True"
 }
