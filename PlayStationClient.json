@@ -291,5 +291,6 @@
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "FFlagUndoTextureManagerStudioCursorHack": "True",
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
-  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation"
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
+  "FFlagShadowMapOrbisUseSingleMoment_Rollout": "True;60;2023-10-31T23:29:27"
 }
