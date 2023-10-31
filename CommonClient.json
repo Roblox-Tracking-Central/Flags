@@ -8342,7 +8342,7 @@
   "DFFlagSimAdaptivePreContactReorder2": "False",
   "FFlagLuaAppFixOmniFeedReorder": "True",
   "DFFlagEngineAPICloudProcessingServiceMasterSwitch": "False",
-  "DFFlagEngineAPICloudProcessingServiceMasterSwitch_PlaceFilter": "True;15022282565;15161459171",
+  "DFFlagEngineAPICloudProcessingServiceMasterSwitch_PlaceFilter": "True;15022282565;15161459171;15228561005",
   "FFlagLuaAppFixFeedItemButtonChange": "True",
   "FFlagSurfaceAppStoreCountryCodeToEngine2_PlaceFilter": "True;10974671112",
   "DFFlagDataModelCookieCLI84135": "True",
