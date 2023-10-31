@@ -8583,6 +8583,8 @@
   "DFFlagParallelWorkQueueEarlyOutWhenNoWork": "True",
   "FFlagStudio3dAuxiliaryWindow": "True",
   "FFlagSelfViewMultiTouchFix2": "True",
+  "FFlagAinPreviewLighting2": "True",
+  "FFlagIrisJoinTimeIos1_Rollout": "True;60;2023-10-31T17:39:10",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
