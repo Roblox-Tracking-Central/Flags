@@ -470,5 +470,6 @@
   "FFlagRealtimeProtocolNewInterface": "True",
   "DFIntStreamingDistanceEmergencyGcUtility": "2500",
   "DFStringMemoryBufferForHarmonyData": "{\\\u0022memCurve\\\u0022:[{\\\u0022maxsize\\\u0022:1024,\\\u0022reserve\\\u0022:0.10}]}",
-  "FFlagEnableNativeSubscriptionPurchase3": "True"
+  "FFlagEnableNativeSubscriptionPurchase3": "True",
+  "FFlagGpuGeometryManager10_Rollout": "True;60;2023-10-31T21:30:55"
 }
