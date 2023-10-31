@@ -424,5 +424,6 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
-  "FFlagRealtimeProtocolNewInterface": "True"
+  "FFlagRealtimeProtocolNewInterface": "True",
+  "FFlagViewportFrameSnapshot_PlaceFilter": "False;14669969560"
 }
