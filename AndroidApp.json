@@ -469,5 +469,6 @@
   "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
   "FFlagRealtimeProtocolNewInterface": "True",
   "DFIntStreamingDistanceEmergencyGcUtility": "2500",
-  "DFStringMemoryBufferForHarmonyData": "{\\\u0022memCurve\\\u0022:[{\\\u0022maxsize\\\u0022:1024,\\\u0022reserve\\\u0022:0.10}]}"
+  "DFStringMemoryBufferForHarmonyData": "{\\\u0022memCurve\\\u0022:[{\\\u0022maxsize\\\u0022:1024,\\\u0022reserve\\\u0022:0.10}]}",
+  "FFlagEnableNativeSubscriptionPurchase3": "True"
 }

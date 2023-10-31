@@ -422,5 +422,6 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
-  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS"
+  "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
+  "FFlagEnableNativeSubscriptionPurchase3": "True"
 }
