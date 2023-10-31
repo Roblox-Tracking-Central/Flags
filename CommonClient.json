@@ -8562,6 +8562,8 @@
   "DFFlagSimSolverSoftLockServoAtTargetOnlyOptionally": "True",
   "FFlagStudio3dAuxiliaryWindow_Rollout": "True;60;2023-10-31T16:24:59",
   "DFFlagParallelWorkQueueEarlyOutWhenNoWork_Rollout": "True;60;2023-10-31T16:27:28",
+  "FFlagScriptProfilerTreeFormatV2_Rollout": "True;60;2023-10-31T16:44:18",
+  "FFlagScriptProfilerSessionTimeStamps_Rollout": "True;60;2023-10-31T16:44:47",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
