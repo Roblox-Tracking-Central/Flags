@@ -8169,7 +8169,7 @@
   "FFlagAppBridgeRemoveIsSignalREnabled": "True",
   "FFlagEnableAssemblyCenterOfMassVisualization": "True",
   "FFlagRealtimeProtocolPublishRaw": "True",
-  "FFlagNewCSGAPIBetaFeature": "False",
+  "FFlagNewCSGAPIBetaFeature": "True",
   "FFlagLuauInlineArrConstOffset": "True",
   "DFFlagFixSoundTunableCurveIssues": "True",
   "FFlagScreenshotsDeleteCaptureTransitionFixes_v2": "True",
