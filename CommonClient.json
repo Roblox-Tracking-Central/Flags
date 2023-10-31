@@ -8616,8 +8616,6 @@
   "FFlagRetryMutingNonFriends": "True",
   "FFlagShowMuteToggles7": "True",
   "FFlagUseFriendsPropsInMuteToggles2": "True",
-  "FStringVoiceUpsellV2ExperimentLayerEngine": "",
-  "FStringVoiceUpsellV2ExperimentLayerLua": "",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
