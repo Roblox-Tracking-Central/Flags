@@ -424,5 +424,5 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
-  "FFlagRealtimeProtocolNewInterface_Rollout": "True;30;2023-10-31T16:09:52"
+  "FFlagRealtimeProtocolNewInterface": "True"
 }
