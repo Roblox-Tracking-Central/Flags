@@ -290,5 +290,6 @@
   "FFlagUndoTextureManagerStudioCursorHack": "True",
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
-  "FFlagShadowMapOrbisUseSingleMoment": "True"
+  "FFlagShadowMapOrbisUseSingleMoment": "True",
+  "FFlagAdjustAudioLoaderThreadCount_Rollout": "True;60;2023-11-01T18:18:18"
 }
