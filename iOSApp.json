@@ -424,6 +424,5 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
-  "FFlagRealtimeProtocolNewInterface": "True",
-  "FFlagGpuGeometryManager10_Rollout": "True;60;2023-11-01T21:39:19"
+  "FFlagRealtimeProtocolNewInterface": "True"
 }
