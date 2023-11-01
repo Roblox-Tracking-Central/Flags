@@ -8658,7 +8658,6 @@
   "FFlagDontCreatePingJob2_Rollout": "True;60;2023-11-01T19:46:41",
   "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "True;60;2023-11-01T20:01:12",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "10000;60;2023-11-01T20:01:12",
-  "DFFlagEnableVideoAdsOptOut_Rollout": "True;60;2023-11-01T20:02:25",
   "DFFlagSimOnlyShowCenterOfMassVisualizationForSelected": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
