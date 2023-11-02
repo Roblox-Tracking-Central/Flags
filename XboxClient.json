@@ -358,7 +358,6 @@
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
   "FFlagLuaAppLocalizationConsistencyFixes": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
-  "FFlagLuaAppEnable10ftPlatformName": "True",
   "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",

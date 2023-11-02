@@ -210,7 +210,6 @@
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagTenFootUiAvatar4": "True",
-  "FFlagLuaAppEnable10ftPlatformName": "True",
   "FFlagAddFriendsComponentsTransparent": "True",
   "FFlagAddFriendsPageUseToken": "True",
   "FFlagEnableAddFriendsPageSearchBar": "False",
