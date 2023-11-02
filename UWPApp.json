@@ -271,5 +271,6 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "DFFlagInferredCrashProfileSyncFlushSwitch": "True"
+  "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
+  "FIntScrollingPerfTrackerKibana": "50"
 }

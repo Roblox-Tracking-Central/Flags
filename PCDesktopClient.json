@@ -349,5 +349,7 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
-  "DFFlagInferredCrashProfileSyncFlushSwitch": "True"
+  "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
+  "FIntScrollingPerfTrackerKibana": "50",
+  "FFlagRenderDebugCheckThreading2_Rollout": "True;60;2023-11-02T23:14:15"
 }

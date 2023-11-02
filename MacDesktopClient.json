@@ -346,5 +346,6 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
-  "DFFlagInferredCrashProfileSyncFlushSwitch": "True"
+  "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
+  "FIntScrollingPerfTrackerKibana": "50"
 }
