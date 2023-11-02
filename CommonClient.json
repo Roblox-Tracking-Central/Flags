@@ -8715,6 +8715,7 @@
   "DFFlagMemoryStoreSetAsyncEnableSortKey_Rollout": "True;30;2023-11-02T19:22:57",
   "FFlagEnableSubscriptionPurchaseInstrumentation": "True",
   "FFlagPropertiesWidgetDisableHoverHighlight_Rollout": "True;60;2023-11-02T19:26:12",
+  "FFlagBodyFirstInAssetsCategory": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
