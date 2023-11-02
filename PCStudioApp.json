@@ -350,6 +350,7 @@
   "FStringDraggerImprovements2BetaFeatureUrl": "https://devforum.roblox.com/t/dragger-qol-improvements-beta/2661668",
   "FStringDraggerImprovementsOnboardingUrl": "https://devforum.roblox.com/t/dragger-qol-improvements-beta/2661668",
   "DFLogGameShutdownDebug": "5",
+  "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
