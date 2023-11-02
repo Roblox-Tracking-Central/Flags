@@ -348,6 +348,5 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
-  "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-02T19:46:37"
+  "DFFlagInferredCrashProfileSyncFlushSwitch": "True"
 }
