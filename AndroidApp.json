@@ -163,7 +163,6 @@
   "FFlagEnableAndroidVsync": "True",
   "FFlagEnableCancelInputEvent": "True",
   "FFlagFixSmallSurfaceGuiMouseInput": "True",
-  "FFlagGraphicsGL3UseUBO3": "False",
   "FFlagInterpolationAwareTargetTime": "True",
   "FFlagJoinTimeCounters": "True",
   "FFlagLocServicePerformanceAnalyticsEnabled": "True",

@@ -164,7 +164,6 @@
   "FFlagEnableSyncAllCookiesFromEngine": "True",
   "FFlagFixSmallSurfaceGuiMouseInput": "True",
   "FFlagFixTextMismatchAndOverlap": "True",
-  "FFlagGraphicsGL3UseUBO3": "True",
   "FFlagInterpolationAwareTargetTime": "True",
   "FFlagJoinTimeCounters": "True",
   "FFlagLocServicePerformanceAnalyticsEnabled": "True",

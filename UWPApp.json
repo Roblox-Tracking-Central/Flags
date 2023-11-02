@@ -152,7 +152,6 @@
   "FFlagDontDisconnectJointUpdateUnlessNecessary": "False",
   "FFlagEnableAndroidVsync": "True",
   "FFlagFixSmallSurfaceGuiMouseInput": "True",
-  "FFlagGraphicsGL3UseUBO3": "True",
   "FFlagInterpolationAwareTargetTime": "True",
   "FFlagJoinTimeCounters": "True",
   "FFlagLocServicePerformanceAnalyticsEnabled": "True",

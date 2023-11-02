@@ -165,7 +165,6 @@
   "FFlagEnableAndroidVsync": "True",
   "FFlagEnableStudioServiceOpenBrowser": "True",
   "FFlagFixSmallSurfaceGuiMouseInput": "True",
-  "FFlagGraphicsGL3UseUBO3": "True",
   "FFlagInterpolationAwareTargetTime": "True",
   "FFlagJoinTimeCounters": "True",
   "FFlagLocServicePerformanceAnalyticsEnabled": "True",
@@ -359,6 +358,9 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagUseExperienceService": "True",
   "FFlagGpuGeometryManager10": "True",
+  "FFlagEnableRealtimeProtocolCheckV601_Rollout": "True;60;2023-11-02T21:19:02",
+  "FFlagEnableRealtimeProtocolRolloutV601_Rollout": "True;60;2023-11-02T21:19:02",
+  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent_Rollout": "500;60;2023-11-02T21:19:02",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"
