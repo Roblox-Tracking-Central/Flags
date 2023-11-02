@@ -394,7 +394,6 @@
   "FFlagNativeProductFallbackToPlatformService": "True",
   "FFlagUIBloxIncreaseImageResolutionForTenFoot": "True",
   "FFlagUIBloxUseTokensInPlayerTile": "True",
-  "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagTenFootUiHideFriendsTools": "True",
   "FFlagUIBloxUseStatGroupManualSize": "True",
   "FFlagUpdateFriendCarousel10ft6": "True",

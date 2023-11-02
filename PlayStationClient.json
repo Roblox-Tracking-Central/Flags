@@ -134,7 +134,6 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagRefactorAuthPageForTenFoot": "True",
   "FFlagRefactorBirthdayPicker": "True",
-  "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagUseLowDensityLinkButtons": "True",
   "FFlagWrapBlockModalScreenInProvider": "True",
   "FFlagPlayerListUserProfileApiEnabledForAll_v2": "True",
