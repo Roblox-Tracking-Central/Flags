@@ -8688,6 +8688,7 @@
   "FFlagEnableUGCToolboxFixAccessories2": "True",
   "FFlagUGCValidateFixAccessories": "True",
   "FFlagRenderUseFutureCap_Rollout": "True;30;2023-11-02T16:48:56",
+  "DFFlagEncapsulateIntoBaseRemoteEvent_Rollout": "True;60;2023-11-02T16:56:06",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
