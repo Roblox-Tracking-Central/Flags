@@ -423,5 +423,6 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FFlagRealtimeProtocolNewInterface": "True"
+  "FFlagRealtimeProtocolNewInterface": "True",
+  "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-02T19:46:37"
 }

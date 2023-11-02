@@ -359,6 +359,7 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagUseExperienceService": "True",
   "FFlagGpuGeometryManager10": "True",
+  "FFlagRealtimeProtocolNewInterface_Rollout": "True;60;2023-11-02T19:42:14",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"
