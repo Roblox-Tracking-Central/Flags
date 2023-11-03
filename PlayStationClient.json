@@ -290,5 +290,6 @@
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "FFlagShadowMapOrbisUseSingleMoment": "True",
-  "FFlagAdjustAudioLoaderThreadCount": "True"
+  "FFlagAdjustAudioLoaderThreadCount": "True",
+  "DFFlagEnableTCSChatTranslation": "True"
 }

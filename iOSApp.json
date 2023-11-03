@@ -424,5 +424,6 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagRealtimeProtocolNewInterface": "True",
   "FIntScrollingPerfTrackerKibana": "50",
-  "FFlagUpdateCheckOnLogin": "True"
+  "FFlagUpdateCheckOnLogin": "True",
+  "DFFlagEnableTCSChatTranslation": "True"
 }

@@ -431,5 +431,6 @@
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
   "FFlagXboxGameProtocol": "True",
   "FFlagXboxKeyboardType": "True",
-  "FFlagXboxNixValidSessionPoller": "True"
+  "FFlagXboxNixValidSessionPoller": "True",
+  "DFFlagEnableTCSChatTranslation": "True"
 }

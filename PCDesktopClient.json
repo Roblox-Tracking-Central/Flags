@@ -350,5 +350,6 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FIntScrollingPerfTrackerKibana": "50"
+  "FIntScrollingPerfTrackerKibana": "50",
+  "DFFlagEnableTCSChatTranslation": "True"
 }

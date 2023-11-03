@@ -471,6 +471,7 @@
   "FFlagGpuGeometryManager10": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "50",
+  "DFFlagEnableTCSChatTranslation": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
