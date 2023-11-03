@@ -353,5 +353,5 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;30;2023-11-03T17:35:20"
+  "FIntEnableCullableScene2HundredthPercent3": "10000"
 }
