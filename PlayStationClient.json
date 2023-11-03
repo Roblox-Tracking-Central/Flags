@@ -286,7 +286,6 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryPlayStation",
   "FFlagGraphicsEnableOrbisContextNullResource": "True",
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
-  "FFlagUndoTextureManagerStudioCursorHack": "True",
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "FFlagShadowMapOrbisUseSingleMoment": "True",
