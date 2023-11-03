@@ -423,5 +423,6 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "FIntScrollingPerfTrackerKibana": "50"
+  "FIntScrollingPerfTrackerKibana": "50",
+  "FFlagUpdateCheckOnLogin": "True"
 }
