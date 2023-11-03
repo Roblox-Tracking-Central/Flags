@@ -424,7 +424,6 @@
   "FFlagUseTokensSizeInIconButton": "True",
   "FFlagUseExternalBrowserForAgeGuidelines10ft": "True",
   "FFlagXboxEnableSignalR2": "True",
-  "FFlagXboxBetterShowAccountPicker": "True",
   "FFlagXboxCleanerGamepadReactivation": "True",
   "FFlagXboxCredentialsHeaders": "True",
   "FFlagXboxDataModelServices": "True",
