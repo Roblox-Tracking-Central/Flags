@@ -8740,6 +8740,7 @@
   "DFFlagEnableRandomStatVerification": "True",
   "DFIntRobloxTelemetryStatThresholdHundredthsPercent_Rollout": "10;60;2023-11-03T16:15:10",
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "10;60;2023-11-03T16:16:43",
+  "FFlagAddPerfControlExperimentNameToBacktraceReports_Rollout": "True;30;2023-11-03T16:41:45",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
