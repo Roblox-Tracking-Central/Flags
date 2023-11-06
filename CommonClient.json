@@ -8749,6 +8749,7 @@
   "DFIntPerformanceControlSoundReloadLatencyExponentTenThousandths": "100",
   "DFIntPerformanceControlSoundReloadThrashingExponentTenThousandths": "100",
   "FFlagACEBoneReferences2": "True",
+  "FFlagACEMultiSelectionTransform": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
