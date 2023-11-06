@@ -313,7 +313,6 @@
   "FFlagAXRetryAvatarLoadOnTabSwitch": "True",
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagTenFootUiDetectFocusFailure": "True",
-  "FFlagTenFootUiFixAutoFocusRace": "True",
   "FFlagEnableActionBarTokens": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagEnableFriendsListAnimation": "True",

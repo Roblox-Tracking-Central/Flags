@@ -8770,6 +8770,8 @@
   "FFlagAudioFixVolumetricSoundAssert2": "True",
   "DFFlagDisableAudioFileMetadata": "True",
   "DFFlagSkipAudioAssetTags": "True",
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
+  "FFlagTenFootUiFixAutoFocusRace": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
