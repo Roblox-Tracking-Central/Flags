@@ -289,5 +289,6 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "FFlagShadowMapOrbisUseSingleMoment": "True",
   "FFlagAdjustAudioLoaderThreadCount": "True",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FFlagLuaAppAuthHardenErrorHandling": "True"
 }

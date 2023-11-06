@@ -430,5 +430,6 @@
   "FFlagXboxGameProtocol": "True",
   "FFlagXboxKeyboardType": "True",
   "FFlagXboxNixValidSessionPoller": "True",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FFlagLuaAppAuthHardenErrorHandling": "True"
 }
