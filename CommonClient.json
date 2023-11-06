@@ -8362,7 +8362,6 @@
   "FFlagViewportFrameSnapshot": "True",
   "DFFlagCoalesceTouchEventEnableDeserializer": "True",
   "FFlagSessionRemoveJYFSessionsOnGameLeave": "True",
-  "FFlagEnableMmapForMemProfStorageFlushing": "True",
   "DFFlagUpdateCollisionDataInKernelCleanUp": "True",
   "FFlagSupportAuxiliaryGuiRender": "True",
   "FFlagLuaAppHomeJoinYourFriendsSession": "True",

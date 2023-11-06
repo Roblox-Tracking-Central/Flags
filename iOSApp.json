@@ -425,5 +425,6 @@
   "FFlagRealtimeProtocolNewInterface": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagUpdateCheckOnLogin": "True",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FFlagEnableMmapForMemProfStorageFlushing": "False"
 }
