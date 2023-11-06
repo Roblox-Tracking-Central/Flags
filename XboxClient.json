@@ -311,7 +311,6 @@
   "FFlagAX10ftUIPadding2": "True",
   "FFlagAXFixCatalogResultsListForGamepad": "True",
   "FFlagAXRetryAvatarLoadOnTabSwitch": "True",
-  "FFlagTenFootUiDetectFocusFailure": "True",
   "FFlagEnableActionBarTokens": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagEnableFriendsListAnimation": "True",
