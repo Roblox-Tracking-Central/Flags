@@ -8748,6 +8748,7 @@
   "FFlagVoiceChatThreadPoolShutdownFix": "True",
   "DFIntPerformanceControlSoundReloadLatencyExponentTenThousandths": "100",
   "DFIntPerformanceControlSoundReloadThrashingExponentTenThousandths": "100",
+  "FFlagACEBoneReferences2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
