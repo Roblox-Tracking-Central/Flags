@@ -265,7 +265,6 @@
   "FFlagEnableTenFootInterfaceCheckForLegacyChat": "True",
   "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
   "FFlagSetNotificationServiceThemeToOverride10ft": "True",
-  "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagTenFootUiDetectFocusFailure": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
