@@ -103,6 +103,7 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
+  "FFlagEnableMmapForMemProfStorageFlushing": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -425,6 +426,5 @@
   "FFlagRealtimeProtocolNewInterface": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagUpdateCheckOnLogin": "True",
-  "DFFlagEnableTCSChatTranslation": "True",
-  "FFlagEnableMmapForMemProfStorageFlushing": "False"
+  "DFFlagEnableTCSChatTranslation": "True"
 }
