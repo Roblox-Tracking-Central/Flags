@@ -8773,6 +8773,8 @@
   "DFFlagRemoveTelemetryFlushOnJobClose": "True",
   "FFlagStudioOrientationIndicatorFix": "True",
   "FFlagSimVisualizeAeroForces_Rollout": "True;60;2023-11-06T20:37:27",
+  "DFFlagFixScaleToCrash_Rollout": "True;60;2023-11-06T21:04:29",
+  "FFlagConsolesPlatformUserId": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
