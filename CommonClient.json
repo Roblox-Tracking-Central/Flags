@@ -8778,6 +8778,7 @@
   "DFIntOptimizeAutosaveIntervalRolloutPercentage_Rollout": "25;10;2023-11-06T21:30:36",
   "FFlagOpusDecoderDedupBuffer": "True",
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
+  "FFlagFixSoundTunableLoggingRace_Rollout": "True;60;2023-11-06T21:39:05",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
