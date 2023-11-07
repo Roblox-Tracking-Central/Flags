@@ -247,7 +247,6 @@
   "DFFlagHttpReplaceBoostSpaceTemp": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "262144",
   "FFlagAuthDisclaimerUseArgs": "True",
-  "FFlagLuaAppShowDetailedSignUpErrors": "True",
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagExperienceDetailsPlayButtonAutoFocus10ft": "True",
   "FFlagPlayerContextualMenuSetGameplaySession": "True",
