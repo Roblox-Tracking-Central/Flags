@@ -461,7 +461,7 @@
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
-  "FFlagUpdateCheckOnLogin": "True",
+  "FFlagUpdateCheckOnLogin": "False",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
@@ -473,5 +473,6 @@
   "FFlagGpuGeometryManager10": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "50",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FFlagUpdateCheckOnLogin2": "True"
 }
