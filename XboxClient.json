@@ -104,7 +104,7 @@
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
-  "FFlagEnableCullableSceneOctree4_Rollout": "True;30;2023-11-07T17:20:38",
+  "FFlagLuaAppSystemBar_Rollout": "True;60;2023-11-07T17:59:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
