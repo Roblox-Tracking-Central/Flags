@@ -116,6 +116,7 @@
   "FFlagEnableRealtimeProtocolCheckV601": "True",
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "500",
+  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent_Rollout": "5000;30;2023-11-07T18:52:45",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
