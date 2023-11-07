@@ -8798,6 +8798,7 @@
   "FFlagEnableCullableSceneOctree4": "True",
   "DFIntRobloxTelemetryStatThresholdHundredthsPercent_Rollout": "200;30;2023-11-07T18:25:19",
   "DFIntRobloxTelemetryStatV2POCRandomOffset_Rollout": "0;30;2023-11-07T18:26:54",
+  "FFlagUpdateVoiceJoinTimeoutTimerIncludeSubscribe2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
