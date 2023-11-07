@@ -104,7 +104,6 @@
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
-  "FFlagLuaAppSystemBar_Rollout": "True;60;2023-11-07T17:59:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -362,8 +361,7 @@
   "FFlagGpuGeometryManager10": "True",
   "FFlagEnableRealtimeProtocolCheckV601": "True",
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
-  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "500",
-  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent_Rollout": "5000;30;2023-11-07T18:52:45",
+  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "5000",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"
