@@ -8827,6 +8827,7 @@
   "DFFlagCapsRequire": "True",
   "FFlagStudioRepositionAttachedWidgetOnResize_Rollout": "True;60;2023-11-07T21:30:16",
   "DFIntRobloxTelemetryStatV2POCRandomRange_Rollout": "1000;60;2023-11-07T21:43:52",
+  "DFFlagOptimizeComputeIsCollide_Rollout": "True;60;2023-11-07T21:51:15",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
