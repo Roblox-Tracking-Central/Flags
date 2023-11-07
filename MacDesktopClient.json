@@ -349,6 +349,5 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
-  "DFFlagEnableTCSChatTranslation": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;30;2023-11-07T22:46:30"
+  "DFFlagEnableTCSChatTranslation": "True"
 }
