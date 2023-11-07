@@ -363,6 +363,8 @@
   "FFlagEnableRealtimeProtocolCheckV601": "True",
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "5000",
+  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent_Rollout": "10000;30;2023-11-07T21:33:11",
+  "FFlagEnableRealtimeProtocolForAllV601_Rollout": "True;30;2023-11-07T21:33:11",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"

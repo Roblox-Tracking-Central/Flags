@@ -8825,6 +8825,7 @@
   "FFlagEnableCaptures13Experiment": "True",
   "FFlagStudioSetFixedSizeOnOgreWidgetToo_Rollout": "True;60;2023-11-07T21:17:02",
   "DFFlagCapsRequire": "True",
+  "FFlagStudioRepositionAttachedWidgetOnResize_Rollout": "True;60;2023-11-07T21:30:16",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

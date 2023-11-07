@@ -457,7 +457,7 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryAndroid",
   "EnableIrisGameJoinAndroid2": "True",
   "EnableCallNotificationHandler4": "True",
-  "FFlagTextureManagerUsePerfControl2": "True",
+  "FFlagTextureManagerUsePerfControl2": "False",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
