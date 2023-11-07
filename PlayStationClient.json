@@ -101,6 +101,7 @@
   "FFlagEnableInGameMenuModernization": "False",
   "DFFlagYieldInsideSpinLoopOnPlayStation": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
+  "FFlagWebRtcStackEnableLimits": "True",
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
