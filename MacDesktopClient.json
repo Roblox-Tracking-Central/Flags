@@ -104,6 +104,7 @@
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
+  "FFlagEnableCullableSceneOctree4_Rollout": "True;30;2023-11-07T17:20:38",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
