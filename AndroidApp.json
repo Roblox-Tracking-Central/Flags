@@ -472,5 +472,6 @@
   "FFlagGpuGeometryManager10": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FIntEnableCullableScene2HundredthPercent3_Rollout": "2500;30;2023-11-08T20:43:01"
 }
