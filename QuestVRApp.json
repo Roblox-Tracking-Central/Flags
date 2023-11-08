@@ -473,7 +473,7 @@
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "2500;30;2023-11-08T20:43:01",
+  "FIntEnableCullableScene2HundredthPercent3": "2500",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
