@@ -105,6 +105,7 @@
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
+  "FFlagRealtimeProtocolNewInterface_Rollout": "True;30;2023-11-08T18:32:09",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
