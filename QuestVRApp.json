@@ -472,7 +472,7 @@
   "DFStringMemoryBufferForHarmonyData": "{\\\u0022memCurve\\\u0022:[{\\\u0022maxsize\\\u0022:1024,\\\u0022reserve\\\u0022:0.10}]}",
   "FFlagGpuGeometryManager10": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
-  "FIntScrollingPerfTrackerKibana": "50",
+  "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",

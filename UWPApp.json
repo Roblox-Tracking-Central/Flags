@@ -273,6 +273,6 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FIntScrollingPerfTrackerKibana": "50",
+  "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True"
 }
