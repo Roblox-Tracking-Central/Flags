@@ -354,5 +354,7 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FFlagImprovedModelStreaming_Rollout": "True;60;2023-11-08T23:04:03",
+  "FFlagMoveNonRtlToUseSegment_Rollout": "True;3;2023-11-08T23:25:13"
 }

@@ -474,5 +474,6 @@
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "10000"
+  "FIntEnableCullableScene2HundredthPercent3": "10000",
+  "FFlagImprovedModelStreaming_Rollout": "True;60;2023-11-08T23:04:03"
 }
