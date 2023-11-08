@@ -104,6 +104,7 @@
   "FFlagWebRtcStackEnableLimits": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
+  "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",

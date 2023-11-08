@@ -104,6 +104,7 @@
   "FFlagWebRtcStackEnableLimits": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
+  "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -473,5 +474,5 @@
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;30;2023-11-08T21:48:43"
+  "FIntEnableCullableScene2HundredthPercent3": "10000"
 }

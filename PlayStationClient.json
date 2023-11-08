@@ -104,6 +104,7 @@
   "FFlagWebRtcStackEnableLimits": "True",
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
+  "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",

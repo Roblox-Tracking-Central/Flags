@@ -104,6 +104,7 @@
   "FFlagWebRtcStackEnableLimits": "True",
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
+  "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
