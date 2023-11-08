@@ -424,7 +424,6 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FFlagRealtimeProtocolNewInterface": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True"

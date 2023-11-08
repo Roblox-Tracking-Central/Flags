@@ -105,7 +105,6 @@
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
-  "FFlagRealtimeProtocolNewInterface_Rollout": "True;30;2023-11-08T18:32:09",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
