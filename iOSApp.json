@@ -428,6 +428,5 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FFlagMoveNonRtlToUseSegment": "True"
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True"
 }

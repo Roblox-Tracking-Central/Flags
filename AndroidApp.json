@@ -475,6 +475,5 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagImprovedModelStreaming": "True",
-  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FFlagMoveNonRtlToUseSegment": "True"
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True"
 }
