@@ -274,7 +274,6 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "DFFlagHttpSslCertCacheEnabled": "False",
   "FFlagDeviceOrbisDefaultSwapChainTo1080p": "True",
-  "FFlagReportBackgroundEvents": "True",
   "FFlagPlaystationAvoidClusterSwitches2": "True",
   "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginPlayStation",
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailPlayStation",
