@@ -8909,6 +8909,7 @@
   "FStringAndroidVfsLowspecHwCondition_Rollout": "{\u0022or\u0022:[ {\u0022=\u0022:[\u0022app_bitness()\u0022,32]}, {\u0022starts_with\u0022:[\u0022soc()\u0022,\u0022mt\u0022]}, {\u0022and\u0022:[ {\u0022\u003E\u0022:[\u0022ram_size_mb()\u0022,0]}, {\u0022\u003C\u0022:[\u0022ram_size_mb()\u0022,\u00223700\u0022]} ]} ]};60;2023-11-09T20:31:36",
   "FFlagScaleToVelocityFix2_Rollout": "True;60;2023-11-09T20:32:55",
   "FFlagACERestrictVideoToR15": "True",
+  "FStringUIOcclusionMetricsUnibarMenuVerList": "v6.1t8,v6.2t8,v6.3t8",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
