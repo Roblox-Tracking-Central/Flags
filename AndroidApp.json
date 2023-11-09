@@ -475,5 +475,6 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagImprovedModelStreaming": "True"
+  "FFlagImprovedModelStreaming": "True",
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True"
 }

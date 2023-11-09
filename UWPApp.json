@@ -275,5 +275,6 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "False"
 }

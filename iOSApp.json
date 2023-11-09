@@ -427,5 +427,6 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FIntScrollingPerfTrackerKibana": "20",
   "FFlagUpdateCheckOnLogin": "True",
-  "DFFlagEnableTCSChatTranslation": "True"
+  "DFFlagEnableTCSChatTranslation": "True",
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True"
 }
