@@ -355,6 +355,6 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FFlagImprovedModelStreaming_Rollout": "True;60;2023-11-08T23:04:03",
-  "FFlagMoveNonRtlToUseSegment": "True"
+  "FFlagMoveNonRtlToUseSegment": "True",
+  "FFlagImprovedModelStreaming": "True"
 }
