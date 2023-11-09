@@ -234,7 +234,6 @@
   "DFIntHangDetectionJobTimeoutMs": "15000",
   "DFLogHttpCache": "6",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
-  "FFlagPlayStationSystemUtilUpdates": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "DFLogMemoryStats": "6",
