@@ -106,7 +106,6 @@
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
-  "FStringAndroidVfsLowspecHwCondition": "",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
