@@ -8888,6 +8888,8 @@
   "FStringVoiceChatRollOffIxpLayer": "Voice.RolloffConfig",
   "FStringVoiceChatRollOffVariantIxpParam": "EnableRolloff",
   "FFlagExperienceDetailsTextSizeCorrection": "True",
+  "DFFlagSimSolverSanitizeDtScaledLimits_Rollout": "True;60;2023-11-09T18:26:38",
+  "FStringAndroidVfsLowspecHwCondition_Rollout": "{\u0022or\u0022:[ {\u0022=\u0022:[\u0022app_bitness()\u0022,32]}, {\u0022and\u0022:[ {\u0022\u003E\u0022:[\u0022ram_size_mb()\u0022,0]}, {\u0022\u003C\u0022:[\u0022ram_size_mb()\u0022,\u00223700\u0022]} ]} ]};60;2023-11-09T18:28:15",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
