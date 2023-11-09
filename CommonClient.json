@@ -8886,6 +8886,7 @@
   "FStringVoiceChatRollOffIxpLayer_Rollout": "Voice.RolloffConfig;60;2023-11-09T17:05:07",
   "FStringVoiceChatRollOffVariantIxpParam_Rollout": "EnableRolloff;60;2023-11-09T17:06:48",
   "FFlagXboxSharedPlatform": "True",
+  "FFlagNewCSGAPIBetaFeature_Rollout": "True;60;2023-11-09T17:54:59",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
