@@ -476,7 +476,7 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagImprovedModelStreaming": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FFlagMoveNonRtlToUseSegment_Rollout": "True;60;2023-11-09T19:48:08",
+  "FFlagMoveNonRtlToUseSegment": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
