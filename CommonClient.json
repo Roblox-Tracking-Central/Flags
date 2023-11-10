@@ -8742,7 +8742,7 @@
   "DFIntPerformanceControlSoundReloadLatencyExponentTenThousandths": "100",
   "DFIntPerformanceControlSoundReloadThrashingExponentTenThousandths": "100",
   "FFlagACEBoneReferences2": "True",
-  "DFFlagAvatarChatServiceStudioEditModeUniverseDefaults": "True",
+  "DFFlagAvatarChatServiceStudioEditModeUniverseDefaults": "False",
   "FFlagDecoupleHasAndRequestPermissions": "True",
   "FFlagDoNotPromptCameraPermissionsOnMount": "True",
   "FFlagPermissionsEarlyOutStallsQueue": "True",
