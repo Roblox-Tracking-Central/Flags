@@ -286,5 +286,5 @@
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FFlagHangDetectionJobV2_Rollout": "True;60;2023-11-10T19:46:45"
+  "FFlagHangDetectionJobV2": "True"
 }
