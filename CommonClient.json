@@ -8905,7 +8905,6 @@
   "FFlagACERestrictVideoToR15": "True",
   "FStringUIOcclusionMetricsUnibarMenuVerList": "v6.1t8,v6.2t8,v6.3t8",
   "FFlagNavigationUseMemoryLimit": "True",
-  "FFlagVoiceChatAuditionNewRollOffs": "True",
   "DFFlagEnablePreparePurchaseInExperienceApi": "True",
   "DFFlagFixSubscriptionStatusCacheInClient": "True",
   "FixAudioDeviceCrash": "True",
