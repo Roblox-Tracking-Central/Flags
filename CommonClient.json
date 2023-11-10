@@ -8937,6 +8937,8 @@
   "FFlagWebRtcStackEnableLimits": "False",
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage": "10000",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage": "100",
+  "FFlagRemoveInitLuaAppInJNI_Rollout": "True;30;2023-11-10T17:06:42",
+  "FStringAndroidVfsLowspecHwCondition_Rollout": "{\u0022and\u0022:[ {\u0022=\u0022:[\u0022app_bitness()\u0022,32]}, {\u0022not\u0022:[ {\u0022is_any_of\u0022:[\u0022manufacturer()\u0022,\u0022samsung\u0022,\u0022amazon\u0022,\u0022lge\u0022,\u0022lg\u0022,\u0022vivo\u0022]} ]} ]};60;2023-11-10T17:12:38",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
