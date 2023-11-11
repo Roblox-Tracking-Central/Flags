@@ -8941,7 +8941,7 @@
   "FFlagCrossPlayRearrangement": "True",
   "FFlagXboxFixRenderSize": "True",
   "FFlagSelfViewImprovedUpdateCloneTriggering": "True",
-  "FFlagEnableIXPPerformanceControlSoundTunableUtility": "True",
+  "FFlagEnableIXPPerformanceControlSoundTunableUtility": "False",
   "FFlagLogReloadLatencyMsPerTotalPlays": "True",
   "FFlagStudioFixMultiAccountSupportLogout": "True",
   "DFFlagEnableRemoteProfiling": "True",
