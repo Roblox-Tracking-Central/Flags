@@ -355,6 +355,7 @@
   "DFFlagDebugSimEnableNewAlignTypeInitialization": "True",
   "FFlagContactListEnabled2": "True",
   "FFlagStudioAssistantUseSlashCommands": "True",
+  "FFlagSignalRLogMessageDeliveryByPlatform_Rollout": "False;30;2023-11-13T19:30:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
