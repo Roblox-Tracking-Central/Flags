@@ -472,6 +472,5 @@
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FFlagImprovedModelStreaming": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True"
 }
