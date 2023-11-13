@@ -11,7 +11,7 @@
   "FFlagFixFirstPersonMouseCursorSnapping_CenterPos": "True",
   "FFlagLeaveStartingCoreScriptsToPlaceLauncher": "True",
   "FIntHttpCacheRedirectsTimeoutMs": "14400000",
-  "FIntLuaAppBacktraceErrorReportPercentage": "100",
+  "FIntLuaAppBacktraceErrorReportPercentage": "10",
   "FIntTaskSchedulerThreadMin": "0",
   "FStringGraphicsVulkanBlacklist": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
   "FStringStudioEmergencyMessageV3": "",

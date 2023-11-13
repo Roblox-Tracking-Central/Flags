@@ -11,7 +11,7 @@
   "FFlagFixFirstPersonMouseCursorSnapping_CenterPos": "True",
   "FFlagLeaveStartingCoreScriptsToPlaceLauncher": "True",
   "FIntHttpCacheRedirectsTimeoutMs": "14400000",
-  "FIntLuaAppBacktraceErrorReportPercentage": "100",
+  "FIntLuaAppBacktraceErrorReportPercentage": "10",
   "FIntTaskSchedulerThreadMin": "0",
   "FStringGraphicsVulkanBlacklist": "",
   "FStringStudioEmergencyMessageV3": "",
