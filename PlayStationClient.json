@@ -106,6 +106,7 @@
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
+  "FStringCAPWelcomeMessageOverride": "Hi, I\u2019m your Assistant. If you have questions about creating on Roblox, I\u2019m here to help. \u003Cb\u003EYou can also ask me to:\u003C/b\u003E\n- Add simple scripts to a Part or MeshPart you\u0027ve selected \n- Explain what a script snippet you selected in the script editor does \n- Generate a new material \n\n I may not be able to help with everything, but I\u2019m learning. The more context you give me, the better. Use the ?? or ?? buttons to give me feedback.",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -229,7 +230,6 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFStringSendJoinTimeDeltasHundPrecCountryOverride": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000,JP,4000,NO,2000,FI,2000,SE,1000,FR,1000,DK,1000",
   "FFlagLuaAppSessionUseGetActiveRoute": "True",
-  "FFlagLuaAppSessionUseGetActiveRoute2": "True",
   "FFlagUseCoreScriptsRootProviderForUpsellModal": "True",
   "DFIntHangDetectionJobTimeoutMs": "15000",
   "DFLogHttpCache": "6",
@@ -287,5 +287,6 @@
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FFlagHangDetectionJobV2": "True"
+  "FFlagHangDetectionJobV2": "True",
+  "FFlagNewSelectionCursor": "True"
 }
