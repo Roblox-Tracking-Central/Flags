@@ -8879,7 +8879,6 @@
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "2000",
   "FFlagXboxSharedPlatform": "True",
   "FFlagACERigUtilsMigration": "True",
-  "DFFlagCheckAllForAnimation": "True",
   "FStringVoiceChatRollOffIxpLayer": "Voice.RolloffConfig",
   "FStringVoiceChatRollOffVariantIxpParam": "EnableRolloff",
   "FFlagExperienceDetailsTextSizeCorrection": "True",
