@@ -8944,6 +8944,8 @@
   "FFlagEnableIXPPerformanceControlSoundTunableUtility": "False",
   "FFlagLogReloadLatencyMsPerTotalPlays": "True",
   "FFlagStudioFixMultiAccountSupportLogout": "True",
+  "FFlagACERhodium": "True",
+  "FFlagCLI88742_Rollout": "True;30;2023-11-13T17:39:45",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
