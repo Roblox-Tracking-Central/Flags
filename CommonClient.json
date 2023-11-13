@@ -8975,6 +8975,7 @@
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS": "True",
   "FFlagShowViewportContextVisualization": "True",
   "FFlagEndRequestWhenDisplayErrorMessage": "True",
+  "FFlagControlBetaBadgeWithGuac": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
