@@ -8948,6 +8948,8 @@
   "FFlagLuaAppEnablePsImpressions": "True",
   "FFlagCLI88742": "True",
   "FFlagImprovedModelStreaming": "True",
+  "DFFlagContentProviderRecursiveLockingNoLockWhenCallingLua2_Rollout": "True;60;2023-11-13T18:25:30",
+  "FFlagIrisLaunchTimeBugFix_Rollout": "True;30;2023-11-13T18:28:22",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

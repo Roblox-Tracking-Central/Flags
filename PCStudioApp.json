@@ -354,6 +354,7 @@
   "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled2": "True",
   "DFFlagDebugSimEnableNewAlignTypeInitialization": "True",
   "FFlagStudioAssistantUseSlashCommands_Rollout": "True;60;2023-11-13T17:37:14",
+  "FFlagContactListEnabled2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
