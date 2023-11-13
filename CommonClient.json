@@ -8976,6 +8976,7 @@
   "FFlagShowViewportContextVisualization": "True",
   "FFlagEndRequestWhenDisplayErrorMessage": "True",
   "FFlagControlBetaBadgeWithGuac": "True",
+  "FFlagReportUIOcclusionMetrics6_Rollout": "True;30;2023-11-13T23:50:44",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
