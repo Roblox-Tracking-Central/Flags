@@ -82,7 +82,6 @@
   "FFlagAvatarChatServiceEnabled2": "True",
   "FFlagAvatarChatCoreScriptSupport6": "True",
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
-  "FFlagEnableBacktraceForXboxAppShell": "False",
   "FFlagFriendsCarouselUserProfileApiEnabledForAll": "True",
   "FFlagUserIsChatTranslationEnabled": "False",
   "FIntUITextureLowSingleTextureMemoryMB": "4",

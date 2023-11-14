@@ -5664,6 +5664,7 @@
   "FFlagVector2MinMaxDefinitions": "True",
   "FFlagSafeDataModelDestroy": "True",
   "DFFlagNotifyUnderLockAdditional": "True",
+  "FFlagEnableBacktraceForXboxAppShell": "False",
   "FFlagSetFilterButtonDefaultChild": "True",
   "DFFlagSimCollectGlobalWindSetterInfo": "True",
   "DFFlagVoiceChatModelStreamedOutFix": "True",
