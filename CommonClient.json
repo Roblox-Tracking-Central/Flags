@@ -8991,6 +8991,7 @@
   "FFlagMemoryBufferForHarmony2": "True",
   "DFFlagPerfDataSetInitialValueOptional_Rollout": "True;60;2023-11-14T20:26:07",
   "FFlagTenFootUiEnableCrossPlay": "True",
+  "FFlagLuaAppEnableDeviceIntegrity": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
