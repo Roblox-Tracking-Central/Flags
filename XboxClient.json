@@ -428,6 +428,5 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FFlagNewSelectionCursor": "True",
-  "FFlagConsoleGenderSelectorExperimentIXP": "True"
+  "FFlagNewSelectionCursor": "True"
 }
