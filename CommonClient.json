@@ -8997,6 +8997,7 @@
   "FFlagAddFriendsDiagEvents": "True",
   "DFIntProbesReportThrottleMS": "30000",
   "FFlagNetworkPauseNotifTweenCancel": "True",
+  "DFFlagHttpServiceBandwidthMetrics_Rollout": "True;60;2023-11-14T22:31:53",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
