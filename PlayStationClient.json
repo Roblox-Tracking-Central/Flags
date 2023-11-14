@@ -285,5 +285,6 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagHangDetectionJobV2": "True",
-  "FFlagNewSelectionCursor": "True"
+  "FFlagNewSelectionCursor": "True",
+  "FFlagConsoleGenderSelectorExperimentIXP": "True"
 }
