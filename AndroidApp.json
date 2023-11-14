@@ -95,7 +95,6 @@
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FFlagEditProfileIXPEnabledV1": "True",
   "FStringPerformanceControlIncludedTunables": "IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
