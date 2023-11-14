@@ -338,7 +338,7 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FFlagEditProfileSetupNewExperimentFlow": "True",
+  "FFlagEditProfileSetupNewExperimentFlow": "False",
   "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
   "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginWindowsClient",
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailWindowsClient",

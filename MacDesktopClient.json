@@ -339,7 +339,7 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagRefactorGuiRTCacheImpl2": "True",
-  "FFlagEditProfileSetupNewExperimentFlow": "True",
+  "FFlagEditProfileSetupNewExperimentFlow": "False",
   "FStringEditProfileOpened": "EditProfileOpenedMacClient",
   "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginMacClient",
   "FStringUserProfilesRequestFail": "UserProfilesRequestFailMacClient",
