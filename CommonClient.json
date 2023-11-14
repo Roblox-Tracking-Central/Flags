@@ -8993,6 +8993,7 @@
   "FFlagLuaAppEnableDeviceIntegrity": "True",
   "DFIntProbesReportThrottleMS_Rollout": "30000;60;2023-11-14T20:54:29",
   "DFFlagPerfDataSetInitialValueOptional": "True",
+  "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "10;60;2023-11-14T21:47:03",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
