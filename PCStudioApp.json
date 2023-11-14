@@ -105,6 +105,7 @@
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
+  "FFlagTenFootUiEnableCrossPlay_Rollout": "True;30;2023-11-14T19:58:37",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
