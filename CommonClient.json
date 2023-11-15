@@ -9037,7 +9037,6 @@
   "FFlagStudioOnboardingStartPageCTA": "True",
   "DFIntRCCCheckCoalescedTouchEventualConsistencyInMS_Rollout": "100;30;2023-11-15T21:10:34",
   "DFIntCollectedProbeDataThrottleHundrethsPercent": "5000",
-  "FFlagTeleportShutdownFixOrder_Rollout": "True;30;2023-11-15T21:21:36",
   "DFIntCollectedProbeDataThrottleHundrethsPercent_Rollout": "10000;30;2023-11-15T21:24:42",
   "DFFlagRCCCheckCoalescedTouchEventualConsistency": "True",
   "DFFlagStepContactAsyncTouchTelemetryNewParam": "True",
