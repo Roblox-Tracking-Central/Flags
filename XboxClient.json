@@ -365,7 +365,6 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagTenFootUiCategoryTabSafeArea": "True",
   "FFlagShareGamePageNullCheckEnabled": "True",
-  "FFlagTenFootGameSortImpressionsScrollFix": "True",
   "FFlagSetNotificationServiceThemeToOverride10ft": "True",
   "FFlagTenFootUiAvatar4": "True",
   "FFlagRefactorPlayerNameTag2": "True",
@@ -426,5 +425,6 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FFlagNewSelectionCursor": "True"
+  "FFlagNewSelectionCursor": "True",
+  "FFlagXboxFlagRolloutCrashImprovement_Rollout": "True;60;2023-11-15T19:18:50"
 }
