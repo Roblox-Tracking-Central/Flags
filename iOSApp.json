@@ -428,5 +428,6 @@
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FFlagLuaAppEnablePasskeyLoginABTest": "True"
+  "FFlagLuaAppEnablePasskeyLoginABTest": "True",
+  "FFlagGpuGeometryManager11_Rollout": "True;60;2023-11-15T20:39:51"
 }

@@ -355,5 +355,6 @@
   "FFlagEnableRealtimeProtocolForAllV601": "True",
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
-  "FFlagLuaAppFixLoggedOutInSessionJitter": "True"
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
+  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;60;2023-11-15T20:42:59"
 }
