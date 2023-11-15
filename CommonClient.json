@@ -9023,6 +9023,8 @@
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "3",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent": "3",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent": "3",
+  "DFFlagStepContactAsyncTouchTelemetryNewParam_Rollout": "True;30;2023-11-15T20:54:58",
+  "DFFlagRCCCheckCoalescedTouchEventualConsistency_Rollout": "True;30;2023-11-15T20:55:04",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
