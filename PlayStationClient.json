@@ -192,7 +192,6 @@
   "FFlagCryoMigrateTo1_0_3": "True",
   "FFlagDisableResetOnBlur10ft": "True",
   "FFlagLegacyInputBindingsInControllerBar": "True",
-  "FFlagAppConfigurerEnabled2": "True",
   "FFlagCoreScriptsGlobalEffects": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagLuaAppResetNavigationHistoryTenFoot": "True",

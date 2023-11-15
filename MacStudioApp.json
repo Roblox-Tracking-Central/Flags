@@ -363,7 +363,7 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagUseExperienceService": "True",
   "FFlagGpuGeometryManager10": "True",
-  "FFlagGpuGeometryManager11_Rollout": "True;30;2023-11-15T19:23:38",
+  "FFlagGpuGeometryManager11": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

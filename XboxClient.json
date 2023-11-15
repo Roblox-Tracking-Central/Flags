@@ -295,7 +295,6 @@
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagAddPreviousPageToLuaPageLoad": "True",
   "FFlagAvatarSceneManagerSwitchTabFix": "True",
-  "FFlagAppConfigurerEnabled2": "True",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagAddFriendsComponentsTransparent": "True",
   "FFlagAddFriendsPageUseToken": "True",
@@ -426,5 +425,5 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
-  "FFlagXboxFlagRolloutCrashImprovement_Rollout": "True;60;2023-11-15T19:18:50"
+  "FFlagXboxFlagRolloutCrashImprovement": "True"
 }
