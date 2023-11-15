@@ -9004,6 +9004,7 @@
   "FFlagFixThaiNumberFormatting": "True",
   "FFlagNameAgnosticNeckFinding": "True",
   "FFlagEnableSubscriptionsSettingsPage": "True",
+  "FFlagUIBloxUsePlatformContentKeyLabels": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
