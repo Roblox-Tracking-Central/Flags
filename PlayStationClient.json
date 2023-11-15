@@ -257,7 +257,6 @@
   "FFlagDontReportKeyboardAndMouseSupportOnStart": "True",
   "FFlagEnableTenFootInterfaceCheckForLegacyChat": "True",
   "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
-  "FFlagSetNotificationServiceThemeToOverride10ft": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
