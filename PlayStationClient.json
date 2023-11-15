@@ -204,7 +204,6 @@
   "FFlagFixDescendantHasFocusInitialValue": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
-  "FFlagTenFootUiAvatar4": "True",
   "FFlagAddFriendsComponentsTransparent": "True",
   "FFlagAddFriendsPageUseToken": "True",
   "FFlagEnableAddFriendsPageSearchBar": "False",
