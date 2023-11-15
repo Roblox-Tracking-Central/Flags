@@ -200,7 +200,6 @@
   "FFlagEnableUseShowTopBar4": "False",
   "FFlagAX10ftUIPadding2": "True",
   "FFlagAXFixCatalogResultsListForGamepad": "True",
-  "FFlagAXRetryAvatarLoadOnTabSwitch": "True",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagEnableTopBarPageWrapper": "True",
   "FFlagFixDescendantHasFocusInitialValue": "True",

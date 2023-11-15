@@ -311,7 +311,6 @@
   "FFlagCoreScriptsGlobalEffects": "True",
   "FFlagAX10ftUIPadding2": "True",
   "FFlagAXFixCatalogResultsListForGamepad": "True",
-  "FFlagAXRetryAvatarLoadOnTabSwitch": "True",
   "FFlagEnableActionBarTokens": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagEnableFriendsListAnimation": "True",
