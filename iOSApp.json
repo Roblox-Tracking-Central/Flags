@@ -431,5 +431,5 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FFlagRenderEnableGlobalInstancingMetal_Rollout": "True;60;2023-11-16T21:33:13"
+  "FFlagRenderEnableGlobalInstancingMetal": "True"
 }
