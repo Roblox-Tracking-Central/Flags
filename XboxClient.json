@@ -426,5 +426,5 @@
   "FFlagXboxFlagRolloutCrashImprovement": "True",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
-  "FFlagTenFootUiSearchLoadMore": "True"
+  "FFlagTenFootUiSearchLoadMore": "False"
 }
