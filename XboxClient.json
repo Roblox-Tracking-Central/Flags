@@ -106,6 +106,7 @@
   "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-16T17:35:56",
+  "DFFlagYieldInsideSpinLoopOnPlayStation_Rollout": "True;60;2023-11-16T17:43:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
