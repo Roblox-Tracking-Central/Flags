@@ -428,5 +428,6 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FFlagGpuGeometryManager11": "True"
+  "FFlagGpuGeometryManager11": "True",
+  "FFlagEnableSocialContextToast": "True"
 }

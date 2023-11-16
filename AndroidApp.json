@@ -473,5 +473,6 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FFlagAndroidEnableQoS": "True"
+  "FFlagAndroidEnableQoS": "True",
+  "FFlagEnableSocialContextToast": "True"
 }

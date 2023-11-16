@@ -275,5 +275,6 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FFlagLuaAppFixLoggedOutInSessionJitter": "False"
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
+  "FFlagEnableSocialContextToast": "True"
 }
