@@ -9081,6 +9081,7 @@
   "FFlagSimCSGV3TriangulationNormalFix2_Rollout": "True;60;2023-11-16T19:06:46",
   "FFlagLuaAppEnableExperienceDetailsPageTabletRelease": "True",
   "DFIntLogMessageTruncateLimit_Rollout": "980000;60;2023-11-16T19:24:30",
+  "FStringGpuGeometryManagerGpuBlacklistRegex_Rollout": ".*A10.*|.*A9.*;1;2023-11-16T19:32:26",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

@@ -359,5 +359,6 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "False",
-  "FFlagEnableSocialContextToast": "True"
+  "FFlagEnableSocialContextToast": "True",
+  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "500;30;2023-11-16T19:31:33"
 }

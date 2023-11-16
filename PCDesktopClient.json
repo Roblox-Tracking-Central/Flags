@@ -360,5 +360,6 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "FFlagEnableSocialContextToast": "True"
+  "FFlagEnableSocialContextToast": "True",
+  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "500;30;2023-11-16T19:31:33"
 }
