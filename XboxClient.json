@@ -427,5 +427,5 @@
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FFlagGpuGeometryManager11_Rollout": "True;60;2023-11-16T21:57:45"
+  "FFlagGpuGeometryManager11": "True"
 }
