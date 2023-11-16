@@ -9067,6 +9067,7 @@
   "DFFlagEnableUnreliableTimeout_Rollout": "True;60;2023-11-16T17:12:12",
   "FFlagPropertiesWidgetDmMatchCheck_Rollout": "True;60;2023-11-16T17:12:16",
   "FFlagPropertiesWidgetDmSwitchCleanupFix_Rollout": "True;60;2023-11-16T17:19:46",
+  "FFlagUpgradeExpChatV4_2_6": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
