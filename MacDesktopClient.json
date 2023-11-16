@@ -101,6 +101,7 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
+  "FIntSessionTransitionFSMHundredthsPercent": "500",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
@@ -342,7 +343,7 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FFlagRefactorGuiRTCacheImpl2": "True",
+  "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagEditProfileSetupNewExperimentFlow": "False",
   "FStringEditProfileOpened": "EditProfileOpenedMacClient",
   "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginMacClient",
@@ -360,6 +361,5 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "False",
-  "FFlagEnableSocialContextToast": "True",
-  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "500;30;2023-11-16T19:31:33"
+  "FFlagEnableSocialContextToast": "True"
 }

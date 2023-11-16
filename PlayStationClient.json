@@ -101,6 +101,7 @@
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
+  "FIntSessionTransitionFSMHundredthsPercent": "0",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
@@ -278,5 +279,6 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagHangDetectionJobV2": "True",
-  "FFlagNewSelectionCursor": "True"
+  "FFlagNewSelectionCursor": "True",
+  "FFlagTenFootUiSearchLoadMore": "True"
 }

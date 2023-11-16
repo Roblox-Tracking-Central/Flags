@@ -101,6 +101,7 @@
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
+  "FIntSessionTransitionFSMHundredthsPercent": "0",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
@@ -424,5 +425,6 @@
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
-  "FFlagXboxCleanupArchive": "True"
+  "FFlagXboxCleanupArchive": "True",
+  "FFlagTenFootUiSearchLoadMore": "True"
 }
