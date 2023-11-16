@@ -427,5 +427,5 @@
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
-  "FFlagXboxCleanupArchive_Rollout": "True;30;2023-11-16T17:34:28"
+  "FFlagXboxCleanupArchive": "True"
 }
