@@ -364,6 +364,8 @@
   "FFlagUseExperienceService": "True",
   "FFlagGpuGeometryManager10": "True",
   "FFlagGpuGeometryManager11": "True",
+  "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
+  "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"
