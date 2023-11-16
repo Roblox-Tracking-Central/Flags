@@ -356,6 +356,7 @@
   "DFFlagDebugSimEnableNewAlignTypeInitialization": "True",
   "FFlagContactListEnabled2": "True",
   "FFlagStudioAssistantUseSlashCommands": "True",
+  "FFlagConversationalAI3BetaFeature": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
