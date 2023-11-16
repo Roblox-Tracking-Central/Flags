@@ -84,6 +84,7 @@
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
   "FFlagFriendsCarouselUserProfileApiEnabledForAll": "False",
   "FFlagUserIsChatTranslationEnabled": "False",
+  "DFFlagLogSystemSinkSupport2": "True",
   "FIntUITextureLowSingleTextureMemoryMB": "4",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "True",
   "FFlagEnableLocationRecording": "True",
@@ -105,7 +106,6 @@
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
-  "DFFlagLogSystemSinkSupport2_Rollout": "True;30;2023-11-16T19:41:52",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -362,5 +362,6 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "FFlagEnableSocialContextToast": "True"
+  "FFlagEnableSocialContextToast": "True",
+  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "2500;30;2023-11-16T20:17:43"
 }

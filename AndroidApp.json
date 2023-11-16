@@ -84,6 +84,7 @@
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
   "FFlagFriendsCarouselUserProfileApiEnabledForAll": "False",
   "FFlagUserIsChatTranslationEnabled": "True",
+  "DFFlagLogSystemSinkSupport2": "False",
   "FIntUITextureLowSingleTextureMemoryMB": "4",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "True",
   "FFlagEnableLocationRecording": "True",
