@@ -2326,7 +2326,7 @@
   "FFlagFixTextFieldNilCrash": "True",
   "FFlagUIBloxHorizontalCarouselSetState": "True",
   "FFlagShowContactImporterTooltipOnce": "True",
-  "FFlagSignalRHubConnectionKeepAliveTimeout2MetricsOnly": "True",
+  "FFlagSignalRHubConnectionKeepAliveTimeout2MetricsOnly": "False",
   "FFlagPathfindingRemoveTrackEvent": "True",
   "DFFlagVoiceChatEnablePlayerModeratedSignal": "True",
   "FFlagStudioFixSecondaryScreenMaxSizeBug": "True",
