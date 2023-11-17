@@ -357,6 +357,7 @@
   "FFlagContactListEnabled2": "True",
   "FFlagStudioAssistantUseSlashCommands": "True",
   "FFlagConversationalAI3BetaFeature": "True",
+  "DFFlagEnableMessageRouterV2": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
