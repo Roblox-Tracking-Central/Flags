@@ -278,6 +278,5 @@
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor": "True",
-  "FFlagTenFootUiSearchLoadMore": "False",
-  "FFlagGpuGeometryManager11": "True"
+  "FFlagTenFootUiSearchLoadMore": "False"
 }
