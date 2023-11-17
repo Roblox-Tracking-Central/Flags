@@ -9111,6 +9111,8 @@
   "FFlagLuaAppChallengeDialogFetchDialogConditionally": "True",
   "DFFlagOversizedUnreliableItems": "True",
   "FFlagCheckPhase02WhenCheckingSupported_Rollout": "True;60;2023-11-17T18:58:51",
+  "FFlagUseParallelTypecheckInLSP2_Rollout": "True;30;2023-11-17T19:18:50",
+  "FFlagSTFSMDisableLateCrashEvaluation_Rollout": "True;30;2023-11-17T19:29:02",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
