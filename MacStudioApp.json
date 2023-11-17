@@ -105,6 +105,7 @@
   "FIntSessionTransitionFSMHundredthsPercent": "0",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
+  "FFlagOnlyMakeInputsForVoiceUsers": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

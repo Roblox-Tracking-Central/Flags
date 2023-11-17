@@ -105,6 +105,7 @@
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
+  "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",

@@ -8715,7 +8715,6 @@
   "FFlagTrackPrimitiveCount2": "True",
   "DFFlagCoalesceTouchEventOnServer": "True",
   "DFIntRCCMergeSameTouchesTimeoutInMS": "1500",
-  "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagModelLodStats2": "True",
   "DFFlagSimUnifyConstraintForceVisDesignWithAero": "True",
   "DFFlagReportExitReasonErrorCodeInSessionTracking": "True",
