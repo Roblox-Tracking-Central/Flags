@@ -370,7 +370,7 @@
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1",
-  "FFlagRenderEnableGlobalInstancingMetal_Rollout": "True;60;2023-11-17T19:39:26",
+  "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

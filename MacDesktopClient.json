@@ -119,6 +119,7 @@
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1",
+  "FFlagRenderEnableGlobalInstancingMetal": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -362,6 +363,5 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "False",
-  "FFlagEnableSocialContextToast": "True",
-  "FFlagRenderEnableGlobalInstancingMetal": "True"
+  "FFlagEnableSocialContextToast": "True"
 }
