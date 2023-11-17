@@ -8615,7 +8615,7 @@
   "FStringVoiceUpsellV2ExperimentLayerEngine": "SocialVoice.VoiceUpsell2",
   "FStringVoiceUpsellV2ExperimentLayerLua": "SocialVoice.VoiceUpsell2",
   "FFlagFixResumeRenderOnForeground": "True",
-  "FFlagEnableiOSUpdateAdapter": "False",
+  "FFlagEnableiOSUpdateAdapter": "True",
   "DFFlagClampLoopPoints": "True",
   "FFlagFixSkinningOnM1": "True",
   "FFlagIrisUpdateCallIdForUserRemoteEventEnabled2": "False",
