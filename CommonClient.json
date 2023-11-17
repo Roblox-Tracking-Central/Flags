@@ -9109,6 +9109,7 @@
   "FFlagSTFSMDisableLateCrashEvaluation": "True",
   "FFlagCheckPhase02WhenCheckingSupported": "True",
   "FFlagScriptEditorPreciseTooltipPos": "True",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2023-11-17T23:24:40",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
