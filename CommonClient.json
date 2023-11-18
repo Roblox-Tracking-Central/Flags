@@ -8920,7 +8920,7 @@
   "FFlagFixJapaneseIMECommitMac": "True",
   "FFlagVoiceChatEnableIrisMuteStateFix": "True",
   "EnablePlayIntegrityTokenProvider": "True",
-  "FFlagWebRtcStackEnableLimits": "True",
+  "FFlagWebRtcStackEnableLimits": "False",
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage": "10000",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage": "1000",
   "FFlagRemoveInitLuaAppInJNI": "True",
