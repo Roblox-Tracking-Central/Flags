@@ -8253,7 +8253,6 @@
   "FFlagEnablePlatformName": "True",
   "FFlagFixCrashOnForceUpgrade": "True",
   "DFFlagQueueDataPingFromSendData2": "True",
-  "DFIntFlagRolloutVariantDistributionRatio": "80",
   "FFlagApolloClientUserProfileReadPolicy": "True",
   "FFlagFixPlayersLoadingState": "True",
   "FFlagPSWorldCharacters": "True",
