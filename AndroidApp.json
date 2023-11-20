@@ -477,6 +477,6 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",
-  "DFIntCriticalThermalStatusThreshold_Rollout": "4;60;2023-11-20T18:02:38",
-  "FFlagEnableInGameMenuChromeABTest": "True"
+  "FFlagEnableInGameMenuChromeABTest": "True",
+  "DFIntCriticalThermalStatusThreshold": "4"
 }

@@ -434,6 +434,6 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUpdateCheckOnLogin": "True",
-  "DFIntCriticalThermalStatusThreshold_Rollout": "3;60;2023-11-20T18:02:38",
-  "FFlagEnableInGameMenuChromeABTest": "True"
+  "FFlagEnableInGameMenuChromeABTest": "True",
+  "DFIntCriticalThermalStatusThreshold": "3"
 }
