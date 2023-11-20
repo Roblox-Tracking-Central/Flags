@@ -107,7 +107,6 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
-  "FFlagTextureManagerOrbisUseDxtAssetFormat_Rollout": "True;30;2023-11-20T18:51:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -478,5 +477,6 @@
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "DFIntCriticalThermalStatusThreshold": "4"
+  "DFIntCriticalThermalStatusThreshold": "4",
+  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "1000;60;2023-11-20T19:31:26"
 }

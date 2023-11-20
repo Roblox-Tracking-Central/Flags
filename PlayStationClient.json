@@ -270,7 +270,6 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessPlayStation",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryPlayStation",
   "FFlagGraphicsEnableOrbisContextNullResource": "True",
-  "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "FFlagAdjustAudioLoaderThreadCount": "True",
@@ -278,5 +277,6 @@
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor": "True",
-  "FFlagTenFootUiSearchLoadMore": "False"
+  "FFlagTenFootUiSearchLoadMore": "False",
+  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "1000;60;2023-11-20T19:31:26"
 }
