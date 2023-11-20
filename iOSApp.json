@@ -102,7 +102,7 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
-  "FIntSessionTransitionFSMHundredthsPercent": "0",
+  "FIntSessionTransitionFSMHundredthsPercent": "1000",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
@@ -434,6 +434,5 @@
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "DFIntCriticalThermalStatusThreshold": "3",
-  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "1000;60;2023-11-20T19:31:26"
+  "DFIntCriticalThermalStatusThreshold": "3"
 }
