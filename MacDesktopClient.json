@@ -364,5 +364,6 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "False",
-  "FFlagEnableSocialContextToast": "True"
+  "FFlagEnableSocialContextToast": "True",
+  "FFlagEnableInGameMenuChromeABTest": "True"
 }

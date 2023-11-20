@@ -278,5 +278,6 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FFlagEnableSocialContextToast": "True"
+  "FFlagEnableSocialContextToast": "True",
+  "FFlagEnableInGameMenuChromeABTest": "True"
 }
