@@ -211,7 +211,6 @@
   "FFlagExperienceDetailsTextUseTokens": "True",
   "FFlagUseTokensInIconTab": "True",
   "FFlagUseTokensSizeInIconButton": "True",
-  "FFlagEnableAEScrollingListSelectionFix": "True",
   "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",

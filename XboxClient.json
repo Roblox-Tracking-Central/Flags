@@ -323,7 +323,6 @@
   "FFlagEnableTenFootInterfaceCheckForLegacyChat": "True",
   "FFlagEnableTopBarPageWrapper": "True",
   "FFlagEnableAddFriendsPageSearchBar": "True",
-  "FFlagEnableAEScrollingListSelectionFix": "True",
   "FFlagEnableBigGameIconInDetailsPage": "True",
   "FFlagEnableTenftUiDetailsMoreDropupMenu": "True",
   "FFlagFriendCarouselFetchHandleRejections": "True",
