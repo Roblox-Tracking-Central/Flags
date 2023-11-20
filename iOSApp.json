@@ -432,5 +432,6 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
-  "FFlagUpdateCheckOnLogin": "True"
+  "FFlagUpdateCheckOnLogin": "True",
+  "DFIntCriticalThermalStatusThreshold_Rollout": "3;60;2023-11-20T18:02:38"
 }

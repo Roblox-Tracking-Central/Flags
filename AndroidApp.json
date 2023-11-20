@@ -475,5 +475,6 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
-  "FFlagEnableSocialContextToast": "True"
+  "FFlagEnableSocialContextToast": "True",
+  "DFIntCriticalThermalStatusThreshold_Rollout": "4;60;2023-11-20T18:02:38"
 }
