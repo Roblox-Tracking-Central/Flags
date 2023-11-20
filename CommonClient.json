@@ -9111,6 +9111,7 @@
   "FFlagDebugFmodEnableInputProcessingPatch": "False",
   "FFlagDebugFmodEnableInputProcessingPatch_PlaceFilter": "True;9174692858",
   "DFIntSecretsStoreFetchTimeoutMs_Rollout": "4000;30;2023-11-20T17:16:15",
+  "DFFlagPlayerCharacterDestroyBehaviorProperty_Rollout": "True;60;2023-11-20T17:36:02",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
