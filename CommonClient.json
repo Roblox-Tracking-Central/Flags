@@ -9154,6 +9154,7 @@
   "FFlagFixWidgetHydrationEmptyTile": "True",
   "FFlagFixWidgetsRefs": "True",
   "FFlagUnibarLuaOcclusionMetrics": "True",
+  "FFlagContactImportButtonsExperimentEnabled": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
