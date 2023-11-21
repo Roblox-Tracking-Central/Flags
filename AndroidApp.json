@@ -477,5 +477,7 @@
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "DFIntCriticalThermalStatusThreshold": "4"
+  "DFIntCriticalThermalStatusThreshold": "4",
+  "FFlagAXEnableExperienceWidgets": "True",
+  "FFlagAXWidgetSeeAllButton": "True"
 }

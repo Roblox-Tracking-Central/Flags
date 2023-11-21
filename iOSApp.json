@@ -434,5 +434,7 @@
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "DFIntCriticalThermalStatusThreshold": "3"
+  "DFIntCriticalThermalStatusThreshold": "3",
+  "FFlagAXEnableExperienceWidgets": "True",
+  "FFlagAXWidgetSeeAllButton": "True"
 }
