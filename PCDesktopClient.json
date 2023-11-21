@@ -305,7 +305,6 @@
   "DFFlagSimHumanoidNewStopOverlap_PlaceFilter": "False;2573981315;6317172524;4999654929",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersWindowsClient",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
-  "FFlagLuaAppGameJoinFailureAnalytics": "True",
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FFlagGraphicsDeviceEvents": "True",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
