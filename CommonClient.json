@@ -9153,6 +9153,7 @@
   "FFlagExtendedWidgetAnalytics2": "True",
   "FFlagFixWidgetHydrationEmptyTile": "True",
   "FFlagFixWidgetsRefs": "True",
+  "FFlagUnibarLuaOcclusionMetrics": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
