@@ -435,6 +435,5 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "3",
-  "FFlagAXEnableExperienceWidgets": "True",
-  "FFlagAXWidgetSeeAllButton": "True"
+  "FFlagAXEnableExperienceWidgets": "True"
 }
