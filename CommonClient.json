@@ -9155,6 +9155,8 @@
   "FFlagFixWidgetsRefs": "True",
   "FFlagUnibarLuaOcclusionMetrics": "True",
   "FFlagContactImportButtonsExperimentEnabled": "True",
+  "FFlagLuaAppLogDropdownMenuEvents": "True",
+  "FFlagMacForwardProtocolString_Rollout": "True;60;2023-11-21T19:22:51",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
