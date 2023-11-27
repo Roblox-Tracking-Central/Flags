@@ -121,6 +121,7 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "5;60;2023-11-27T21:25:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -365,5 +366,7 @@
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FFlagEnableSTFSMTeardown": "True"
+  "FFlagEnableSTFSMTeardown": "True",
+  "DFFlagFixClosingBugForMappedFile_Rollout": "True;30;2023-11-27T21:43:41",
+  "DFFlagAddErrorCodeToMappedFileFailures_Rollout": "True;30;2023-11-27T21:44:24"
 }

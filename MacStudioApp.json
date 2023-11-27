@@ -373,6 +373,7 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "5;60;2023-11-27T21:25:00",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
