@@ -367,6 +367,6 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "FFlagEnableSTFSMTeardown": "True",
-  "DFFlagFixClosingBugForMappedFile_Rollout": "True;30;2023-11-27T21:43:41",
-  "DFFlagAddErrorCodeToMappedFileFailures_Rollout": "True;30;2023-11-27T21:44:24"
+  "DFFlagAddErrorCodeToMappedFileFailures": "True",
+  "DFFlagFixClosingBugForMappedFile": "True"
 }
