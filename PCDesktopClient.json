@@ -366,5 +366,6 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FFlagEnableSTFSMTeardown": "True"
+  "FFlagEnableSTFSMTeardown": "True",
+  "FFlagEnableOctreeValidation_Rollout": "True;60;2023-11-27T20:37:13"
 }
