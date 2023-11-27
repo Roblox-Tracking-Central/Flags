@@ -364,5 +364,6 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FFlagEnableInGameMenuChromeABTest": "True"
+  "FFlagEnableInGameMenuChromeABTest": "True",
+  "FFlagEnableCullableSceneOctree5_Rollout": "True;30;2023-11-27T19:09:11"
 }
