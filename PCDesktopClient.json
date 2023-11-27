@@ -365,5 +365,6 @@
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FFlagEnableCullableSceneOctree5": "True"
+  "FFlagEnableCullableSceneOctree5": "True",
+  "FFlagEnableSTFSMTeardown": "True"
 }

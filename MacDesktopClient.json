@@ -364,5 +364,6 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FFlagEnableInGameMenuChromeABTest": "True"
+  "FFlagEnableInGameMenuChromeABTest": "True",
+  "FFlagEnableSTFSMTeardown": "True"
 }
