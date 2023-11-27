@@ -107,6 +107,7 @@
   "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
+  "FFlagEnableOctreeValidation_Rollout": "True;60;2023-11-27T23:29:31",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

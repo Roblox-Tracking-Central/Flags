@@ -107,6 +107,7 @@
   "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
+  "FFlagEnableOctreeValidation_Rollout": "True;60;2023-11-27T23:29:31",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

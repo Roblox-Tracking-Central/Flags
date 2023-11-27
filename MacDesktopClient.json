@@ -107,6 +107,7 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
+  "FFlagEnableOctreeValidation_Rollout": "True;60;2023-11-27T23:29:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -368,8 +369,8 @@
   "FFlagEnableSTFSMTeardown": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
-  "FFlagRealtimeMetricsEnabledInConnectionManager_Rollout": "True;30;2023-11-27T22:46:50",
-  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-11-27T22:54:33",
   "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;30;2023-11-27T23:08:00",
-  "FFlagEnableCullableSceneOctree5_Rollout": "True;30;2023-11-27T23:08:37"
+  "FFlagEnableCullableSceneOctree5_Rollout": "True;30;2023-11-27T23:08:37",
+  "FFlagRealtimeReliabilityMeasurementEnable_Rollout": "True;30;2023-11-27T23:21:23",
+  "FFlagEnableMmapForMemProfStorageFlushing2": "True"
 }
