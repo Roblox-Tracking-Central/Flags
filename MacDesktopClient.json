@@ -368,5 +368,6 @@
   "FFlagEnableSTFSMTeardown": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
-  "FFlagRealtimeMetricsEnabledInConnectionManager_Rollout": "True;30;2023-11-27T22:46:50"
+  "FFlagRealtimeMetricsEnabledInConnectionManager_Rollout": "True;30;2023-11-27T22:46:50",
+  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-11-27T22:54:33"
 }

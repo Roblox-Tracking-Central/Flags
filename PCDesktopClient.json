@@ -369,5 +369,6 @@
   "FFlagEnableSTFSMTeardown": "True",
   "FFlagEnableOctreeValidation": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
-  "DFFlagFixClosingBugForMappedFile": "True"
+  "DFFlagFixClosingBugForMappedFile": "True",
+  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-11-27T22:54:33"
 }
