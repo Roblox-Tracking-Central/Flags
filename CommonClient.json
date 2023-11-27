@@ -9161,6 +9161,8 @@
   "FFlagSharedTableStringKeyWithEmbeddedNull": "True",
   "DFFlagStreamingSolverMapModifyCounts": "True",
   "FFlagFmodWasapiGetDeviceBusType": "True",
+  "FStringNewDockingBetaFeatureUrl": "https://devforum.roblox.com/t/docking-updates-studio-beta/2701154",
+  "FFlagXboxRemoveSetDefaultTeleportImpl": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
