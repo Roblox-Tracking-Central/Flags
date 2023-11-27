@@ -420,7 +420,7 @@
   "FFlagXboxGameProtocol": "True",
   "FFlagXboxKeyboardType": "True",
   "FFlagXboxNixValidSessionPoller": "True",
-  "DFFlagEnableTCSChatTranslation": "True",
+  "DFFlagEnableTCSChatTranslation": "False",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",

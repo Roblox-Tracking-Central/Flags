@@ -427,7 +427,7 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "True",
+  "DFFlagEnableTCSChatTranslation": "False",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagEnableSocialContextToast": "True",

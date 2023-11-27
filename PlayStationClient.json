@@ -273,7 +273,7 @@
   "DFIntHttpCacheCleanScheduleAfterMs": "30000",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "FFlagAdjustAudioLoaderThreadCount": "True",
-  "DFFlagEnableTCSChatTranslation": "True",
+  "DFFlagEnableTCSChatTranslation": "False",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor": "True",

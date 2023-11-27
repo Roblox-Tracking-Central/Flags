@@ -355,7 +355,7 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "True",
+  "DFFlagEnableTCSChatTranslation": "False",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagEnableRealtimeProtocolCheckV601": "True",
   "FFlagEnableRealtimeProtocolForAllV601": "True",
