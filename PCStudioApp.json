@@ -371,9 +371,8 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "5;60;2023-11-27T21:25:00",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"
