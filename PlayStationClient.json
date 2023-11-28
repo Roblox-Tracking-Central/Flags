@@ -200,7 +200,6 @@
   "FFlagLuaAppResetNavigationHistoryTenFoot": "True",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
   "FFlagEnableUseShowTopBar4": "False",
-  "FFlagAX10ftUIPadding2": "True",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagEnableTopBarPageWrapper": "True",
   "FFlagFixDescendantHasFocusInitialValue": "True",

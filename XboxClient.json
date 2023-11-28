@@ -311,7 +311,6 @@
   "FFlagCryoMigrateTo1_0_3": "True",
   "FFlagDisableResetOnBlur10ft": "True",
   "FFlagCoreScriptsGlobalEffects": "True",
-  "FFlagAX10ftUIPadding2": "True",
   "FFlagEnableActionBarTokens": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagEnableFriendsListAnimation": "True",

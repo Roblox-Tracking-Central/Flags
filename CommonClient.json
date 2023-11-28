@@ -9176,6 +9176,7 @@
   "FFlagEnableOctreeValidation": "True",
   "DFFlagEnableMessageRouterV2": "True",
   "DFFlagSimEditableMeshDefaultName": "True",
+  "FFlagAX10ftUIPadding2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
