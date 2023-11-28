@@ -305,7 +305,6 @@
   "FFlagDisablePrefetchProtocol": "True",
   "FFlagCalculateFriendsTileSize": "True",
   "FFlagAXF10ftFixPeekabooWidget": "True",
-  "FFlagCrossDeviceDesignTokens": "True",
   "FFlagAXOptimizeRoduxConnections": "True",
   "FFlagAXSupportNestedAvatarExperienceRoute": "True",
   "FFlagCryoMigrateTo1_0_3": "True",

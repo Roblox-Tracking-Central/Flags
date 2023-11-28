@@ -370,6 +370,6 @@
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
-  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "100;60;2023-11-28T21:46:36",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100"
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100"
 }
