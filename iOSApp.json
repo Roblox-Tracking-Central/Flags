@@ -108,6 +108,7 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagEnableSTFSMTeardown": "False",
+  "DFFlagInferredCrashSystemSuccessReportMove_Rollout": "True;60;2023-11-28T20:43:09",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

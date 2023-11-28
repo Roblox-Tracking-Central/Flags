@@ -108,6 +108,7 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "FFlagEnableSTFSMTeardown": "False",
+  "DFFlagInferredCrashSystemSuccessReportMove_Rollout": "True;60;2023-11-28T20:43:09",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
