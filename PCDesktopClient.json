@@ -107,7 +107,6 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagEnableSTFSMTeardown": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -123,6 +122,7 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -367,8 +367,8 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FFlagEnableOctreeValidation": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
-  "FFlagEnableMmapForMemProfStorageFlushing2": "True"
+  "FFlagEnableMmapForMemProfStorageFlushing2": "True",
+  "DFFlagReportOutputDeviceWithRobloxTelemetry": "True"
 }

@@ -107,7 +107,6 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
-  "FFlagEnableOctreeValidation_Rollout": "True;60;2023-11-27T23:29:31",
   "FFlagEnableSTFSMTeardown": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -439,5 +438,6 @@
   "DFIntCriticalThermalStatusThreshold": "3",
   "FFlagAXEnableExperienceWidgets": "True",
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
-  "FFlagRealtimeReliabilityMeasurementEnable": "True"
+  "FFlagRealtimeReliabilityMeasurementEnable": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5"
 }
