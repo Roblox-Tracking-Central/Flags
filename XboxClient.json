@@ -345,7 +345,6 @@
   "FFlagLuaAppNavigationAnalytics": "True",
   "FFlagGamesListBackgroundFix": "True",
   "FFlagGridCarouselHeaderHeightFix": "True",
-  "FFlagLuaAppMorePageRefactor2": "True",
   "FFlagLegacyInputBindingsInControllerBar": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
