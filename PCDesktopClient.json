@@ -121,7 +121,7 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

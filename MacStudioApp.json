@@ -371,7 +371,7 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",

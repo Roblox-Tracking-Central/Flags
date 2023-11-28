@@ -440,5 +440,5 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5"
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20"
 }
