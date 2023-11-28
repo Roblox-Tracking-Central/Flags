@@ -358,6 +358,7 @@
   "FFlagContactListEnabled2": "True",
   "FFlagStudioAssistantUseSlashCommands": "True",
   "FFlagConversationalAI3BetaFeature": "True",
+  "FStringStudioEmergencyMessageV4_Rollout": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjAwLjAuMSIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;60;2023-11-28T23:08:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
