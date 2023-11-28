@@ -9175,8 +9175,6 @@
   "FFlagLuaAppMorePageRefactor2": "True",
   "FFlagRoactChatConversationActionsAll3": "True",
   "FFlagSimCSGV3VerticesCloneFix": "True",
-  "FFlagMoveFocusNavigationProvider2": "True",
-  "FFlagTenFootModerationPromptFocus": "True",
   "FFlagFixDescendantHasFocusInitialValue": "True",
   "FFlagCancelAutoFocusTask": "True",
   "FFlagShareGamePageNullCheckEnabled": "True",
