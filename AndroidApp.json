@@ -479,5 +479,6 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
-  "FFlagAXEnableExperienceWidgets": "True"
+  "FFlagAXEnableExperienceWidgets": "True",
+  "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172"
 }
