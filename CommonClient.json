@@ -9209,6 +9209,7 @@
   "FFlagContactRecs_v4": "True",
   "FFlagContactRecs": "True",
   "FFlagContactRecs_v1": "True",
+  "FFlagUseExperienceService": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
