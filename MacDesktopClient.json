@@ -108,6 +108,7 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagEnableSTFSMTeardown": "True",
+  "FFlagXboxGameProtocol_Rollout": "True;60;2023-11-29T22:26:52",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

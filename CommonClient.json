@@ -9216,6 +9216,7 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagRenderUseMediump": "True",
   "FFlagVideoCameraAsyncEnabled": "True",
+  "FStringGraphicsVulkanFutureGPUNameBlacklist": "Adreno (TM) 530;Adreno (TM) 618;Adreno (TM) 619;Adreno (TM) 504;PowerVR Rogue GE8320;Adreno (TM) 612",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
