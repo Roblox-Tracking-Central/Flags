@@ -407,7 +407,6 @@
   "FFlagXboxCredentialsHeaders": "True",
   "FFlagXboxDataModelServices": "True",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
-  "FFlagXboxGameProtocol": "True",
   "DFFlagEnableTCSChatTranslation": "False",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",

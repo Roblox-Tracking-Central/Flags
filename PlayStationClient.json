@@ -108,7 +108,6 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "FFlagEnableSTFSMTeardown": "False",
-  "FFlagXboxGameProtocol_Rollout": "True;60;2023-11-29T22:26:52",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

@@ -9229,6 +9229,7 @@
   "FFlagVideoReportDPI_Rollout": "True;60;2023-11-29T23:09:55",
   "FFlagUnreliableEventsStudioAwareness": "True",
   "FFlagXboxRespectPermissionsGameJoin_Rollout": "True;60;2023-11-29T23:17:19",
+  "FFlagXboxGameProtocol": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
