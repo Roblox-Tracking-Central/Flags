@@ -412,7 +412,6 @@
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
   "FFlagXboxGameProtocol": "True",
   "FFlagXboxKeyboardType": "True",
-  "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "False",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
