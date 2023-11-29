@@ -267,7 +267,6 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyPlayStation",
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "DFFlagEnableTCSChatTranslation": "False",
-  "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagTenFootUiSearchLoadMore": "False"
