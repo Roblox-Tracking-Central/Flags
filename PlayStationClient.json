@@ -196,7 +196,6 @@
   "FFlagEnableUseShowTopBar4": "False",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
-  "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagAddFriendsComponentsTransparent": "True",
   "FFlagAddFriendsPageUseToken": "True",
   "FFlagEnableAddFriendsPageSearchBar": "False",

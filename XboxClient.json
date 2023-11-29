@@ -373,7 +373,6 @@
   "FFlagPlayerContextualMenuAddUnblockCTA": "True",
   "FFlagLuaAppUpdateGameSortGridRowHeight10ft2": "True",
   "FFlagLuaAppResetNavigationHistoryTenFoot": "True",
-  "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
   "FFlagUIBloxUseTokensInPlayerTile": "True",
