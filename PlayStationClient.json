@@ -195,7 +195,6 @@
   "FFlagLuaAppResetNavigationHistoryTenFoot": "True",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
   "FFlagEnableUseShowTopBar4": "False",
-  "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
   "FFlagAddFriendsComponentsTransparent": "True",
   "FFlagAddFriendsPageUseToken": "True",

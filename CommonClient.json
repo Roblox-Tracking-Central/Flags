@@ -9231,6 +9231,7 @@
   "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
   "FFlagVoiceInputUseNewAudioApi5": "False",
   "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688",
+  "FFlagAvatarBackgroundManagementOptional": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
