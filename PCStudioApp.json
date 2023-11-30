@@ -360,7 +360,7 @@
   "FFlagConversationalAI3BetaFeature": "True",
   "FFlagLuauBufferTypeBetaFeature": "True",
   "FStringLuauBufferTypeBetaFeatureUrl": "https://devforum.roblox.com/t/introducing-luau-buffer-type-beta/2724894",
-  "FFlagLuauCodeGenFixByteLower_Rollout": "True;10;2023-11-30T23:20:36",
+  "FFlagLuauCodeGenFixByteLower": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
