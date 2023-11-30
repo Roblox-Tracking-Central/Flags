@@ -241,7 +241,6 @@
   "FFlagTenFootUiSeeAll6": "True",
   "FFlagFixAXRouteForPPECamera": "True",
   "FFlagUseFocusRestoration10ft": "True",
-  "FFlagPlatformFriendsService": "True",
   "FFlagDontReportKeyboardAndMouseSupportOnStart": "True",
   "FFlagEnableTenFootInterfaceCheckForLegacyChat": "True",
   "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",

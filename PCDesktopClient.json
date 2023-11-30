@@ -108,7 +108,6 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagEnableSTFSMTeardown": "True",
-  "FFlagPlatformFriendsService_Rollout": "True;60;2023-11-30T18:23:09",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

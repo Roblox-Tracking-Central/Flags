@@ -108,7 +108,6 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagEnableSTFSMTeardown": "False",
-  "FFlagPlatformFriendsService_Rollout": "True;60;2023-11-30T18:23:09",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
