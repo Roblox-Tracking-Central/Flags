@@ -108,6 +108,7 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagEnableSTFSMTeardown": "False",
+  "FFlagXboxFixTextBoxesOnReturnToApp_Rollout": "True;60;2023-11-30T17:48:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
