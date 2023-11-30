@@ -9248,6 +9248,7 @@
   "FFlagToolboxSubmitCompleted": "True",
   "FFlagConvertTextureManagerCallbackModeToExcludedTunables": "True",
   "IrisLaunchTimeBugFixForLoggedOutUser": "True",
+  "FFlagAXRefactorAnimationManagerAnimSelection8": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
