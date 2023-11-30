@@ -358,7 +358,7 @@
   "FFlagContactListEnabled2": "True",
   "FFlagStudioAssistantUseSlashCommands": "True",
   "FFlagConversationalAI3BetaFeature": "True",
-  "FFlagLuauBufferTypeBetaFeature_Rollout": "True;30;2023-11-30T16:57:31",
+  "FFlagLuauBufferTypeBetaFeature": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
