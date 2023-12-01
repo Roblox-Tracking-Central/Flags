@@ -9297,6 +9297,7 @@
   "FFlagStudioNotificationsBetaFeature": "True",
   "DFIntRuntimeConcurrency": "2",
   "FStringStudioNotificationsBetaFeatureUrl_Rollout": "https://devforum.roblox.com/t/studio-notification-tray-overhaul-beta/2725944;10;2023-12-01T17:48:05",
+  "FIntStudioNotificationsBetaFeatureRolloutPercent_Rollout": "50;5;2023-12-01T17:56:58",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
