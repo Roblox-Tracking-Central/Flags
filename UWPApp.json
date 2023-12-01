@@ -282,5 +282,6 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "DFIntTaskSchedulerJobRetryCount": "1"
+  "DFIntTaskSchedulerJobRetryCount": "1",
+  "DFIntSimSepConcernLimit_Rollout": "6666;30;2023-12-01T18:44:43"
 }

@@ -9300,6 +9300,7 @@
   "FFlagAXBypassScrollPanel": "True",
   "FFlagPlatformFriendsProfile": "True",
   "FIntStudioNotificationsBetaFeatureRolloutPercent": "100",
+  "FFlagUIBloxUseTokensInPlayerTile": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

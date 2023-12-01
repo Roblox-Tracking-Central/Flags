@@ -121,7 +121,6 @@
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
   "FFlagDisablePrefetchProtocol": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FFlagUIBloxUseTokensInPlayerTile": "True",
   "FFlagFriendCarouselFetchHandleRejections": "True",
   "FFlagFriendCarouselGetCarouseListSorting": "True",
   "FFlagFriendCarouselHas10ftPolicies": "True",
