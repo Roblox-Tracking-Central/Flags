@@ -109,6 +109,7 @@
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
+  "FFlagRealtimeMetricsEnabledInConnectionManager_Rollout": "True;30;2023-12-01T18:34:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

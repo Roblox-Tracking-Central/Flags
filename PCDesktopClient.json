@@ -372,5 +372,5 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
-  "DFIntTaskSchedulerJobRetryCount_Rollout": "2;30;2023-12-01T17:52:04"
+  "DFIntTaskSchedulerJobRetryCount": "2"
 }

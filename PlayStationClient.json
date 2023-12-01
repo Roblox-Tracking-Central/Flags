@@ -109,6 +109,7 @@
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "False",
+  "FFlagRealtimeMetricsEnabledInConnectionManager_Rollout": "True;30;2023-12-01T18:34:33",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
