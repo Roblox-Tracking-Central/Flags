@@ -9309,6 +9309,8 @@
   "DFFlagDSTelemetryIncludeScopeAndDmForListingApis": "True",
   "DFIntQosEventThrottle": "20",
   "DFFlagRealtimeClientTargetAnalytics": "True",
+  "FFlagFlagRolloutTestStaticBool8_Rollout": "False;60;2023-12-01T22:55:36",
+  "DFFlagFlagRolloutTestDynamicBool8_Rollout": "False;60;2023-12-01T22:55:51",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
