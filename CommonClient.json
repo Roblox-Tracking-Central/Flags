@@ -9294,6 +9294,7 @@
   "DFFlagOptimizeComputeIsCollideFeaturePoly": "True",
   "FFlagCAPAddTutorialWorkflowLinks": "True",
   "FFlagPluginCalloutCustomOnShutdown": "True",
+  "FFlagStudioNotificationsBetaFeature_Rollout": "True;10;2023-12-01T17:09:54",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
