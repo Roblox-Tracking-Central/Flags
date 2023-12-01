@@ -108,6 +108,7 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "FFlagEnableSTFSMTeardown": "False",
+  "FFlagRuntimeStmExpEnabled1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
