@@ -118,7 +118,6 @@
   "FFlagGpuGeometryManager10": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
-  "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -368,5 +367,6 @@
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
-  "FFlagEnableCullableSceneOctree5": "True"
+  "FFlagEnableCullableSceneOctree5": "True",
+  "FStringRealtimeClientTargetName": "osx"
 }

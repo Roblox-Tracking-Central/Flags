@@ -118,7 +118,6 @@
   "FFlagGpuGeometryManager10": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
-  "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -372,5 +371,6 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
-  "DFIntTaskSchedulerJobRetryCount": "2"
+  "DFIntTaskSchedulerJobRetryCount": "2",
+  "FStringRealtimeClientTargetName": "win32"
 }
