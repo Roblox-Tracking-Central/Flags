@@ -439,5 +439,5 @@
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
-  "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172"
+  "FLogDebugQuadTreeLogging2": "6"
 }

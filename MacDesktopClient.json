@@ -361,7 +361,7 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FFlagMacClientSupportIME9": "False",
+  "FFlagMacClientSupportIME9": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
