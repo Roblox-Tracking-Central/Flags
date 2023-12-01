@@ -107,6 +107,7 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
+  "DFIntSimSepConcernLimit": "6666",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
   "AllowVideoPreRoll": "True",
@@ -282,6 +283,5 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "DFIntSimSepConcernLimit_Rollout": "6666;30;2023-12-01T18:44:43",
   "FStringRealtimeClientTargetName": "windows_universal"
 }
