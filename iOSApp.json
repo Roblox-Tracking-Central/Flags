@@ -360,7 +360,6 @@
   "FStringProfileQRPageLoad": "ProfileQRPageLoadiOS",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailediOS",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
-  "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
   "FIntEnableContactInvitesForNonPhoneVerifiedRollout_v2": "100",

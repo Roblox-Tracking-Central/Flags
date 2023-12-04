@@ -391,7 +391,6 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FStringProfileQRPageLoad": "ProfileQRPageLoadAndroid",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedAndroid",
-  "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
