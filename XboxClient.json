@@ -111,6 +111,7 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
+  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-12-04T21:34:04",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -413,5 +414,7 @@
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "XBox",
-  "FFlagXboxSystemUtilDeviceName_Rollout": "True;60;2023-12-04T20:22:16"
+  "FFlagHangDetectionJobV2_Rollout": "True;60;2023-12-04T21:30:16",
+  "DFIntHangDetectionJobV2TimeoutMs_Rollout": "0;60;2023-12-04T21:30:47",
+  "FFlagXboxSystemUtilDeviceName": "True"
 }

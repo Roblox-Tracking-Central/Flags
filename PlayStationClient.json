@@ -111,6 +111,7 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "False",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
+  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-12-04T21:34:04",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
