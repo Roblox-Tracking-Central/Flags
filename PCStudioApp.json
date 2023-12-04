@@ -110,7 +110,6 @@
   "DFIntSimSepConcernLimit": "3333",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "DFFlagFixClosingBugForMappedFile_Rollout": "True;15;2023-12-04T19:01:39",
   "DFFlagAddErrorCodeToMappedFileFailures_Rollout": "True;30;2023-12-04T19:05:01",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "AllowVideoPreRoll": "True",
