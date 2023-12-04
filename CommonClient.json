@@ -9357,6 +9357,8 @@
   "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
   "FFlagStudioResetLayoutForCurrentRevisionOnly2": "True",
   "FFlagLuauFullLoopLuserdata_Rollout": "True;30;2023-12-04T23:01:05",
+  "FFlagFmodMacGetDeviceBusType_Rollout": "True;60;2023-12-04T23:22:53",
+  "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "500;30;2023-12-04T23:26:19",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
