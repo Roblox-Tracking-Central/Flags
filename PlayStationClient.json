@@ -110,6 +110,7 @@
   "DFIntSimSepConcernLimit": "3333",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "False",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "5;30;2023-12-04T18:35:19",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
