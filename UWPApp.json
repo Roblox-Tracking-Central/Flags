@@ -112,6 +112,7 @@
   "FFlagRuntimeStmExpEnabled1": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "10;30;2023-12-04T23:28:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
