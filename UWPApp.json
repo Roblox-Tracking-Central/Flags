@@ -110,7 +110,6 @@
   "DFIntSimSepConcernLimit": "6666",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FFlagRealtimeReliabilityMeasurementEnable_Rollout": "True;30;2023-12-04T17:49:58",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

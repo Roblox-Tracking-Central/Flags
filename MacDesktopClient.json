@@ -119,7 +119,6 @@
   "FFlagGpuGeometryManager10": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
-  "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "AllowVideoPreRoll": "True",
