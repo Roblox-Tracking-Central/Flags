@@ -439,5 +439,6 @@
   "DFIntCriticalThermalStatusThreshold": "3",
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
-  "FStringRealtimeClientTargetName": "iOS"
+  "FStringRealtimeClientTargetName": "iOS",
+  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "False;10;2023-12-04T21:12:36"
 }

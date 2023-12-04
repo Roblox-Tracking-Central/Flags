@@ -499,6 +499,5 @@
   "FFlagLuafiedReportThumbnail": "True",
   "SingleSurfaceEnabledAndroid2": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "30;20;2023-12-04T20:45:50"
+  "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000"
 }
