@@ -111,6 +111,7 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
+  "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -481,6 +482,5 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
-  "FStringRealtimeClientTargetName": "Android",
-  "FFlagEnableMmapForMemProfStorageFlushing2": "True"
+  "FStringRealtimeClientTargetName": "Android"
 }

@@ -111,6 +111,7 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
+  "FFlagEnableMmapForMemProfStorageFlushing2": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -439,6 +440,5 @@
   "DFIntCriticalThermalStatusThreshold": "3",
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
-  "FStringRealtimeClientTargetName": "iOS",
-  "FFlagEnableMmapForMemProfStorageFlushing2": "False"
+  "FStringRealtimeClientTargetName": "iOS"
 }
