@@ -9328,6 +9328,7 @@
   "DFFlagAddSessionIdToCrashPad": "True",
   "FFlagMacRestartClientOnWarmWebLaunch": "True",
   "FFlagLuauBit32Byteswap": "True",
+  "FFlagChromeSurveySupport": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

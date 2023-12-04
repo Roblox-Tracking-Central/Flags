@@ -482,7 +482,7 @@
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
-  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-12-04T18:18:15",
+  "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
