@@ -440,5 +440,6 @@
   "DFIntCriticalThermalStatusThreshold": "3",
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
-  "FStringRealtimeClientTargetName": "iOS"
+  "FStringRealtimeClientTargetName": "iOS",
+  "FIntInitialMmapSizeForMemProfStorageKB": "64"
 }
