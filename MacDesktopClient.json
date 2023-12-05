@@ -366,5 +366,7 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FStringRealtimeClientTargetName": "osx"
+  "FStringRealtimeClientTargetName": "osx",
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100"
 }
