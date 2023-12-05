@@ -401,7 +401,6 @@
   "FFlagXboxEnableSignalR2": "True",
   "FFlagXboxCleanerGamepadReactivation": "True",
   "FFlagXboxCredentialsHeaders": "True",
-  "FFlagXboxDataModelServices": "True",
   "DFFlagEnableTCSChatTranslation": "False",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
