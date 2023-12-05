@@ -267,5 +267,6 @@
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FStringRealtimeClientTargetName": "PlayStation"
+  "FStringRealtimeClientTargetName": "PlayStation",
+  "FFlagNewSelectionCursor2": "True"
 }
