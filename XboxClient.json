@@ -412,5 +412,6 @@
   "FFlagXboxSystemUtilDeviceName": "True",
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
-  "FFlagNewSelectionCursor2": "True"
+  "FFlagNewSelectionCursor2": "True",
+  "FFlagEnableNativeSubscriptionPurchase3_Rollout": "True;60;2023-12-05T21:53:25"
 }
