@@ -273,7 +273,6 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "DFFlagCLI82264": "True",
-  "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",

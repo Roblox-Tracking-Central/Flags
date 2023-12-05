@@ -346,7 +346,6 @@
   "FFlagStudioFixSchroedingerLogin": "True",
   "FFlagStudioAutoLoginResurrectedUsers": "True",
   "FFlagDisableSkipFrameForBusyInTestMode": "True",
-  "FFlagEnableGetImageForKeyCodeAPI": "True",
   "FFlagGamepadDeviceTypeSelectionFix": "True",
   "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled": "False",
   "FFlagLuauLintDeprecatedFenv": "True",
