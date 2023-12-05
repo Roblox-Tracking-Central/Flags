@@ -9365,6 +9365,8 @@
   "FFlagFmodMacGetDeviceBusType": "True",
   "FFlagHideAvatarBuildCategoryInVR": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts4": "False",
+  "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2023-12-05T18:44:52",
+  "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2023-12-05T18:45:08",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
