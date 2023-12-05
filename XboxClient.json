@@ -104,7 +104,6 @@
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
-  "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "DFIntSimSepConcernLimit": "3333",
@@ -384,7 +383,6 @@
   "FFlagTenFootUiScrollBackFix": "True",
   "FFlagTenFootUiSearch": "True",
   "FFlagTenFootUiSeeAll6": "True",
-  "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
   "FFlagUserProfilePlatformName": "True",
@@ -410,6 +408,5 @@
   "FFlagXboxSystemUtilDeviceName": "True",
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
-  "FFlagNewSelectionCursor2": "True",
-  "FFlagEnableNativeSubscriptionPurchase3_Rollout": "True;60;2023-12-05T21:53:25"
+  "FFlagNewSelectionCursor2": "True"
 }

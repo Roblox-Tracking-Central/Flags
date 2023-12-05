@@ -104,7 +104,6 @@
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
-  "FFlagEnableNativeSubscriptionPurchase3": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "DFIntSimSepConcernLimit": "3333",
@@ -116,7 +115,6 @@
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",
-  "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
   "FFlagDisablePrefetchProtocol": "True",
@@ -262,6 +260,5 @@
   "FFlagNewSelectionCursor": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "PlayStation",
-  "FFlagNewSelectionCursor2": "True",
-  "FFlagEnableNativeSubscriptionPurchase3_Rollout": "True;60;2023-12-05T21:53:25"
+  "FFlagNewSelectionCursor2": "True"
 }
