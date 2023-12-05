@@ -96,7 +96,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "True",
@@ -441,6 +441,5 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
-  "FIntInitialMmapSizeForMemProfStorageKB": "64",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2023-12-05T21:08:33"
+  "FIntInitialMmapSizeForMemProfStorageKB": "64"
 }

@@ -96,7 +96,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+  "FStringPerformanceControlIncludedTunables": "IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "True",
@@ -483,6 +483,5 @@
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
-  "FStringPerformanceControlIncludedTunables_Rollout": "IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2023-12-05T21:08:33",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True"
 }

@@ -9394,6 +9394,8 @@
   "FFlagXboxDataModelServices": "True",
   "FFlagXboxUniversalApp": "True",
   "FFlagVectorIntegerFunctions_Rollout": "True;60;2023-12-05T22:09:38",
+  "FFlagPlatformFriendsService_Rollout": "True;60;2023-12-05T22:20:11",
+  "DFFlagNewAppCoreSerializers_Rollout": "True;60;2023-12-05T22:27:38",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
