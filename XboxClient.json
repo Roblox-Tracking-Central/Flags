@@ -346,7 +346,6 @@
   "FFlagLegacyInputBindingsInControllerBar": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
-  "FFlagLuaAppLocalizationConsistencyFixes": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
   "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",

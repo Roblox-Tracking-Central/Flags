@@ -111,6 +111,7 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "False",
+  "FFlagTreatDnsResolveErrorAsDisconnect_Rollout": "True;60;2023-12-05T21:43:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
