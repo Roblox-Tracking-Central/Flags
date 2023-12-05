@@ -9180,7 +9180,6 @@
   "FFlagEnableTopBarPageWrapper": "True",
   "FFlagUIBloxIncreaseImageResolutionForTenFoot": "True",
   "FFlagMorePageUserInfo": "True",
-  "FFlagDualWriteFlowDurationToV2Stats": "True",
   "DFFlagSolverCBStats": "True",
   "FFlagEnableSignalBehaviorAncestryDeferred2": "True",
   "FFlagFixRichTextLineHeight2": "True",
