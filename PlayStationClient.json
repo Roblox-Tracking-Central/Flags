@@ -159,7 +159,6 @@
   "FFlagEnableAbuseReport10ft2": "True",
   "FFlagEnableExperienceDetailsFuncComponent": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
-  "FFlagSupportsOverscanPolicy": "True",
   "FFlagTenFootUiAchievements": "True",
   "FFlagAXF10ftFixPeekabooWidget": "True",
   "FFlagAddPreviousPageToLuaPageLoad": "True",

@@ -9396,6 +9396,8 @@
   "FFlagVectorIntegerFunctions_Rollout": "True;60;2023-12-05T22:09:38",
   "FFlagPlatformFriendsService_Rollout": "True;60;2023-12-05T22:20:11",
   "DFFlagNewAppCoreSerializers_Rollout": "True;60;2023-12-05T22:27:38",
+  "FFlagProperlyHandleDelayedErrorReporting_Rollout": "True;60;2023-12-05T22:32:50",
+  "FFlagSupportsOverscanPolicy": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
