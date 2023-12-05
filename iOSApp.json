@@ -110,7 +110,6 @@
   "DFIntSimSepConcernLimit": "3333",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagEnableMmapForMemProfStorageFlushing2": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -441,5 +440,6 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
-  "FIntInitialMmapSizeForMemProfStorageKB": "64"
+  "FIntInitialMmapSizeForMemProfStorageKB": "64",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2023-12-05T21:08:33"
 }
