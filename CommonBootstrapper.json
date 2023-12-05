@@ -53,5 +53,5 @@
   "FFlagMacBootstrapperIgnore401": "True",
   "FFlagMacInstallerFirstLaunchArgument": "True",
   "FFlagHttpGetSyncUseNativeRetry": "True",
-  "FFlagHttpPostSyncUseNativeRetry_Rollout": "True;30;2023-12-05T17:15:00"
+  "FFlagHttpPostSyncUseNativeRetry": "True"
 }
