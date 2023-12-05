@@ -381,8 +381,6 @@
   "FFlagUIBloxUseStatGroupManualSize": "True",
   "FFlagUpdateFriendCarousel10ft6": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
-  "FFlagUIBloxEnableTableCellFullBackgroundOverride": "True",
-  "FFlagUIBloxEnableTextButtonsInActionBar": "True",
   "FFlagUIBloxUseNewScrollBar": "True",
   "FFlagTenFootUiGameCarousel2": "True",
   "FFlagTenFootUiPlayerSearch": "True",
