@@ -352,7 +352,6 @@
   "FFlagRefactorAuthPageForTenFoot": "True",
   "FFlagRefactorBirthdayPicker": "True",
   "FFlagTenFootUiDisableContactImporter": "True",
-  "FFlagTenFootUiAchievements": "True",
   "FFlagTenFootUiCategoryTabRemovePadding": "True",
   "FFlagTenFootUiDisableInviteFriends": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
