@@ -367,5 +367,6 @@
   "FFlagEnableCullableSceneOctree5": "True",
   "FStringRealtimeClientTargetName": "osx",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
-  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100"
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
+  "DFFlagReportOutputDeviceWithRobloxTelemetry_Rollout": "True;30;2023-12-05T20:46:15"
 }
