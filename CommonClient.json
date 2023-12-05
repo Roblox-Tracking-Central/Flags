@@ -9344,7 +9344,7 @@
   "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagEnableSocialServiceIrisInitCallPlacedUpdate": "True",
   "FFlagCFrameLookAlong": "True",
-  "DFFlagEnableCsmRateLimit": "True",
+  "DFFlagEnableCsmRateLimit": "False",
   "FStringReportAbuseMenuRoactForcedUserIds": "3501323813;4249672033;4903090547;2029193318;",
   "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
   "FFlagStudioResetLayoutForCurrentRevisionOnly2": "True",
