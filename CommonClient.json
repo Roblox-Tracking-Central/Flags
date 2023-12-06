@@ -9416,6 +9416,7 @@
   "FFlagEnableAppUpgradeKeyConfig_Rollout": "True;60;2023-12-06T22:12:44",
   "FFlagStudioDeviceEmulatorShowPS4InNotchBeta_Rollout": "True;30;2023-12-06T22:23:26",
   "FFlagDualWriteFlowDurationToV2Stats": "True",
+  "DFIntDataStoreBudgetOnCloseBase_PlaceFilter": "1200;3317771874",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

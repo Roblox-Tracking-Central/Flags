@@ -54,5 +54,5 @@
   "FFlagMacInstallerFirstLaunchArgument": "True",
   "FFlagHttpGetSyncUseNativeRetry": "True",
   "FFlagHttpPostSyncUseNativeRetry": "True",
-  "FFlagEnableMultipleProcessTermination_Rollout": "True;1;2023-12-06T22:38:22"
+  "FFlagEnableMultipleProcessTermination": "True"
 }
