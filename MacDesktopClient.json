@@ -288,7 +288,7 @@
   "FFlagBetterTrackpadScrolling": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
-  "FFlagUniversalAppCsat": "True",
+  "FFlagUniversalAppCsat": "False",
   "DFFlagSimHumanoidNewStopOverlap_PlaceFilter": "False;2573981315;6317172524;4999654929",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersMacClient",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
@@ -364,7 +364,7 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "FFlagEnableCullableSceneOctree5": "True",
   "FStringRealtimeClientTargetName": "osx",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
-  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True"
 }

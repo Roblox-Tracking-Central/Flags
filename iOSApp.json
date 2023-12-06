@@ -320,7 +320,7 @@
   "DFFlagPredictedOOM": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageiOS",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataiOS",
-  "FFlagUniversalAppCsat": "True",
+  "FFlagUniversalAppCsat": "False",
   "FFlagLuaVerifiedSignupExperiment2": "True",
   "FFlagDestroyDMBeforeJoiningExperience": "True",
   "DFIntLaunchUGCExperienceWithExistingDMHundredthPercentage": "300",
