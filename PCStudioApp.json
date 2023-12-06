@@ -362,7 +362,7 @@
   "FFlagLuauCodeGenFixByteLower": "True",
   "FFlagEnableStudioMultiAccountSupportFeature": "True",
   "FFlagNotificationPluginRealtimeReload": "True",
-  "FFlagSimEmptyEditableMeshSerializationFix_Rollout": "True;30;2023-12-06T21:58:15",
+  "FFlagSimEmptyEditableMeshSerializationFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

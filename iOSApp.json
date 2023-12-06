@@ -438,5 +438,6 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
-  "FIntInitialMmapSizeForMemProfStorageKB": "64"
+  "FIntInitialMmapSizeForMemProfStorageKB": "64",
+  "FFlagAdjustAudioLoaderThreadCount_Rollout": "True;60;2023-12-06T22:33:01"
 }
