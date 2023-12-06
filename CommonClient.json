@@ -9424,6 +9424,7 @@
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
   "FFlagAXFixLayeredClothingEntryIconSize10ft": "True",
   "FFlagAXFixTitleDropDownCursor10ft": "True",
+  "FFlagUpgradeExpChatV4_2_7": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
