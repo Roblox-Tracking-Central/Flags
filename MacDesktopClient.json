@@ -367,5 +367,6 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFLogFaceAnimatorThreadingTrace_Rollout": "6;30;2023-12-06T21:25:02",
-  "DFLogFaceAnimatorThreadingTrace2_Rollout": "6;30;2023-12-06T21:28:28"
+  "DFLogFaceAnimatorThreadingTrace2_Rollout": "6;30;2023-12-06T21:28:28",
+  "DFLogFaceAnimatorTrace_Rollout": "6;30;2023-12-06T21:51:05"
 }

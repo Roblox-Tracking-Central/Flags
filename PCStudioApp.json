@@ -361,6 +361,7 @@
   "FStringLuauBufferTypeBetaFeatureUrl": "https://devforum.roblox.com/t/introducing-luau-buffer-type-beta/2724894",
   "FFlagLuauCodeGenFixByteLower": "True",
   "FFlagEnableStudioMultiAccountSupportFeature": "True",
+  "FFlagNotificationPluginRealtimeReload": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
