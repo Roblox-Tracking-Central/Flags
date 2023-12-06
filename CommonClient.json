@@ -9354,7 +9354,7 @@
   "DFFlagAllExitReasonsUseStringArray": "True",
   "DFFlagEngineStabilityUseSessionResultV2": "True",
   "DFFlagStopFlushTimerWhenInferredCrashDestruct": "True",
-  "DFFlagEnableRetryForSubscribeOnReconnect": "True",
+  "DFFlagEnableRetryForSubscribeOnReconnect": "False",
   "DFFlagModelStreamingBehaviorField": "True",
   "DFFlagConsistentLoadCharacterCallbacks2": "True",
   "FStringLuaGameInviteMenuLayer": "Growth.Notifications.GameInviteMenu.InExperience",
