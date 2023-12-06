@@ -266,6 +266,7 @@
   "FFlagJoinTime_LocalUserClusterPriority": "True",
   "FFlagJoinTime_LocalUserMeshPriority": "True",
   "FFlagLeaderstatsWithASideOfClient": "True",
+  "FFlagLeaveStartingCoreScriptsToPlaceLauncher": "True",
   "FFlagLocalizeErrorCodeString": "True",
   "FFlagLuaAppGameDetailsHideEmptySections": "True",
   "FFlagLuaAppGameSetTargetIdAnalytics": "True",

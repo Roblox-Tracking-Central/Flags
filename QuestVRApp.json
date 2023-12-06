@@ -9,7 +9,6 @@
   "DFIntParallelNarrowPhaseSerialCutoff": "500",
   "DFIntPerfDataGlobalThrottleHundredthsPercent": "20",
   "FFlagFixFirstPersonMouseCursorSnapping_CenterPos": "True",
-  "FFlagLeaveStartingCoreScriptsToPlaceLauncher": "True",
   "FIntHttpCacheRedirectsTimeoutMs": "14400000",
   "FIntLuaAppBacktraceErrorReportPercentage": "10",
   "FIntTaskSchedulerThreadMin": "0",
