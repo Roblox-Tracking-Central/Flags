@@ -287,7 +287,7 @@
   "FFlagBetterTrackpadScrolling": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
-  "FFlagUniversalAppCsat": "False",
+  "FFlagUniversalAppCsat": "True",
   "DFFlagSimHumanoidNewStopOverlap_PlaceFilter": "False;2573981315;6317172524;4999654929",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersMacClient",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
