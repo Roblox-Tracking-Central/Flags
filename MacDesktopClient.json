@@ -109,6 +109,7 @@
   "FFlagEnableSTFSMTeardown": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
+  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp_Rollout": "True;60;2023-12-07T22:21:27",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
