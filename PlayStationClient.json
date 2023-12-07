@@ -193,7 +193,6 @@
   "FFlagExperienceDetailsTextUseTokens": "True",
   "FFlagUseTokensInIconTab": "True",
   "FFlagUseTokensSizeInIconButton": "True",
-  "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",

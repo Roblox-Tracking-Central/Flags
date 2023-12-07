@@ -345,7 +345,6 @@
   "FFlagLegacyInputBindingsInControllerBar": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
-  "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",
   "FFlagRefactorAuthPageForTenFoot": "True",
