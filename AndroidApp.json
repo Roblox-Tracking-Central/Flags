@@ -484,5 +484,5 @@
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagUpdateCheckOnLogin2": "True",
   "EnableSendrThumbnail": "True",
-  "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12"
+  "FFlagExpStateCaptureMode7": "True"
 }
