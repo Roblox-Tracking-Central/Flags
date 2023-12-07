@@ -380,6 +380,7 @@
   "FFlagConvAIFixPropertyRepositionBug": "True",
   "FFlagConvAIIncomingLinks": "True",
   "FFlagFixAssetVariationCaching": "True",
+  "FFlagConvAIAssetCreditAttributes": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

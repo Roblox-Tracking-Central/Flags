@@ -463,7 +463,6 @@
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
-  "FFlagUpdateCheckOnLogin": "True",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
@@ -481,5 +480,6 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
-  "FFlagMinimalSignupAuthEnabled1": "True"
+  "FFlagMinimalSignupAuthEnabled1": "True",
+  "FFlagUpdateCheckOnLogin2": "True"
 }

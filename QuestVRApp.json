@@ -463,7 +463,6 @@
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
-  "FFlagUpdateCheckOnLogin": "False",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
@@ -482,6 +481,7 @@
   "FStringRealtimeClientTargetName": "Android",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagMinimalSignupAuthEnabled1": "True",
+  "FFlagUpdateCheckOnLogin2": "False",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -498,5 +498,6 @@
   "FFlagLuafiedReportThumbnail": "True",
   "SingleSurfaceEnabledAndroid2": "True",
   "FFlagAddFontAtlasMipmaps": "True",
-  "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000"
+  "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
+  "FFlagUpdateCheckOnLogin": "False"
 }

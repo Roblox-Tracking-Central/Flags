@@ -432,7 +432,6 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
-  "FFlagUpdateCheckOnLogin": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "3",
   "FFlagAXEnableExperienceWidgets": "True",
@@ -440,5 +439,6 @@
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
   "FFlagMinimalSignupAuthEnabled1": "True",
-  "FFlagAdjustAudioLoaderThreadCount": "True"
+  "FFlagAdjustAudioLoaderThreadCount": "True",
+  "FFlagUpdateCheckOnLogin2": "True"
 }
