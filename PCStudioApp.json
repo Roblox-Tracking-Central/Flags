@@ -381,6 +381,7 @@
   "FFlagConvAIIncomingLinks": "True",
   "FFlagFixAssetVariationCaching": "True",
   "FFlagConvAIAssetCreditAttributes": "True",
+  "FFlagOpenApiFixCapturingSharedPointerByRef_Rollout": "True;60;2023-12-07T19:29:15",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
