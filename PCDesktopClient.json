@@ -366,5 +366,6 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntTaskSchedulerJobRetryCount": "2",
-  "FStringRealtimeClientTargetName": "win32"
+  "FStringRealtimeClientTargetName": "win32",
+  "FFlagRuntimeEnabled2": "True"
 }
