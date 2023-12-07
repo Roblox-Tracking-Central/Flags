@@ -9443,6 +9443,8 @@
   "FFlagModelDestructorSignal_Rollout": "True;60;2023-12-07T19:05:18",
   "FFlagStreamSoundsCompressedInMemory2_Rollout": "True;60;2023-12-07T19:09:03",
   "FFlagEnableSubscriptionPaymentHistoryCache_Rollout": "True;60;2023-12-07T19:09:42",
+  "FFlagRealtimeProtocolSetsManagerAuthenticatedUserId_Rollout": "True;60;2023-12-07T19:13:00",
+  "DFFlagSimDecoupleGravityForceVisFromConstraintAndContactForceVis_Rollout": "True;60;2023-12-07T19:15:09",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
