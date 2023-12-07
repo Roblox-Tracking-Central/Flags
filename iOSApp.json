@@ -111,6 +111,7 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "False",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB_Rollout": "512;60;2023-12-07T23:07:39",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderediOS",
+  "DFFlagHttpCacheReportCleanReason_Rollout": "True;60;2023-12-07T23:39:10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
