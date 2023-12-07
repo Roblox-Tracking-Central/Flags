@@ -483,6 +483,7 @@
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagUpdateCheckOnLogin2": "False",
   "EnableSendrThumbnail": "True",
+  "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

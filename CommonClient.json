@@ -9482,6 +9482,7 @@
   "DFFlagGrabMetadataWhenLocalizingInstance": "True",
   "FFlagBankCapsule": "True",
   "FFlagScriptProfilerMoreUtilAndTabSpaceForButtons": "True",
+  "FFlagLabelRibbonControlGroups": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

@@ -366,5 +366,6 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntTaskSchedulerJobRetryCount": "2",
-  "FStringRealtimeClientTargetName": "win32"
+  "FStringRealtimeClientTargetName": "win32",
+  "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12"
 }

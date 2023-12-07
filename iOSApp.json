@@ -440,5 +440,6 @@
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagAdjustAudioLoaderThreadCount": "True",
-  "FFlagUpdateCheckOnLogin2": "True"
+  "FFlagUpdateCheckOnLogin2": "True",
+  "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12"
 }
