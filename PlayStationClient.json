@@ -263,7 +263,5 @@
   "FFlagPlatformCloudStoragePollster": "True",
   "FFlagPlatformCloudStorageService": "True",
   "FFlagPlatformFriendsServiceGetPartyMembers": "True",
-  "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
-  "DFFlagReportCacheDirSizes_Rollout": "True;60;2023-12-07T22:22:23",
-  "DFIntReportCacheDirSizesHundredthsPercent_Rollout": "500;60;2023-12-07T22:22:23"
+  "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True"
 }

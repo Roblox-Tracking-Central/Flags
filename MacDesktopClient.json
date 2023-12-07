@@ -370,5 +370,6 @@
   "DFLogFaceAnimatorThreadingTrace": "6",
   "DFLogFaceAnimatorThreadingTrace2": "6",
   "DFLogFaceAnimatorTrace": "6",
-  "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12"
+  "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12",
+  "FFlagRuntimeEnabled2": "True"
 }
