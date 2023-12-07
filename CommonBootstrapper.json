@@ -54,5 +54,6 @@
   "FFlagMacInstallerFirstLaunchArgument": "True",
   "FFlagHttpGetSyncUseNativeRetry": "True",
   "FFlagHttpPostSyncUseNativeRetry": "True",
-  "FFlagEnableMultipleProcessTermination": "True"
+  "FFlagEnableMultipleProcessTermination": "True",
+  "FFlagWindowsStudioPassLaunchIntent2": "True"
 }
