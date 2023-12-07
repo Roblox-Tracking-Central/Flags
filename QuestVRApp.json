@@ -482,6 +482,7 @@
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagUpdateCheckOnLogin2": "False",
+  "EnableSendrThumbnail": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

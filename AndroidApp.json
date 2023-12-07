@@ -481,5 +481,6 @@
   "FStringRealtimeClientTargetName": "Android",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagMinimalSignupAuthEnabled1": "True",
-  "FFlagUpdateCheckOnLogin2": "True"
+  "FFlagUpdateCheckOnLogin2": "True",
+  "EnableSendrThumbnail": "True"
 }

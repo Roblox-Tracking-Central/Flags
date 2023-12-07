@@ -257,5 +257,11 @@
   "FFlagNewSelectionCursor": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "PlayStation",
-  "FFlagNewSelectionCursor2": "True"
+  "FFlagNewSelectionCursor2": "True",
+  "FFlagFixPlayStationTrophies2": "True",
+  "FFlagPlatformCloudStoragePlayXExperiencesTrophies": "True",
+  "FFlagPlatformCloudStoragePollster": "True",
+  "FFlagPlatformCloudStorageService": "True",
+  "FFlagPlatformFriendsServiceGetPartyMembers": "True",
+  "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True"
 }
