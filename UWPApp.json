@@ -109,7 +109,8 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
-  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp_Rollout": "True;60;2023-12-07T22:21:27",
+  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB_Rollout": "512;60;2023-12-07T23:07:39",
+  "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -282,5 +283,6 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringRealtimeClientTargetName": "windows_universal"
+  "FStringRealtimeClientTargetName": "windows_universal",
+  "FFlagRuntimeEnabled2": "True"
 }
