@@ -9500,6 +9500,7 @@
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagDenseRequiringInstanceCount": "True",
   "FFlagTenFootUiMorePageFixUsername": "True",
+  "DFFlagHttpSslCertCacheEnabled3_Rollout": "True;10;2023-12-08T17:44:46",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
