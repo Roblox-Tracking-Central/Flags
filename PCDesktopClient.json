@@ -111,7 +111,6 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedDUAR",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
-  "DFFlagHttpCacheReportCleanReason_Rollout": "True;60;2023-12-08T18:57:02",
   "FStringChatLandingComposeBtnClickedCounter": "ChatLandingComposeBtnClickedDUAR",
   "FStringChatLandingConversationClickedCounter": "ChatLandingConversationClickedDUAR",
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedDUAR",
@@ -374,9 +373,5 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FFlagExpStateCaptureMode7": "True",
-  "DFFlagHttpCacheCleanScheduleBasedOnBytes_Rollout": "True;60;2023-12-08T19:41:51",
-  "DFIntHttpCacheCleanCheckAfterKB_Rollout": "524288;60;2023-12-08T19:41:51",
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB_Rollout": "1024;60;2023-12-08T19:41:51",
-  "FFlagHttpCacheCleanSpaceOnly_Rollout": "True;60;2023-12-08T19:41:51"
+  "FFlagExpStateCaptureMode7": "True"
 }

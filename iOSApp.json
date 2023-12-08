@@ -111,7 +111,6 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "False",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderediOS",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
-  "DFFlagHttpCacheReportCleanReason_Rollout": "True;60;2023-12-08T18:57:02",
   "FStringChatLandingComposeBtnClickedCounter": "ChatLandingComposeBtnClickediOS",
   "FStringChatLandingConversationClickedCounter": "ChatLandingConversationClickediOS",
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickediOS",
