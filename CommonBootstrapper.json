@@ -56,6 +56,6 @@
   "FFlagHttpPostSyncUseNativeRetry": "True",
   "FFlagEnableMultipleProcessTermination": "True",
   "FFlagWindowsStudioPassLaunchIntent2": "True",
-  "DFIntHttpResponseDefaultTimeoutMillis_Rollout": "300000;60;2023-12-08T01:39:15",
-  "FIntInstallerFileTaskThreadCount": "3"
+  "FIntInstallerFileTaskThreadCount": "3",
+  "DFIntHttpResponseDefaultTimeoutMillis": "300000"
 }
