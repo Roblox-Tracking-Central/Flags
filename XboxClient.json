@@ -109,9 +109,10 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
-  "AxisAdornmentGrabSize": "12",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
+  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -275,7 +276,6 @@
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
-  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
@@ -345,7 +345,6 @@
   "FFlagLegacyInputBindingsInControllerBar": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
-  "FFlagLuaAppExperienceInfoPanel2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",
   "FFlagRefactorAuthPageForTenFoot": "True",
   "FFlagRefactorBirthdayPicker": "True",
@@ -367,7 +366,6 @@
   "FFlagPlayerContextualMenuAnalytics3": "True",
   "FFlagPlayerContextualMenuAddUnblockCTA": "True",
   "FFlagLuaAppUpdateGameSortGridRowHeight10ft2": "True",
-  "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagTenFootUiHideFriendsTools": "True",
@@ -403,5 +401,6 @@
   "FFlagXboxSystemUtilDeviceName": "True",
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
-  "FFlagNewSelectionCursor2": "True"
+  "FFlagNewSelectionCursor2": "True",
+  "FFlagLuaAppExperienceInfoPanel2": "True"
 }

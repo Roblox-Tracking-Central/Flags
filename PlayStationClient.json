@@ -109,9 +109,10 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "False",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
-  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
+  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",
@@ -193,8 +194,6 @@
   "FFlagExperienceDetailsTextUseTokens": "True",
   "FFlagUseTokensInIconTab": "True",
   "FFlagUseTokensSizeInIconButton": "True",
-  "FFlagLuaAppExperienceInfoPanel2": "True",
-  "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagAddExperienceGuidelinesToActionBar10ft1": "True",
   "FFlagEnableBigGameIconInDetailsPage": "True",
@@ -206,7 +205,6 @@
   "FFlagUseCoreScriptsRootProviderForUpsellModal": "True",
   "DFIntHangDetectionJobTimeoutMs": "15000",
   "DFLogHttpCache": "6",
-  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "DFLogMemoryStats": "6",
@@ -262,5 +260,6 @@
   "FFlagPlatformCloudStoragePollster": "True",
   "FFlagPlatformCloudStorageService": "True",
   "FFlagPlatformFriendsServiceGetPartyMembers": "True",
-  "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True"
+  "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagLuaAppExperienceInfoPanel2": "True"
 }
