@@ -9504,6 +9504,7 @@
   "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry_Rollout": "True;30;2023-12-08T18:17:25",
   "DFIntMemoryStoreErrorExtraInfoHundredthsPercent_Rollout": "25;30;2023-12-08T18:18:00",
   "DFFlagSolverModelRemovedUnderSetFix_Rollout": "True;60;2023-12-08T18:24:35",
+  "FFlagHttpWrapperFixStopCase_Rollout": "True;30;2023-12-08T18:43:40",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
