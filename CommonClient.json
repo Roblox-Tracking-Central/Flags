@@ -9505,6 +9505,7 @@
   "DFIntMemoryStoreErrorExtraInfoHundredthsPercent": "25",
   "FFlagHttpWrapperFixStopCase": "True",
   "DFFlagSolverModelRemovedUnderSetFix": "True",
+  "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "True;60;2023-12-08T19:37:20",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
