@@ -389,6 +389,7 @@
   "FFlagFixAssetVariationCaching": "True",
   "FFlagConvAIAssetCreditAttributes": "True",
   "FFlagOpenApiFixCapturingSharedPointerByRef": "True",
+  "FFlagAvatarPreviewerLegacyRigidAccessories": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
