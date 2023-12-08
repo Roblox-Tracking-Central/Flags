@@ -503,5 +503,6 @@
   "SingleSurfaceEnabledAndroid2": "True",
   "FFlagAddFontAtlasMipmaps": "True",
   "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
-  "FFlagUpdateCheckOnLogin": "False"
+  "FFlagUpdateCheckOnLogin": "False",
+  "FFlagHideExperienceLoadingJudder2": "True"
 }
