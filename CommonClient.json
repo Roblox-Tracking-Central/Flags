@@ -9370,7 +9370,7 @@
   "FFlagAXEnableSceneManagerResetFullViewFix1": "True",
   "FFlagAXExperienceCardWithDynamicFooterTextSize": "True",
   "FFlagAXFixWidgetTitleOverflow": "True",
-  "FFlagAXSeeAllPanelWontCloseAfterSwitchViews": "True",
+  "FFlagAXSeeAllPanelWontCloseAfterSwitchViews": "False",
   "FFlagAXWidgetOnePreviewRow": "True",
   "FFlagAXWidgetSeeAllButton2": "True",
   "FFlagEnableSearchWidgets4": "True",
