@@ -143,7 +143,6 @@
   "FFlagRefactorAuthPageForTenFoot": "True",
   "FFlagRefactorBirthdayPicker": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
-  "FFlagWrapBlockModalScreenInProvider": "True",
   "FFlagPlayerListUserProfileApiEnabledForAll_v2": "True",
   "FFlagCalculateFriendsTileSize": "True",
   "FFlagEnableActionBarTokens": "True",
