@@ -7148,7 +7148,7 @@
   "FFlagIsInputMainPressRemoveKeyboardGamepadInput": "True",
   "FFlagVoiceTextOverflowFix": "True",
   "FFlagRemapR6AnimationAllowFace": "True",
-  "FFlagUseAESGetOutfitDetailsInApp": "True",
+  "FFlagUseAESGetOutfitDetailsInApp": "False",
   "FFlagStudioOpenAutoSavesIcon": "True",
   "FFlagStudioSetIdeDocFocusProxyTo3dView": "True",
   "FFlagPlayerGuiSafeConnection": "True",
