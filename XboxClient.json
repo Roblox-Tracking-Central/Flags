@@ -67,7 +67,6 @@
   "FIntMotionBuffers2": "0",
   "DFFlagCLI64234Metrics": "False",
   "FFlagMovePrerender": "True",
-  "FFlagProfileQRCodeCoreFeaturesEnabled": "True",
   "FFlagModelScale": "True",
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "False",
@@ -301,7 +300,6 @@
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFFlagHttpCacheReportCleanReason": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "1048576",
-  "FFlagAuthDisclaimerUseArgs": "True",
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagAddPreviousPageToLuaPageLoad": "True",
   "FFlagAvatarSceneManagerSwitchTabFix": "True",
@@ -406,5 +404,6 @@
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
-  "FFlagLuaAppExperienceInfoPanel2": "True"
+  "FFlagLuaAppExperienceInfoPanel2": "True",
+  "FFlagAuthDisclaimerUseArgs": "True"
 }

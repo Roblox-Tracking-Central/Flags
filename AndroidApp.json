@@ -67,7 +67,6 @@
   "FIntMotionBuffers2": "0",
   "DFFlagCLI64234Metrics": "False",
   "FFlagMovePrerender": "True",
-  "FFlagProfileQRCodeCoreFeaturesEnabled": "True",
   "FFlagModelScale": "True",
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",

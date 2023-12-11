@@ -67,7 +67,6 @@
   "FIntMotionBuffers2": "0",
   "DFFlagCLI64234Metrics": "False",
   "FFlagMovePrerender": "True",
-  "FFlagProfileQRCodeCoreFeaturesEnabled": "True",
   "FFlagModelScale": "True",
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
@@ -453,5 +452,5 @@
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage": "10000",
   "DFFlagPerformanceControlEnableInference": "True",
   "DFIntPerformanceControlRunInferenceHundrethsPercent": "5",
-  "DFIntPerformanceControlDummyInferenceHundrethsPercent_Rollout": "5;30;2023-12-11T21:31:20"
+  "DFIntPerformanceControlDummyInferenceHundrethsPercent": "5"
 }

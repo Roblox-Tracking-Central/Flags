@@ -67,7 +67,6 @@
   "FIntMotionBuffers2": "0",
   "DFFlagCLI64234Metrics": "False",
   "FFlagMovePrerender": "False",
-  "FFlagProfileQRCodeCoreFeaturesEnabled": "True",
   "FFlagModelScale": "True",
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
@@ -223,7 +222,6 @@
   "DFFlagHttpCacheReportCleanReason": "True",
   "DFFlagHttpReplaceBoostSpaceTemp": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "262144",
-  "FFlagAuthDisclaimerUseArgs": "True",
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagExperienceDetailsPlayButtonAutoFocus10ft": "True",
   "FFlagPlayerContextualMenuSetGameplaySession": "True",
@@ -265,5 +263,6 @@
   "FFlagPlatformCloudStorageService": "True",
   "FFlagPlatformFriendsServiceGetPartyMembers": "True",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
-  "FFlagLuaAppExperienceInfoPanel2": "True"
+  "FFlagLuaAppExperienceInfoPanel2": "True",
+  "FFlagAuthDisclaimerUseArgs": "True"
 }
