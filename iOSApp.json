@@ -449,5 +449,8 @@
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "FFlagUpdateCheckOnLogin2": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "DFIntEnableInternalMemoryUpdateFunctionsPercentage": "100"
+  "DFIntEnableInternalMemoryUpdateFunctionsPercentage": "100",
+  "DFFlagPerformanceControlEnableMemoryProbing3_Rollout": "True;60;2023-12-11T20:00:59",
+  "DFFlagPerformanceControlEnableInference_Rollout": "True;60;2023-12-11T20:10:14",
+  "DFIntEnableInternalMemoryUpdateFunctionsPercentage_Rollout": "10000;60;2023-12-11T20:12:57"
 }

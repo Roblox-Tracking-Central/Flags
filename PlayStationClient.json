@@ -227,7 +227,6 @@
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagExperienceDetailsPlayButtonAutoFocus10ft": "True",
   "FFlagPlayerContextualMenuSetGameplaySession": "True",
-  "FFlagTenFootUiCategoryTabRemovePadding": "True",
   "FFlagPlayerContextualMenuAnalytics3": "True",
   "DFFlagUseFixedMemoryStatsOrbis2": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
