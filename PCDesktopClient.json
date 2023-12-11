@@ -116,6 +116,7 @@
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedDUAR",
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedDUAR",
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
+  "DFFlagHttpCacheReportCleanReason_Rollout": "True;60;2023-12-11T22:15:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -374,5 +375,6 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FFlagExpStateCaptureMode7": "True"
+  "FFlagExpStateCaptureMode7": "True",
+  "FFlagLuaAppEnableCommunityLinksRedirect": "True"
 }
