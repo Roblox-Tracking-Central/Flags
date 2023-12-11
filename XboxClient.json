@@ -298,7 +298,6 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
-  "DFFlagHttpCacheReportCleanReason": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "1048576",
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagAddPreviousPageToLuaPageLoad": "True",

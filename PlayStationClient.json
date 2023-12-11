@@ -219,7 +219,6 @@
   "DFIntMemoryLargeCategorySizeMB": "10",
   "DFIntMemoryLogFreqSec": "0",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
-  "DFFlagHttpCacheReportCleanReason": "True",
   "DFFlagHttpReplaceBoostSpaceTemp": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "262144",
   "FFlagAddMenuNavigationToggleDialog": "True",
