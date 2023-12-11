@@ -9507,6 +9507,7 @@
   "FFlagFixOutdatedParticles2_Rollout": "True;60;2023-12-11T17:10:37",
   "FFlagVideoFrameYuvGPU2_Rollout": "True;60;2023-12-11T17:10:43",
   "DFFlagSolverModelRemovedUnderSetFix_Rollout": "True;60;2023-12-11T17:10:52",
+  "FFlagPerformanceControlUseShutdownFunction_Rollout": "True;30;2023-12-11T17:17:21",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
