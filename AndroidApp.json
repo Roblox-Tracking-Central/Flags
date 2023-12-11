@@ -101,7 +101,7 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
-  "FIntSessionTransitionFSMHundredthsPercent": "0",
+  "FIntSessionTransitionFSMHundredthsPercent": "3000",
   "FFlagHttpRequestMsxmlLeakFix": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
