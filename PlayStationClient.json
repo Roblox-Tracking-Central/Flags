@@ -102,6 +102,7 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
+  "FFlagHttpRequestMsxmlLeakFix": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",

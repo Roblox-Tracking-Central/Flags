@@ -102,6 +102,7 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
+  "FFlagHttpRequestMsxmlLeakFix": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
@@ -406,6 +407,5 @@
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
-  "FFlagLuaAppExperienceInfoPanel2": "True",
-  "FFlagHttpRequestMsxmlLeakFix_Rollout": "False;30;2023-12-11T17:55:58"
+  "FFlagLuaAppExperienceInfoPanel2": "True"
 }
