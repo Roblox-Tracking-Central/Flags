@@ -57,5 +57,11 @@
   "FFlagEnableMultipleProcessTermination": "True",
   "FFlagWindowsStudioPassLaunchIntent2": "True",
   "FIntInstallerFileTaskThreadCount": "3",
-  "DFIntHttpResponseDefaultTimeoutMillis": "300000"
+  "DFIntHttpResponseDefaultTimeoutMillis": "300000",
+  "FFlagMacBootstrapperEnableDeployPathExtensionForCJV": "True",
+  "FFlagMacInstallerEnableDeployPathExtensionForCJV": "True",
+  "FFlagMacSupportCJVChannels": "True",
+  "FFlagWinInstallerEnableDeployPathExtensionForCJV": "True",
+  "FFlagWinInstallerUseDeployPathExtension": "True",
+  "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True"
 }
