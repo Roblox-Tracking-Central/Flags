@@ -403,5 +403,6 @@
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
-  "FFlagAuthDisclaimerUseArgs": "True"
+  "FFlagAuthDisclaimerUseArgs": "True",
+  "FFlagHttpRequestMsxmlLeakFix_Rollout": "True;30;2023-12-12T20:34:23"
 }
