@@ -100,7 +100,7 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
-  "FIntSessionTransitionFSMHundredthsPercent": "3000",
+  "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagHttpRequestMsxmlLeakFix": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
@@ -491,5 +491,5 @@
   "FFlagUpdateCheckOnLogin2": "True",
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "10000;30;2023-12-11T23:33:22"
+  "FFlagEnableNavbarLabelExperiment": "True"
 }

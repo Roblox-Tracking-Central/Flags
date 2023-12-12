@@ -452,5 +452,6 @@
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage": "10000",
   "DFFlagPerformanceControlEnableInference": "True",
   "DFIntPerformanceControlRunInferenceHundrethsPercent": "5",
-  "DFIntPerformanceControlDummyInferenceHundrethsPercent": "5"
+  "DFIntPerformanceControlDummyInferenceHundrethsPercent": "5",
+  "FFlagEnableNavbarLabelExperiment": "True"
 }
