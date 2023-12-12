@@ -375,5 +375,5 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True"
+  "FFlagLuaAppEnableCommunityLinksRedirect": "False"
 }

@@ -400,6 +400,5 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagDebugLuaAppValidateProps": "True",
-  "FStringFeature_CookieProtocolEnabled": "524;100",
-  "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True"
+  "FStringFeature_CookieProtocolEnabled": "524;100"
 }

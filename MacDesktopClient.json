@@ -375,5 +375,5 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagRuntimeEnabled2": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True"
+  "FFlagLuaAppEnableCommunityLinksRedirect": "False"
 }

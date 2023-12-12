@@ -8856,7 +8856,7 @@
   "FFlagShowBehaviorCategory": "True",
   "FFlagPackageVerbsWithMultiSelection": "True",
   "FFlagExplorerFixInstanceSelectionSignal": "True",
-  "DFFlagFixStreamingDistanceNotAllowingOvershootingForTargetValue": "True",
+  "DFFlagFixStreamingDistanceNotAllowingOvershootingForTargetValue": "False",
   "FFlagRefactorRCCJobs3": "True",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "2000",
   "FFlagXboxSharedPlatform": "True",
