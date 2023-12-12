@@ -101,7 +101,6 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
-  "FFlagHttpRequestMsxmlLeakFix": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
@@ -441,7 +440,6 @@
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "3",
-  "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
@@ -451,9 +449,8 @@
   "FFlagExpStateCaptureMode7": "True",
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage": "10000",
   "DFFlagPerformanceControlEnableInference": "True",
-  "DFIntPerformanceControlRunInferenceHundrethsPercent": "5",
+  "DFIntPerformanceControlRunInferenceHundrethsPercent": "50",
   "DFIntPerformanceControlDummyInferenceHundrethsPercent": "5",
   "FFlagEnableNavbarLabelExperiment": "True",
-  "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
-  "DFIntPerformanceControlRunInferenceHundrethsPercent_Rollout": "50;30;2023-12-12T20:34:10"
+  "DFFlagMemoryProfilingTopLevelUsageMutex": "True"
 }
