@@ -263,6 +263,6 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagAuthDisclaimerUseArgs": "True",
-  "DFFlagReportCacheDirSizes_Rollout": "True;30;2023-12-12T00:40:42",
-  "DFIntReportCacheDirSizesHundredthsPercent_Rollout": "100;30;2023-12-12T00:43:47"
+  "DFFlagReportCacheDirSizes": "True",
+  "DFIntReportCacheDirSizesHundredthsPercent": "100"
 }

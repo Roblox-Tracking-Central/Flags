@@ -9550,7 +9550,7 @@
   "DFFlagShutdownInferredCrashBeforeMemoryPrioritization": "True",
   "FFlagFixAppSuccessSyncTime": "True",
   "FFlagFixSessionLevel2aTagIdUpdate": "True",
-  "FFlagFixAeroMeshExtraWaypoints_Rollout": "True;60;2023-12-12T00:33:23",
+  "FFlagFixAeroMeshExtraWaypoints": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
