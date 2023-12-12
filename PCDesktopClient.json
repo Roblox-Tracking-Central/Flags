@@ -375,5 +375,5 @@
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagLuaAppEnableCommunityLinksRedirect": "False",
-  "FFlagSimIslandizerMultiplierUpdate_Rollout": "True;60;2023-12-12T20:41:45"
+  "FFlagSimIslandizerMultiplierUpdate": "True"
 }
