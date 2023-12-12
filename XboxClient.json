@@ -307,7 +307,6 @@
   "FFlagDisablePrefetchProtocol": "True",
   "FFlagCalculateFriendsTileSize": "True",
   "FFlagAXF10ftFixPeekabooWidget": "True",
-  "FFlagAXSupportNestedAvatarExperienceRoute": "True",
   "FFlagCryoMigrateTo1_0_3": "True",
   "FFlagDisableResetOnBlur10ft": "True",
   "FFlagCoreScriptsGlobalEffects": "True",
