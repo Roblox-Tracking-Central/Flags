@@ -489,5 +489,6 @@
   "FFlagUpdateCheckOnLogin2": "True",
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FFlagEnableNavbarLabelExperiment": "True"
+  "FFlagEnableNavbarLabelExperiment": "True",
+  "FFlagLuaAppEnableCommunityLinksRedirect": "True"
 }

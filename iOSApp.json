@@ -453,5 +453,6 @@
   "DFIntPerformanceControlDummyInferenceHundrethsPercent": "5",
   "FFlagEnableNavbarLabelExperiment": "True",
   "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
-  "DFIntPerformanceControlInferenceInterval": "3000"
+  "DFIntPerformanceControlInferenceInterval": "3000",
+  "FFlagLuaAppEnableCommunityLinksRedirect": "True"
 }

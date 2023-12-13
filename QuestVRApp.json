@@ -490,6 +490,7 @@
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "True",
+  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
