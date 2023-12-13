@@ -9602,6 +9602,7 @@
   "DFFlagSimWarnAboutNoOptChangeToAssemblyVelocity": "True",
   "FFlagStudioUpdateDockPanelActionsBasedOnIsClosed": "True",
   "FFlagFixOutdoorIbl2": "True",
+  "FFlagLuaAppGridTileTabletLayout": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
