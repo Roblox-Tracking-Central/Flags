@@ -9604,6 +9604,7 @@
   "FFlagFixOutdoorIbl2": "True",
   "FFlagLuaAppGridTileTabletLayout": "True",
   "FFlagHttpRequestMsxmlAbortFix_Rollout": "True;30;2023-12-13T20:51:37",
+  "FFlagAinRefreshPropertyListView": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
