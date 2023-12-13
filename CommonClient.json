@@ -9613,6 +9613,8 @@
   "DFFlagEnableRequestAsyncCompression": "True",
   "FFlagEnableTopBarAnalytics": "True",
   "DFFlagReportValidateThreadAccessError": "True",
+  "FFlagVoiceMuteUnmuteSelfAnalytics": "True",
+  "FFlagLuaAppFunctionalNavBarControl": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
