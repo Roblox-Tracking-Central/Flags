@@ -259,5 +259,6 @@
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagAuthDisclaimerUseArgs": "True",
   "DFFlagReportCacheDirSizes": "True",
-  "DFIntReportCacheDirSizesHundredthsPercent": "100"
+  "DFIntReportCacheDirSizesHundredthsPercent": "100",
+  "FFlagLuaAppRefactorExperienceInfoTable2": "True"
 }

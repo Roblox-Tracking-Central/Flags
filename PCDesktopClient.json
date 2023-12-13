@@ -374,7 +374,7 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "False",
+  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagSimIslandizerMultiplierUpdate": "True",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",

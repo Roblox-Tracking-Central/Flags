@@ -398,5 +398,6 @@
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
-  "FFlagAuthDisclaimerUseArgs": "True"
+  "FFlagAuthDisclaimerUseArgs": "True",
+  "FFlagLuaAppRefactorExperienceInfoTable2": "True"
 }
