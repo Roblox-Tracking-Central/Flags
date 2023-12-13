@@ -9593,6 +9593,7 @@
   "FFlagModelBaseParseStringifiedValues": "True",
   "DFFlagSharedTableDisallowPath2DControlPoint": "True",
   "DFFlagNewCustomSerializers": "True",
+  "FFlagLuauBufferTranslateIr_Rollout": "True;30;2023-12-13T17:05:15",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
