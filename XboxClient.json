@@ -399,5 +399,8 @@
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagAuthDisclaimerUseArgs": "True",
-  "FFlagLuaAppRefactorExperienceInfoTable2": "True"
+  "FFlagLuaAppRefactorExperienceInfoTable2": "True",
+  "FFlagXboxDumpCreationDateAsTS_Rollout": "True;30;2023-12-13T23:49:52",
+  "FFlagXboxDumpDeviceNameToBT_Rollout": "True;30;2023-12-13T23:50:11",
+  "FFlagXboxDumpUploaderV2_Rollout": "True;30;2023-12-13T23:52:18"
 }
