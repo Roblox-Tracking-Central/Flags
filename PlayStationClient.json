@@ -107,6 +107,7 @@
   "DFIntSimSepConcernLimit": "3333",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "False",
+  "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",

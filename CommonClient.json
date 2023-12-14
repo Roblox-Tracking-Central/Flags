@@ -9335,7 +9335,6 @@
   "EnablePendingPurchaseWithUserId": "True",
   "FFlagVoiceUpsellSeenModalFix": "True",
   "FFlagExploreApiSortsEnabledIXP2": "True",
-  "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagEnableSocialServiceIrisInitCallPlacedUpdate": "True",
   "FFlagCFrameLookAlong": "True",
   "DFFlagEnableCsmRateLimit": "True",
