@@ -9614,6 +9614,7 @@
   "FFlagConvoAICleanupPt1": "True",
   "DFFlagHandleErrorAfterBackgrounding": "True",
   "FFlagAddConvAIPacketCountingTelemetry": "True",
+  "FFlagSessionHistoryMinorFix_Rollout": "True;30;2023-12-14T18:34:30",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
