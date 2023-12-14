@@ -402,8 +402,9 @@
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagXboxDumpCreationDateAsTS": "True",
   "FFlagXboxDumpDeviceNameToBT": "True",
-  "FFlagXboxDumpUploaderV2": "True",
+  "FFlagXboxDumpUploaderV2": "False",
   "FFlagXboxLastKnownStateTrackSuspended": "True",
   "FFlagXboxLastKnownStateTrackingEnabled": "True",
-  "FFlagHookUgcGameDidClose_Rollout": "True;30;2023-12-14T17:36:23"
+  "FFlagHookUgcGameDidClose_Rollout": "True;30;2023-12-14T17:36:23",
+  "FFlagXboxLastKnownStateFlushOnSuspend_Rollout": "True;30;2023-12-14T17:41:29"
 }
