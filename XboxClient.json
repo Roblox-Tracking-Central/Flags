@@ -404,5 +404,6 @@
   "FFlagXboxDumpDeviceNameToBT": "True",
   "FFlagXboxDumpUploaderV2": "True",
   "FFlagXboxLastKnownStateTrackSuspended": "True",
-  "FFlagXboxLastKnownStateTrackingEnabled": "True"
+  "FFlagXboxLastKnownStateTrackingEnabled": "True",
+  "FFlagHookUgcGameDidClose_Rollout": "True;30;2023-12-14T17:36:23"
 }
