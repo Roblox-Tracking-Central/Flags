@@ -377,6 +377,6 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1024",
+  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True"
 }
