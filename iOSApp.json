@@ -108,7 +108,6 @@
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FFlagUniversalAppCameraEnabled4": "False",
   "FFlagEnableMmapForMemProfStorageFlushing2": "False",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderediOS",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
