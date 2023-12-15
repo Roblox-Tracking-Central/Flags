@@ -9619,6 +9619,7 @@
   "FFlagInstallerBufSizeCalculation": "True",
   "FFlagImporterStringView": "True",
   "FFlagUniformClusterSize": "True",
+  "DFFlagSimGroundControllerTurningLogicFix_Rollout": "False;60;2023-12-15T19:12:13",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
