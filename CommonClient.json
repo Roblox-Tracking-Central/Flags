@@ -9216,7 +9216,7 @@
   "DFIntLogExperienceLaunchAttemptThrottleHundredthsPercentage": "100",
   "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
   "FFlagVoiceInputUseNewAudioApi5": "False",
-  "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287",
+  "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287;15641495506;15641505624",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
   "FFlagEnableSubscriptionCompactTitle": "True",
