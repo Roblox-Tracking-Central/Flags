@@ -105,6 +105,7 @@
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "False",
   "DFIntSimSepConcernLimit": "3333",
+  "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "False",
   "FFlagUniversalAppCameraEnabled4": "True",
