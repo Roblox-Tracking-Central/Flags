@@ -104,6 +104,7 @@
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
+  "DFFlagSimLimitAssemblyCount2": "False",
   "DFIntSimSepConcernLimit": "3333",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagEnableSTFSMTeardown": "False",
