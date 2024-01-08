@@ -492,5 +492,6 @@
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "False",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True"
+  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
+  "FFlagDebugForceFSMCPULightCulling": "True"
 }
