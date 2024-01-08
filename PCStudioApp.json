@@ -117,6 +117,7 @@
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedCommon",
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedCommon",
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
+  "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedCommon",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
