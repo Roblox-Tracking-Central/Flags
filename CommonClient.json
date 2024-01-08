@@ -9630,6 +9630,7 @@
   "FFlagVector2Idiv": "True",
   "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges": "True",
   "FFlagEnableWearAfterPurchaseDefaultChecked": "True",
+  "FFlagQrCodeScannerEnabledForAll": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
