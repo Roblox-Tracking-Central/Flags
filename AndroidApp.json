@@ -118,6 +118,7 @@
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedAndroid",
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
   "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedAndroid",
+  "FStringConversationSendBtnClickedCounter": "ConversationSendBtnClickedAndroid",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

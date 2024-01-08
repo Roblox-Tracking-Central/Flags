@@ -118,6 +118,7 @@
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedCommon",
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
   "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedCommon",
+  "FStringConversationSendBtnClickedCounter": "ConversationSendBtnClickedCommon",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

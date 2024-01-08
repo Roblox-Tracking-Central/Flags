@@ -118,6 +118,7 @@
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedDUAR",
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
   "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedDUAR",
+  "FStringConversationSendBtnClickedCounter": "ConversationSendBtnClickedDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
