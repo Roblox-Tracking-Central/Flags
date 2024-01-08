@@ -117,6 +117,7 @@
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedDUAR",
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedDUAR",
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
+  "FFlagLuauCodeGenFixByteLower_Rollout": "True;30;2024-01-08T18:12:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

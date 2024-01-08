@@ -117,6 +117,7 @@
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedCommon",
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedCommon",
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
+  "FFlagLuauCodeGenFixByteLower_Rollout": "True;30;2024-01-08T18:12:07",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
