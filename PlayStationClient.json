@@ -264,5 +264,6 @@
   "FFlagAuthDisclaimerUseArgs": "True",
   "DFFlagReportCacheDirSizes": "True",
   "DFIntReportCacheDirSizesHundredthsPercent": "100",
-  "FFlagLuaAppRefactorExperienceInfoTable2": "True"
+  "FFlagLuaAppRefactorExperienceInfoTable2": "True",
+  "FStringClientChannelProbabilityString": "1000;zflag=5"
 }
