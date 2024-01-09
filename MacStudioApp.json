@@ -371,7 +371,6 @@
   "FStringLuauBufferTypeBetaFeatureUrl": "https://devforum.roblox.com/t/introducing-luau-buffer-type-beta/2724894",
   "FFlagEnableStudioMultiAccountSupportFeature": "True",
   "FFlagNotificationPluginRealtimeReload": "True",
-  "FFlagSimEmptyEditableMeshSerializationFix": "True",
   "FFlagFixNotificationReloadError": "True",
   "FFlagBuildCommandExpansionPT1": "True",
   "FFlagConvAIAddDraftModeForSceneCreate2": "True",
