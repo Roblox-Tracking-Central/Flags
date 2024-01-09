@@ -9646,6 +9646,7 @@
   "FFlagExpDetailsNewSelectionCursor": "True",
   "FFlagFixGuiRTCacheQuadTreeNestedClipping": "True",
   "FFlagEnableEventBasedLoggerInit2": "True",
+  "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12433625183;12433850780;14993576210;15003722226;15068553851",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
