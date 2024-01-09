@@ -495,5 +495,6 @@
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FFlagDebugForceFSMCPULightCulling": "True"
+  "FFlagDebugForceFSMCPULightCulling": "True",
+  "FFlagGpuGeometryManager12_Rollout": "True;60;2024-01-09T22:02:51"
 }
