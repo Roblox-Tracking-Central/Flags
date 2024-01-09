@@ -119,6 +119,7 @@
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
   "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedDUAR",
   "FStringConversationSendBtnClickedCounter": "ConversationSendBtnClickedDUAR",
+  "FFlagSimEmptyEditableMeshSerializationFix_Rollout": "True;30;2024-01-09T22:33:08",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

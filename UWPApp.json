@@ -119,6 +119,7 @@
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
   "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedCommon",
   "FStringConversationSendBtnClickedCounter": "ConversationSendBtnClickedCommon",
+  "FFlagSimEmptyEditableMeshSerializationFix_Rollout": "True;30;2024-01-09T22:33:08",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

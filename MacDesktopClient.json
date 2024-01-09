@@ -119,6 +119,7 @@
   "DFFlagPerformanceControlEnableMemoryProbing3": "False",
   "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedDUAR",
   "FStringConversationSendBtnClickedCounter": "ConversationSendBtnClickedDUAR",
+  "FFlagSimEmptyEditableMeshSerializationFix_Rollout": "True;30;2024-01-09T22:33:08",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -382,5 +383,6 @@
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
-  "FFlagHttpCacheCleanSpaceOnly": "True"
+  "FFlagHttpCacheCleanSpaceOnly": "True",
+  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;60;2024-01-09T22:20:45"
 }
