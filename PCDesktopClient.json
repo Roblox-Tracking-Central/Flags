@@ -387,6 +387,5 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "DFFlagSimAdaptivePreContactReorder2_Rollout": "True;60;2024-01-10T22:16:58",
-  "DFIntTaskSchedulerJobRetryCount_Rollout": "1;30;2024-01-10T22:17:02"
+  "DFIntTaskSchedulerJobRetryCount": "1"
 }
