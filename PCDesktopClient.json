@@ -380,7 +380,6 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
-  "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
@@ -388,5 +387,7 @@
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
-  "FFlagHttpCacheCleanSpaceOnly": "True"
+  "FFlagHttpCacheCleanSpaceOnly": "True",
+  "DFFlagSimAdaptivePreContactReorder2_Rollout": "True;60;2024-01-10T22:16:58",
+  "DFIntTaskSchedulerJobRetryCount_Rollout": "1;30;2024-01-10T22:17:02"
 }

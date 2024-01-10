@@ -500,6 +500,5 @@
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FFlagDebugForceFSMCPULightCulling": "True",
-  "DFFlagSimAdaptivePreContactReorder2_Rollout": "True;60;2024-01-10T21:29:46"
+  "FFlagDebugForceFSMCPULightCulling": "True"
 }
