@@ -100,6 +100,7 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
+  "FIntMmapForMemProfStorageThrottle": "1000",
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
@@ -463,5 +464,6 @@
   "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;60;2024-01-10T22:49:50"
+  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;60;2024-01-10T22:49:50",
+  "FFlagGpuGeometryManager12_Rollout": "True;20;2024-01-10T23:19:25"
 }
