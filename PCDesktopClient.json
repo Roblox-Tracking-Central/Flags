@@ -123,6 +123,7 @@
   "FStringConversationScreenExitCounter": "ConversationScreenExitDUAR",
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedDUAR",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
+  "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
