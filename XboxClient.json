@@ -411,5 +411,5 @@
   "FFlagXboxLastKnownStateTrackingEnabled": "False",
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
-  "FFlagGpuGeometryManager12_Rollout": "True;60;2024-01-09T23:37:48"
+  "FFlagGpuGeometryManager12": "True"
 }

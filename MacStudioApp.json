@@ -391,6 +391,7 @@
   "FFlagConvAIAssetCreditAttributes": "True",
   "FFlagOpenApiFixCapturingSharedPointerByRef": "True",
   "DFFlagTaskLibExclusiveWarning": "True",
+  "DFFlagEnableGenericShapecasts": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
