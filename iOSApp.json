@@ -104,6 +104,7 @@
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
+  "DFIntMappedFileThrottleHundrethPercent": "1000",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
   "DFFlagSimLimitAssemblyCount2": "True",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
