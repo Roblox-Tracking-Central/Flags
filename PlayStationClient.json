@@ -140,7 +140,6 @@
   "FFlagPlayerContextualMenuAlwaysShowReportAndBlock": "True",
   "FFlagPlayerContextualMenuFriendRequestResponses": "True",
   "FFlagPlayerContextualMenuHandlesGameJoin": "True",
-  "FFlagPlayerContextualMenuUseMemoPlatform": "True",
   "FFlagUserProfilePlatformName": "True",
   "FFlagLocalUserGameVoteCounterReducer": "True",
   "FFlagLuaAppEnable10ftSignUpView": "True",

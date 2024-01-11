@@ -364,7 +364,6 @@
   "FFlagPlayerContextualMenuAlwaysShowReportAndBlock": "True",
   "FFlagPlayerContextualMenuFriendRequestResponses": "True",
   "FFlagPlayerContextualMenuHandlesGameJoin": "True",
-  "FFlagPlayerContextualMenuUseMemoPlatform": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagPlayerListUserProfileApiEnabledForAll_v2": "True",
   "FFlagOmniFeedViewAnimatedUseScrollEventThrottle": "True",
