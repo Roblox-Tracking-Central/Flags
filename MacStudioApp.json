@@ -408,7 +408,7 @@
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
-  "FFlagFaceAnimatorGuardVideoAnimationEnabled_Rollout": "True;60;2024-01-11T18:18:08",
+  "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
