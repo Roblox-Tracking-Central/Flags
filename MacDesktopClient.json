@@ -135,7 +135,7 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
-  "FFlagNewScriptContext3_Rollout": "True;60;2024-01-11T20:33:08",
+  "FFlagNewScriptContext3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

@@ -9793,6 +9793,7 @@
   "FFlagVideoDataJob2Service_Rollout": "True;60;2024-01-11T21:25:14",
   "FFlagDevConsoleLuauHeap": "True",
   "FFlagScriptEditorResizeSideWidgets_Rollout": "True;60;2024-01-11T21:32:46",
+  "FFlagFriendsCarouselPresenceUpdatesEnabled": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
