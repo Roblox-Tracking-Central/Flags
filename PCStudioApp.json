@@ -408,6 +408,7 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagNewScriptContext3": "True",
+  "FFlagGpuGeometryManager12_Rollout": "True;20;2024-01-11T21:50:14",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True"

@@ -135,6 +135,7 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagNewScriptContext3": "True",
+  "FFlagGpuGeometryManager12_Rollout": "True;20;2024-01-11T21:50:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
