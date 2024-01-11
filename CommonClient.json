@@ -9724,7 +9724,7 @@
   "DFFlagVoiceChatAckWithPrevSdpWhenSubUpdateFails": "True",
   "DFFlagDSTelemetryIncludeScopeAndDmForListingApis2": "True",
   "FFlagVoiceChatV2SubOnlyRetry_Client": "True",
-  "DFIntReplicatorDataPingReportHundredthPercentage_PlaceFilter": "100;15578716287;1427028360;6000468131",
+  "DFIntReplicatorDataPingReportHundredthPercentage_PlaceFilter": "1000;15578716287;1427028360;6000468131",
   "FFlagCAPResponsiveImageLayout": "True",
   "FFlagOnlyMarkScriptDirtyForSourceChanges": "True",
   "FFlagStudioRemoveIRobloxDocIsEnabled": "True",
