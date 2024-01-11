@@ -269,5 +269,6 @@
   "DFFlagReportCacheDirSizes": "True",
   "DFIntReportCacheDirSizesHundredthsPercent": "100",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
-  "FStringClientChannelProbabilityString": "1000;zflag=5"
+  "FStringClientChannelProbabilityString": "1000;zflag=5",
+  "FFlagGpuGeometryManager12_Rollout": "True;60;2024-01-11T22:14:44"
 }

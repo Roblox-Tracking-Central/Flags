@@ -409,7 +409,7 @@
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
   "FFlagNewScriptContext3": "True",
-  "FFlagGpuGeometryManager12_Rollout": "True;20;2024-01-11T21:50:14",
+  "FFlagGpuGeometryManager12": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
