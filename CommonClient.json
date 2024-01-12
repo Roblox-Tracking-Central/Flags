@@ -9806,6 +9806,7 @@
   "FFlagSocialRoactChatAnalyticsChatConversationEventsV607": "True",
   "FFlagAddStreamingMemoryThresholdsToIXP": "True",
   "FFlagRestartFmodRecordingOnError": "True",
+  "FFlagPackageDiffInstanceTypeTelemetryFix_Rollout": "True;60;2024-01-12T17:23:11",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
