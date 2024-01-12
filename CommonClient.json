@@ -9712,7 +9712,6 @@
   "DFIntSimSepConcernLimit": "8000",
   "DFFlagRemoveChannelNameForIXP": "True",
   "FFlagStudioMoveOgreWidgetDragHandling": "True",
-  "DFFlagRigidConstraintSupportUndo": "True",
   "FFlagRemoveProfileIXPFromSocialTab": "True",
   "FFlagRemoveLuaProfileDUACheck": "True",
   "FFlagVoiceChatControlPlaneAbandonSubOnNoSuchFeed": "True",
