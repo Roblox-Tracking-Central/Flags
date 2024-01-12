@@ -415,5 +415,5 @@
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
   "FFlagRefactorGuiRTCacheImpl2": "False",
-  "FFlagMacClientSupportIME9_Rollout": "True;30;2024-01-12T00:34:59"
+  "FFlagMacClientSupportIME9": "True"
 }

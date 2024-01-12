@@ -9805,7 +9805,7 @@
   "DFFlagGCJobMoreScopesAndLabels2": "True",
   "FFlagSocialRoactChatAnalyticsChatConversationEventsV607": "True",
   "FFlagAddStreamingMemoryThresholdsToIXP": "True",
-  "FFlagRestartFmodRecordingOnError_Rollout": "True;30;2024-01-12T00:55:12",
+  "FFlagRestartFmodRecordingOnError": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
