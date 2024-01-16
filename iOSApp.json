@@ -465,5 +465,5 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
-  "DFFlagReportInferenceResultToPerfdata_Rollout": "True;60;2024-01-16T17:10:34"
+  "DFFlagReportInferenceResultToPerfdata": "True"
 }
