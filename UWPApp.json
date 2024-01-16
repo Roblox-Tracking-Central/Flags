@@ -297,5 +297,6 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FFlagRuntimeEnabled2": "True"
+  "FFlagRuntimeEnabled2": "True",
+  "FFlagRuntimeEnabled3": "True"
 }

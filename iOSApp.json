@@ -464,6 +464,5 @@
   "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FFlagGpuGeometryManager12": "True",
-  "DFFlagReportInferenceResultToPerfdata": "True"
+  "FFlagGpuGeometryManager12": "True"
 }

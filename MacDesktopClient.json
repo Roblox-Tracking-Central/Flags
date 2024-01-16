@@ -390,5 +390,6 @@
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
-  "FFlagHttpCacheCleanSpaceOnly": "True"
+  "FFlagHttpCacheCleanSpaceOnly": "True",
+  "FFlagRuntimeEnabled3": "True"
 }
