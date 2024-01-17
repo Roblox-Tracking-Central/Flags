@@ -414,5 +414,7 @@
   "FFlagXboxLastKnownStateTrackingEnabled": "False",
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
-  "FFlagGpuGeometryManager12": "True"
+  "FFlagGpuGeometryManager12": "True",
+  "DFIntHangDetectionJobV2TimeoutMs_Rollout": "6000000;30;2024-01-17T23:04:58",
+  "DFIntHangDetectionInferredTimeoutStartMs_Rollout": "4000;30;2024-01-17T23:06:20"
 }
