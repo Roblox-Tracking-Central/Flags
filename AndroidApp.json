@@ -320,7 +320,7 @@
   "FFlagPPTwoFactorLogOutMessage": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageAndroid",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataAndroid",
-  "FFlagUniversalAppCsat": "False",
+  "FFlagUniversalAppCsat": "True",
   "JavaANRUploadToBacktracePercentage": "1",
   "FFlagLuaVerifiedSignupExperiment2": "True",
   "FFlagLuaBridgePropertyProfiling": "False",
