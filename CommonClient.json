@@ -9870,6 +9870,8 @@
   "DFFlagLuaFlagVersionReload": "True",
   "FFlagFixAXRouteForPPECamera": "True",
   "FFlagProcessingPacketUseUniquePtr_Rollout": "True;60;2024-01-17T20:32:40",
+  "FFlagCapsAccessEnv_Rollout": "True;60;2024-01-17T20:39:23",
+  "FFlagChangeTextSizeLimitToGlyphs_Rollout": "True;60;2024-01-17T20:43:24",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

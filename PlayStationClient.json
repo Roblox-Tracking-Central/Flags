@@ -269,5 +269,5 @@
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FStringClientChannelProbabilityString": "1000;zflag=5",
   "FFlagGpuGeometryManager12": "True",
-  "DFIntHangDetectionInferredTimeoutStartMs_Rollout": "4000;60;2024-01-17T19:32:52"
+  "DFIntHangDetectionInferredTimeoutStartMs": "4000"
 }
