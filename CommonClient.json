@@ -8542,7 +8542,7 @@
   "FFlagVoiceConsentCopyV2": "True",
   "FFlagVoiceUpsellNewAnalytics": "True",
   "FStringEnableChromeDefaultOpenForcedUserIds": "2585422222;166540505;3747048826;",
-  "FStringEnableChromePinnedChatForcedUserIds": "3878426504;3831379140;2570103006;959520514;2283279593;1892698526;2888125341;",
+  "FStringEnableChromePinnedChatForcedUserIds": "3878426504;3831379140;2570103006;959520514;2283279593;1892698526;2888125341;3851853258;",
   "FStringVoiceUpsellLayer": "Layer.Test",
   "FFlagEnableiOSRealtimeProtocolCheckV599": "True",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599": "10000",
