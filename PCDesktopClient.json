@@ -389,5 +389,6 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "DFIntTaskSchedulerJobRetryCount": "1"
+  "DFIntTaskSchedulerJobRetryCount": "1",
+  "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\u0022id\u0022:\u0022a1d\u0022,\u0022pos\u0022:[1,-56,0,10],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022a2d\u0022,\u0022pos\u0022:[1,-100,0,10],\u0022size\u0022:[0,88,0,48]},{\u0022id\u0022:\u0022a4d\u0022,\u0022pos\u0022:[1,-418,0,10],\u0022size\u0022:[0,406,0,48]},{\u0022id\u0022:\u0022a5d\u0022,\u0022pos\u0022:[0.5,-102,0,10],\u0022size\u0022:[0,204,0,48]},{\u0022id\u0022:\u0022a5dl\u0022,\u0022pos\u0022:[0.5,-305,0,10],\u0022size\u0022:[0,204,0,48]},{\u0022id\u0022:\u0022lrd\u0022,\u0022pos\u0022:[0,12,0,10],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l1d\u0022,\u0022pos\u0022:[0,68,0,10],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l2d\u0022,\u0022pos\u0022:[0,68,0,10],\u0022size\u0022:[0,88,0,48]},{\u0022id\u0022:\u0022l4d\u0022,\u0022pos\u0022:[0,68,0,10],\u0022size\u0022:[0,406,0,48]},{\u0022id\u0022:\u0022l-pc\u002Bsv-d\u0022,\u0022pos\u0022:[0,68,0,10],\u0022size\u0022:[0,132,0,48]}];30;2024-01-17T23:48:58"
 }

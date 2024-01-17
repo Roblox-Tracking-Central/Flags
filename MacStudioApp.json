@@ -399,6 +399,7 @@
   "DFFlagEnableGenericShapecasts2": "True",
   "FFlagCapsScriptGlobals": "True",
   "FFlagCAPStopMultipleTutorialClicks": "True",
+  "FFlagCAPStopPlayDataModelWarningOnLeaveAndEnter_Rollout": "True;60;2024-01-17T23:40:30",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
