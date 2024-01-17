@@ -9856,6 +9856,8 @@
   "DFFlagSolverNOURemovedUnderSetOptimized_Rollout": "True;60;2024-01-17T17:45:02",
   "FFlagStudioDeviceEmulatorLostPlatformFieldFix2": "True",
   "FFlagAvatarPreviewerFixTShirtImportingAgain": "True",
+  "DFFlagRemoveThumbnailConfigurations_Rollout": "True;60;2024-01-17T18:32:27",
+  "FFlagFixSelectionBoxWidth_Rollout": "True;60;2024-01-17T18:35:03",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
