@@ -497,7 +497,6 @@
   "FFlagUpdateCheckOnLogin2": "True",
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True"

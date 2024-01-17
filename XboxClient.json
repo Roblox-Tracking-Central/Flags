@@ -399,7 +399,6 @@
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FStringRealtimeClientTargetName": "XBox",
   "FFlagXboxSystemUtilDeviceName": "True",
   "DFIntHangDetectionJobV2TimeoutMs": "0",

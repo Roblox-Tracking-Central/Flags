@@ -448,7 +448,6 @@
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntCriticalThermalStatusThreshold": "3",
-  "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
@@ -464,7 +463,6 @@
   "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FFlagGpuGeometryManager12": "True",
-  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "1000;60;2024-01-16T23:39:52",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "1000;60;2024-01-16T23:40:45"
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000"
 }
