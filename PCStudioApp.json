@@ -397,6 +397,7 @@
   "DFFlagTaskLibExclusiveWarning": "True",
   "DFFlagEnableGenericShapecasts": "True",
   "DFFlagEnableGenericShapecasts2_Rollout": "True;60;2024-01-17T20:49:32",
+  "FFlagCapsScriptGlobals_Rollout": "True;30;2024-01-17T21:28:44",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
