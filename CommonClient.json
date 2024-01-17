@@ -9853,6 +9853,7 @@
   "FFlagStudioComponentizeRoblox2": "True",
   "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FFlagAssetManagerInsertMultipleImages": "True",
+  "FFlagStudioDeviceEmulatorLostPlatformFieldFix2_Rollout": "True;30;2024-01-17T17:11:48",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
