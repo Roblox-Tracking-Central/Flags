@@ -108,7 +108,7 @@
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "50",
   "FFlagEnableMmapForMemProfStorageFlushing2": "False",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderediOS",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
@@ -467,6 +467,5 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
-  "FFlagGpuGeometryManager12": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "50;60;2024-01-18T22:03:30"
+  "FFlagGpuGeometryManager12": "True"
 }
