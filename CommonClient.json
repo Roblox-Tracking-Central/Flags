@@ -9892,6 +9892,7 @@
   "FFlagNewBackgroundedDesign": "True",
   "FFlagStudioMoveStartPageLoginSignal": "True",
   "FIntChromeBetaFeatureRolloutPercent": "100",
+  "FFlagUseTokensInIconTab": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
