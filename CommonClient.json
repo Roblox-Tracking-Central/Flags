@@ -9301,7 +9301,6 @@
   "FFlagChromeSurveySupport": "True",
   "FFlagStudioFixEnterMultiplePlacesCrash2": "True",
   "DFFlagAvoidEraseAddedInstancesUnderModels": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagMacClientPrepAsProtocolHandler": "True",
   "DFIntPhysicsSolverExplosionsHundrethsPercentage": "1000",

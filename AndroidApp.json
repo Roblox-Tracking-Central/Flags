@@ -108,6 +108,7 @@
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedAndroid",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
