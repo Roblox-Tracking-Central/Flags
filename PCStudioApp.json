@@ -400,6 +400,7 @@
   "FFlagCapsScriptGlobals": "True",
   "FFlagCAPStopMultipleTutorialClicks": "True",
   "FFlagCAPStopPlayDataModelWarningOnLeaveAndEnter": "True",
+  "FStringStudioEmergencyMessageV4_Rollout": "ew0KICAgICJ2ZXJzaW9uU3RhcnQiOiIwLjMwMC4wLjEiLA0KICAgICJ2ZXJzaW9uRW5kIjoiMC42MDEuMC4xIiwNCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLA0KICAgICJtZXNzYWdlIjp7fSwNCiAgICAic2h1dGRvd24iOnRydWUNCn0=;60;2024-01-18T17:17:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
