@@ -467,5 +467,6 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
-  "FFlagGpuGeometryManager12": "True"
+  "FFlagGpuGeometryManager12": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "50;60;2024-01-18T22:03:30"
 }
