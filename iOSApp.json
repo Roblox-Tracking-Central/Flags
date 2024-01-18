@@ -464,5 +464,7 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000"
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
+  "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
+  "FFlagGpuGeometryManager12": "True"
 }

@@ -499,5 +499,6 @@
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FFlagDebugForceFSMCPULightCulling": "True"
+  "FFlagDebugForceFSMCPULightCulling": "True",
+  "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid"
 }

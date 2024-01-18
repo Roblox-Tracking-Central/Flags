@@ -500,6 +500,7 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
+  "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
