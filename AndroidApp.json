@@ -86,7 +86,7 @@
   "FIntUITextureLowSingleTextureMemoryMB": "4",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "True",
   "FFlagEnableLocationRecording": "True",
-  "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1m\u0022, \u0022pos\u0022:[1, -56, 0, 4], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2m\u0022, \u0022pos\u0022:[1, -100, 0, 4], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a3m\u0022, \u0022pos\u0022:[0, 0, 0, 4], \u0022size\u0022:[1, 0, 0, 48]}, {\u0022id\u0022:\u0022a4m\u0022, \u0022pos\u0022:[1, -418, 0, 4], \u0022size\u0022:[0, 406, 0, 48]},{\u0022id\u0022:\u0022lrm\u0022,\u0022pos\u0022:[0,12,0,4],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l1m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l2m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,88,0,48]},{\u0022id\u0022:\u0022l4m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,406,0,48]}]",
+  "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1m\u0022, \u0022pos\u0022:[1, -56, 0, 4], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2m\u0022, \u0022pos\u0022:[1, -100, 0, 4], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a3m\u0022, \u0022pos\u0022:[0, 0, 0, 4], \u0022size\u0022:[1, 0, 0, 48]}, {\u0022id\u0022:\u0022a4m\u0022, \u0022pos\u0022:[1, -418, 0, 4], \u0022size\u0022:[0, 406, 0, 48]},{\u0022id\u0022:\u0022lrm\u0022,\u0022pos\u0022:[0,12,0,4],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l1m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l2m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,88,0,48]},{\u0022id\u0022:\u0022l4m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,406,0,48]},{\u0022id\u0022:\u0022l-pc\u002Bsv-m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,132,0,48]}]",
   "DFIntReportUIOcclusionRectQuery": "100",
   "FFlagSignalRLogMessageDeliveryByPlatform": "True",
   "FFlagLuaAppEnableToastNotifications4": "True",
@@ -499,6 +499,5 @@
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\u0022id\u0022:\u0022a1m\u0022, \u0022pos\u0022:[1, -56, 0, 4], \u0022size\u0022:[0, 44, 0, 48]}, {\u0022id\u0022:\u0022a2m\u0022, \u0022pos\u0022:[1, -100, 0, 4], \u0022size\u0022:[0, 88, 0, 48]}, {\u0022id\u0022:\u0022a3m\u0022, \u0022pos\u0022:[0, 0, 0, 4], \u0022size\u0022:[1, 0, 0, 48]}, {\u0022id\u0022:\u0022a4m\u0022, \u0022pos\u0022:[1, -418, 0, 4], \u0022size\u0022:[0, 406, 0, 48]},{\u0022id\u0022:\u0022lrm\u0022,\u0022pos\u0022:[0,12,0,4],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l1m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022l2m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,88,0,48]},{\u0022id\u0022:\u0022l4m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,406,0,48]},{\u0022id\u0022:\u0022l-pc\u002Bsv-m\u0022,\u0022pos\u0022:[0,68,0,4],\u0022size\u0022:[0,132,0,48]}];30;2024-01-17T23:48:58"
+  "FFlagDebugForceFSMCPULightCulling": "True"
 }
