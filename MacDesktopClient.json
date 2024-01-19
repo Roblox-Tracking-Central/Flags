@@ -94,7 +94,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "True",
@@ -137,9 +137,6 @@
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagGpuGeometryManager12": "True",
-  "DFLogFaceAnimatorThreadingTrace2": "Verbose,6",
-  "DFLogFaceAnimatorTrace": "Verbose,6",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2024-01-19T19:00:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -395,9 +392,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
-  "DFLogPermissions": "6",
   "FFlagDebugEnableOctreeValidation": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "2500;30;2024-01-19T19:26:03",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FFlagDebugEnableOctreeStompAllocator": "True"
+  "FFlagDebugEnableOctreeStompAllocator": "True",
+  "FIntEnableCullableScene2HundredthPercent3": "2500"
 }
