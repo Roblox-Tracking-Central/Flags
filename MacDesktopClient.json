@@ -393,5 +393,7 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FFlagRuntimeEnabled3": "True"
+  "FFlagRuntimeEnabled3": "True",
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:10",
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:13"
 }
