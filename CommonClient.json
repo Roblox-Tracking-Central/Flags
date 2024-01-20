@@ -9910,6 +9910,7 @@
   "FFlagSelfViewHumanoidNilCheck": "True",
   "DFFlagImprovedModelStreamingRevisitFix": "True",
   "DFFlagTeleportFailOnPermissionResetBugFix": "True",
+  "DFIntWaitLiveScriptingRemoteEventPeriodMs": "20000",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
