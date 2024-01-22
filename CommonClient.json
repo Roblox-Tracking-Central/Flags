@@ -9968,6 +9968,8 @@
   "DFFlagHlsCdnUrlRewritingEnabled2": "True",
   "FFlagSimSolverUseNewSHInterpolator": "True",
   "FFlagFriendsCarouselPaginatedLoadingTimesReport": "True",
+  "FIntLogReportingMaxLogCount_Rollout": "-1;30;2024-01-22T23:40:19",
+  "FFlagBroadphaseMovedPrimitiveCleanup1_Rollout": "True;60;2024-01-22T23:43:08",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
