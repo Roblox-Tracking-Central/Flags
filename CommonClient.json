@@ -9956,6 +9956,8 @@
   "DFFlagEnableTeamCreateRemoteSaveValidator": "True",
   "FFlagMoodDampingIxpExperimentation": "True",
   "FFlagEnableSTFSMTeardown": "True",
+  "FFlagLegacyAccessoryCheckAvatarPartScaleType": "True",
+  "FFlagTruncateMeshBoundsErrorMessage": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
