@@ -124,6 +124,7 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedCommon",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
+  "FFlagCapsScriptGlobals_Rollout": "True;60;2024-01-22T17:13:55",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

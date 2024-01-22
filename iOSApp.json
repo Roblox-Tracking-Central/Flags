@@ -94,7 +94,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
   "DFFlagAUMPAnalytics": "False",
   "FFlagUISelectionJumping3": "True",
   "FFlagEnableInGameMenuModernization": "True",
@@ -124,6 +124,7 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickediOS",
   "FStringNewConversationCreatedCounter": "NewConversationCreatediOS",
   "FStringConversationMessageSentCounter": "ConversationMessageSentiOS",
+  "FFlagCapsScriptGlobals_Rollout": "True;60;2024-01-22T17:13:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -468,5 +469,6 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FFlagGpuGeometryManager12": "True",
-  "FFlagDebugGraphicsCrashOnLeaks": "False"
+  "FFlagDebugGraphicsCrashOnLeaks": "False",
+  "DFFlagReportInferenceResultToPerfdata_Rollout": "True;60;2024-01-22T17:29:02"
 }
