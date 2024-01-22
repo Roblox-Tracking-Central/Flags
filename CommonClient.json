@@ -9790,7 +9790,7 @@
   "FFlagAddStreamingTunableIXPUtility": "True",
   "FFlagPerformanceControlIXPCheckIfInitialized": "True",
   "DFFlagSendStreamingTunableTargetToServerCheck": "True",
-  "DFFlagUnifyGCNeededChecksForStreamingTunable": "True",
+  "DFFlagUnifyGCNeededChecksForStreamingTunable": "False",
   "FFlagRelyOnCallbackInsteadOfPollingTheTargetValue": "True",
   "DFFlagSensorUsePrimWorld": "True",
   "DFFlagNetworkStringViewIntegerConversion": "True",
