@@ -124,8 +124,6 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedDUAR",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
-  "FFlagCapsScriptGlobals_Rollout": "True;60;2024-01-22T17:13:55",
-  "DFFlagEnableGenericShapecasts2_Rollout": "True;10;2024-01-22T18:09:48",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
