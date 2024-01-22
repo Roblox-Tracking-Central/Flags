@@ -501,5 +501,6 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FIntEnableCullableScene2HundredthPercent3": "1000"
+  "FIntEnableCullableScene2HundredthPercent3": "1000",
+  "FIntEnableCullableScene2HundredthPercent3_Rollout": "2000;60;2024-01-22T22:51:44"
 }
