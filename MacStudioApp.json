@@ -399,7 +399,7 @@
   "DFFlagEnableGenericShapecasts": "True",
   "FFlagCAPStopMultipleTutorialClicks": "True",
   "FFlagCAPStopPlayDataModelWarningOnLeaveAndEnter": "True",
-  "FFlagCAPInstanceInsertionTelemetry_Rollout": "True;60;2024-01-22T17:52:58",
+  "FFlagCAPInstanceInsertionTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
