@@ -9919,6 +9919,7 @@
   "FFlagLuaAppWarnShowAgeOverlayInUse": "True",
   "DFIntSimArbiterPositionCorrectionFactorThresholdThou_Rollout": "300;60;2024-01-22T17:42:46",
   "FFlagFixExperienceLaunchBeginTimestamp_Rollout": "True;60;2024-01-22T17:43:07",
+  "DFFlagControllerManagerCanThrottle_Rollout": "True;60;2024-01-22T17:47:16",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
