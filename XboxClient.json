@@ -124,6 +124,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "AllowVideoPreRoll": "True",
+  "DFFlagRealtimeClientCountersV2_Rollout": "True;60;2024-01-23T22:27:07",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",

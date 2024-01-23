@@ -124,6 +124,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
   "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-01-23T21:45:17",
+  "DFFlagRealtimeClientCountersV2_Rollout": "True;60;2024-01-23T22:27:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
