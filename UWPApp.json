@@ -298,5 +298,5 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FFlagNewScriptContext3_Rollout": "True;60;2024-01-23T19:29:44"
+  "FFlagNewScriptContext3": "True"
 }
