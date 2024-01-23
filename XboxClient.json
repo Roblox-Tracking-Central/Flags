@@ -415,6 +415,6 @@
   "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "DFFlagHangDetectionForceCrash": "True",
-  "FFlagRuntimeEnabled3_Rollout": "True;60;2024-01-23T17:02:35",
-  "FFlagNewScriptContext3_Rollout": "True;60;2024-01-23T17:14:59"
+  "FFlagRuntimeEnabled3": "True",
+  "FFlagNewScriptContext3": "True"
 }
