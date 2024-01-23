@@ -123,6 +123,7 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedCommon",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
+  "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-01-23T21:45:17",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

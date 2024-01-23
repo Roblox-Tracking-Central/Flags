@@ -123,6 +123,7 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickediOS",
   "FStringNewConversationCreatedCounter": "NewConversationCreatediOS",
   "FStringConversationMessageSentCounter": "ConversationMessageSentiOS",
+  "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-01-23T21:45:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -470,6 +471,6 @@
   "FFlagDebugGraphicsCrashOnLeaks": "False",
   "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold": "6800",
-  "FFlagNewScriptContext3_Rollout": "True;60;2024-01-23T20:38:52",
-  "DFFlagReportOutputDeviceWithRobloxTelemetry": "True"
+  "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
+  "FFlagNewScriptContext3": "True"
 }

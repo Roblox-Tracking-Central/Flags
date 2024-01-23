@@ -9982,6 +9982,8 @@
   "FFlagLuauVectorLiterals": "True",
   "FFlagAssetImportReadConfigsFromRegistry": "True",
   "FFlagAddPlaceVersionIdToOnPlacePublishPackage": "True",
+  "FFlagSimEditableMeshFixMemoryLeak_Rollout": "True;30;2024-01-23T21:46:02",
+  "FFlagVoiceChatDontSendTelemetryForPubIceTrickle": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
