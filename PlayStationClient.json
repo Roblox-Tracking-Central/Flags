@@ -123,7 +123,6 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedCommon",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
-  "DFFlagRealtimeClientCountersV2_Rollout": "True;60;2024-01-23T22:27:07",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -270,5 +269,6 @@
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "FFlagFixPlatformCloudStorageCrash": "True",
   "FFlagNewScriptContext3": "True",
-  "FFlagLuaAppDropdownMenuFixSelectionOrder": "True"
+  "FFlagLuaAppDropdownMenuFixSelectionOrder": "True",
+  "FFlagLogReportingPerformLogCulling_Rollout": "True;30;2024-01-23T23:33:46"
 }
