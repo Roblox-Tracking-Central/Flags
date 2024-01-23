@@ -415,5 +415,6 @@
   "DFFlagHangDetectionForceCrash": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
-  "FFlagLuaAppDropdownMenuFixSelectionOrder": "True"
+  "FFlagLuaAppDropdownMenuFixSelectionOrder": "True",
+  "FFlagXboxAppBridgeNotifyPLM_Rollout": "True;60;2024-01-23T23:35:58"
 }
