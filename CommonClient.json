@@ -9203,7 +9203,7 @@
   "FFlagXboxRespectPermissionsGameJoin": "True",
   "DFIntLogExperienceLaunchAttemptThrottleHundredthsPercentage": "100",
   "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
-  "FFlagVoiceInputUseNewAudioApi5": "True",
+  "FFlagVoiceInputUseNewAudioApi5": "False",
   "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287;15641495506;15641505624;15676547725;15920139054;15922238144;15928934317;8158601082",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
