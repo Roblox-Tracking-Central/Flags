@@ -269,5 +269,6 @@
   "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "FFlagFixPlatformCloudStorageCrash": "True",
-  "FFlagNewScriptContext3": "True"
+  "FFlagNewScriptContext3": "True",
+  "FFlagLuaAppDropdownMenuFixSelectionOrder": "True"
 }
