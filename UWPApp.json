@@ -123,7 +123,6 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedCommon",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
-  "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-01-23T21:45:17",
   "DFFlagRealtimeClientCountersV2_Rollout": "True;60;2024-01-23T22:27:07",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
