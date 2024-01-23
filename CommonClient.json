@@ -9878,7 +9878,6 @@
   "FFlagStudioStartPagePropagateUserContext": "True",
   "FFlagFixAssetFetchStatusForCDNUrl": "True",
   "FFlagFixAssetFetchStatusStuckLoading": "True",
-  "FFlagACEGetRigInfo": "True",
   "FFlagStudioBetterStartPageQmlGlobals": "True",
   "FFlagStudioDeferStartPagePlaceOpenClick": "True",
   "FFlagHideServiceAction": "True",
