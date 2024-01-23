@@ -9979,6 +9979,8 @@
   "FFlagAddPlaceVersionIdToOnPlacePublishPackage_Rollout": "True;60;2024-01-23T20:16:56",
   "FFlagLuauCompileRevK": "True",
   "FFlagStudioActionManagerPluginQActions": "True",
+  "DFFlagBufferReplicationUc_Rollout": "True;60;2024-01-23T20:47:27",
+  "DFFlagXboxVoiceChatTelemetryEnabled_Rollout": "True;60;2024-01-23T20:47:52",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
