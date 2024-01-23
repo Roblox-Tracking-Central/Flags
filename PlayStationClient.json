@@ -268,5 +268,6 @@
   "FStringClientChannelProbabilityString": "1000;zflag=5",
   "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
-  "FFlagFixPlatformCloudStorageCrash": "True"
+  "FFlagFixPlatformCloudStorageCrash": "True",
+  "FFlagNewScriptContext3_Rollout": "True;60;2024-01-23T17:14:59"
 }

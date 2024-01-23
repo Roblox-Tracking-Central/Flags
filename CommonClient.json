@@ -9971,6 +9971,8 @@
   "DFFlagFlagRolloutTestDynamicBool8": "False",
   "DFFlagFlagRolloutTestDynamicBool9": "False",
   "DFFlagSimSolverGeometricStiffnessMassFix_Rollout": "False;60;2024-01-23T16:58:45",
+  "FFlagNoReloadEditorFromSource": "True",
+  "FFlagDeprecateGridSettings": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
