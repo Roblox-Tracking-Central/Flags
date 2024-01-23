@@ -414,5 +414,6 @@
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
-  "DFFlagHangDetectionForceCrash": "True"
+  "DFFlagHangDetectionForceCrash": "True",
+  "FFlagRuntimeEnabled3_Rollout": "True;60;2024-01-23T17:02:35"
 }

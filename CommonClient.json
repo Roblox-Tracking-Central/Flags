@@ -9970,6 +9970,7 @@
   "DFFlagFlagRolloutTestDynamicBool7": "False",
   "DFFlagFlagRolloutTestDynamicBool8": "False",
   "DFFlagFlagRolloutTestDynamicBool9": "False",
+  "DFFlagSimSolverGeometricStiffnessMassFix_Rollout": "False;60;2024-01-23T16:58:45",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
