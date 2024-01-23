@@ -9980,6 +9980,7 @@
   "DFFlagUseWSTraceError_Rollout": "True;60;2024-01-23T19:59:24",
   "DFLogWebSocketTraceError_Rollout": "Warning,6;60;2024-01-23T19:59:24",
   "FFlagAssetImportReadConfigsFromRegistry_Rollout": "True;60;2024-01-23T20:10:05",
+  "FFlagAddPlaceVersionIdToOnPlacePublishPackage_Rollout": "True;60;2024-01-23T20:16:56",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
