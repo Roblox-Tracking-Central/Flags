@@ -64,5 +64,5 @@
   "FFlagWinInstallerEnableDeployPathExtensionForCJV": "True",
   "FFlagWinInstallerUseDeployPathExtension": "True",
   "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True",
-  "FFlagWindowsInstallerUseNativeHttp_Rollout": "True;1;2024-01-24T21:11:06"
+  "FFlagWindowsInstallerUseNativeHttp": "True"
 }
