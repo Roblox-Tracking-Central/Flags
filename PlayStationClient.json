@@ -271,5 +271,6 @@
   "FFlagFixPlatformCloudStorageCrash": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagLogReportingPerformLogCulling": "True",
-  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True"
+  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
+  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000"
 }
