@@ -107,7 +107,7 @@
   "DFFlagSimLimitAssemblyCount2": "True",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "30",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
@@ -373,7 +373,6 @@
   "FFlagNativeProductFallbackToPlatformService": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagTenFootUiHideFriendsTools": "True",
-  "FFlagUIBloxUseStatGroupManualSize": "True",
   "FFlagUpdateFriendCarousel10ft6": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
   "FFlagTenFootUiGameCarousel2": "True",
@@ -418,6 +417,5 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
-  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "30;60;2024-01-24T21:57:40"
+  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True"
 }

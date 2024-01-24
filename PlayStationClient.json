@@ -107,7 +107,7 @@
   "DFFlagSimLimitAssemblyCount2": "True",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "False",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
@@ -158,7 +158,6 @@
   "FFlagOmniFeedViewAnimatedUseScrollEventThrottle": "True",
   "FFlagTenFootUiDisableContactImporter": "True",
   "FFlagTenFootUiHideFriendsTools": "True",
-  "FFlagUIBloxUseStatGroupManualSize": "True",
   "FFlagUpdateFriendCarousel10ft6": "True",
   "FFlagEnableAbuseReport10ft2": "True",
   "FFlagEnableExperienceDetailsFuncComponent": "True",
@@ -271,6 +270,5 @@
   "FFlagNewScriptContext3": "True",
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "20;60;2024-01-24T21:57:40"
+  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000"
 }

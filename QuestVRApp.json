@@ -107,7 +107,7 @@
   "DFFlagSimLimitAssemblyCount2": "True",
   "FFlagEnableUniversalAppGameInviteUnification": "False",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "200",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1400",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedAndroid",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
@@ -522,6 +522,5 @@
   "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
   "FFlagUpdateCheckOnLogin": "False",
   "FFlagHideExperienceLoadingJudder2": "True",
-  "FFlagGpuGeometryManager12": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "1400;60;2024-01-24T21:57:40"
+  "FFlagGpuGeometryManager12": "True"
 }
