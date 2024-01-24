@@ -9989,6 +9989,7 @@
   "FFlagCapsCreate": "True",
   "DFFlagAddDynamicHeadTelemetryToSessionTracking2_Rollout": "True;60;2024-01-24T18:42:20",
   "FFlagAudioAnalyzerUseFasterSqrt_Rollout": "True;60;2024-01-24T18:45:01",
+  "FFlagNavigationUseProjectionForNeighourSelection2_PlaceFilter": "True;8177119304",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
