@@ -269,5 +269,6 @@
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "FFlagFixPlatformCloudStorageCrash": "True",
   "FFlagNewScriptContext3": "True",
-  "FFlagLogReportingPerformLogCulling": "True"
+  "FFlagLogReportingPerformLogCulling": "True",
+  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True"
 }
