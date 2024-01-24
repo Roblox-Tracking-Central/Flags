@@ -417,6 +417,7 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
+  "DFFlagRealtimeClientCountersV2": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

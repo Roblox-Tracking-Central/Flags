@@ -141,6 +141,7 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
+  "DFFlagRealtimeClientCountersV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
