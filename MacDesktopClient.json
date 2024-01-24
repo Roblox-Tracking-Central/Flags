@@ -398,5 +398,6 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "2500"
+  "FIntEnableCullableScene2HundredthPercent3": "2500",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "35;60;2024-01-24T21:57:40"
 }

@@ -264,12 +264,13 @@
   "DFFlagReportCacheDirSizes": "True",
   "DFIntReportCacheDirSizesHundredthsPercent": "100",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
-  "FStringClientChannelProbabilityString": "1000;zflag=5",
+  "FStringClientChannelProbabilityString": "1000;zflag=50",
   "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "FFlagFixPlatformCloudStorageCrash": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000"
+  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "20;60;2024-01-24T21:57:40"
 }

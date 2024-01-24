@@ -521,5 +521,6 @@
   "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
   "FFlagUpdateCheckOnLogin": "False",
   "FFlagHideExperienceLoadingJudder2": "True",
-  "FFlagGpuGeometryManager12": "True"
+  "FFlagGpuGeometryManager12": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "1400;60;2024-01-24T21:57:40"
 }
