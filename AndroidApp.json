@@ -123,6 +123,7 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedAndroid",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedAndroid",
   "FStringConversationMessageSentCounter": "ConversationMessageSentAndroid",
+  "DFFlagRealtimeClientCountersV2_Rollout": "True;60;2024-01-24T20:35:27",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
