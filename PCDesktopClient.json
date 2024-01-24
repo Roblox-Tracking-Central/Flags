@@ -123,6 +123,7 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedDUAR",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
+  "FFlagFixPlayStationTrophies2_Rollout": "True;60;2024-01-24T22:46:51",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

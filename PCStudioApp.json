@@ -123,6 +123,7 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedCommon",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
+  "FFlagFixPlayStationTrophies2_Rollout": "True;60;2024-01-24T22:46:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
