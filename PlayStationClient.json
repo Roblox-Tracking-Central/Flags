@@ -269,5 +269,6 @@
   "FFlagNewScriptContext3": "True",
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000"
+  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
+  "FFlagPlayStationgetMBSysRAMuseTotalMem2_Rollout": "True;30;2024-01-25T22:40:12"
 }
