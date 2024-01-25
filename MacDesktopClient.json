@@ -142,6 +142,8 @@
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
+  "FFlagFaceAnimatorFixMemoryOrder_Rollout": "True;60;2024-01-25T21:44:43",
+  "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange_Rollout": "True;60;2024-01-25T21:48:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -397,6 +399,5 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
-  "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "2500"
+  "DFFlagDebugEnableOctreeNodeValidation": "True"
 }

@@ -500,6 +500,5 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
-  "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FIntEnableCullableScene2HundredthPercent3": "2000"
+  "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False"
 }
