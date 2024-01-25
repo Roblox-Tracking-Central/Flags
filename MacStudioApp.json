@@ -398,6 +398,7 @@
   "FFlagCAPStopMultipleTutorialClicks": "True",
   "FFlagCAPStopPlayDataModelWarningOnLeaveAndEnter": "True",
   "FFlagCAPInstanceInsertionTelemetry": "True",
+  "FIntRuntimeMaxNumOfConditions": "2400",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
