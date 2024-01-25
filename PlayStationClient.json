@@ -270,5 +270,5 @@
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
-  "FFlagRuntimeEnabled3_Rollout": "True;60;2024-01-25T17:39:23"
+  "FFlagRuntimeEnabled3": "True"
 }
