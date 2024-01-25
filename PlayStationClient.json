@@ -269,6 +269,5 @@
   "FFlagNewScriptContext3": "True",
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
-  "FFlagRuntimeEnabled3": "True"
+  "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000"
 }
