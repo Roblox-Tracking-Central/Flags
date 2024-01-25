@@ -10006,6 +10006,8 @@
   "FFlagFixNullGameIdReportingAtDisco": "True",
   "FFlagFixPlayStationTrophies2": "True",
   "FFlagLuauCompilerMinorFix": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-01-25T19:33:44",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-01-25T19:35:56",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
