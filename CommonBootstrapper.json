@@ -63,6 +63,5 @@
   "FFlagMacSupportCJVChannels": "True",
   "FFlagWinInstallerEnableDeployPathExtensionForCJV": "True",
   "FFlagWinInstallerUseDeployPathExtension": "True",
-  "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True",
-  "FFlagWindowsInstallerUseNativeHttp": "True"
+  "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True"
 }
