@@ -10027,7 +10027,7 @@
   "DFFlagMemoryStoreFixClientApiNames": "True",
   "DFFlagMemoryStoreHashMapListItemsFixClientApiNames": "True",
   "FFlagHeapProfilerDenseStorage_Rollout": "True;60;2024-01-26T17:01:53",
-  "FFlagLuauFixDivrkInference_Rollout": "True;30;2024-01-26T17:02:57",
+  "FFlagLuauFixDivrkInference": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
