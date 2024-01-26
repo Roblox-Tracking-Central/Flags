@@ -10033,6 +10033,8 @@
   "FFlagSimAdaptivePreContactReorder3_Rollout": "True;60;2024-01-26T18:48:15",
   "DFIntFTUXDHAvatarLoadTimeThrottleHundredthsPercent_Rollout": "10000;60;2024-01-26T19:00:31",
   "FFlagFTUXDHIxpExperimentation_Rollout": "True;60;2024-01-26T19:00:31",
+  "FFlagRemoveVirtualEventsExperiment": "True",
+  "FFlagSimAdaptiveCheckPendingWakeAssemblies_Rollout": "True;60;2024-01-26T19:15:56",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
