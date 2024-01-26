@@ -10031,6 +10031,8 @@
   "FFlagUnexpectedActiveTooltipWidget": "True",
   "FFlagLiveScriptingCleanupGuidConnection": "True",
   "FFlagHeapProfilerDenseStorage": "True",
+  "FFlagEnableCrossSessionEffectPredictorShadow3_Rollout": "True;60;2024-01-26T18:19:49",
+  "FFlagEnableNavbarLabelExperiment2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
