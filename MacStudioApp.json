@@ -426,5 +426,6 @@
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
   "FFlagRefactorGuiRTCacheImpl2": "False",
-  "FFlagMacClientSupportIME9": "True"
+  "FFlagMacClientSupportIME9": "True",
+  "FFlagDeferFmodDriverShutdown2_Rollout": "True;60;2024-01-29T19:54:46"
 }
