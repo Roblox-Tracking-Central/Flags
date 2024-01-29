@@ -50,6 +50,7 @@
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "DFIntGameJoinFlowTelemetryThrottle": "100",
   "FFlagCLI56034": "True",
+  "DFIntMinSoundStreamSizeBytes": "512000",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
@@ -123,7 +124,6 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickediOS",
   "FStringNewConversationCreatedCounter": "NewConversationCreatediOS",
   "FStringConversationMessageSentCounter": "ConversationMessageSentiOS",
-  "FFlagEnableMmapForMemProfStorageFlushing3": "False",
   "FFlagPlatformCloudStorageService_Rollout": "True;60;2024-01-29T22:57:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -473,6 +473,5 @@
   "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
-  "FFlagNewScriptContext3": "True",
-  "FFlagEnableMmapForMemProfStorageFlushing3_Rollout": "True;60;2024-01-29T22:29:19"
+  "FFlagNewScriptContext3": "True"
 }
