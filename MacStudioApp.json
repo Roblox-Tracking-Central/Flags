@@ -427,5 +427,6 @@
   "DFLogTrackHttpRequest": "0",
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagMacClientSupportIME9": "True",
-  "FFlagDeferFmodDriverShutdown2": "True"
+  "FFlagDeferFmodDriverShutdown2": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "100;60;2024-01-29T21:33:58"
 }

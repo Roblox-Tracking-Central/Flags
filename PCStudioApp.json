@@ -419,5 +419,6 @@
   "FFlagEnableMmapForMemProfStorageFlushing3": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
-  "FFlagUseParallelTypecheckInLSP2": "True"
+  "FFlagUseParallelTypecheckInLSP2": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "30;60;2024-01-29T21:33:58"
 }
