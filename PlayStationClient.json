@@ -257,7 +257,6 @@
   "FFlagPlatformCloudStoragePollster": "True",
   "FFlagPlatformCloudStorageService": "True",
   "FFlagPlatformFriendsServiceGetPartyMembers": "True",
-  "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagAuthDisclaimerUseArgs": "True",
   "DFFlagReportCacheDirSizes": "True",

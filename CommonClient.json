@@ -10069,6 +10069,8 @@
   "DisableLoginSignupScreenshot": "True",
   "FFlagTextureManagerPreloadFallback": "True",
   "FFlagSimCSGV3HandleSameObjectAlongSeam_Rollout": "True;60;2024-01-29T22:23:54",
+  "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagEnableRobloxGuiFocusedChangedEvent2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

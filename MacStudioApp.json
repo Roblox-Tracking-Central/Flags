@@ -107,7 +107,7 @@
   "DFFlagSimLimitAssemblyCount2": "False",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "100",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
@@ -429,6 +429,5 @@
   "DFLogTrackHttpRequest": "0",
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagMacClientSupportIME9": "True",
-  "FFlagDeferFmodDriverShutdown2": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "100;60;2024-01-29T21:33:58"
+  "FFlagDeferFmodDriverShutdown2": "True"
 }
