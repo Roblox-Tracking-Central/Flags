@@ -472,5 +472,5 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FFlagEnableMmapForMemProfStorageFlushing3_Rollout": "False;1;2024-01-29T21:03:27"
+  "FFlagEnableMmapForMemProfStorageFlushing3": "False"
 }
