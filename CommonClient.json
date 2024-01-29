@@ -10047,6 +10047,7 @@
   "DFFlagDebugRccLinuxMSTTEnableOnThreshold": "True",
   "DFFlagMSTTDumpTelemetryIsBlocking": "True",
   "DFFlagRayAABBRefactor_Rollout": "True;60;2024-01-29T18:28:56",
+  "FFlagXboxRemoveGAReporter_Rollout": "True;60;2024-01-29T18:38:57",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
