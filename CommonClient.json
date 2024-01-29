@@ -10056,6 +10056,8 @@
   "FFlagFixEnvMapAsyncAsanIssue_Rollout": "True;60;2024-01-29T20:33:13",
   "DFFlagPerformanceControlPlannerBailIfNoProgress_Rollout": "True;60;2024-01-29T20:41:37",
   "FFlagScriptProfilerPluginFiltering_Rollout": "True;60;2024-01-29T20:51:46",
+  "FFlagFixAXRouteForPPEOutsideAX": "True",
+  "FFlagAXNoLookAroundInPPE": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
