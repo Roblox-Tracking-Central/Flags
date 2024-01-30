@@ -10080,6 +10080,8 @@
   "DFFlagSimDebugVisualizeAveragedForce": "True",
   "DFFlagSimSolverCollectAverageForceOverWorldSteps": "True",
   "DisableLoginSignupScreenshot": "False",
+  "FFlagLuaAppBootcampIntroUABOOTCAMP1": "True",
+  "FFlagLuaAppAddSortPosHomeGridClickEvent": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
