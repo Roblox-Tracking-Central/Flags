@@ -10079,7 +10079,7 @@
   "FFlagFixConstraintVerbsIsEnabled": "True",
   "DFFlagSimDebugVisualizeAveragedForce": "True",
   "DFFlagSimSolverCollectAverageForceOverWorldSteps": "True",
-  "FFlagLuauPreallocateTarjanVectors": "True",
+  "DisableLoginSignupScreenshot": "False",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

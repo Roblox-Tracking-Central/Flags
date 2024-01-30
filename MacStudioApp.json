@@ -108,7 +108,7 @@
   "DFFlagSimLimitAssemblyCount2": "False",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1500",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "100",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
