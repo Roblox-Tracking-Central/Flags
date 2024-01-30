@@ -400,5 +400,6 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
-  "DFFlagDebugEnableOctreeNodeValidation": "True"
+  "DFFlagDebugEnableOctreeNodeValidation": "True",
+  "FFlagInteractableStateForGuiObjects3_Rollout": "True;60;2024-01-30T21:07:15"
 }
