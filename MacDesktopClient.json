@@ -145,6 +145,7 @@
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
+  "DFLogFaceAnimatorThreadingTrace3_Rollout": "Verbose;30;2024-01-30T19:24:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
