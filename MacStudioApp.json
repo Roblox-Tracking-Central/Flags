@@ -421,7 +421,7 @@
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
-  "DFLogFaceAnimatorThreadingTrace3_Rollout": "Verbose;30;2024-01-30T19:24:54",
+  "DFLogFaceAnimatorThreadingTrace3": "Verbose",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

@@ -10084,6 +10084,7 @@
   "FFlagLuaAppAddSortPosHomeGridClickEvent": "True",
   "FFlagStopSelectionEscapeCentralOverlay": "True",
   "DFFlagVoiceChatControlPlaneTelemetryRaceConditionFix": "True",
+  "FFlagDisableUADPadNavigationInVR2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
