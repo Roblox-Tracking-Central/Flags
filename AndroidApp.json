@@ -502,5 +502,5 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FFlagGpuGeometryManager13_Rollout": "True;60;2024-01-30T21:32:17"
+  "FFlagGpuGeometryManager13": "True"
 }
