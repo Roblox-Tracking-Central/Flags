@@ -268,5 +268,6 @@
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
-  "FFlagPlayStationgetMBSysRAMuseTotalMem2": "True"
+  "FFlagPlayStationgetMBSysRAMuseTotalMem2": "True",
+  "FFlagUISelectionJumping3_Rollout": "True;60;2024-01-30T23:48:52"
 }

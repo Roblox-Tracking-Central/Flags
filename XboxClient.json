@@ -417,5 +417,6 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
-  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True"
+  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
+  "FFlagUISelectionJumping3_Rollout": "True;60;2024-01-30T23:48:52"
 }
