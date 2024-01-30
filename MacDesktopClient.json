@@ -101,6 +101,7 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
+  "FFlagInteractableStateForGuiObjects3": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
@@ -400,6 +401,5 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
-  "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FFlagInteractableStateForGuiObjects3_Rollout": "True;60;2024-01-30T21:07:15"
+  "DFFlagDebugEnableOctreeNodeValidation": "True"
 }

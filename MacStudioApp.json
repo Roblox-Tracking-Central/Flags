@@ -101,6 +101,7 @@
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
+  "FFlagInteractableStateForGuiObjects3": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "False",
   "FFlagAddSearchFeedParamsToTelemetry": "True",
@@ -425,8 +426,7 @@
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
-  "FFlagRefactorGuiRTCacheImpl2": "False",
+  "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagMacClientSupportIME9": "True",
-  "FFlagDeferFmodDriverShutdown2": "True",
-  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;30;2024-01-30T21:46:44"
+  "FFlagDeferFmodDriverShutdown2": "True"
 }
