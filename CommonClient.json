@@ -10082,6 +10082,8 @@
   "DisableLoginSignupScreenshot": "False",
   "FFlagLuaAppBootcampIntroUABOOTCAMP1": "True",
   "FFlagLuaAppAddSortPosHomeGridClickEvent": "True",
+  "FFlagStopSelectionEscapeCentralOverlay": "True",
+  "DFFlagVoiceChatControlPlaneTelemetryRaceConditionFix": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
