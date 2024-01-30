@@ -10094,6 +10094,7 @@
   "FFlagFriendsCarouselNoConditionalHooks": "True",
   "FFlagSSDRSendSourceAssetIdsWithContext": "True",
   "FFlagSSDRSetSourceAssetId": "True",
+  "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "2;5;2024-01-30T21:41:19",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
