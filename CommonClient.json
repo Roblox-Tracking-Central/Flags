@@ -10097,6 +10097,7 @@
   "FFlagEnableExternalWebLinks2": "True",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-01-30T22:14:15",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-01-30T22:14:31",
+  "FFlagCleanupRoactChatUniversalAppWrapper": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
