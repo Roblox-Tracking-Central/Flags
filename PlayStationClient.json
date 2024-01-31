@@ -252,8 +252,6 @@
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "PlayStation",
   "FFlagNewSelectionCursor2": "True",
-  "FFlagPlatformCloudStoragePlayXExperiencesTrophies": "True",
-  "FFlagPlatformCloudStoragePollster": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagAuthDisclaimerUseArgs": "True",
   "DFFlagReportCacheDirSizes": "True",
