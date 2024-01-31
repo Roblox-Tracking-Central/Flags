@@ -10101,6 +10101,8 @@
   "FFlagDevFrameworkTextInputTextWidthCalcFix": "True",
   "DFFlagPreventRepeatedRespSwap": "True",
   "FFlagXboxGutFireGameJoinedEvent": "True",
+  "DFFlagControllerManagerCanThrottle_Rollout": "True;60;2024-01-31T17:40:19",
+  "DFFlagDecelerationTimeThreshold_Rollout": "True;60;2024-01-31T17:41:35",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
