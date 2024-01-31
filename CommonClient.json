@@ -10107,6 +10107,8 @@
   "FFlagAXFixExperienceCardPlayerCount": "True",
   "FFlagPlatformCloudStoragePlayXExperiencesTrophies": "True",
   "FFlagDevFrameworkTimeProgressBarImprovements": "True",
+  "DFFlagFixInteractionGroupSignaling_Rollout": "True;60;2024-01-31T20:40:56",
+  "DFFlagDontSubscribeIfNotVoiceEnabled_Rollout": "True;60;2024-01-31T20:41:52",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
