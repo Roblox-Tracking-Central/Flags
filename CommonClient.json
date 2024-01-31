@@ -10102,6 +10102,8 @@
   "DFFlagPreventRepeatedRespSwap": "True",
   "FFlagXboxGutFireGameJoinedEvent": "True",
   "DFFlagDecelerationTimeThreshold": "True",
+  "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2024-01-31T19:07:20",
+  "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2024-01-31T19:08:05",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
