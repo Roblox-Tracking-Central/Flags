@@ -10106,6 +10106,7 @@
   "FFlagPlatformCloudStoragePollster": "True",
   "FFlagAXFixExperienceCardPlayerCount": "True",
   "FFlagPlatformCloudStoragePlayXExperiencesTrophies": "True",
+  "FFlagDevFrameworkTimeProgressBarImprovements": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
