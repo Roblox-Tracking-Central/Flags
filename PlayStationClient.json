@@ -97,7 +97,6 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
-  "FFlagUISelectionJumping3": "False",
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
@@ -268,6 +267,5 @@
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
-  "FFlagPlayStationgetMBSysRAMuseTotalMem2": "True",
-  "FFlagUISelectionJumping3_Rollout": "True;60;2024-01-30T23:48:52"
+  "FFlagPlayStationgetMBSysRAMuseTotalMem2": "True"
 }
