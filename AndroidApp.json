@@ -499,6 +499,5 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
-  "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FFlagGpuGeometryManager13": "True"
+  "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False"
 }

@@ -500,7 +500,6 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FFlagGpuGeometryManager13": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

@@ -122,7 +122,6 @@
   "FStringConversationInfoBtnClickedCounter": "ConversationInfoBtnClickedDUAR",
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
-  "FFlagGpuGeometryManager13_Rollout": "True;60;2024-01-31T22:51:18",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
