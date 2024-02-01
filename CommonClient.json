@@ -6027,7 +6027,7 @@
   "FFlagFixFetchNextOmniWithoutPageToken3": "True",
   "FFlagOmniLoadMoreHeuristicMount2": "True",
   "FFlagEnableShareImageIOS": "True",
-  "FFlagGetReportAdInfo": "True",
+  "FFlagGetReportAdInfo": "False",
   "DFFlagEnableReportAnythingAdsApi": "True",
   "DFFlagSendAdCornersInWorldSpace": "True",
   "FFlagEnableGuiServiceToggleGuisForCaptures": "True",
