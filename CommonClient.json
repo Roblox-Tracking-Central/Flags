@@ -10164,6 +10164,7 @@
   "FFlagRefactorPartData3": "True",
   "FFlagCOLLAB4879FixStartPageSearchRaceCondition": "True",
   "FFlagTerrainVoxelChannelNewApi_Rollout": "True;60;2024-02-01T21:30:40",
+  "OpenGLES2DeprecationPhase": "2",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
