@@ -415,6 +415,7 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
+  "DFFlagUnifyGCNeededChecksForStreamingTunable2_Rollout": "True;30;2024-02-01T17:58:19",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True"

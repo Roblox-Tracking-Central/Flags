@@ -146,6 +146,7 @@
   "DFLogFaceAnimatorThreadingTrace3": "Verbose",
   "DFLogPermissions": "Verbose,6",
   "DFLogFaceAnimatorTrace": "Verbose,6",
+  "DFFlagUnifyGCNeededChecksForStreamingTunable2_Rollout": "True;30;2024-02-01T17:58:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
