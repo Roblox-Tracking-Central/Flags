@@ -139,7 +139,7 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
-  "DFFlagUnifyGCNeededChecksForStreamingTunable2_Rollout": "True;30;2024-02-01T17:58:19",
+  "DFFlagUnifyGCNeededChecksForStreamingTunable2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
