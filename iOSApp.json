@@ -476,5 +476,5 @@
   "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
-  "DFFlagSendOrientationToPlayersGui_Rollout": "True;60;2024-02-01T21:40:26"
+  "DFFlagSendOrientationToPlayersGui": "True"
 }
