@@ -133,7 +133,6 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
-  "FFlagNewScriptContext3": "True",
   "FFlagGpuGeometryManager12": "True",
   "FFlagLooksAnalyticsEmptyItemsFixes": "True",
   "FFlagAXFixFilterNotWorkProperlyOnSearchPage": "True",
@@ -403,5 +402,5 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "2000;30;2024-02-01T18:28:43"
+  "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;30;2024-02-01T19:12:04"
 }

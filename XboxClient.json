@@ -412,7 +412,6 @@
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "DFFlagHangDetectionForceCrash": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True"

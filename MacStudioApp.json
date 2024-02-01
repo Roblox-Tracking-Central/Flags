@@ -409,7 +409,6 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
-  "FFlagNewScriptContext3": "True",
   "FFlagGpuGeometryManager12": "True",
   "FFlagLooksAnalyticsEmptyItemsFixes": "True",
   "FFlagAXFixFilterNotWorkProperlyOnSearchPage": "True",

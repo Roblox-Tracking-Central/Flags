@@ -259,7 +259,6 @@
   "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "FFlagFixPlatformCloudStorageCrash": "True",
-  "FFlagNewScriptContext3": "True",
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",

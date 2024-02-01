@@ -294,6 +294,5 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringRealtimeClientTargetName": "windows_universal",
-  "FFlagNewScriptContext3": "True"
+  "FStringRealtimeClientTargetName": "windows_universal"
 }
