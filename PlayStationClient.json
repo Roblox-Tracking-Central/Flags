@@ -270,5 +270,6 @@
   "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
   "FFlagPlayStationgetMBSysRAMuseTotalMem2": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "DFFlagHttpDetachCacheCleanThread": "True"
+  "DFFlagHttpDetachCacheCleanThread": "True",
+  "DFFlagUseAsyncTaskForSoundCacheCleaning_Rollout": "True;60;2024-02-01T22:32:45"
 }
