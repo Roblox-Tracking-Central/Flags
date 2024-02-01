@@ -265,5 +265,5 @@
   "DFIntHttpMinimumIndividualResponseTimeoutMs": "5000",
   "FFlagPlayStationgetMBSysRAMuseTotalMem2": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "DFFlagHttpDetachCacheCleanThread_Rollout": "True;60;2024-01-31T23:50:05"
+  "DFFlagHttpDetachCacheCleanThread": "True"
 }

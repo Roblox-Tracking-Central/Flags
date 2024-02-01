@@ -1,5 +1,4 @@
 {
-  "FFlagRemoveSuccessDialogMacStudio_Rollout": "True;60;2024-02-01T00:30:28",
   "FFlagMacBootstrapperReportClientUpdateInfo": "True",
   "FFlagMacInstallerReportClientInstallInfo": "True",
   "FFlagMacBootstrapperUseDeployPathExtension": "True",

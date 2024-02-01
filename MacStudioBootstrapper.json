@@ -1,10 +1,9 @@
 {
-  "FIntBootstrapper64BitStudioPercentage": "5",
   "FFlagMacBootstrapperReportClientUpdateInfo": "True",
   "FFlagMacInstallerReportClientInstallInfo": "True",
   "FFlagMacBootstrapperUseDeployPathExtension": "True",
   "FFlagMacInstallerUseDeployPathExtension": "True",
+  "FIntBootstrapper64BitStudioPercentage": "5",
   "InfluxInstallHundredthsPercentage": "1",
-  "FFlagRemoveSuccessDialogMacStudio": "True",
   "ShowInstallSuccessPrompt": "False"
 }
