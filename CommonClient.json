@@ -10165,6 +10165,7 @@
   "FFlagCOLLAB4879FixStartPageSearchRaceCondition": "True",
   "FFlagTerrainVoxelChannelNewApi_Rollout": "True;60;2024-02-01T21:30:40",
   "OpenGLES2DeprecationPhase": "2",
+  "FFlagMSEnableThumbnailerWorkaround_Rollout": "True;60;2024-02-01T22:01:35",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
