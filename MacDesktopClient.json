@@ -144,8 +144,6 @@
   "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
   "DFLogFaceAnimatorThreadingTrace3": "Verbose",
-  "DFLogFaceAnimatorThreadingTrace": "Verbose",
-  "DFLogFaceAnimatorThreadingTrace2": "Verbose",
   "DFLogPermissions": "Verbose,6",
   "DFLogFaceAnimatorTrace": "Verbose,6",
   "AllowVideoPreRoll": "True",
