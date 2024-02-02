@@ -10178,6 +10178,8 @@
   "FStringDSAReportingAndTransparencyOverrideUserIds": "4249672033;5513605127;3501323813;5519869859;3538659734;3831495053;2910598991;5520161703",
   "FFlagVoiceChatAuditLocksForFlagCleanUp": "True",
   "FFlagUseOrientationPlayerGuiIOS": "True",
+  "DFFlagCLI91563v3_Rollout": "True;60;2024-02-02T17:25:54",
+  "FFlagDevFrameworkUpdatePropertyCells": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
