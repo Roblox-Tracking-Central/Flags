@@ -426,8 +426,6 @@
   "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
   "DFLogFaceAnimatorThreadingTrace3": "Verbose",
-  "DFLogPermissions": "Verbose,6",
-  "DFLogFaceAnimatorTrace": "Verbose,6",
   "DFFlagUnifyGCNeededChecksForStreamingTunable2": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
