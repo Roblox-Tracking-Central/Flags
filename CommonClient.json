@@ -904,7 +904,6 @@
   "DFFlagCLI46794SendToTelemetry": "False",
   "DFFlagCLI46794SendToTelemetry_PlaceFilter": "True;1537690962",
   "DFIntCLI46794SendInputTelemetryHundredthsPercentage": "1",
-  "DFIntCLI46794SendInputTelemetryHundredthsPercentage_PlaceFilter": "1000;1537690962",
   "FFlagCLI46794Enable": "True",
   "FFlagCLI46794Enable_PlaceFilter": "True;1537690962",
   "FLogStudioEmbeddedWebBrowser": "6",
