@@ -472,6 +472,6 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "1000;30;2024-02-05T18:13:07",
-  "FFlagPerformanceControlInferenceHandling": "True"
+  "FFlagPerformanceControlInferenceHandling": "True",
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "1000"
 }
