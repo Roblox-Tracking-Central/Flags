@@ -10202,6 +10202,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagChatTranslationHoldoutEnabled": "True",
   "FFlagChatTranslationLaunchEnabled": "True",
+  "FFlagUserCaptureSavedSignalApiEnabled": "True",
+  "FFlagRenderFib3ProperConstantBufferSize_Rollout": "True;30;2024-02-05T17:24:42",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
