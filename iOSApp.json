@@ -472,6 +472,5 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "1000",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "5000;30;2024-02-05T19:25:52"
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000"
 }

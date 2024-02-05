@@ -142,7 +142,6 @@
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagFaceAnimatorFixMemoryOrder": "True",
-  "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
   "DFLogFaceAnimatorThreadingTrace3": "Verbose",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

@@ -312,7 +312,6 @@
   "FFlagSimModelLodFixMarchingCubeColor": "True",
   "FFlagAICOEnableEventIngestHttpRequest": "True",
   "FFlagAICOEnableEventIngestCompletionAcceptance": "True",
-  "FFlagAICOBetaFeature": "True",
   "FFlagMaterialGeneratorBetaFeature": "True",
   "FStringAICOBetaFeatureUrl": "https://devforum.roblox.com/t/code-assist-beta-ai-powered-code-completion/2224387/",
   "FFlagAICOAddIDToTrackedCompletions": "True",
@@ -399,6 +398,7 @@
   "FFlagCAPStopPlayDataModelWarningOnLeaveAndEnter": "True",
   "FFlagCAPInstanceInsertionTelemetry": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
+  "FFlagCodeAssistFeature": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -415,6 +415,7 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
+  "FFlagStreamSoundsCompressedInMemory3_Rollout": "True;60;2024-02-05T20:07:22",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True"
