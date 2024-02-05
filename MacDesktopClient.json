@@ -144,7 +144,6 @@
   "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
   "DFLogFaceAnimatorThreadingTrace3": "Verbose",
-  "DFFlagUnifyGCNeededChecksForStreamingTunable2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

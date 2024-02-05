@@ -123,7 +123,6 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -400,6 +399,7 @@
   "FFlagCAPStopPlayDataModelWarningOnLeaveAndEnter": "True",
   "FFlagCAPInstanceInsertionTelemetry": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -415,7 +415,6 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
-  "DFFlagUnifyGCNeededChecksForStreamingTunable2": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True"
