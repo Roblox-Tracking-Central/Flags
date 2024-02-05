@@ -498,5 +498,6 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
-  "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False"
+  "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
+  "FFlagGraphicsVulkanDeviceLostCrash_Rollout": "True;60;2024-02-05T22:00:31"
 }

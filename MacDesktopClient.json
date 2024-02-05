@@ -399,5 +399,5 @@
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FFlagDynamicDpiUpdateAndroidMacOS_Rollout": "True;60;2024-02-05T20:53:38"
+  "FFlagDynamicDpiUpdateAndroidMacOS": "True"
 }
