@@ -439,7 +439,6 @@
   "EnableSdk33PostNotifications": "True",
   "FFlagShouldHandleNotificationSettingChanged": "True",
   "EnablePushNotificationsPromptAndroid13": "True",
-  "FFlagTerrainVTEnableRelease587Fix": "True",
   "FStringCapturesActivatedInGameMenu": "CapturesActivatedInGameMenuAndroid",
   "FStringCapturesCarouselOpened": "CapturesCarouselOpenedAndroid",
   "FStringCapturesDeactivatedInGameMenu": "CapturesDeactivatedInGameMenuAndroid",
