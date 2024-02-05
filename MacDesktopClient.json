@@ -378,7 +378,6 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "False",
   "FFlagEnableRealtimeProtocolCheckV601": "True",
   "FFlagEnableRealtimeProtocolForAllV601": "True",
   "FFlagEnableRealtimeProtocolRolloutV601": "True",

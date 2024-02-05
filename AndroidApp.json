@@ -485,7 +485,6 @@
   "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
   "DFStringMemoryBufferForHarmonyData": "{\\\u0022memCurve\\\u0022:[{\\\u0022maxsize\\\u0022:1024,\\\u0022reserve\\\u0022:0.15}]}",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "False",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",

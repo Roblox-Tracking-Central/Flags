@@ -387,7 +387,6 @@
   "FFlagUseExternalBrowserForAgeGuidelines10ft": "True",
   "FFlagXboxCleanerGamepadReactivation": "True",
   "FFlagXboxCredentialsHeaders": "True",
-  "DFFlagEnableTCSChatTranslation": "False",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
