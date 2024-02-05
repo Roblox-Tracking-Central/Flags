@@ -123,6 +123,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagTerrainVTEnableRelease587Fix_Rollout": "True;30;2024-02-05T20:48:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -398,5 +399,6 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagSTFSMEnableAppSessionSuccess": "True"
+  "FFlagSTFSMEnableAppSessionSuccess": "True",
+  "FFlagDynamicDpiUpdateAndroidMacOS_Rollout": "True;60;2024-02-05T20:53:38"
 }
