@@ -10224,6 +10224,7 @@
   "FFlagACEGetRigInfo2": "True",
   "FFlagSmoothClusterFixDanglingMaterialTable_Rollout": "True;60;2024-02-05T19:15:22",
   "FFlagEnableCounterLooksWidgetHome": "True",
+  "DFFlagSolverNOURemovedUnderSetOptimized_PlaceFilter": "False;6737970321",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
