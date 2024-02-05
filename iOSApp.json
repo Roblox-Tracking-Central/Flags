@@ -123,6 +123,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatediOS",
   "FStringConversationMessageSentCounter": "ConversationMessageSentiOS",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "DFFlagUnifyGCNeededChecksForStreamingTunable2_Rollout": "True;30;2024-02-05T18:20:08",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -471,5 +472,6 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
-  "FFlagPerformanceControlInferenceHandling_Rollout": "True;60;2024-02-05T17:15:57"
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "1000;30;2024-02-05T18:13:07",
+  "FFlagPerformanceControlInferenceHandling": "True"
 }
