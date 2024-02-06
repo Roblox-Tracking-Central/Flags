@@ -216,7 +216,6 @@
   "DFIntHttpCacheCleanCheckAfterKB": "262144",
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagExperienceDetailsPlayButtonAutoFocus10ft": "True",
-  "FFlagPlayerContextualMenuSetGameplaySession": "True",
   "DFFlagUseFixedMemoryStatsOrbis2": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagTenFootUiSeeAll6": "True",
