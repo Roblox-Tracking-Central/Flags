@@ -136,8 +136,6 @@
   "FFlagFriendCarouselLocalShowRecommendationsLogic": "True",
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": "True",
   "FFlagPassInCloseCentralOverlayToChildren": "True",
-  "FFlagPlayerContextualMenuAlwaysShowReportAndBlock": "True",
-  "FFlagPlayerContextualMenuFriendRequestResponses": "True",
   "FFlagPlayerContextualMenuHandlesGameJoin": "True",
   "FFlagUserProfilePlatformName": "True",
   "FFlagLocalUserGameVoteCounterReducer": "True",

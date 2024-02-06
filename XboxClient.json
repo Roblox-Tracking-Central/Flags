@@ -358,8 +358,6 @@
   "FFlagTenFootUiCategoryTabSafeArea": "True",
   "FFlagRefactorPlayerNameTag2": "True",
   "FFlagPassInCloseCentralOverlayToChildren": "True",
-  "FFlagPlayerContextualMenuAlwaysShowReportAndBlock": "True",
-  "FFlagPlayerContextualMenuFriendRequestResponses": "True",
   "FFlagPlayerContextualMenuHandlesGameJoin": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagPlayerListUserProfileApiEnabledForAll_v2": "True",

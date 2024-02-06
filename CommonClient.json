@@ -10257,6 +10257,8 @@
   "DFFlagGetRidOfSplitFFlags": "True",
   "FFlagLuauStacklessTypeClone3": "True",
   "FFlagLuaAppFixFeedZIndex": "True",
+  "FFlagPlayerContextualMenuAlwaysShowReportAndBlock": "True",
+  "FFlagPlayerContextualMenuFriendRequestResponses": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
