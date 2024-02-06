@@ -10260,6 +10260,7 @@
   "FFlagPasswordlessSignupAuthEnabledRelease1": "True",
   "FFlagContactsToastExperimentEnabledv1": "True",
   "FFlagPassNavigationIntoContactsList": "True",
+  "DFIntDebugCrashOnShutdownProbability1_Rollout": "100;60;2024-02-06T19:39:42",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
