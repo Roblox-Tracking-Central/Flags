@@ -10274,6 +10274,7 @@
   "DFIntDebugCrashOnShutdownProbability1_Rollout": "500;60;2024-02-06T22:08:29",
   "FFlagLuaAppScrollTelemetrySize2": "True",
   "FFlagGuiStateTransitionFromPressedToHoverAfterButtonReleased2_Rollout": "False;30;2024-02-06T22:35:22",
+  "FFlagFixPlatformCloudStorageCrash": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
