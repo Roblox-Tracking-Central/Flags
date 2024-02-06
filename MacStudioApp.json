@@ -399,6 +399,7 @@
   "FFlagCAPInstanceInsertionTelemetry": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
   "FFlagCodeAssistFeature": "True",
+  "FFlagDisableNativeCodegenIfBreakpointIsSet": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
