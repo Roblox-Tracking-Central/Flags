@@ -10256,6 +10256,7 @@
   "FFlagLuauCodegenVector": "True",
   "DFFlagGetRidOfSplitFFlags": "True",
   "FFlagLuauStacklessTypeClone3": "True",
+  "FFlagLuaAppFixFeedZIndex": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
