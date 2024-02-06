@@ -64,5 +64,6 @@
   "FFlagWinInstallerEnableDeployPathExtensionForCJV": "True",
   "FFlagWinInstallerUseDeployPathExtension": "True",
   "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True",
-  "FFlagRemoveSuccessDialogMacStudio": "True"
+  "FFlagRemoveSuccessDialogMacStudio": "True",
+  "FFlagWindowsInstallerUseNativeHttp2": "True"
 }

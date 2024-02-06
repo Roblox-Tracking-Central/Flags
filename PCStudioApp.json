@@ -50,7 +50,7 @@
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "DFIntGameJoinFlowTelemetryThrottle": "100",
   "FFlagCLI56034": "False",
-  "DFIntMinSoundStreamSizeBytes": "512000",
+  "DFIntMinSoundStreamSizeBytes": "768000",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "True",
@@ -416,7 +416,6 @@
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
-  "DFIntMinSoundStreamSizeBytes_Rollout": "768000;60;2024-02-05T22:52:22",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True"
