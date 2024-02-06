@@ -10238,7 +10238,6 @@
   "FFlagDisableChromePinnedChat": "True",
   "DFFlagEnableFixingMessageSizeLimit": "True",
   "FFlagStudioWithUiContextRemoveSubsystem": "True",
-  "FFlagStudioReworkSavePlaceDialog2": "True",
   "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventNumReportsPerSecond": "2",
   "FFlagCollaborationNeutralNotificationIcons": "True",
   "FFlagCOLLAB5162TrackUserIdle2": "True",
