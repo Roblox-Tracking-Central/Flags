@@ -8867,7 +8867,7 @@
   "FFlagACERigUtilsMigration2": "True",
   "FFlagAXRefactorAnimationManagerAnimSelection7": "False",
   "FFlagACERestrictVideoToR15": "True",
-  "FStringUIOcclusionMetricsUnibarMenuVerList": "v6.2t8",
+  "FStringUIOcclusionMetricsUnibarMenuVerList": "v7.1t9,v7.2t9,v7.3t9",
   "FFlagNavigationUseMemoryLimit": "True",
   "DFFlagEnablePreparePurchaseInExperienceApi": "True",
   "DFFlagFixSubscriptionStatusCacheInClient": "True",
