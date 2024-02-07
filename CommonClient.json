@@ -9120,7 +9120,7 @@
   "FFlagSurveyUserIdFix": "True",
   "DFFlagCheckAllForAnimation_PlaceFilter": "False;7180042682;5985232436;11424731604",
   "FFlagSharedTableStringKeyWithEmbeddedNull": "True",
-  "DFFlagStreamingSolverMapModifyCounts": "True",
+  "DFFlagStreamingSolverMapModifyCounts": "False",
   "FFlagFmodWasapiGetDeviceBusType": "True",
   "FStringNewDockingBetaFeatureUrl": "https://devforum.roblox.com/t/docking-updates-studio-beta/2729762",
   "FFlagXboxRemoveSetDefaultTeleportImpl": "True",
