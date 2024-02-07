@@ -10283,6 +10283,7 @@
   "FFlagLooksRefreshDetailsAfterPurchase": "True",
   "FFlagPSCredentialsProtocolMod": "True",
   "FFlagPSCredentialsProtocolModAsync": "True",
+  "DFFlagDataStoreEnforceV2LocalThrottles_Rollout": "True;60;2024-02-07T17:52:50",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
