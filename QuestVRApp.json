@@ -501,6 +501,8 @@
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
+  "EnableAndroidCredentialsProtocol": "True",
+  "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

@@ -500,5 +500,7 @@
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
-  "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True"
+  "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
+  "EnableAndroidCredentialsProtocol": "True",
+  "FFlagLuaAppEnablePasskeyLoginABTest": "True"
 }
