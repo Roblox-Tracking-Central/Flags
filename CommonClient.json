@@ -10287,6 +10287,7 @@
   "DFFlagOpenCloudAdditionalFeaturesEnabled_Rollout": "True;60;2024-02-07T19:18:11",
   "DFFlagRemoveHumanoidActivePhysics_Rollout": "True;60;2024-02-07T19:25:23",
   "DFStringOpenCloudSupportedMethodNamesCsv_Rollout": "userNotification;60;2024-02-07T19:29:42",
+  "DFIntOpenCloudInvokeAsyncPerMinuteThrottle_Rollout": "100;60;2024-02-07T19:48:06",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
