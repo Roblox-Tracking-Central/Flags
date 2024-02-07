@@ -10286,6 +10286,8 @@
   "DFFlagDataStoreEnforceV2LocalThrottles_Rollout": "True;60;2024-02-07T17:52:50",
   "FFlagEnableCallToastRefactor": "True",
   "FFlagChangeStaticEnabledCheckForStreamingToNonStatic": "True",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-02-07T18:48:11",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-07T18:48:46",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
