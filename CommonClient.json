@@ -10351,6 +10351,7 @@
   "FFlagWinCheckTTIFlagRetry": "True",
   "DFFlagSolverNOURemovedUnderSetOptimized_Rollout": "False;60;2024-02-08T23:11:38",
   "FFlagMoveAccessoriesForR15Rigs2": "True",
+  "FFlagScriptingProductivityTelemetryAsComponent_Rollout": "True;60;2024-02-08T23:41:55",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
