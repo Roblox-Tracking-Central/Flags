@@ -10341,6 +10341,7 @@
   "FFlagLuaAppRefactorPlayButtonDataFetch": "True",
   "DFFlagStreamingBooleanIteration_Rollout": "True;60;2024-02-08T20:37:43",
   "FFlagLuauSciNumberSkipTrailDot": "True",
+  "FFlagDSAConsequenceTransparency": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
