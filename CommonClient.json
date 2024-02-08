@@ -10344,6 +10344,7 @@
   "DFFlagEngineAPICloudProcessingServiceUseUpdatedRPF": "True",
   "FFlagEngineAPICloudProcessingUseNotificationClient": "True",
   "DFIntVideoCMCDMaxHeaderBytes": "900",
+  "FFlagSessionGetSessionTag_Rollout": "True;30;2024-02-08T21:28:24",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
