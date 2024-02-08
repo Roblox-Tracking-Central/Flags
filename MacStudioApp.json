@@ -421,7 +421,6 @@
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
-  "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

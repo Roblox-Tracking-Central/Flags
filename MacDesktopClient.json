@@ -141,7 +141,6 @@
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
-  "FFlagFaceAnimatorFixMemoryOrder": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -400,5 +399,5 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FFlagRuntimeEnabled4_Rollout": "True;60;2024-02-08T17:47:44"
+  "FFlagRuntimeEnabled4": "True"
 }
