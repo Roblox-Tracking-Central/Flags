@@ -10349,6 +10349,7 @@
   "DFFlagStreamingBooleanIteration": "True",
   "FFlagSessionGetSessionTag": "True",
   "FFlagVideoTimePositionPassDurationFix": "True",
+  "FFlagMoveAccessoriesForR15Rigs2_Rollout": "True;60;2024-02-08T22:19:30",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
