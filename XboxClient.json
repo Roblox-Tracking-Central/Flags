@@ -361,7 +361,6 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagPlayerListUserProfileApiEnabledForAll_v2": "True",
   "FFlagOmniFeedViewAnimatedUseScrollEventThrottle": "True",
-  "FFlagPlayerContextualMenuAddUnblockCTA": "True",
   "FFlagLuaAppUpdateGameSortGridRowHeight10ft2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
