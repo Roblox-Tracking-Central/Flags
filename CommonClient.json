@@ -7799,7 +7799,7 @@
   "FFlagDisableAddFriendsInCarousel": "True",
   "FFlagFixNonSelfCalls": "True",
   "FFlagImprovePluginSpeedMaterialGenerator": "True",
-  "FFlagImprovePluginSpeedPivotEditor": "True",
+  "FFlagImprovePluginSpeedPivotEditor": "False",
   "DFFlagCountCoalescedTouches": "True",
   "DFFlagReconstructBVHRefactor": "True",
   "DFIntCountCoalescedTouchesHundredth": "1000",
