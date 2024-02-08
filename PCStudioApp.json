@@ -123,7 +123,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
-  "FStringPresencePropagationDelayMetricName": "PresencePropogationDelay",
+  "FStringPresencePropagationDelayMetricName": "PresencePropagationDelay",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
