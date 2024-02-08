@@ -123,7 +123,6 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -143,6 +142,7 @@
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagFaceAnimatorFixMemoryOrder": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -399,6 +399,5 @@
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True"
+  "FFlagDynamicDpiUpdateAndroidMacOS": "True"
 }

@@ -123,7 +123,6 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
-  "DFFlagWriteNewFlagRolloutInformationToAttributesFile_Rollout": "True;60;2024-02-07T23:41:46",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
