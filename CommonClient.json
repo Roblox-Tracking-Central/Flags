@@ -10339,7 +10339,7 @@
   "FFlagVideoCMCDAddVisibility2": "True",
   "FFlagVideoCMCDReportSessionId2": "True",
   "FFlagRemoveLuaInitify": "False",
-  "DFFlagStreamingBooleanIteration": "True",
+  "DFFlagStreamingBooleanIteration": "False",
   "FFlagSessionGetSessionTag": "True",
   "FFlagVideoTimePositionPassDurationFix": "True",
   "FFlagEnableSendCameraAccessAnalytics": "True",
