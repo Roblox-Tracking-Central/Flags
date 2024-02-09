@@ -10341,7 +10341,7 @@
   "DFIntVideoCMCDMaxHeaderBytes": "900",
   "FFlagVideoCMCDAddVisibility2": "True",
   "FFlagVideoCMCDReportSessionId2": "True",
-  "FFlagRemoveLuaInitify": "True",
+  "FFlagRemoveLuaInitify": "False",
   "DFFlagStreamingBooleanIteration": "True",
   "FFlagSessionGetSessionTag": "True",
   "FFlagVideoTimePositionPassDurationFix": "True",
