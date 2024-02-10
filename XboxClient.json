@@ -407,5 +407,6 @@
   "DFFlagHangDetectionForceCrash": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FFlagEnableFriendsLandingControllerBar2": "True"
+  "FFlagEnableFriendsLandingControllerBar2": "True",
+  "FFlagConsolesUserAgreements": "True"
 }

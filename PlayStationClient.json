@@ -259,5 +259,6 @@
   "FFlagPlayStationgetMBSysRAMuseTotalMem2": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "DFFlagHttpDetachCacheCleanThread": "True",
-  "DFFlagUseAsyncTaskForSoundCacheCleaning": "True"
+  "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
+  "FFlagConsolesUserAgreements": "True"
 }

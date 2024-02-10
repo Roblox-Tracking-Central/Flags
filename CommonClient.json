@@ -10360,7 +10360,6 @@
   "FFlagExperienceItemsResalePurchase": "True",
   "FFlagFixEmptyLimitedBadges": "True",
   "DFFlagTagTelemWithIxpIds": "True",
-  "FFlagConsolesUserAgreements": "True",
   "FFlagScriptEditorLiveEditing": "True",
   "FFlagScriptEditorLiveEditingStudioStartup": "True",
   "DFFlagPingTimeoutStats": "True",
