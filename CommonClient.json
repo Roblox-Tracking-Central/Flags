@@ -10364,6 +10364,7 @@
   "FFlagScriptEditorLiveEditingStudioStartup": "True",
   "DFFlagPingTimeoutStats": "True",
   "FFlagFixOptimizeSkeletonGetBoneIndexByPart_Rollout": "True;60;2024-02-12T17:17:21",
+  "DFFlagSimSolverGeometricStiffnessMassFix2_Rollout": "True;60;2024-02-12T17:30:36",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
