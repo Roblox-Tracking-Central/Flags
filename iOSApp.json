@@ -473,5 +473,6 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "False",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0"
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0",
+  "FStringPerformanceControlIncludedTunables_PlaceFilter": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;6698800091"
 }

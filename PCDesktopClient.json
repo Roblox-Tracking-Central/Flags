@@ -394,5 +394,6 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FFlagSTFSMEnableAppSessionSuccess": "True"
+  "FFlagSTFSMEnableAppSessionSuccess": "True",
+  "FStringPerformanceControlIncludedTunables_PlaceFilter": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;6698800091"
 }
