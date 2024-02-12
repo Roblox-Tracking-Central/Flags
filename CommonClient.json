@@ -10371,6 +10371,7 @@
   "FFlagDisableFriendsFollowersWebviewVR": "True",
   "FFlagScriptAnalysisHorizontalScrollbarEnabled": "True",
   "FFlagBrickColorRandomThreadSafety": "True",
+  "DFFlagFastMeshSize2_Rollout": "True;60;2024-02-12T19:48:10",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
