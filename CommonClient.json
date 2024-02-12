@@ -10344,7 +10344,6 @@
   "FFlagVideoTimePositionPassDurationFix": "True",
   "FFlagEnableSendCameraAccessAnalytics": "True",
   "DFIntEngineAPICloudProcessingDelayedPollingFrequencyInSeconds": "300",
-  "FFlagScriptCapabilitiesOpt": "True",
   "FFlagWinCheckTTIFlagRetry": "True",
   "FFlagMoveAccessoriesForR15Rigs2": "True",
   "FFlagGpuGeometryManager13": "True",
