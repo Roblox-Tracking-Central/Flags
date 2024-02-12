@@ -10370,6 +10370,7 @@
   "FFlagBrickColorRandomThreadSafety_Rollout": "True;60;2024-02-12T18:29:34",
   "DFFlagSimSolverGeometricStiffnessMassFix2": "True",
   "FFlagMSRefactor4": "True",
+  "FFlagDisableFriendsFollowersWebviewVR": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
