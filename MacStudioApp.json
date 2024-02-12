@@ -407,7 +407,7 @@
   "FFlagCAPAddSchemaFieldToRequests": "True",
   "FFlagAddAssistantToDebuggerActionAllowList": "True",
   "FFlagCAPOnlyShowWelcomeOnPlaceEnter": "True",
-  "FFlagCAPFixMissingHREndTag_Rollout": "True;60;2024-02-12T21:06:59",
+  "FFlagCAPFixMissingHREndTag": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
