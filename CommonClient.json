@@ -10378,7 +10378,7 @@
   "FFlagLuaAppEnableSurveyTitleTranslation": "True",
   "DFFlagFastMeshSize2": "True",
   "FFlagMatchKeyboardWithTheme": "True",
-  "DFIntMultiPartUploadS3RequestTimeout_Rollout": "60000;5;2024-02-12T23:23:49",
+  "DFIntMultiPartUploadS3RequestTimeout": "60000",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
