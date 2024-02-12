@@ -182,7 +182,6 @@
   "FFlagCryoMigrateTo1_0_3": "True",
   "FFlagDisableResetOnBlur10ft": "True",
   "FFlagLegacyInputBindingsInControllerBar": "True",
-  "FFlagCoreScriptsGlobalEffects": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
   "FFlagEnableUseShowTopBar4": "False",
