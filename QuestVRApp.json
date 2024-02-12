@@ -503,7 +503,7 @@
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FStringPerformanceControlIncludedTunables_PlaceFilter": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;6698800091",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;30;2024-02-12T23:23:03",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
