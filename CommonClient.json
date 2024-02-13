@@ -10389,6 +10389,7 @@
   "FFlagSimEnableEditableMeshSkinning": "False",
   "FFlagSimEnableEditableMeshSkinning_PlaceFilter": "True;14891028303",
   "DFFlagVoiceChatV2CapabilityCheckAudioRollout": "True",
+  "FFlagFixCLI96085": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
