@@ -260,5 +260,5 @@
   "DFFlagHttpDetachCacheCleanThread": "True",
   "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FFlagReadLocalFlagsFromDataFolderOnPS_Rollout": "True;60;2024-02-14T18:12:15"
+  "FFlagReadLocalFlagsFromDataFolderOnPS": "True"
 }
