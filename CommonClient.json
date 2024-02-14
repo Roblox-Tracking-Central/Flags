@@ -10408,6 +10408,7 @@
   "FFlagUIBloxHideActionBarWhenStickyBarActive": "True",
   "FFlagRefactorPublishAllDescendantsDeduplication2": "True",
   "FFlagLoadMoreRequestIntent": "True",
+  "EnableFlagRefactorStage3Dev": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
