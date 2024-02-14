@@ -502,5 +502,5 @@
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
-  "FFlagLuaAppEnablePasskeyLoginABTest": "True"
+  "FFlagLuaAppEnablePasskeyLoginABTest": "False"
 }
