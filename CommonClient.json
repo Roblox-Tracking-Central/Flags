@@ -10409,6 +10409,7 @@
   "FFlagLoadMoreRequestIntent": "True",
   "EnableFlagRefactorStage3Dev": "True",
   "FFlagNoRawBaseScriptFields": "True",
+  "DFStringAnalyticsNS1BeaconConfig_Rollout": "https://c0cfly.rbxcdn.com/test-50kb.png|g2hjxw|https://c0ak.rbxcdn.com/test-50kb.png|g2g5dg|https://c0aws.rbxcdn.com/test-50kb.png|148d53m;60;2024-02-14T20:37:36",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
