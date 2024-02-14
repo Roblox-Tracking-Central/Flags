@@ -379,7 +379,6 @@
   "FFlagConvAIAddDraftModeForSceneCreate2": "True",
   "FFlagConvAIExecuteCommandAsync": "True",
   "FFlagConvAIFixLinksMisalignedDropdown": "True",
-  "FFlagConvAIMenu_Attrib": "False",
   "FFlagConvAIMenu_Clear": "True",
   "FFlagConvAIMenu_ConditionalIterations": "True",
   "FFlagConvAIMenu_Enable": "True",
