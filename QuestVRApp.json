@@ -503,6 +503,7 @@
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "False",
+  "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
