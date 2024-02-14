@@ -407,6 +407,7 @@
   "FFlagAddAssistantToDebuggerActionAllowList": "True",
   "FFlagCAPOnlyShowWelcomeOnPlaceEnter": "True",
   "FFlagCAPFixMissingHREndTag": "True",
+  "FFlagDebugLuauAbortingChecks_Rollout": "True;60;2024-02-14T20:24:44",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
