@@ -10407,6 +10407,7 @@
   "FIntModerationPromptAppealLinkRolloutPercentage": "5",
   "FFlagUIBloxHideActionBarWhenStickyBarActive": "True",
   "FFlagRefactorPublishAllDescendantsDeduplication2": "True",
+  "FFlagLoadMoreRequestIntent": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
