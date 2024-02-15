@@ -388,7 +388,6 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagRuntimeEnabled2": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",

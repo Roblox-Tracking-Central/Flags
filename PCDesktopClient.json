@@ -386,7 +386,6 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagSimIslandizerMultiplierUpdate": "True",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",

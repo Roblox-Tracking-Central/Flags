@@ -461,7 +461,6 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
   "DFIntPerformanceControlInferenceInterval": "3000",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "10000",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",

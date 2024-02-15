@@ -496,7 +496,6 @@
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "False",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
