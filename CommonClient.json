@@ -10124,7 +10124,7 @@
   "FFlagDotMatrixProduct": "True",
   "DFIntMaxLuauHeapDataPayloadSize": "64000000",
   "FFlagStudioUsePublishInProgressScreen2": "True",
-  "FFlagStudioComponentizeRobloxIDEDoc2": "True",
+  "FFlagStudioComponentizeRobloxIDEDoc2": "False",
   "FFlagAddUDataPingViz": "True",
   "FFlagRemoveUnusedCopyrightError": "True",
   "FFlagScriptContextBufferTelemetry": "True",
