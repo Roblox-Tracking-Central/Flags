@@ -10426,6 +10426,7 @@
   "FFlagStudioDebuggerOpenEditDialogFix_Rollout": "True;60;2024-02-15T18:34:26",
   "DFFlagCorrectRayAABBNearZero": "True",
   "DFFlagVoiceChatForceSubRetryWhenSubCloseFailed": "True",
+  "FFlagVoiceChatResetRoomAfterInvalidRoomId": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
