@@ -10431,6 +10431,7 @@
   "FFlagStudioRunToCursorCallBackFix": "True",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagLuaAppWideGameTileView": "True",
+  "FFlagEmbedOAuth2ClientId2_Rollout": "True;60;2024-02-15T21:57:14",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
