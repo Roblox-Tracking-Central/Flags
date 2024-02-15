@@ -81,7 +81,6 @@
   "FFlagAvatarChatServiceEnabled2": "True",
   "FFlagAvatarChatCoreScriptSupport6": "True",
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
-  "FFlagFriendsCarouselUserProfileApiEnabledForAll": "False",
   "FFlagUserIsChatTranslationEnabled": "True",
   "DFFlagLogSystemSinkSupport2": "False",
   "FIntUITextureLowSingleTextureMemoryMB": "8",
