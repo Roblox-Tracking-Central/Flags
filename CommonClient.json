@@ -10435,6 +10435,7 @@
   "FFlagLuaAppGridTilesContinuePlayingDesktop": "True",
   "FFlagLuaAppGridTileDesktopPaddingCP": "True",
   "FFlagStudioRunToCursorCallBackFix_Rollout": "True;60;2024-02-15T22:36:39",
+  "FFlagLuaAppFixGridTileEnrollmentBug": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
