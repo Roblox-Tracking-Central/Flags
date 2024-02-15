@@ -10421,6 +10421,7 @@
   "FFlagSimplifyPluginToQuickAccessConfig": "True",
   "FFlagChangeBetaFeatureAutoEnrollmentLabel": "True",
   "FFlagCAPRequestTypeTelemetry": "True",
+  "FFlagSmoothClusterTransitionalChunks_Rollout": "False;10;2024-02-15T15:08:54",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
