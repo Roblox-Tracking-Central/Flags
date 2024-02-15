@@ -10430,6 +10430,7 @@
   "FFlagUnifyRecommendationsAnalytics": "True",
   "FFlagStudioRunToCursorCallBackFix": "True",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
+  "FFlagAXFixItemTypeHandling": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
