@@ -10428,6 +10428,7 @@
   "FFlagVoiceChatResetRoomAfterInvalidRoomId": "True",
   "FFlagStudioRunToCursorCallBackFix_Rollout": "True;30;2024-02-15T19:33:51",
   "FFlagStudioDebuggerOpenEditDialogFix": "True",
+  "FFlagUnifyRecommendationsAnalytics": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

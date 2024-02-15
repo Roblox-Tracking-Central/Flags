@@ -406,5 +406,6 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FFlagConsolesUserAgreements": "True"
+  "FFlagConsolesUserAgreements": "True",
+  "FFlagRuntimeEnabled4": "True"
 }
