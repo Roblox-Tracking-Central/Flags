@@ -123,6 +123,7 @@
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FStringPresencePropagationDelayMetricName": "PlayStationPresencePropagationDelay",
+  "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

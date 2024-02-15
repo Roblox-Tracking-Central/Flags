@@ -123,6 +123,7 @@
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FStringPresencePropagationDelayMetricName": "PresencePropagationDelay",
+  "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
