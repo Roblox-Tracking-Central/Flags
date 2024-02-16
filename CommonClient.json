@@ -10443,7 +10443,6 @@
   "DFFlagSimClimbingControllerUpdate2": "True",
   "FFlagPropertyStringTooLongException": "True",
   "FFlagLoadingScriptCancelButtonBeforeWait": "True",
-  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-16T19:59:50",
   "FFlagLuaAppUseGetDeviceTypeHelper": "True",
   "FFlagStudioSupportCreatorHubAssetUrlPaste": "True",
   "FFlagEnableAdsEudsaStaticDisclosure": "True",
