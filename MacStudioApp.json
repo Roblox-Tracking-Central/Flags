@@ -408,6 +408,7 @@
   "FFlagCAPOnlyShowWelcomeOnPlaceEnter": "True",
   "FFlagCAPFixMissingHREndTag": "True",
   "FFlagDebugLuauAbortingChecks": "True",
+  "FFlagRegionReplaceOutOfMemory": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

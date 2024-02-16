@@ -10438,6 +10438,7 @@
   "FFlagAXAdjustVisibilityOfFocusedPageAfterNavigatedOut": "True",
   "FFlagFasterPlaySoloBetaFeature": "True",
   "FFlagTempFixMeshObjUVMaps": "True",
+  "FFlagTerrainEditorBetaFeature_Rollout": "True;30;2024-02-16T17:14:04",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
