@@ -523,5 +523,6 @@
   "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
   "FFlagUpdateCheckOnLogin": "False",
   "FFlagHideExperienceLoadingJudder2": "True",
-  "FFlagGpuGeometryManager12": "True"
+  "FFlagGpuGeometryManager12": "True",
+  "FFlagSwitchInExpTranslationsPackage2": "True"
 }
