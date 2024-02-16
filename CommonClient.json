@@ -10456,6 +10456,7 @@
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-02-16T23:18:47",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-02-16T23:18:54",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-16T23:19:07",
+  "FFlagFlagRolloutTestStaticBool2_Rollout": "False;15;2024-02-16T23:45:23",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
