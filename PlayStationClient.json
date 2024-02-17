@@ -250,7 +250,6 @@
   "DFIntReportCacheDirSizesHundredthsPercent": "100",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FStringClientChannelProbabilityString": "1000;zflag=50",
-  "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "FFlagLogReportingPerformLogCulling": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",

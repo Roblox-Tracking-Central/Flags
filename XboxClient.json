@@ -401,7 +401,6 @@
   "FFlagXboxLastKnownStateTrackingEnabled": "True",
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
-  "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "DFFlagHangDetectionForceCrash": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",

@@ -465,7 +465,6 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "10000",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
-  "FFlagGpuGeometryManager12": "True",
   "FFlagDebugGraphicsCrashOnLeaks": "False",
   "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold": "6800",
