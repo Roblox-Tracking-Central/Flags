@@ -10451,6 +10451,7 @@
   "FFlagEnableSponsoredAdsResponsiveCarouselTooltip2": "True",
   "FFlagEnableSponsoredAdsSeeAllGamesListTooltip": "True",
   "FFlagUWPCheckTTIFlagRetry": "True",
+  "FFlagGpuGeometryManager13": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

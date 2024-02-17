@@ -140,7 +140,6 @@
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
-  "FFlagGpuGeometryManager13": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
