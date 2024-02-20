@@ -124,7 +124,6 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "False",
   "FStringPresencePropagationDelayMetricName": "XboxPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
-  "DFFlagInvalidNumPropertyAssignCheck_Rollout": "True;60;2024-02-20T17:17:19",
   "DFFlagInvalidNumPropertyAssignReport_Rollout": "True;60;2024-02-20T18:04:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

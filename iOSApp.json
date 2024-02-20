@@ -124,7 +124,6 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FStringPresencePropagationDelayMetricName": "iOSPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
-  "DFFlagInvalidNumPropertyAssignCheck_Rollout": "True;60;2024-02-20T17:17:19",
   "DFFlagInvalidNumPropertyAssignReport_Rollout": "True;60;2024-02-20T18:04:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -468,10 +467,12 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FFlagDebugGraphicsCrashOnLeaks": "False",
-  "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0"
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0",
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "5000;60;2024-02-20T18:25:23",
+  "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-02-20T18:29:13",
+  "DFFlagReportInferenceResultToPerfdata2_Rollout": "True;60;2024-02-20T18:55:43"
 }

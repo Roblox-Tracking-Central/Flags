@@ -124,7 +124,6 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FStringPresencePropagationDelayMetricName": "PlayStationPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
-  "DFFlagInvalidNumPropertyAssignCheck_Rollout": "True;60;2024-02-20T17:17:19",
   "DFFlagInvalidNumPropertyAssignReport_Rollout": "True;60;2024-02-20T18:04:30",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
@@ -262,5 +261,7 @@
   "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
   "FFlagConsolesUserAgreements": "True",
   "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
-  "FFlagPSOnlineIdSignalUpdate": "True"
+  "FFlagPSOnlineIdSignalUpdate": "True",
+  "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-02-20T18:29:13",
+  "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;60;2024-02-20T18:53:44"
 }
