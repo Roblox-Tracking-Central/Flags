@@ -10403,7 +10403,7 @@
   "FFlagRealtimeProtocolUWP": "True",
   "FFlagSoundEffectRefactoring": "True",
   "FFlagSocialRoactChatAnalyticsAddEntryPointV610": "True",
-  "FIntModerationPromptAppealLinkRolloutPercentage": "10",
+  "FIntModerationPromptAppealLinkRolloutPercentage": "98",
   "FFlagUIBloxHideActionBarWhenStickyBarActive": "True",
   "FFlagRefactorPublishAllDescendantsDeduplication2": "True",
   "FFlagLoadMoreRequestIntent": "True",
