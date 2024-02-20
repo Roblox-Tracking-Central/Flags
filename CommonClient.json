@@ -10474,6 +10474,7 @@
   "FFlagADS4948SendUniverseIdToEventStream_Rollout": "True;60;2024-02-20T19:17:22",
   "FFlagRenderFullTransparentUniqueEntityFix4_Rollout": "True;60;2024-02-20T19:18:26",
   "FFlagDraggerBetaMoreFixes": "True",
+  "DFFlagPerformanceControlSendSecondaryMetricsToSessionTracking_Rollout": "True;60;2024-02-20T19:25:22",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
