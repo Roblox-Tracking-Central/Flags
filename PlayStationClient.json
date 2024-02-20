@@ -261,6 +261,6 @@
   "FFlagConsolesUserAgreements": "True",
   "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
   "FFlagPSOnlineIdSignalUpdate": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;60;2024-02-20T18:53:44",
-  "FFlagDisableStudioSelectionFilterOnClient": "True"
+  "FFlagDisableStudioSelectionFilterOnClient": "True",
+  "FIntEnableCullableScene2HundredthPercent3": "10000"
 }
