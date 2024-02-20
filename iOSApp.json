@@ -470,8 +470,9 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "5000;60;2024-02-20T18:25:23",
-  "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-02-20T18:29:13",
-  "DFFlagReportInferenceResultToPerfdata2_Rollout": "True;60;2024-02-20T18:55:43"
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
+  "DFFlagReportInferenceResultToPerfdata2_Rollout": "True;60;2024-02-20T18:55:43",
+  "FFlagEnableInGameMenuChromeABTest2": "True",
+  "FFlagDisableStudioSelectionFilterOnClient": "True",
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "10000;30;2024-02-20T19:50:53"
 }

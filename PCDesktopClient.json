@@ -140,7 +140,7 @@
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagGpuGeometryManager13": "True",
-  "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-02-20T18:29:13",
+  "FFlagDisableStudioSelectionFilterOnClient": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -393,5 +393,6 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FFlagSTFSMEnableAppSessionSuccess": "True"
+  "FFlagSTFSMEnableAppSessionSuccess": "True",
+  "FFlagEnableInGameMenuChromeABTest2": "True"
 }
