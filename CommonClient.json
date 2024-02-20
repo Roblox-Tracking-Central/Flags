@@ -10498,6 +10498,7 @@
   "DFStringDHAnalyticsNewUserIDUpperBound": "5562395645",
   "FFlagDHAnalyticsNewUser": "True",
   "FFlagStudioNoDiagnosticsDependencyInDataModelProxy": "True",
+  "DFFlagFixFalling_Rollout": "True;30;2024-02-20T22:20:44",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
