@@ -470,9 +470,8 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
+  "DFIntPerformanceControlInferenceChanceHundredthsPercent": "10000",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
-  "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "10000;30;2024-02-20T19:50:53",
   "DFFlagReportInferenceResultToPerfdata2": "True"
 }
