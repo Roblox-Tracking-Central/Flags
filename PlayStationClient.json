@@ -124,7 +124,6 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FStringPresencePropagationDelayMetricName": "PlayStationPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
-  "DFFlagInvalidNumPropertyAssignReport_Rollout": "True;60;2024-02-20T18:04:30",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

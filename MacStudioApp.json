@@ -401,7 +401,6 @@
   "FFlagCodeAssistFeature": "True",
   "FFlagDisableNativeCodegenIfBreakpointIsSet": "True",
   "DFFlagInvalidNumPropertyAssignWarning": "True",
-  "DFFlagInvalidNumPropertyAssignReport": "True",
   "FFlagCAPAddSchemaFieldToRequests": "True",
   "FFlagAddAssistantToDebuggerActionAllowList": "True",
   "FFlagCAPOnlyShowWelcomeOnPlaceEnter": "True",
