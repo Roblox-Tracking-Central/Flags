@@ -10497,6 +10497,7 @@
   "DFStringDHAnalyticsNewUserIDLowerBound": "5536249096",
   "DFStringDHAnalyticsNewUserIDUpperBound": "5562395645",
   "FFlagDHAnalyticsNewUser": "True",
+  "FFlagStudioNoDiagnosticsDependencyInDataModelProxy": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
