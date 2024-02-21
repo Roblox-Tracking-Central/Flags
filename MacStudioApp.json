@@ -411,6 +411,7 @@
   "FFlagEnableChromePinnedChat": "True",
   "DFFlagStrictStringConvertWarning2_Rollout": "True;30;2024-02-21T23:18:18",
   "DFFlagStrictStringConvertReport2": "True",
+  "DFFlagLuauCodeGenIssueTelemetry_Rollout": "True;30;2024-02-21T23:50:44",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
