@@ -506,5 +506,6 @@
   "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagRenderEnableGlobalInstancingVulkan_PlaceFilter": "True;16303126094",
-  "FIntEnableCullableScene2HundredthPercent3": "500"
+  "FIntEnableCullableScene2HundredthPercent3": "500",
+  "FLogRenderInstanceGlob_PlaceFilter": "Verbose,6;16303126094"
 }
