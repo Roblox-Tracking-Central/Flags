@@ -504,7 +504,6 @@
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "EnablePushNotificationRegistrationPostLoginFix": "True",
-  "FStringRenderIGGPUBlacklist": "Adreno (TM) 530|Adreno (TM) 618|Adreno (TM) 619|Adreno (TM) 504|PowerVR Rogue GE8320|Adreno (TM) 612|Adreno (TM) 615|Adreno (TM) 610",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagRenderEnableGlobalInstancingVulkan_PlaceFilter": "True;16303126094",
   "FIntEnableCullableScene2HundredthPercent3_Rollout": "500;30;2024-02-21T21:21:09",
