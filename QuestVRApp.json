@@ -506,7 +506,7 @@
   "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagRenderEnableGlobalInstancingVulkan_PlaceFilter": "True;16303126094",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "500;30;2024-02-21T21:21:09",
+  "FIntEnableCullableScene2HundredthPercent3": "500",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
