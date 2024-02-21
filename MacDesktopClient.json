@@ -124,6 +124,7 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FStringPresencePropagationDelayMetricName": "MacDUAPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
+  "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

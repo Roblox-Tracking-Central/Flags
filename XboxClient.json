@@ -124,6 +124,7 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "False",
   "FStringPresencePropagationDelayMetricName": "XboxPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
+  "FIntIntervalPerformanceTrackerEventStream": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

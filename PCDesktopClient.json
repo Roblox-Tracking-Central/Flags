@@ -124,6 +124,7 @@
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FStringPresencePropagationDelayMetricName": "WindowsDUAPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
+  "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
