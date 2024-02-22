@@ -223,7 +223,6 @@
   "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
   "FFlagPlayStationConditionedRunLoop2": "True",
   "DFFlagLuaOsTimeManual": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
