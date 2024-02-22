@@ -511,5 +511,6 @@
   "FFlagGpuGeometryManager13_PlaceFilter": "True;5191483765;16303126094",
   "FStringContactsToastSeen": "ContactsToastSeen_Android",
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
-  "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android"
+  "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
+  "FFlagVignetteEffectEnabled2_Rollout": "True;60;2024-02-22T21:40:20"
 }
