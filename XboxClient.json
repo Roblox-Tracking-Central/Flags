@@ -389,7 +389,6 @@
   "FStringRealtimeClientTargetName": "XBox",
   "FFlagXboxSystemUtilDeviceName": "True",
   "DFIntHangDetectionJobV2TimeoutMs": "600000000",
-  "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagAuthDisclaimerUseArgs": "True",
