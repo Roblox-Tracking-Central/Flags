@@ -138,7 +138,6 @@
   "FFlagFriendCarouselLocalShowRecommendationsLogic": "True",
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": "True",
   "FFlagPassInCloseCentralOverlayToChildren": "True",
-  "FFlagUserProfilePlatformName": "True",
   "FFlagLocalUserGameVoteCounterReducer": "True",
   "FFlagLuaAppEnable10ftSignUpView": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
