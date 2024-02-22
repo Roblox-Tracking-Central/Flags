@@ -125,6 +125,7 @@
   "FStringPresencePropagationDelayMetricName": "MacDUAPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage_Rollout": "True;60;2024-02-22T22:00:19",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -400,5 +401,6 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FFlagEnableInGameMenuChromeABTest2": "True"
+  "FFlagEnableInGameMenuChromeABTest2": "True",
+  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-02-22T21:50:42"
 }

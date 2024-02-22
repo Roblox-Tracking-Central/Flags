@@ -125,6 +125,7 @@
   "FStringPresencePropagationDelayMetricName": "WindowsDUAPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage_Rollout": "True;60;2024-02-22T22:00:19",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
