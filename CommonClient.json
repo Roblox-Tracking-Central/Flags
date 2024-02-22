@@ -10609,6 +10609,7 @@
   "DFIntAdditionalPrePauseStatsHundredthsPercentage_Rollout": "100;60;2024-02-22T23:30:37",
   "DFFlagRemoveCallbackModeFromPerformanceControl_Rollout": "True;60;2024-02-22T23:35:33",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
+  "FFlagReplaceMannequinUtility": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
