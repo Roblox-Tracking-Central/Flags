@@ -474,5 +474,8 @@
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "10000",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
-  "DFFlagReportInferenceResultToPerfdata2": "True"
+  "DFFlagReportInferenceResultToPerfdata2": "True",
+  "FStringContactsToastSeen": "ContactsToastSeen_iOS",
+  "FStringContactsToastDismissed": "ContactsToastDismissed_iOS",
+  "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS"
 }
