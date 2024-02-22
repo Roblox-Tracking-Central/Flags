@@ -358,7 +358,6 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagTenFootUiCategoryTabSafeArea": "True",
   "FFlagRefactorPlayerNameTag2": "True",
-  "FFlagPassInCloseCentralOverlayToChildren": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagPlayerListUserProfileApiEnabledForAll_v2": "True",
   "FFlagOmniFeedViewAnimatedUseScrollEventThrottle": "True",

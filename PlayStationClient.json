@@ -137,7 +137,6 @@
   "FFlagFriendCarouselHas10ftPolicies": "True",
   "FFlagFriendCarouselLocalShowRecommendationsLogic": "True",
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": "True",
-  "FFlagPassInCloseCentralOverlayToChildren": "True",
   "FFlagLocalUserGameVoteCounterReducer": "True",
   "FFlagLuaAppEnable10ftSignUpView": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
