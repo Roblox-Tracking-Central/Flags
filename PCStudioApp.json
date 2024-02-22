@@ -410,7 +410,6 @@
   "FFlagRegionReplaceOutOfMemory": "True",
   "FFlagEnableChromePinnedChat": "True",
   "DFFlagStrictStringConvertReport2": "True",
-  "DFFlagStrictStringConvertWarning2": "True",
   "DFFlagLuauCodeGenIssueTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
