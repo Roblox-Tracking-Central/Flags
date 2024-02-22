@@ -402,5 +402,6 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-02-22T21:50:42"
+  "FFlagSkipRebuildingCrashedELF": "True",
+  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "1000;60;2024-02-22T23:27:34"
 }
