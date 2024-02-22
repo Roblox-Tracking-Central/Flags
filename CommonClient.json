@@ -10588,6 +10588,7 @@
   "FFlagMacUpdateControllerUseInstaller": "True",
   "FFlagPassInCloseCentralOverlayToChildren": "True",
   "FFlagMacStudioBorrowClientCoookie3": "True",
+  "FFlagLuaAppCleanupFlexGridItemBounds": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
