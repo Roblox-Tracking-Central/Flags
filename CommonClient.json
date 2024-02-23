@@ -10556,7 +10556,7 @@
   "FFlagCOLLAB5578CollaboratorColors": "True",
   "FFlagShareCookieToStudio2": "True",
   "FFlagPluginCalloutCustomToolAlwaysActive": "True",
-  "FFlagClientAvatarUsesColor3sForBodyParts5": "True",
+  "FFlagClientAvatarUsesColor3sForBodyParts5": "False",
   "DFFlagSolverStateReplicatedOnly": "True",
   "DFFlagUGCValidateCageUVCoincident": "True",
   "DFFlagUGCValidateMeshTrianglesFacesFix": "True",
