@@ -48,7 +48,7 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "150",
-  "DFIntGameJoinFlowTelemetryThrottle": "100",
+  "DFIntGameJoinFlowTelemetryThrottle": "1000",
   "FFlagCLI56034": "True",
   "DFIntMinSoundStreamSizeBytes": "768000",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
@@ -401,6 +401,5 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FFlagSkipRebuildingCrashedELF": "True",
-  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "1000;60;2024-02-22T23:27:34"
+  "FFlagSkipRebuildingCrashedELF": "True"
 }
