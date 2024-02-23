@@ -10610,6 +10610,7 @@
   "FFlagPerformanceControlAddStartToConstructor": "True",
   "DFFlagRemoveCallbackModeFromPerformanceControl": "True",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "100",
+  "DFFlagVideoAddFormatNameVisibilityMetrics_Rollout": "True;60;2024-02-23T17:12:00",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
