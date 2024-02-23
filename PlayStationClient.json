@@ -257,6 +257,5 @@
   "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
   "FFlagConsolesUserAgreements": "True",
   "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
-  "FFlagDisableStudioSelectionFilterOnClient": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "10000"
+  "FFlagDisableStudioSelectionFilterOnClient": "True"
 }
