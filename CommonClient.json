@@ -10617,6 +10617,7 @@
   "DFFlagAdditionalPrePauseStats_Rollout": "True;60;2024-02-23T18:38:30",
   "FFlagLuaAppSponsoredTooltipCustomColorSupport": "True",
   "DFFlagVideoAddFormatNameVisibilityMetrics": "True",
+  "FFlagSelfViewMoreNilChecks": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
