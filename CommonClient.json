@@ -10619,6 +10619,7 @@
   "DFFlagSimReportDidThrottleDuringStep": "True",
   "DFFlagAdditionalPrePauseStats": "True",
   "FFlagFixExplorerAllDescendantsFilter": "True",
+  "FFlagFixCharacterManagerValueConversionWarning": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
