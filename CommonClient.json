@@ -10618,7 +10618,7 @@
   "FFlagSelfViewMoreNilChecks": "True",
   "FFlagReportStreamingObserverStats2": "True",
   "DFFlagSimReportDidThrottleDuringStep": "True",
-  "FFlagFixValidationCLI88954_Rollout": "True;60;2024-02-23T19:36:49",
+  "FFlagFixExplorerAllDescendantsFilter_Rollout": "True;30;2024-02-23T19:49:00",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
