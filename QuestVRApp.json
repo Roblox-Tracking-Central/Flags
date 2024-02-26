@@ -534,5 +534,6 @@
   "FFlagHideExperienceLoadingJudder2": "True",
   "FFlagSwitchInExpTranslationsPackage2": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
-  "FFlagEnableAsyncAttestationTokenRetrieval": "True"
+  "FFlagEnableAsyncAttestationTokenRetrieval": "True",
+  "FFlagLuaAppChallengeNativeWrapperEnabled": "True"
 }
