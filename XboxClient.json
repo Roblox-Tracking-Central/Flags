@@ -249,7 +249,6 @@
   "FIntGraphicsVulkanARMVaryingBufferMb": "160",
   "FIntGraphicsVulkanMinAndroidVersion": "25",
   "FIntGraphicsVulkanMinDriverVersionPVR": "4981305",
-  "FIntInGameGlobalGuiInset": "0",
   "FIntLocalizationAnalyticsSamplesPerMillion": "1000000",
   "FIntNewDevConsoleMaxHttpCount": "300",
   "FIntNewDevConsoleMaxLogCount": "500",
