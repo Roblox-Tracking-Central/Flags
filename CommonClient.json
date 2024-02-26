@@ -10622,6 +10622,7 @@
   "FFlagFixCharacterManagerValueConversionWarning": "True",
   "FFlagSimConsolidateBVHMidphase2_Rollout": "True;60;2024-02-26T17:14:10",
   "FFlagAssetImporterCustomPresets_Rollout": "True;60;2024-02-26T17:29:38",
+  "FFlagMSRefactor5_Rollout": "True;60;2024-02-26T17:49:50",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
