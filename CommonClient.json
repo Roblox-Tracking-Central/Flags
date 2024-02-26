@@ -10635,6 +10635,7 @@
   "FFlagGraphicsColorDepthBarrierValidationFix2_Rollout": "True;60;2024-02-26T18:57:12",
   "FFlagTelemetryRevamp": "True",
   "FFlagMSRefactor5": "True",
+  "FFlagBlockTwoSVForNoWebView": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
