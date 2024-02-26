@@ -10479,7 +10479,6 @@
   "FFlagAESGetOutfitsPaginationToken": "True",
   "FFlagToolboxRollingAssetPermissionRequests": "True",
   "FFlagPackageUpdateNestedPackageUnmodified1": "True",
-  "DFFlagUseNetworkStreamInterface": "True",
   "FFlagMeasureAppLaunchToTargetFPS": "True",
   "FFlagSTUDIOPLAT31352ParseFirstLaunch2": "True",
   "FFlagRoactChatEntryAnalytics": "True",
