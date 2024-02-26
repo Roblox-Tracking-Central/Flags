@@ -401,5 +401,6 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FFlagSkipRebuildingCrashedELF": "True"
+  "FFlagSkipRebuildingCrashedELF": "True",
+  "FFlagUniversalAppCsat2": "True"
 }

@@ -512,6 +512,7 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagVignetteEffectEnabled2": "True",
+  "FFlagUniversalAppCsat2": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -531,5 +532,7 @@
   "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
   "FFlagUpdateCheckOnLogin": "False",
   "FFlagHideExperienceLoadingJudder2": "True",
-  "FFlagSwitchInExpTranslationsPackage2": "True"
+  "FFlagSwitchInExpTranslationsPackage2": "True",
+  "FFlagLuaAppSignUpPageRefactor": "True",
+  "FFlagEnableAsyncAttestationTokenRetrieval": "True"
 }
