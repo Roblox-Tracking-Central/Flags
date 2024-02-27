@@ -10662,6 +10662,7 @@
   "FIntTextFilterV2ApiHundredthPercent": "50",
   "FFlagRenderFixMissingTrailShaders": "True",
   "DFFlagOptimizeSleepStateTransitions": "True",
+  "DFFlagSimLevitationUseFrictionPositionCorrection_Rollout": "True;60;2024-02-27T20:28:45",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
