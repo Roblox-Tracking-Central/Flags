@@ -10662,6 +10662,7 @@
   "DFFlagSimLevitationUseFrictionPositionCorrection_Rollout": "True;60;2024-02-27T20:28:45",
   "FFlagInferOOMWithPossibleOOM": "True",
   "FFlagInferSuccessOOMWithOOMExited": "True",
+  "FFlagVideoReportVideoHlsVariantFix_Rollout": "True;60;2024-02-27T21:09:52",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
