@@ -10666,6 +10666,8 @@
   "FFlagLuaAppReplaceLaunchConnectorWithHook": "True",
   "FFlagFixPatchBundlerDeadlock_Rollout": "True;60;2024-02-27T22:40:18",
   "FFlagVideoReportVideoHlsVariantFix": "True",
+  "FFlagFixEnablePushNotificationButton": "True",
+  "DFFlagOnlyAllowThumbnailRbxCdnUrls_Rollout": "True;60;2024-02-27T23:11:21",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

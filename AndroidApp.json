@@ -511,5 +511,6 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagVignetteEffectEnabled2": "True",
-  "FFlagUniversalAppCsat2": "True"
+  "FFlagUniversalAppCsat2": "True",
+  "EnableRequestPermissionsOnAppReady": "True"
 }

@@ -512,6 +512,7 @@
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagVignetteEffectEnabled2": "True",
   "FFlagUniversalAppCsat2": "True",
+  "EnableRequestPermissionsOnAppReady": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
