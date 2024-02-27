@@ -101,7 +101,6 @@
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
-  "FFlagAddSearchFeedParamsToTelemetry": "False",
   "DFFlagSimLimitAssemblyCount2": "True",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "False",
