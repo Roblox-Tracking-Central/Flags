@@ -531,7 +531,6 @@
   "FFlagAddFontAtlasMipmaps": "True",
   "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
   "FFlagUpdateCheckOnLogin": "False",
-  "FFlagHideExperienceLoadingJudder2": "True",
   "FFlagSwitchInExpTranslationsPackage2": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
