@@ -512,5 +512,6 @@
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagVignetteEffectEnabled2": "True",
   "FFlagUniversalAppCsat2": "True",
-  "EnableRequestPermissionsOnAppReady": "True"
+  "EnableRequestPermissionsOnAppReady": "True",
+  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "4;60;2024-02-28T21:48:08"
 }
