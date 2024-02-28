@@ -401,5 +401,6 @@
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagSkipRebuildingCrashedELF": "True",
-  "FFlagUniversalAppCsat2": "True"
+  "FFlagUniversalAppCsat2": "True",
+  "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash_Rollout": "True;60;2024-02-28T17:39:53"
 }
