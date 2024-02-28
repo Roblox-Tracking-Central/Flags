@@ -10669,6 +10669,7 @@
   "FFlagFixPatchBundlerDeadlock": "True",
   "FFlagFinishAppLaunchFlowOnUpdate": "True",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-28T17:22:20",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
