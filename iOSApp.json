@@ -477,5 +477,5 @@
   "FStringContactsToastSeen": "ContactsToastSeen_iOS",
   "FStringContactsToastDismissed": "ContactsToastDismissed_iOS",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS",
-  "FFlagUniversalAppCsat2": "True"
+  "FFlagUniversalAppCsat2": "False"
 }

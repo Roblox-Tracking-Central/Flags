@@ -511,7 +511,7 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagVignetteEffectEnabled2": "True",
-  "FFlagUniversalAppCsat2": "True",
+  "FFlagUniversalAppCsat2": "False",
   "EnableRequestPermissionsOnAppReady": "True",
   "DFIntParallelBroadPhaseNewBatchCount_Rollout": "4;60;2024-02-28T21:48:08",
   "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-28T22:30:11"
