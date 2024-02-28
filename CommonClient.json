@@ -10686,6 +10686,7 @@
   "DFFlagSameMd5HashAsInLoadSettings_Rollout": "True;60;2024-02-28T22:34:29",
   "DFStringDualWriteEphemeralCounterToV2WhiteList": "aicoautocompletekeypressleftbracket",
   "DFIntNavigationJobMaxTimeBudgetMS_Rollout": "50;60;2024-02-28T22:40:10",
+  "FFlagIconSetSameDisappearingFix_Rollout": "True;60;2024-02-28T22:47:43",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
