@@ -513,7 +513,6 @@
   "FFlagVignetteEffectEnabled2": "True",
   "FFlagUniversalAppCsat2": "False",
   "EnableRequestPermissionsOnAppReady": "True",
-  "DFIntParallelBroadPhaseNewBatchCount": "4",
   "FFlagLuaAppDisableSound": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
