@@ -259,5 +259,6 @@
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagFixTenFootUiPlayerSearchTileHeight": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagEDPMediaAddLocalization10ft": "True"
+  "FFlagEDPMediaAddLocalization10ft": "True",
+  "FFlagAddSeeAllShortcutControllerBar10ft": "True"
 }
