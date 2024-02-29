@@ -254,7 +254,6 @@
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "DFFlagHttpDetachCacheCleanThread": "True",
   "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
-  "FFlagConsolesUserAgreements": "True",
   "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagFixTenFootUiPlayerSearchTileHeight": "True",

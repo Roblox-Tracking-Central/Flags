@@ -10697,6 +10697,7 @@
   "DFFlagDualWriteEphemeralCounterToV2": "True",
   "FFlagDelayInferedCrashCrashReporting": "True",
   "FFlagRCCMonitorRegisterTimersForShutdown3": "True",
+  "FFlagConsolesUserAgreements": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

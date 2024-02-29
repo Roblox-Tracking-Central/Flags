@@ -67,5 +67,6 @@
   "FFlagRemoveSuccessDialogMacStudio": "True",
   "FFlagWindowsInstallerUseNativeHttp2": "True",
   "FFlagMacInstallerProtocolStringParam": "True",
-  "FFlagMacInstallerUseHandleInstallSuccess": "True"
+  "FFlagMacInstallerUseHandleInstallSuccess": "True",
+  "FIntClientLaunchTimeoutMillisec_Rollout": "20000;5;2024-02-29T17:49:12"
 }
