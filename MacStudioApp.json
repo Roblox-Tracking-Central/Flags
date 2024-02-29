@@ -417,6 +417,7 @@
   "FFlagTerrainEditorFocusIssues": "True",
   "FFlagTerrainEditorSculptSensitivity": "True",
   "FFlagTerrainEditorSmoothFix": "True",
+  "DFFlagLuauCodegenTrackingMultilocationFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

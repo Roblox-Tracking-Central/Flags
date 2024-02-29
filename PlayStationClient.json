@@ -158,8 +158,6 @@
   "FFlagEnableExperienceDetailsFuncComponent": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
   "FFlagAXF10ftFixPeekabooWidget": "True",
-  "FFlagAddPreviousPageToLuaPageLoad": "True",
-  "FFlagAvatarSceneManagerSwitchTabFix": "True",
   "FFlagLuaAppNavigationAnalytics": "True",
   "FFlagPlayerContextualMenuAnalytics": "True",
   "FFlagFixTenFootUiExperienceDetailsSeeAll": "True",

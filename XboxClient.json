@@ -307,8 +307,6 @@
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "1048576",
   "FFlagAddMenuNavigationToggleDialog": "True",
-  "FFlagAddPreviousPageToLuaPageLoad": "True",
-  "FFlagAvatarSceneManagerSwitchTabFix": "True",
   "FFlagAddFriendsComponentsTransparent": "True",
   "FFlagAddFriendsPageUseToken": "True",
   "FFlagAddExperienceGuidelinesToActionBar10ft1": "True",
