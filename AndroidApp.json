@@ -513,6 +513,6 @@
   "FFlagVignetteEffectEnabled2": "True",
   "FFlagUniversalAppCsat2": "False",
   "EnableRequestPermissionsOnAppReady": "True",
-  "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-28T22:30:11",
-  "DFIntParallelBroadPhaseNewBatchCount": "4"
+  "DFIntParallelBroadPhaseNewBatchCount": "4",
+  "FFlagLuaAppDisableSound": "True"
 }
