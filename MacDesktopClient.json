@@ -403,5 +403,5 @@
   "FFlagSkipRebuildingCrashedELF": "True",
   "FFlagUniversalAppCsat2": "False",
   "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
-  "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-29T18:31:24"
+  "FFlagLuaAppDisableSound": "True"
 }

@@ -478,5 +478,5 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_iOS",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS",
   "FFlagUniversalAppCsat2": "False",
-  "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-29T18:31:24"
+  "FFlagLuaAppDisableSound": "True"
 }

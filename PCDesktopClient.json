@@ -396,5 +396,5 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "False",
-  "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-29T18:31:24"
+  "FFlagLuaAppDisableSound": "True"
 }
