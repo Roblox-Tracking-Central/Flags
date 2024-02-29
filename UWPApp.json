@@ -296,5 +296,6 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FFlagEnableInGameMenuChromeABTest2": "True"
+  "FFlagEnableInGameMenuChromeABTest2": "True",
+  "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-29T19:36:20"
 }
