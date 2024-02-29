@@ -402,5 +402,6 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagSkipRebuildingCrashedELF": "True",
   "FFlagUniversalAppCsat2": "False",
-  "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True"
+  "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
+  "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-29T18:31:24"
 }

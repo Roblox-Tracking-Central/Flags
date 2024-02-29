@@ -10700,6 +10700,7 @@
   "FFlagConsolesUserAgreements": "True",
   "FFlagInferredCrashSubsystem2_Rollout": "True;60;2024-02-29T17:55:05",
   "FFlagCinUseImportDataPreviewInstances2": "True",
+  "FFlagScriptProfilerSimpleUI": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
