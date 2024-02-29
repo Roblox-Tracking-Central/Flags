@@ -258,5 +258,6 @@
   "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagFixTenFootUiPlayerSearchTileHeight": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "10000"
+  "FIntEnableCullableScene2HundredthPercent3": "10000",
+  "FFlagEDPMediaAddLocalization10ft": "True"
 }

@@ -403,5 +403,6 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FFlagFixTenFootUiPlayerSearchTileHeight": "True"
+  "FFlagFixTenFootUiPlayerSearchTileHeight": "True",
+  "FFlagEDPMediaAddLocalization10ft": "True"
 }
