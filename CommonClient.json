@@ -10559,7 +10559,6 @@
   "FFlagReportELFDebugInfo": "True",
   "FFlagUserProfilePlatformName": "True",
   "FFlagLuaAppGridTileSmallerTitle": "True",
-  "FFlagELFSubsystemInternalFlowControl": "True",
   "FFlagLuaAppGridTileFullGameStats2": "True",
   "FFlagACEIgnoreAnimSavesObjectValue": "True",
   "FFlagACERigInfoCache": "True",
