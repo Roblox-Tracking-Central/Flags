@@ -10710,7 +10710,7 @@
   "FFlagExportPathCheckEnabled": "True",
   "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
   "FFlagUserHeartbeatsPulseApi": "True",
-  "FIntUserHeartbeatsPulseRolloutPerMyriad": "100",
+  "FIntUserHeartbeatsPulseRolloutPerMyriad": "0",
   "FFlagXboxRemoveIsRetail": "True",
   "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
   "FFlagPlatformServiceNoLongerStartGames": "True",
