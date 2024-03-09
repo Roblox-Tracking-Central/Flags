@@ -84,7 +84,6 @@
   "creatorShareAssetLimit": "200",
   "enableExperienceAssetsPage": "true",
   "enableAssetPermissions": "true",
-  "enableIndividualNotificationChannels": "true",
   "enableThemePreference": "true",
   "enableDecemberRoadMap": "true",
   "enableVerificationForUgc": "true",
@@ -94,5 +93,6 @@
   "dynamicPriceFloorAssetWhitelist": "",
   "enableDynamicFloorNonLimitedPricing": "true",
   "enableDynamicFloorNonLimitedPostLaunchBanner": "true",
-  "enableNotificationsAnalytics": "false"
+  "enableRemoveShutDownServersButton": "false",
+  "enableNotificationsAnalytics": "true"
 }
