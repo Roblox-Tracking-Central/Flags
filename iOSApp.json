@@ -482,5 +482,6 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagEnablePushNotificationPromptExperiment": "True",
   "FFlagPlatformEventEnabled2": "True",
-  "FFlagPasskeySignupEnabled": "True"
+  "FFlagPasskeySignupEnabled": "True",
+  "FFlagEnableSignupBirthdayExperimentsRelease2": "True"
 }

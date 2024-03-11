@@ -455,7 +455,6 @@
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagGpuGeometryManager13": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
-  "FFlagGetHumanoidDescriptionUpdates": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",

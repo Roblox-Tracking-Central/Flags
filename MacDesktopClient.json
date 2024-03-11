@@ -141,7 +141,6 @@
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagGpuGeometryManager13": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
-  "FFlagGetHumanoidDescriptionUpdates": "True",
   "FFlagBuildInitialCacheFix": "True",
   "FFlagPlatformEventEnabled2": "True",
   "AllowVideoPreRoll": "True",
