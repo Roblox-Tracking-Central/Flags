@@ -515,5 +515,6 @@
   "EnableIrisUpdatedCallingNotificationCompat": "False",
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
-  "FFlagPlatformEventEnabled2": "True"
+  "FFlagPlatformEventEnabled2": "True",
+  "FFlagPasskeySignupEnabled": "True"
 }

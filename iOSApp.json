@@ -481,5 +481,6 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagEnablePushNotificationPromptExperiment": "True",
-  "FFlagPlatformEventEnabled2": "True"
+  "FFlagPlatformEventEnabled2": "True",
+  "FFlagPasskeySignupEnabled": "True"
 }
