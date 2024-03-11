@@ -123,6 +123,7 @@
   "FStringPresencePropagationDelayMetricName": "PlayStationPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "DFFlagStreamingBooleanIteration3_Rollout": "False;1;2024-03-11T15:50:04",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

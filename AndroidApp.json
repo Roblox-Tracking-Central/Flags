@@ -123,6 +123,7 @@
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "DFFlagStreamingBooleanIteration3_Rollout": "False;1;2024-03-11T15:50:04",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
