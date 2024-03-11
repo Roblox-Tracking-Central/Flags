@@ -124,6 +124,8 @@
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "DFFlagLuauCodeGenIssueTelemetry_Rollout": "True;30;2024-03-11T19:37:11",
+  "FFlagApiDumperCapabilities_Rollout": "True;30;2024-03-11T19:53:32",
+  "DFFlagStrictStringConvertRelaxed_Rollout": "True;30;2024-03-11T19:54:34",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
