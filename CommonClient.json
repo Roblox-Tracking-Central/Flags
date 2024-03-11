@@ -10971,6 +10971,8 @@
   "FFlagApiDumperCapabilities": "True",
   "FFlagRegionReplaceOutOfMemory2": "True",
   "FFlagAvatarPreviewerEquippedPaletteTooltip": "True",
+  "FFlagAvatarPreviewerMakeGeoCaseInsensitive": "True",
+  "FFlagAvatarPreviewerRemoveItemsFromPalette2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
