@@ -10955,6 +10955,8 @@
   "DFFlagRemoveNonFlagSideDistributionCheck": "True",
   "DFFlagFixAnimatorAttributeReads": "True",
   "FFlagAddFlowStartAndEndToV2Stats_Rollout": "True;60;2024-03-11T19:57:24",
+  "DFFlagFastEndUpdateLoop_DataCenterFilter": "True;353",
+  "FFlagPresencePropagationDelayMonitoringEnabledV2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
