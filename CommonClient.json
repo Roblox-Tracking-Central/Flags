@@ -10912,6 +10912,7 @@
   "FStringFlagRolloutTestStaticString8": "Static03072024",
   "DFFlagDisableAAIfV_Rollout": "True;60;2024-03-11T16:31:58",
   "DFFlagStreamingBooleanIteration3": "False",
+  "FFlagLuaAppGridTilesUIPolish": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
