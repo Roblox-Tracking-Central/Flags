@@ -472,5 +472,6 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "FFlagAllSoundServicesShareOneFmod": "True",
-  "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657"
+  "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657",
+  "DFFlagEnableGamepassPurchaseIxpRollout_Rollout": "True;30;2024-03-11T17:55:01"
 }

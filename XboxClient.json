@@ -401,5 +401,6 @@
   "FFlagXboxDumpUploaderV22": "True",
   "FFlagXboxMoveInferredCrashReport": "True",
   "FFlagXboxImprovedCrashCollection": "True",
-  "FFlagXboxLastKnownStateImprovements": "True"
+  "FFlagXboxLastKnownStateImprovements": "True",
+  "DFFlagEnableGamepassPurchaseIxpRollout_Rollout": "True;30;2024-03-11T17:55:01"
 }

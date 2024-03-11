@@ -465,5 +465,6 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
-  "FFlagUseParallelTypecheckInLSP2": "True"
+  "FFlagUseParallelTypecheckInLSP2": "True",
+  "DFFlagEnableGamepassPurchaseIxpRollout_Rollout": "True;30;2024-03-11T17:55:01"
 }
