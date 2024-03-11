@@ -10959,6 +10959,7 @@
   "FFlagAssetImporterCustomPresets2": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts7_Rollout": "True;60;2024-03-11T20:27:38",
   "DFIntMissingReplicationRootHundredths_Rollout": "100;60;2024-03-11T20:28:16",
+  "FFlagModelPreviewThumbnailFallback": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
