@@ -428,7 +428,7 @@
   "FFlagDisablePlaySoloUIUpdatesInBeta2": "True",
   "DFFlagRemoveVerbsLuaToolVerb": "True",
   "FFlagToolboxAddPaddingToPriceRedirect": "True",
-  "FFlagStudioReworkSavePlaceDialog5": "True",
+  "FFlagStudioReworkSavePlaceDialog5": "False",
   "FFlagReportPluginCollisionGroups": "True",
   "FFlagScriptDiffTool2": "True",
   "FFlagPathEditorFixActionBindings": "True",

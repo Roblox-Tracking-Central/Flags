@@ -213,7 +213,6 @@
   "FFlagTenFootUiSeeAll6": "True",
   "FFlagDontReportKeyboardAndMouseSupportOnStart": "True",
   "FFlagEnableTenFootInterfaceCheckForLegacyChat": "True",
-  "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagPlayStationConditionedRunLoop2": "True",
