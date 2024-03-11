@@ -442,7 +442,6 @@
   "FFlagAvatarPreviewerRemoveItemsFromPalette2": "True",
   "FFlagAvatarPreviewerCameraTiltAndState2": "True",
   "FStringPath2DBetaBetaFeatureUrl": "https://devforum.roblox.com/t/path2d-studio-beta/2868432",
-  "DFFlagStreamingBooleanIteration3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
