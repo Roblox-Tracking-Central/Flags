@@ -11082,6 +11082,7 @@
   "FFlagSimSolverOptimizeLFWriteVectors_Rollout": "False;30;2024-03-12T18:02:16",
   "DFFlagFileMeshDataTelemetry_Rollout": "True;60;2024-03-12T18:17:50",
   "FFlagSelfViewAvoidErrorOnWrongFaceControlsParenting": "True",
+  "DFFlagEnableSubscriptionDetails2_Rollout": "True;60;2024-03-12T18:36:23",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
