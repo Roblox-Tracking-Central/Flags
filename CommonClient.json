@@ -11075,6 +11075,7 @@
   "FFlagFlagRolloutTestStaticBool48": "True",
   "FFlagFlagRolloutTestStaticBool49": "True",
   "DFFlagReportMissingReplicationRoot": "True",
+  "DFFlagNewFlagRollout": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
