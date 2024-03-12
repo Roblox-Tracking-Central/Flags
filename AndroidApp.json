@@ -517,5 +517,6 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagPasskeySignupEnabled": "True",
-  "FFlagEnableSignupBirthdayExperimentsRelease2": "True"
+  "FFlagEnableSignupBirthdayExperimentsRelease2": "True",
+  "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436"
 }

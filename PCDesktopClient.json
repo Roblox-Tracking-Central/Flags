@@ -401,5 +401,6 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436"
 }
