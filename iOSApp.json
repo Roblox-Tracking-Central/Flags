@@ -479,7 +479,6 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
-  "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagEnablePushNotificationPromptExperiment": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagPasskeySignupEnabled": "True",
