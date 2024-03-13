@@ -10468,7 +10468,7 @@
   "DFFlagPerformanceControlSendSecondaryMetricsToSessionTracking": "True",
   "FFlagLuauAutocompleteTableKeysNoInitialCharacter": "True",
   "FFlagHighlightsPerWorkspaceIds": "False",
-  "FFlagFriendsCarouselPaginatedFriendsWithFixEnabled": "True",
+  "FFlagFriendsCarouselPaginatedFriendsWithFixEnabled": "False",
   "FFlagAESGetOutfitsPaginationToken": "True",
   "FFlagToolboxRollingAssetPermissionRequests": "True",
   "FFlagPackageUpdateNestedPackageUnmodified1": "True",
