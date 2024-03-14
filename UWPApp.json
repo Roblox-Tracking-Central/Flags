@@ -298,6 +298,5 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
-  "FFlagSelfViewCameraSettings": "True",
-  "FFlagPlatformEventEnabled2": "True"
+  "FFlagSelfViewCameraSettings": "True"
 }
