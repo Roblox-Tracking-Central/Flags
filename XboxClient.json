@@ -120,6 +120,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "False",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FStringPresencePropagationDelayMetricName": "XboxPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",

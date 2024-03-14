@@ -120,6 +120,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedAndroid",
   "FStringConversationMessageSentCounter": "ConversationMessageSentAndroid",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "False",
   "FIntIntervalPerformanceTrackerEventStream": "1000",
@@ -541,5 +542,6 @@
   "FFlagSwitchInExpTranslationsPackage2": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-  "FFlagEnableAsyncAttestationTokenRetrieval": "True"
+  "FFlagEnableAsyncAttestationTokenRetrieval": "True",
+  "FFlagDSAVRSkipFrontendGeoCheck": "True"
 }

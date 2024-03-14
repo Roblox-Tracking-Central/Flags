@@ -120,6 +120,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedCommon",
   "FStringConversationMessageSentCounter": "ConversationMessageSentCommon",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FStringPresencePropagationDelayMetricName": "PlayStationPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",

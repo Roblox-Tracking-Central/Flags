@@ -120,6 +120,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedAndroid",
   "FStringConversationMessageSentCounter": "ConversationMessageSentAndroid",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",

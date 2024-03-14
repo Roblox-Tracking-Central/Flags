@@ -120,6 +120,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatediOS",
   "FStringConversationMessageSentCounter": "ConversationMessageSentiOS",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FStringPresencePropagationDelayMetricName": "iOSPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",

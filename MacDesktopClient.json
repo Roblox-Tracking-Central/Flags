@@ -120,6 +120,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FStringPresencePropagationDelayMetricName": "MacDUAPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
