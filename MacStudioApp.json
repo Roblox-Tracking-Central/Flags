@@ -445,6 +445,7 @@
   "FFlagTextureGeneratorTelemetry": "True",
   "FFlagNoBlinkingTextNotEditable": "True",
   "FFlagDevFrameworkFormUseScrollingFrame": "True",
+  "FFlagEnablePath2DControlPointPropertyEditor_Rollout": "True;60;2024-03-14T20:22:51",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
