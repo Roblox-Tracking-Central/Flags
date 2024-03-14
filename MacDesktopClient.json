@@ -145,6 +145,8 @@
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagBuildInitialCacheFix": "True",
   "FFlagPlatformEventEnabled2": "True",
+  "FFlagVoiceChatStopSendingIceCandidate": "False",
+  "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
