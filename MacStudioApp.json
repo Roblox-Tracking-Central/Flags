@@ -442,6 +442,8 @@
   "FFlagTextureGeneratorMoveQuotaCalls": "True",
   "FFlagTextureGeneratorQuotaErrorFix": "True",
   "FFlagTextureGeneratorWholeContext": "True",
+  "FFlagTextureGeneratorTelemetry": "True",
+  "FFlagNoBlinkingTextNotEditable": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
