@@ -485,7 +485,7 @@
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagVoiceChatStopSendingIceCandidate": "False",
-  "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352",
+  "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352;10386320684",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
