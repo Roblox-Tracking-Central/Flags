@@ -10925,7 +10925,6 @@
   "FFlagDevFrameworkFixVectorInput": "True",
   "FFlagPWClearSelectionDataFix": "True",
   "FFlagSubmitTaskInDataModelSession": "True",
-  "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagDisableBoxMappingForExport": "True",
   "DFFlagVideoFixResetOrder": "True",
   "DFFlagVideoRemoveAssetIdFromErrorMessage": "True",
