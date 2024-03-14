@@ -444,6 +444,7 @@
   "FFlagTextureGeneratorWholeContext": "True",
   "FFlagTextureGeneratorTelemetry": "True",
   "FFlagNoBlinkingTextNotEditable": "True",
+  "FFlagDevFrameworkFormUseScrollingFrame": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
