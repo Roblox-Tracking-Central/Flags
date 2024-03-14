@@ -254,5 +254,6 @@
   "FFlagTenFootUiSearchLoadMore2": "True",
   "FFlagFixHtileClearEnable": "True",
   "FFlagGraphicsEnableOrbisContextNullResourceAllocMem": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "FFlagRenderMeshEvictUnusedEnable_Rollout": "True;60;2024-03-14T16:14:32"
 }
