@@ -459,6 +459,8 @@
   "FFlagCOLLAB5718ServerPopulateColor3s": "True",
   "FFlagPackageUpdateAnalytics": "True",
   "FFlagAvatarPreviewerPaletteContextMenu": "True",
+  "FFlagAvatarPreviewerRemoveEquippedItemsOnHover": "True",
+  "FFlagAvatarPreviewerAlignResetCameraButton": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -488,6 +490,6 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "FFlagAllSoundServicesShareOneFmod": "True",
-  "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657",
+  "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True"
 }

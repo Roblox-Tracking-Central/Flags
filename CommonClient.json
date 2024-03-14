@@ -11116,6 +11116,7 @@
   "FFlagUIBloxSupportControlStateSelectedForTooltipHover": "True",
   "FFlagTenFootUiSupportSortHeaderTooltip": "True",
   "FFlagLuaAppHigherResGameThumbnail": "True",
+  "FFlagLuaAppExpandTooltipHitbox": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

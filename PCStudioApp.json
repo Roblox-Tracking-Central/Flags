@@ -459,6 +459,8 @@
   "FFlagCOLLAB5718ServerPopulateColor3s": "True",
   "FFlagPackageUpdateAnalytics": "True",
   "FFlagAvatarPreviewerPaletteContextMenu": "True",
+  "FFlagAvatarPreviewerRemoveEquippedItemsOnHover": "True",
+  "FFlagAvatarPreviewerAlignResetCameraButton": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
