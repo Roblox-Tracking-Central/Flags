@@ -124,6 +124,7 @@
   "FStringPresencePropagationDelayMetricName": "iOSPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

@@ -10863,7 +10863,6 @@
   "FFlagDisableChromeFollowupOcclusion": "True",
   "FFlagUserClearPanOnCameraDisable": "True",
   "FStringLuaAppSortsWithDividers": "500000000, 500000001, 400000000",
-  "FFlagLuauExtendedSizeClasses": "True",
   "FFlagLuaAppSupportNavigationUniverseId2": "True",
   "FFlagLuaAppWideAssetIdForGame2": "True",
   "FFlagLuaAppSortSubtitlesEnabled3": "True",

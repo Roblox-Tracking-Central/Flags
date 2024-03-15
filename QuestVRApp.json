@@ -124,6 +124,7 @@
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "False",
   "FIntIntervalPerformanceTrackerEventStream": "1000",
+  "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

@@ -124,6 +124,7 @@
   "FStringPresencePropagationDelayMetricName": "PlayStationPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagLuauExtendedSizeClasses": "False",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
@@ -257,6 +258,5 @@
   "FFlagFixHtileClearEnable": "True",
   "FFlagGraphicsEnableOrbisContextNullResourceAllocMem": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FFlagRenderMeshEvictUnusedEnable": "True",
-  "FFlagLuauExtendedSizeClasses_Rollout": "False;30;2024-03-15T18:01:09"
+  "FFlagRenderMeshEvictUnusedEnable": "True"
 }
