@@ -11113,7 +11113,7 @@
   "FFlagIBGateUGC4ACollectibleAssetsBundles1": "True",
   "FFlagLuaAppSortTooltipEnableVR": "True",
   "FFlagUIBloxSupportControlStateSelectedForTooltipHover": "True",
-  "FFlagTenFootUiSupportSortHeaderTooltip": "True",
+  "FFlagTenFootUiSupportSortHeaderTooltip": "False",
   "FFlagLuaAppHigherResGameThumbnail": "True",
   "FFlagLuaAppExpandTooltipHitbox": "True",
   "DFFlagEnableRemoteProfiling": "True",
