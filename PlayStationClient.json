@@ -257,5 +257,6 @@
   "FFlagFixHtileClearEnable": "True",
   "FFlagGraphicsEnableOrbisContextNullResourceAllocMem": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FFlagRenderMeshEvictUnusedEnable": "True"
+  "FFlagRenderMeshEvictUnusedEnable": "True",
+  "FFlagLuauExtendedSizeClasses_Rollout": "False;30;2024-03-15T18:01:09"
 }
