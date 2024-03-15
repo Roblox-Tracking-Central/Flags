@@ -526,6 +526,8 @@
   "FFlagDisableAccountSelectionListScrollingRelease2": "False",
   "FFlagShouldUsePeekViewForLoginDisambiguation2": "False",
   "FFlagShouldUseSelectionRowInAccountSelectionRelease1": "False",
+  "DFStringIosDeprecationBodyPhase2LocalizationKey_Rollout": "IosDeprecationBodyPhase2Fallback;30;2024-03-15T16:40:13",
+  "DFIntIosDeprecationDate_Rollout": "1714374000000;30;2024-03-15T16:40:16",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

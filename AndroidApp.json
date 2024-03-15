@@ -525,5 +525,7 @@
   "EnableEnhancedShareAnalytics": "True",
   "FFlagDisableAccountSelectionListScrollingRelease2": "True",
   "FFlagShouldUsePeekViewForLoginDisambiguation2": "True",
-  "FFlagShouldUseSelectionRowInAccountSelectionRelease1": "True"
+  "FFlagShouldUseSelectionRowInAccountSelectionRelease1": "True",
+  "DFStringIosDeprecationBodyPhase2LocalizationKey_Rollout": "IosDeprecationBodyPhase2Fallback;30;2024-03-15T16:40:13",
+  "DFIntIosDeprecationDate_Rollout": "1714374000000;30;2024-03-15T16:40:16"
 }
