@@ -527,7 +527,7 @@
   "FFlagDisableAccountSelectionListScrollingRelease2": "True",
   "FFlagShouldUsePeekViewForLoginDisambiguation2": "True",
   "FFlagShouldUseSelectionRowInAccountSelectionRelease1": "True",
-  "DFIntIosDeprecationPhase_Rollout": "2;60;2024-03-15T17:43:07",
   "DFIntIosDeprecationDate": "1714374000000",
-  "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback"
+  "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
+  "DFIntIosDeprecationPhase": "2"
 }
