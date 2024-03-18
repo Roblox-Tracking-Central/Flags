@@ -483,6 +483,7 @@
   "FFlagSetMultipleNumberSequences_Rollout": "True;60;2024-03-18T20:27:54",
   "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagStudioAssetDataModelScope3": "True",
+  "FFlagDoNotApplyScriptChangesInIDEDoc_Rollout": "True;60;2024-03-18T21:19:37",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
