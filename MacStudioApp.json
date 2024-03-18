@@ -492,6 +492,8 @@
   "FFlagVoiceChatStopSendingIceCandidate": "False",
   "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352;10386320684",
   "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-18T16:11:37",
+  "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-18T17:12:39",
+  "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-18T17:13:16",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

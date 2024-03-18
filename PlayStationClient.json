@@ -258,5 +258,7 @@
   "FFlagFixHtileClearEnable": "True",
   "FFlagGraphicsEnableOrbisContextNullResourceAllocMem": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FFlagRenderMeshEvictUnusedEnable": "True"
+  "FFlagRenderMeshEvictUnusedEnable": "True",
+  "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-18T17:12:39",
+  "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-18T17:13:16"
 }
