@@ -261,6 +261,6 @@
   "FFlagRenderMeshEvictUnusedEnable": "True",
   "DFFlagInferredCrashDebugFields": "True",
   "DFFlagInferredCrashReportDelayedReport": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout2_Rollout": "True;30;2024-03-18T19:43:41",
-  "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000"
+  "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
+  "DFFlagEnableGamepassPurchaseIxpRollout2": "True"
 }
