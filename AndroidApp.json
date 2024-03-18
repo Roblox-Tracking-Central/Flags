@@ -530,7 +530,6 @@
   "DFIntIosDeprecationDate": "1714374000000",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFIntIosDeprecationPhase": "2",
-  "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T17:58:32",
   "FFlagTelemetryRevampPurchase3": "True",
   "FFlagTelemetryRevampClicks2": "True",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32",
@@ -539,5 +538,6 @@
   "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;30;2024-03-18T18:46:40",
   "DFFlagInferredCrashDebugFields": "True",
   "DFFlagInferredCrashReportDelayedReport": "True",
-  "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2024-03-18T19:19:24"
+  "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2024-03-18T19:19:24",
+  "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000"
 }
