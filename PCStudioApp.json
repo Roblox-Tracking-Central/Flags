@@ -478,6 +478,7 @@
   "FFlagDevFrameworkCumulativeRowHeight": "True",
   "FFlagDevFrameworkGetRowHeight": "True",
   "FFlagToolboxAddPackageVersionDescriptions6": "True",
+  "FFlagStudioMigrateAwayFromUIRBXMainWindow_Rollout": "True;60;2024-03-18T18:44:14",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

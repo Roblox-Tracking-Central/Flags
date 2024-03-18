@@ -259,7 +259,7 @@
   "FFlagGraphicsEnableOrbisContextNullResourceAllocMem": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagRenderMeshEvictUnusedEnable": "True",
-  "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-18T17:12:39",
-  "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-18T17:13:16",
-  "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32"
+  "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32",
+  "DFFlagInferredCrashDebugFields": "True",
+  "DFFlagInferredCrashReportDelayedReport": "True"
 }
