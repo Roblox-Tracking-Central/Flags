@@ -95,6 +95,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
+  "DFFlagSimulateNewDynamicFlagRolloutCheck": "False",
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
@@ -262,5 +263,6 @@
   "DFFlagInferredCrashDebugFields": "True",
   "DFFlagInferredCrashReportDelayedReport": "True",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
-  "DFFlagEnableGamepassPurchaseIxpRollout2": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
+  "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-18T21:54:00"
 }

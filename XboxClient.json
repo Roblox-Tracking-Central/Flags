@@ -95,6 +95,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
+  "DFFlagSimulateNewDynamicFlagRolloutCheck": "False",
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
@@ -406,6 +407,7 @@
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
-  "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39",
-  "DFFlagEnableGamepassPurchaseIxpRollout2": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
+  "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-18T21:54:00",
+  "DFFlagEnableAdSeenStatsReporting": "True"
 }

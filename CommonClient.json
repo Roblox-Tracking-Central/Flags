@@ -7494,7 +7494,6 @@
   "FFlagCOLLAB4802_FixManageCollabLanguageBug": "True",
   "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
   "FFlagDragDetectorJointType": "True",
-  "DFFlagSimulateNewDynamicFlagRolloutCheck": "False",
   "FFlagSimulateNewStaticFlagRolloutCheck": "True",
   "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
   "FFlagBootcampCLI84830": "True",

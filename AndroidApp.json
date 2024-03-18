@@ -95,6 +95,7 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "DFFlagAUMPAnalytics": "False",
+  "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
@@ -540,11 +541,10 @@
   "FFlagVideoVP9HardWareDecoderCap2": "True",
   "FFlagAddExperienceLaunchFieldsToV2Stat": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39",
-  "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:12",
-  "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:56",
   "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-18T20:33:31",
   "FFlagStringStreamAllocsBegone2_Rollout": "True;60;2024-03-18T20:37:03",
   "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
-  "FFlagVoiceUseUpdatedAudibilityTracking2": "True"
+  "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
+  "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-18T21:54:00",
+  "DFFlagEnableAdSeenStatsReporting": "True"
 }
