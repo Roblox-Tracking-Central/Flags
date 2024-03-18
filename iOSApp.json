@@ -512,5 +512,9 @@
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagStringStreamAllocsBegone2": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
-  "FFlagEnableViewabilityTracking3": "True"
+  "FFlagEnableViewabilityTracking3": "True",
+  "FFlagEnableAccountSwitchFeature": "True",
+  "FFlagEnableDidSwitchAccount": "True",
+  "FFlagEnableLuaAccountSwitchRelease2": "True",
+  "FFlagLuaEnableDidSwitchAccount": "True"
 }

@@ -548,5 +548,9 @@
   "FFlagStringStreamAllocsBegone2": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagSimSolverOptimizeTimestepMultiplierChanges_Rollout": "True;60;2024-03-18T22:28:22",
-  "FFlagEnableViewabilityTracking3": "True"
+  "FFlagEnableViewabilityTracking3": "True",
+  "FFlagEnableAccountSwitchFeature": "True",
+  "FFlagEnableDidSwitchAccount": "True",
+  "FFlagEnableLuaAccountSwitchRelease2": "True",
+  "FFlagLuaEnableDidSwitchAccount": "True"
 }
