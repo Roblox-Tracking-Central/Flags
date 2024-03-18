@@ -509,8 +509,8 @@
   "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "FFlagStringStreamAllocsBegone": "True",
-  "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-18T21:54:00",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagStringStreamAllocsBegone2": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True"
+  "FFlagEnableNavigationPerformanceIntervals2": "True",
+  "FFlagEnableViewabilityTracking3": "True"
 }

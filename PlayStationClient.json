@@ -264,6 +264,6 @@
   "DFFlagInferredCrashReportDelayedReport": "True",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
-  "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-18T21:54:00",
-  "FFlagEnableNavigationPerformanceIntervals2": "True"
+  "FFlagEnableNavigationPerformanceIntervals2": "True",
+  "FFlagEnableViewabilityTracking3": "True"
 }
