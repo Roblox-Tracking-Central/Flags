@@ -428,5 +428,6 @@
   "FFlagTelemetryRevampPurchase3": "True",
   "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
-  "FFlagAXItemCardRedesignIXPEnabled2": "True"
+  "FFlagAXItemCardRedesignIXPEnabled2": "True",
+  "FFlagEnableNavigationPerformanceIntervals2": "True"
 }
