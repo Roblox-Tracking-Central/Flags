@@ -406,5 +406,6 @@
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout2_Rollout": "True;30;2024-03-18T19:43:41",
-  "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000"
+  "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
+  "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39"
 }
