@@ -538,5 +538,6 @@
   "FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-18T18:46:31",
   "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;30;2024-03-18T18:46:40",
   "DFFlagInferredCrashDebugFields": "True",
-  "DFFlagInferredCrashReportDelayedReport": "True"
+  "DFFlagInferredCrashReportDelayedReport": "True",
+  "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2024-03-18T19:19:24"
 }
