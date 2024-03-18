@@ -467,6 +467,7 @@
   "FFlagAvatarPreviewerFixSurveyOverlap": "True",
   "FFlagAvatarPreviewerNewDraggableTileList2": "True",
   "FFlagCOLLAB5167TeamCreateSettings": "True",
+  "FFlagCAPUpdateInputBoxAndSuggestions_Rollout": "True;60;2024-03-18T16:25:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
