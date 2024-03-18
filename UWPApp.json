@@ -300,5 +300,6 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FFlagPlatformEventEnabled2": "True"
+  "FFlagPlatformEventEnabled2": "True",
+  "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T17:58:32"
 }
