@@ -480,6 +480,7 @@
   "FFlagStudioMigrateAwayFromUIRBXMainWindow_Rollout": "True;60;2024-03-18T18:44:14",
   "FFlagStudioGameSettingsWorldPageFormatNumbersForGerman": "True",
   "FFlagLayoutNodeFlexRefactor5": "True",
+  "DFFlagEnableGamepassPurchaseIxpRollout2_Rollout": "True;30;2024-03-18T19:43:41",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
