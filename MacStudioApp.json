@@ -488,6 +488,7 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagVoiceChatStopSendingIceCandidate": "False",
   "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352;10386320684",
+  "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-18T16:11:37",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
