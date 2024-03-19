@@ -413,5 +413,5 @@
   "FFlagEnableViewabilityTracking3": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting2_Rollout": "True;60;2024-03-19T17:44:52"
+  "FFlagEnableAdLoadViewabilityEventReporting2": "True"
 }
