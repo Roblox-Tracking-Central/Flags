@@ -267,6 +267,5 @@
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableViewabilityTracking3": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
-  "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting2": "True"
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
 }

@@ -528,7 +528,6 @@
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableViewabilityTracking3": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting2": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
