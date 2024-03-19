@@ -432,5 +432,6 @@
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
-  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
+  "FFlagUpdateNudgeV3VoiceBanUI2": "True"
 }

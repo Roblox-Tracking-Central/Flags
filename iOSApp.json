@@ -519,5 +519,6 @@
   "FFlagLuaEnableDidSwitchAccount": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-19T21:26:04"
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-19T21:26:04",
+  "FFlagUpdateNudgeV3VoiceBanUI2": "True"
 }
