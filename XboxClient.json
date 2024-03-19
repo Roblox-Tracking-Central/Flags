@@ -411,5 +411,6 @@
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableViewabilityTracking3": "True",
-  "FFlagLuaAppVngUserAgreementEnabled": "True"
+  "FFlagLuaAppVngUserAgreementEnabled": "True",
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
 }

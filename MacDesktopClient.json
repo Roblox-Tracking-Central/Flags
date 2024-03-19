@@ -430,5 +430,6 @@
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
-  "FFlagLuaAppVngUserAgreementEnabled": "True"
+  "FFlagLuaAppVngUserAgreementEnabled": "True",
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
 }

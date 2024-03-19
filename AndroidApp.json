@@ -555,5 +555,6 @@
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
   "DFIntParallelBroadPhaseNewBatchCount_Rollout": "8;60;2024-03-19T16:25:55",
   "FFlagVideoServiceAddHardwareCodecMetrics_Rollout": "True;60;2024-03-19T16:41:14",
-  "FFlagLuaAppVngUserAgreementEnabled": "True"
+  "FFlagLuaAppVngUserAgreementEnabled": "True",
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
 }

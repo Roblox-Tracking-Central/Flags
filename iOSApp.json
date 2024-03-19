@@ -517,5 +517,6 @@
   "FFlagEnableDidSwitchAccount": "True",
   "FFlagEnableLuaAccountSwitchRelease2": "True",
   "FFlagLuaEnableDidSwitchAccount": "True",
-  "FFlagLuaAppVngUserAgreementEnabled": "True"
+  "FFlagLuaAppVngUserAgreementEnabled": "True",
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
 }
