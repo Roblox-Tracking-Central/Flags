@@ -294,7 +294,7 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
-  "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
@@ -308,5 +308,6 @@
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-19T23:14:40"
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-19T23:14:40",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-03-19T23:15:43"
 }
