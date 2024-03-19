@@ -265,5 +265,6 @@
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
-  "FFlagEnableViewabilityTracking3": "True"
+  "FFlagEnableViewabilityTracking3": "True",
+  "FFlagLuaAppVngUserAgreementEnabled": "True"
 }

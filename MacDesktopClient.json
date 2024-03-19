@@ -429,5 +429,6 @@
   "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True"
+  "FFlagEnableNavigationPerformanceIntervals2": "True",
+  "FFlagLuaAppVngUserAgreementEnabled": "True"
 }
