@@ -497,6 +497,7 @@
   "FFlagLuauCodegenSmallerUnm": "True",
   "FFlagLuauCodegenVectorOptAnd": "True",
   "FFlagPopupMessageBoxSupportMoreInfoWidget": "True",
+  "DFFlagAddAnimationToAssetTypeTarget": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
