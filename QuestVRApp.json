@@ -558,6 +558,7 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "DFIntParallelBroadPhaseNewBatchCount": "8",
   "FFlagVideoServiceAddHardwareCodecMetrics": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-19T21:26:04",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

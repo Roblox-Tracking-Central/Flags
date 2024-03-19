@@ -557,5 +557,6 @@
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "DFIntParallelBroadPhaseNewBatchCount": "8",
-  "FFlagVideoServiceAddHardwareCodecMetrics": "True"
+  "FFlagVideoServiceAddHardwareCodecMetrics": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-19T21:26:04"
 }

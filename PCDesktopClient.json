@@ -406,5 +406,6 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout2": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
+  "FFlagUpdateNudgeV3VoiceBanUI2_Rollout": "True;60;2024-03-19T21:32:54"
 }
