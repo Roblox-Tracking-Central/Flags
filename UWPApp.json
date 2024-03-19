@@ -34,7 +34,6 @@
   "FFlagAllowAvatarLandingPageSearch2": "True",
   "FFlagAvatarAutocompleteIXP2": "True",
   "DFIntReplicatorDataPingReportHundredthPercentage": "10",
-  "FFlagDebugRVideoAndroidUseSwVideoDecoder": "True",
   "FFlagAvatarAutocompleteEnabledForAll2": "True",
   "FFlagDisableOpaqueWithAlphaPrepass": "False",
   "FIntLuaAppLoginRollout": "100",
