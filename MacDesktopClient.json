@@ -159,7 +159,6 @@
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableViewabilityTracking3": "True",
-  "DFFlagFlagRolloutTestDynamicBool10_Rollout": "True;60;2024-03-19T17:58:30",
   "FFlagEnableAdLoadViewabilityEventReporting2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
