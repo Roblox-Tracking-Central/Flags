@@ -1822,8 +1822,6 @@
   "FFlagStudioBufferPauseEvents2": "True",
   "DFFlagMPServiceBundleUrlV2": "False",
   "DFFlagMPServiceBundleUrlV2_PlaceFilter": "True;11120164813",
-  "DFFlagMPServiceDevProductUrlV2": "False",
-  "DFFlagMPServiceDevProductUrlV2_PlaceFilter": "True;11120164813",
   "DFIntAdsApiClientErrorEventThrottleHundrethsPercent": "10000",
   "DFIntImmersiveAdBackendErrorEventThrottleHundrethsPercent": "10000",
   "DFIntImmersiveAdImpressionEventThrottleHundrethsPercent": "10000",

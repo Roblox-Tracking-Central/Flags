@@ -487,7 +487,6 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagPasskeySignupEnabled": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease2": "True",
-  "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436",
   "DFFlagDeprecationMessageRefinements": "True",
   "FFlagStartupDeprecationMessage": "True",
   "FFlagDisableAccountSelectionListScrollingRelease2": "True",
@@ -518,5 +517,6 @@
   "FFlagEnableLuaAccountSwitchRelease2": "True",
   "FFlagLuaEnableDidSwitchAccount": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
-  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
+  "FFlagEnableAdLoadViewabilityEventReporting2_Rollout": "True;60;2024-03-19T17:44:52"
 }
