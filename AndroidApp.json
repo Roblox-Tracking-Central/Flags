@@ -558,5 +558,6 @@
   "FFlagEnableAdLoadViewabilityEventReporting2_Rollout": "True;60;2024-03-19T17:44:52",
   "DFFlagFlagRolloutTestDynamicBool10_Rollout": "True;60;2024-03-19T17:58:30",
   "DFIntParallelBroadPhaseNewBatchCount": "8",
-  "FFlagVideoServiceAddHardwareCodecMetrics": "True"
+  "FFlagVideoServiceAddHardwareCodecMetrics": "True",
+  "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-03-19T18:50:56"
 }
