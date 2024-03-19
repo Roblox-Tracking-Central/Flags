@@ -552,5 +552,6 @@
   "FFlagEnableDidSwitchAccount": "True",
   "FFlagEnableLuaAccountSwitchRelease2": "True",
   "FFlagLuaEnableDidSwitchAccount": "True",
-  "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True"
+  "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
+  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "8;60;2024-03-19T16:25:55"
 }

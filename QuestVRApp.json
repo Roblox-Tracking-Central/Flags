@@ -553,6 +553,7 @@
   "FFlagEnableLuaAccountSwitchRelease2": "False",
   "FFlagLuaEnableDidSwitchAccount": "False",
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
+  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "8;60;2024-03-19T16:25:55",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
