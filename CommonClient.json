@@ -870,7 +870,6 @@
   "FFlagEnableVoiceMicPromptToastFix": "True",
   "DFIntReplicationReportJoinDelaysPerMyriad": "100",
   "FFlagDebugRVideoAndroidUseSwAudioDecoder": "True",
-  "FFlagDebugRVideoAndroidUseSwVideoDecoder": "True",
   "DFFlagRuppTokEnAnyOpt": "True",
   "FFlagRuppTokEnTest": "True",
   "FFlagSimCSGV3RemoveCoplanarTriangles": "True",
