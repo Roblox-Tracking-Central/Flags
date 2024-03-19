@@ -489,6 +489,7 @@
   "FFlagAssetImportShowBoneEnds": "True",
   "FFlagAssetImportUseUploadId": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
+  "FFlagAssetImportFixDropdownRender": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
