@@ -493,7 +493,6 @@
   "FFlagAssetImportFixDropdownRender": "True",
   "FFlagDraggerRespectGameProcessed": "True",
   "FFlagTerrainEditorGenerateBiomesFix": "True",
-  "FFlagTerrainEditorRibbonBarFix": "True",
   "FFlagTerrainEditorGetNextSelectablesFix": "True",
   "FFlagLuauCodegenSmallerUnm": "True",
   "FFlagLuauCodegenVectorOptAnd": "True",
