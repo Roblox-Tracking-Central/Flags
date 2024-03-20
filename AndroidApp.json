@@ -561,5 +561,6 @@
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-19T23:14:40",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-03-19T23:15:43",
-  "FFlagUserSearchUseNewEndpointIXP": "True"
+  "FFlagUserSearchUseNewEndpointIXP": "True",
+  "FFlagEditProfileFixLogging": "True"
 }
