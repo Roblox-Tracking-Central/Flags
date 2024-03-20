@@ -88,6 +88,7 @@
   "FIntUITextureLowSingleTextureMemoryMB": "4",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "False",
   "FFlagEnableLocationRecording": "True",
+  "DFFlagFlagRolloutTestDynamicBool0": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
   "FFlagSignalRLogMessageDeliveryByPlatform": "False",
