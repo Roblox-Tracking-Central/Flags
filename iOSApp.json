@@ -72,6 +72,8 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
+  "FFlagFlagRolloutTestStaticBool1": "True",
+  "DFFlagFlagRolloutTestDynamicBool1": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -520,8 +522,6 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
-  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-19T23:14:40",
-  "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-03-19T23:15:43",
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "FFlagEditProfileFixLogging": "True"
 }

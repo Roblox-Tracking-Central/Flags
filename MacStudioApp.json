@@ -72,6 +72,8 @@
   "FIntSoundTelemetryThrottlingPercentage": "10000",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
+  "FFlagFlagRolloutTestStaticBool1": "False",
+  "DFFlagFlagRolloutTestDynamicBool1": "False",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "0",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "False",
