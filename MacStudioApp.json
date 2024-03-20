@@ -501,6 +501,7 @@
   "FFlagLuauCodegenVectorOptAnd": "True",
   "FFlagPopupMessageBoxSupportMoreInfoWidget": "True",
   "DFFlagAddAnimationToAssetTypeTarget": "True",
+  "FFlagStudioUpdateClassIconLocations_Rollout": "True;60;2024-03-20T20:49:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
