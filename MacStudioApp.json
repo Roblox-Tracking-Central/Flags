@@ -513,6 +513,7 @@
   "FFlagStudioNewPlaceUploadPublishRollout2_Rollout": "True;20;2024-03-20T22:16:43",
   "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2_Rollout": "2500;30;2024-03-20T22:41:52",
   "FFlagNotificationTrayImpressions": "True",
+  "FFlagUserShowGuiHideToggles_Rollout": "False;60;2024-03-20T22:54:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
