@@ -271,5 +271,9 @@
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableViewabilityTracking3": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
-  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
+  "FFlagEnableHomePageUpsellReportingFix": "True",
+  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
+  "FFlagSupportContactMethodPhoneNumberVoice": "True",
+  "FFlagReportAnythingAbuseVectorRenameEnabled": "True"
 }

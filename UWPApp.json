@@ -310,5 +310,9 @@
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
-  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
+  "FFlagEnableHomePageUpsellReportingFix": "True",
+  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
+  "FFlagSupportContactMethodPhoneNumberVoice": "True",
+  "FFlagReportAnythingAbuseVectorRenameEnabled": "True"
 }

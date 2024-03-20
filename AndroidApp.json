@@ -568,5 +568,9 @@
   "FFlagUseNonDeferredSliderSignal": "True",
   "DFFlagHlsAddRoundRobinLogic": "True",
   "DFFlagVideoReportEos": "True",
-  "FFlagHlsSeparatePlaylistEof": "True"
+  "FFlagHlsSeparatePlaylistEof": "True",
+  "FFlagEnableHomePageUpsellReportingFix": "True",
+  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
+  "FFlagSupportContactMethodPhoneNumberVoice": "True",
+  "FFlagReportAnythingAbuseVectorRenameEnabled": "True"
 }
