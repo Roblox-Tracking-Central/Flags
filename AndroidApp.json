@@ -563,5 +563,7 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
-  "FFlagEditProfileFixLogging": "True"
+  "FFlagEditProfileFixLogging": "True",
+  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "16;60;2024-03-20T16:43:46",
+  "FFlagUseNonDeferredSliderSignal": "True"
 }

@@ -564,6 +564,8 @@
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "FFlagEditProfileFixLogging": "True",
+  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "16;60;2024-03-20T16:43:46",
+  "FFlagUseNonDeferredSliderSignal": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
