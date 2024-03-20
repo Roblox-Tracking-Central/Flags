@@ -309,5 +309,6 @@
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
-  "FFlagVngContactInfoFormWebviewPopupEnabled": "True"
+  "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-03-20T18:29:15"
 }

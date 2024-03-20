@@ -434,5 +434,6 @@
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "FFlagUpdateNudgeV3VoiceBanUI2": "True"
+  "FFlagUpdateNudgeV3VoiceBanUI2": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-03-20T18:29:15"
 }
