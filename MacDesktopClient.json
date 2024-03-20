@@ -436,7 +436,7 @@
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "DFFlagHlsAddRoundRobinLogic_Rollout": "True;60;2024-03-20T18:55:23",
-  "FFlagHlsSeparatePlaylistEof_Rollout": "True;60;2024-03-20T18:56:20",
-  "DFFlagVideoReportEos_Rollout": "True;60;2024-03-20T18:56:52"
+  "DFFlagHlsAddRoundRobinLogic": "True",
+  "DFFlagVideoReportEos": "True",
+  "FFlagHlsSeparatePlaylistEof": "True"
 }
