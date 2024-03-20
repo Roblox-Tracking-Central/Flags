@@ -23,6 +23,7 @@
   "FStringTextureFormatFilterString": "",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoadedAndroid",
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994",
   "FFlagMobilePlayerList2": "True",
   "FFlagLuaAppAccountSecurityPromptEnabled": "True",
   "FFlagSocialTabUseUIBloxCarouselForFriends": "False",

@@ -11,5 +11,6 @@
   "InfluxInstallHundredthsPercentage": "1",
   "FFlagWindowsInstallerEnableDpiAwareness": "True",
   "FFlagWindowsMonitorAnalytics": "True",
-  "FFlagWindowsStudioFirstLaunchArgument2": "True"
+  "FFlagWindowsStudioFirstLaunchArgument2": "True",
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994"
 }

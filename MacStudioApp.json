@@ -23,6 +23,7 @@
   "FStringTextureFormatFilterString": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoaded",
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994",
   "FFlagMobilePlayerList2": "True",
   "FFlagLuaAppAccountSecurityPromptEnabled": "True",
   "FFlagSocialTabUseUIBloxCarouselForFriends": "False",
