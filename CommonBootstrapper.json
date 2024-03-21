@@ -71,5 +71,6 @@
   "FIntClientLaunchTimeoutMillisec": "20000",
   "FFlagDisableGoogleAnalytics": "True",
   "FFlagEanbleTerminationWithTimeout": "True",
-  "FIntClientTermniateTimeoutMillisec": "10000"
+  "FIntClientTermniateTimeoutMillisec": "10000",
+  "FIntInstallerInfluxReportHundredthPercentage": "1000"
 }
