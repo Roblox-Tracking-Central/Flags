@@ -446,9 +446,5 @@
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "DFFlagHlsAddRoundRobinLogic": "True",
-  "DFFlagVideoReportEos": "True",
-  "FFlagHlsSeparatePlaylistEof": "True",
-  "DFFlagPhysicsReportWorldTime": "True",
-  "FFlagVideoLazyFindStreamInfo": "True"
+  "DFFlagPhysicsReportWorldTime": "True"
 }
