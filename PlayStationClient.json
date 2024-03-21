@@ -280,5 +280,6 @@
   "FFlagIBEnableSendCounters": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
+  "FFlagTenFootUiSupportSortHeaderTooltip2": "True"
 }

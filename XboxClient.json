@@ -429,5 +429,6 @@
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "FFlagXboxInferredCrashMoreReporting": "True",
-  "FIntXboxInferredCrashThrottleHundredthsPercent": "10000"
+  "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
+  "FFlagTenFootUiSupportSortHeaderTooltip2": "True"
 }
