@@ -125,6 +125,7 @@
   "FStringConversationMessageSentCounter": "ConversationMessageSentAndroid",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
   "FFlagEnableReportAbuseMenuRoactABTest2": "True",
+  "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent": "7500",
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "False",
   "FIntIntervalPerformanceTrackerEventStream": "1000",
