@@ -525,6 +525,7 @@
   "FFlagStudioFixRibbonTooltipSizeForGerman_Rollout": "True;60;2024-03-21T17:56:40",
   "FFlagDeveloperFrameworkGridNotDefinedError2": "True",
   "FFlagStudioSendMultiAccountSupportTelemetry_Rollout": "True;60;2024-03-21T18:25:18",
+  "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "10000;30;2024-03-21T18:37:24",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
