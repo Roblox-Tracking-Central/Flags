@@ -557,7 +557,6 @@
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "DFIntParallelBroadPhaseNewBatchCount": "2",
   "FFlagVideoServiceAddHardwareCodecMetrics": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
