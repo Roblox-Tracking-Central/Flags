@@ -316,5 +316,20 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
-  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-21T00:30:23"
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-21T00:30:23",
+  "FFlagAXFixItemOwnershipPageNilSelector": "True",
+  "FFlagAXLimitedBundlesHandleNewData": "True",
+  "FFlagAXResalePriceFloor": "True",
+  "FFlagDisableUseContainerAspectRatio": "True",
+  "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
+  "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",
+  "FFlagIBEnableCollectiblePurchaseForUnlimited": "True",
+  "FFlagIBEnableCollectiblesSystemSupport": "True",
+  "FFlagIBEnableLimitedItemBugFixAndAlignment": "True",
+  "FFlagIBEnableNewDataCollectionForCollectibleSystem": "True",
+  "FFlagIBEnableRespectSaleLocation": "True",
+  "FFlagIBEnableSendCounters": "True",
+  "FFlagEnableSaleLocationShopAndExperiencesDevApi1_Rollout": "True;60;2024-03-21T01:34:52",
+  "FFlagEnableUGC4ACollectiblePurchaseSupport_Rollout": "True;60;2024-03-21T01:34:52",
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport_Rollout": "True;60;2024-03-21T01:34:52"
 }
