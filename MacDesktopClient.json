@@ -131,8 +131,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagUserShowGuiHideToggles_Rollout": "False;60;2024-03-21T20:53:28",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -170,7 +170,6 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "DFFlagSoundLoadingBetterErrorMessages": "True",
   "FFlagELFSubsystemInternalFlowControl2": "True",
   "DFFlagWriterInputCheck": "True",
   "AllowVideoPreRoll": "True",
@@ -446,6 +445,5 @@
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "DFFlagPhysicsReportWorldTime": "True",
-  "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_Rollout": "True;60;2024-03-21T21:31:31"
+  "DFFlagPhysicsReportWorldTime": "True"
 }

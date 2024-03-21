@@ -65,7 +65,7 @@
   "FFlagWinInstallerUseDeployPathExtension": "True",
   "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True",
   "FFlagRemoveSuccessDialogMacStudio": "True",
-  "FFlagWindowsInstallerUseNativeHttp2": "True",
+  "FFlagWindowsInstallerUseNativeHttp2": "False",
   "FFlagMacInstallerProtocolStringParam": "True",
   "FFlagMacInstallerUseHandleInstallSuccess": "True",
   "FIntClientLaunchTimeoutMillisec": "20000",
