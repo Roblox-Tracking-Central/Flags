@@ -153,6 +153,7 @@
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagBuildInitialCacheFix": "True",
   "FFlagPlatformEventEnabled2": "True",
+  "DFFlagWriterInputCheck_Rollout": "True;60;2024-03-21T18:49:56",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
