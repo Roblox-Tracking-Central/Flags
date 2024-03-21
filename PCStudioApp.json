@@ -494,7 +494,6 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagAssetImportFixDropdownRender": "True",
   "FFlagDraggerRespectGameProcessed": "True",
-  "FFlagTerrainEditorGenerateBiomesFix": "True",
   "FFlagTerrainEditorGetNextSelectablesFix": "True",
   "FFlagLuauCodegenSmallerUnm": "True",
   "FFlagLuauCodegenVectorOptAnd": "True",
