@@ -69,5 +69,6 @@
   "FFlagMacInstallerProtocolStringParam": "True",
   "FFlagMacInstallerUseHandleInstallSuccess": "True",
   "FIntClientLaunchTimeoutMillisec": "20000",
-  "FFlagDisableGoogleAnalytics": "True"
+  "FFlagDisableGoogleAnalytics": "True",
+  "FFlagEanbleTerminationWithTimeout_Rollout": "True;30;2024-03-21T16:50:47"
 }

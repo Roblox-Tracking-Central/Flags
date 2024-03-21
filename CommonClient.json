@@ -11109,6 +11109,7 @@
   "FFlagHandleRBXASCookie": "True",
   "FFlagHandleRBXASCookieInCookieProtocol": "True",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;60;2024-03-21T16:39:18",
+  "DFIntVideoMaxHardwareCodec": "1",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

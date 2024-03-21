@@ -423,15 +423,10 @@
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
   "FFlagAXFixItemOwnershipPageNilSelector": "True",
   "FFlagDisableUseContainerAspectRatio": "True",
-  "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
-  "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",
-  "FFlagIBEnableCollectiblePurchaseForUnlimited": "True",
-  "FFlagIBEnableCollectiblesSystemSupport": "True",
-  "FFlagIBEnableLimitedItemBugFixAndAlignment": "True",
-  "FFlagIBEnableNewDataCollectionForCollectibleSystem": "True",
-  "FFlagIBEnableRespectSaleLocation": "True",
   "FFlagIBEnableSendCounters": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
+  "FFlagXboxInferredCrashMoreReporting_Rollout": "True;30;2024-03-21T17:13:33",
+  "FIntXboxInferredCrashThrottleHundredthsPercent_Rollout": "10000;30;2024-03-21T17:14:43"
 }
