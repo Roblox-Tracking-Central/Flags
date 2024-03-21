@@ -10502,7 +10502,6 @@
   "FFlagRefactorRemoveIndex2": "True",
   "FFlagFixInstanceSelectionEditorNotGoingBackToSelect": "True",
   "FFlagAssetImporterApplyToAllFixes2": "True",
-  "FFlagUserShowGuiHideToggles": "True",
   "FFlagRenderEnsureExplicitUploadCaps": "True",
   "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "1",
   "FFlagLuaAppGridTilesItemsPerRow": "True",

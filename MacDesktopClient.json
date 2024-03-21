@@ -129,6 +129,7 @@
   "FStringPresencePropagationDelayMetricName": "MacDUAPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagUserShowGuiHideToggles": "True",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -444,5 +445,6 @@
   "DFFlagVideoReportEos": "True",
   "FFlagHlsSeparatePlaylistEof": "True",
   "DFFlagPhysicsReportWorldTime": "True",
-  "FFlagVideoLazyFindStreamInfo": "True"
+  "FFlagVideoLazyFindStreamInfo": "True",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-21T00:30:23"
 }

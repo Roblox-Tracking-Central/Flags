@@ -129,6 +129,7 @@
   "FStringPresencePropagationDelayMetricName": "PlayStationPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagUserShowGuiHideToggles": "True",
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",

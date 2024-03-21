@@ -129,6 +129,7 @@
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagUserShowGuiHideToggles": "True",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "True",
   "AllowVideoPreRoll": "True",
@@ -559,7 +560,7 @@
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "DFIntParallelBroadPhaseNewBatchCount": "16",
+  "DFIntParallelBroadPhaseNewBatchCount": "2",
   "FFlagVideoServiceAddHardwareCodecMetrics": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
@@ -573,6 +574,6 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
-  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "2;60;2024-03-20T22:56:28",
-  "FFlagVideoLazyFindStreamInfo": "True"
+  "FFlagVideoLazyFindStreamInfo": "True",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-21T00:30:23"
 }

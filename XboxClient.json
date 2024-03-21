@@ -129,6 +129,7 @@
   "FStringPresencePropagationDelayMetricName": "XboxPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagUserShowGuiHideToggles": "True",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "AllowVideoPreRoll": "True",

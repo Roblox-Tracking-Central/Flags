@@ -129,6 +129,7 @@
   "FStringPresencePropagationDelayMetricName": "WindowsDUAPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FFlagUserShowGuiHideToggles": "True",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
