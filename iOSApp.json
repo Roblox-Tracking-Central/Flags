@@ -535,8 +535,6 @@
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
   "FFlagVideoLazyFindStreamInfo": "True",
   "FFlagAXFixItemOwnershipPageNilSelector": "True",
-  "FFlagAXLimitedBundlesHandleNewData": "True",
-  "FFlagAXResalePriceFloor": "True",
   "FFlagDisableUseContainerAspectRatio": "True",
   "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
   "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",

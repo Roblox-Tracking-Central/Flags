@@ -168,8 +168,6 @@
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
   "FFlagAXFixItemOwnershipPageNilSelector": "True",
-  "FFlagAXLimitedBundlesHandleNewData": "True",
-  "FFlagAXResalePriceFloor": "True",
   "FFlagDisableUseContainerAspectRatio": "True",
   "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
   "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",
