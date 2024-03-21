@@ -131,6 +131,8 @@
   "FFlagUserShowGuiHideToggles": "True",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
+  "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-21T17:53:00",
+  "FFlagStringStreamAllocsBegone2_Rollout": "True;60;2024-03-21T17:54:24",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -420,13 +422,12 @@
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
   "FFlagAXFixItemOwnershipPageNilSelector": "True",
   "FFlagDisableUseContainerAspectRatio": "True",
   "FFlagIBEnableSendCounters": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FFlagXboxInferredCrashMoreReporting_Rollout": "True;30;2024-03-21T17:13:33",
-  "FIntXboxInferredCrashThrottleHundredthsPercent_Rollout": "10000;30;2024-03-21T17:14:43"
+  "FFlagXboxInferredCrashMoreReporting": "True",
+  "FIntXboxInferredCrashThrottleHundredthsPercent": "10000"
 }
