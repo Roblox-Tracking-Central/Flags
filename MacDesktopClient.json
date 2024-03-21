@@ -73,7 +73,6 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
-  "FFlagFlagRolloutTestStaticBool1": "True",
   "DFFlagFlagRolloutTestDynamicBool1": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
@@ -460,6 +459,5 @@
   "DFFlagVideoReportEos": "True",
   "FFlagHlsSeparatePlaylistEof": "True",
   "DFFlagPhysicsReportWorldTime": "True",
-  "FFlagVideoLazyFindStreamInfo": "True",
-  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-21T00:30:23"
+  "FFlagVideoLazyFindStreamInfo": "True"
 }
