@@ -11131,6 +11131,7 @@
   "DFFlagEnableAssetIdStringParseFix_Rollout": "True;60;2024-03-21T19:26:17",
   "FFlagVideoLazyFindStreamInfo_Rollout": "True;60;2024-03-21T19:26:33",
   "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed": "True",
+  "FFlagVideoFrameYuvGPU4_Rollout": "True;60;2024-03-21T20:29:53",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
