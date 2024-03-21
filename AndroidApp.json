@@ -129,10 +129,10 @@
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
-  "FFlagUserShowGuiHideToggles": "True",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "True",
   "DFFlagSoundLoadingBetterErrorMessages_Rollout": "True;60;2024-03-21T20:01:30",
+  "FFlagUserShowGuiHideToggles_Rollout": "True;60;2024-03-21T20:53:28",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -572,5 +572,6 @@
   "FFlagIBEnableSendCounters": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
+  "FFlagUseNonDeferredSliderSignal": "True"
 }
