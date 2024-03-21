@@ -11134,6 +11134,7 @@
   "FFlagColor3uint8Fix2": "True",
   "DFFlagEnableAssetIdStringParseFix": "True",
   "FFlagVideoLazyFindStreamInfo": "True",
+  "FFlagStudioRendererInterface2_Rollout": "True;60;2024-03-21T21:16:31",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
