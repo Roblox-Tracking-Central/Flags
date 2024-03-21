@@ -71,5 +71,5 @@
   "FIntClientLaunchTimeoutMillisec": "20000",
   "FFlagDisableGoogleAnalytics": "True",
   "FFlagEanbleTerminationWithTimeout": "True",
-  "FIntClientTermniateTimeoutMillisec_Rollout": "10000;1;2024-03-21T18:21:05"
+  "FIntClientTermniateTimeoutMillisec": "10000"
 }

@@ -413,7 +413,6 @@
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
-  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableViewabilityTracking3": "True",

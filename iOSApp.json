@@ -509,7 +509,6 @@
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAddExperienceLaunchFieldsToV2Stat": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "FFlagStringStreamAllocsBegone": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",

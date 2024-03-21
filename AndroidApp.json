@@ -545,7 +545,6 @@
   "FFlagVideoVP9HardWareDecoderCap2": "True",
   "FFlagAddExperienceLaunchFieldsToV2Stat": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagStringStreamAllocsBegone": "True",

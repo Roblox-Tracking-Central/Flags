@@ -11126,6 +11126,8 @@
   "FFlagAvatarJointUpgradeDefaultOn_PlaceFilter": "True;16818255141",
   "DFFlagSkipFetchAdPlayerIdle2": "False",
   "DFFlagSkipFetchAdPlayerIdle2_PlaceFilter": "True;16270624805",
+  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
+  "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed_Rollout": "True;1;2024-03-21T19:01:43",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
