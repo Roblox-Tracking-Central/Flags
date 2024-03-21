@@ -524,6 +524,7 @@
   "FFlagSkipExtraTokenRefreshes_Rollout": "True;60;2024-03-21T17:55:52",
   "FFlagStudioFixRibbonTooltipSizeForGerman_Rollout": "True;60;2024-03-21T17:56:40",
   "FFlagDeveloperFrameworkGridNotDefinedError2": "True",
+  "FFlagStudioSendMultiAccountSupportTelemetry_Rollout": "True;60;2024-03-21T18:25:18",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

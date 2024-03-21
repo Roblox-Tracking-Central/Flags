@@ -11121,6 +11121,7 @@
   "FFlagGrassMovementReducedMotion_PlaceFilter": "True;2727067538",
   "FFlagUserVRAvatarGestures_PlaceFilter": "True;16818255141",
   "FFlagVRAvatarGesturesForcedOn_PlaceFilter": "True;16818255141",
+  "FFlagGrassMovementReducedMotion": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
