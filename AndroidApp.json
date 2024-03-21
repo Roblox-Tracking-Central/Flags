@@ -564,7 +564,6 @@
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "FFlagEditProfileFixLogging": "True",
-  "FFlagUseNonDeferredSliderSignal": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",

@@ -528,6 +528,8 @@
   "FFlagSTUDIOPLAT_33784_ANRReportsInterruptingMainThread": "True",
   "FFlagStudioFixCrashWhenAddingAccounts_Rollout": "True;60;2024-03-21T20:31:41",
   "FFlagStudioLogEnabledBetaFeatures_Rollout": "True;60;2024-03-21T20:38:36",
+  "FFlagStudioFixCGEAddGroupButtonSize": "True",
+  "FFlagStudioPluginWidgetsViewThreading2_Rollout": "True;60;2024-03-21T20:45:13",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",

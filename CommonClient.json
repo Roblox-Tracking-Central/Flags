@@ -10546,7 +10546,7 @@
   "DFFlagVectorStaticFunctions": "True",
   "FFlagLuaAppFixSquareIconUrlInGameTile": "True",
   "FFlagHangDetectionJobV2": "True",
-  "DFIntRemoteSaveValidatorPlaceIdRolloutPercentage": "75",
+  "DFIntRemoteSaveValidatorPlaceIdRolloutPercentage": "100",
   "FFlagRemoteSaveValidatorAutosaveRollout": "True",
   "FIntRemoteSaveValidatorAutosaveRolloutHundredthPercent": "100",
   "FFlagAudioWiringApiBetaFeature": "True",
