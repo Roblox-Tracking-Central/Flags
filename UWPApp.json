@@ -319,9 +319,5 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
-  "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",
-  "FFlagIBEnableNewDataCollectionForCollectibleSystem": "True",
-  "FFlagIBEnableRespectSaleLocation": "True",
   "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285"
 }
