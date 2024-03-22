@@ -132,6 +132,8 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagUserShowGuiHideToggles": "False",
+  "DFFlagUseAsyncTaskForSoundCacheCleaning_Rollout": "True;60;2024-03-22T16:08:05",
+  "FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-22T16:09:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

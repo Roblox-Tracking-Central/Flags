@@ -133,6 +133,7 @@
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagUserShowGuiHideToggles": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-22T16:09:57",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
