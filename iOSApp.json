@@ -132,9 +132,8 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagUserShowGuiHideToggles": "True",
-  "DFFlagUseAsyncTaskForSoundCacheCleaning_Rollout": "True;60;2024-03-22T16:08:05",
-  "AllowVideoPreRoll": "True",
   "DFFlagTaskLibExclusiveWarning_Rollout": "True;60;2024-03-22T16:43:16",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -508,7 +507,6 @@
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagAXTileSizeIXPEnabled": "True",
-  "FFlagAddExperienceLaunchFieldsToV2Stat": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
@@ -533,6 +531,5 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
-  "DFFlagInferredCrashSubsystemAlternative_Rollout": "True;60;2024-03-22T17:30:17"
+  "DFFlagInferredCrashSubsystemAlwaysTeardown": "True"
 }
