@@ -318,6 +318,5 @@
   "FFlagAXFixItemOwnershipPageNilSelector": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
 }

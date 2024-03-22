@@ -441,6 +441,5 @@
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "DFFlagPhysicsReportWorldTime": "True",
-  "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285"
+  "DFFlagPhysicsReportWorldTime": "True"
 }

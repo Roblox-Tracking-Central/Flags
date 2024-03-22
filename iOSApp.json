@@ -530,6 +530,5 @@
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
   "DFFlagInferredCrashSubsystemAlternative_Rollout": "True;60;2024-03-22T18:00:00",
-  "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285",
   "FFlagUpdateCheckOnLogin2_Rollout": "True;30;2024-03-22T18:46:03"
 }
