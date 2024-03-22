@@ -533,5 +533,6 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "DFFlagInferredCrashSubsystemAlwaysTeardown": "True"
+  "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
+  "DFFlagInferredCrashSubsystemAlternative_Rollout": "True;60;2024-03-22T17:30:17"
 }
