@@ -529,6 +529,5 @@
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
-  "FFlagUpdateCheckOnLogin2_Rollout": "True;30;2024-03-22T18:46:03",
   "DFFlagInferredCrashSubsystemAlternative": "True"
 }

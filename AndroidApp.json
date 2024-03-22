@@ -566,6 +566,5 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "EnableAndroidCheckTTIFlagFetchUseCase": "True",
-  "FFlagUpdateCheckOnLogin2_Rollout": "True;30;2024-03-22T18:46:03"
+  "EnableAndroidCheckTTIFlagFetchUseCase": "True"
 }
