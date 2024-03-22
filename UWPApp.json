@@ -132,7 +132,6 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagUserShowGuiHideToggles": "False",
-  "DFFlagTaskLibExclusiveWarning_Rollout": "True;60;2024-03-22T16:43:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -317,9 +316,12 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagAXFixItemOwnershipPageNilSelector": "True",
-  "FFlagDisableUseContainerAspectRatio": "True",
-  "FFlagIBEnableSendCounters": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
+  "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
+  "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",
+  "FFlagIBEnableNewDataCollectionForCollectibleSystem": "True",
+  "FFlagIBEnableRespectSaleLocation": "True",
+  "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285"
 }

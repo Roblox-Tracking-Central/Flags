@@ -132,7 +132,6 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagUserShowGuiHideToggles": "False",
-  "DFFlagTaskLibExclusiveWarning_Rollout": "True;60;2024-03-22T16:43:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -154,6 +153,11 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagCLI98896": "True",
   "DFFlagWriterInputCheck": "True",
+  "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
+  "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",
+  "FFlagIBEnableCollectiblePurchaseForUnlimited": "True",
+  "FFlagIBEnableNewDataCollectionForCollectibleSystem": "True",
+  "FFlagIBEnableRespectSaleLocation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -414,5 +418,6 @@
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510"
+  "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
+  "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285"
 }
