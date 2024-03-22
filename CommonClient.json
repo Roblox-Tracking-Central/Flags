@@ -11195,6 +11195,6 @@
   "FIntGamePerfMonitorPercentage": "10",
   "FIntHttpCurlMaxCachedHandlesPerHost": "8",
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
-  "FFlagLuaRollouts_Rollout": "True;60;2024-03-22T17:57:51",
-  "FFlagDevConsoleFullScreenDropDownScrollFix": "True"
+  "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
+  "FFlagLuaRollouts": "True"
 }
