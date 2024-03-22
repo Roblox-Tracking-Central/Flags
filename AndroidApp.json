@@ -569,5 +569,6 @@
   "FFlagIBEnableSendCounters": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
+  "EnableAndroidCheckTTIFlagFetchUseCase": "True"
 }
