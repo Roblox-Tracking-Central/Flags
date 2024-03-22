@@ -535,6 +535,7 @@
   "DFFlagSplitModuleRequire_Rollout": "True;60;2024-03-22T16:56:01",
   "FFlagLuauCodeGenOptVecA64_Rollout": "True;30;2024-03-22T16:59:56",
   "FFlagLuauCodegenHeapSizeReport_Rollout": "True;30;2024-03-22T17:00:41",
+  "FFlagToolboxRunTestsWithTestLoader": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
