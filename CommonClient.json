@@ -11163,8 +11163,6 @@
   "FFlagFixParticleAttachmentCulling": "True",
   "FFlagFixGamepadHelpImage": "True",
   "FFlagAddAnimatedFocusState": "True",
-  "DFFlagDebugSimSolverCbisAlwaysUseActualPivots": "True",
-  "DFFlagDebugSimSolverCbisConsistentPivotBetweenLdlAndGs": "True",
   "FFlagDisableUseContainerAspectRatio": "True",
   "FFlagIBDisableBuyButtonForUnlimitedAsset": "False",
   "FFlagIBDisableBuyButtonForUnlimitedBundle": "False",
