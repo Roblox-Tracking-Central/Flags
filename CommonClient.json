@@ -11197,6 +11197,7 @@
   "DFFlagStopSendingRCCLogBlockingTelemetry_Rollout": "True;60;2024-03-25T18:20:42",
   "DFFlagclearPlaceIDOnRCCShutdown_Rollout": "True;60;2024-03-25T18:23:13",
   "FFlagRemoveLegacyPageWrapper2": "True",
+  "FFlagDoNotApplyScriptChangesInIDEDoc": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
