@@ -531,5 +531,6 @@
   "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
   "DFFlagInferredCrashSubsystemAlternative": "True",
   "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-25T16:49:26",
-  "DFFlagSplitModuleRequire_Rollout": "True;60;2024-03-25T17:29:38"
+  "DFFlagSplitModuleRequire_Rollout": "True;60;2024-03-25T17:29:38",
+  "FFlagUISUseLastFrameTimeInUpdateInputSignal_Rollout": "True;60;2024-03-25T17:32:28"
 }
