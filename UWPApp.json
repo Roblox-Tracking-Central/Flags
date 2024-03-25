@@ -320,5 +320,6 @@
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
+  "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-25T16:49:26"
 }

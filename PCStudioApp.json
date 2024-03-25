@@ -534,6 +534,7 @@
   "DFFlagSplitModuleRequire": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEmitNewRefreshTokenAvailable": "True",
+  "FFlagTerrainEditorRaycastPaintFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
