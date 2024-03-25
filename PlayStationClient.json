@@ -271,9 +271,6 @@
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
-  "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True"
 }

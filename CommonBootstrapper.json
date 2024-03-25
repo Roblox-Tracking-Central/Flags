@@ -71,5 +71,8 @@
   "FIntClientLaunchTimeoutMillisec": "20000",
   "FFlagDisableGoogleAnalytics": "True",
   "FFlagEanbleTerminationWithTimeout": "True",
-  "FIntClientTermniateTimeoutMillisec": "10000"
+  "FIntClientTermniateTimeoutMillisec": "10000",
+  "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
+  "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
 }

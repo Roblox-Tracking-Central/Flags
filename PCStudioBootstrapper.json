@@ -12,8 +12,5 @@
   "FFlagWindowsInstallerEnableDpiAwareness": "True",
   "FFlagWindowsMonitorAnalytics": "True",
   "FFlagWindowsStudioFirstLaunchArgument2": "True",
-  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994",
-  "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
-  "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994"
 }

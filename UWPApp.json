@@ -314,8 +314,5 @@
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
-  "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True"
 }

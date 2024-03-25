@@ -4,9 +4,6 @@
   "FFlagMacBootstrapperUseDeployPathExtension": "True",
   "FFlagMacInstallerUseDeployPathExtension": "True",
   "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994",
-  "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
-  "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "FIntBootstrapper64BitStudioPercentage": "5",
   "InfluxInstallHundredthsPercentage": "1",
   "ShowInstallSuccessPrompt": "False"
