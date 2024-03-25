@@ -130,12 +130,10 @@
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
-  "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagPackageUpdateAnalytics_Rollout": "True;60;2024-03-25T16:14:19",
-  "AllowVideoPreRoll": "True",
-  "FFlagSimSolverOptimizeLFWriteVectors_Rollout": "True;60;2024-03-25T16:29:55",
   "FFlagDoNotApplyScriptChangesInIDEDoc_Rollout": "True;60;2024-03-25T17:13:26",
+  "FFlagSimIslandizerMultiplierUpdate_Rollout": "True;60;2024-03-25T18:02:01",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -528,9 +526,8 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
   "DFFlagInferredCrashSubsystemAlternative": "True",
-  "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-25T16:49:26",
   "DFFlagSplitModuleRequire_Rollout": "True;60;2024-03-25T17:29:38",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal_Rollout": "True;60;2024-03-25T17:32:28"
+  "FFlagUISUseLastFrameTimeInUpdateInputSignal_Rollout": "True;60;2024-03-25T17:32:28",
+  "DFFlagReportDetailedSimulationBreakdown": "True"
 }

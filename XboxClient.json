@@ -130,12 +130,9 @@
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
-  "FFlagSimSolverOptimizeLFWriteVectors": "False",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagPackageUpdateAnalytics_Rollout": "True;60;2024-03-25T16:14:19",
-  "DFFlagInferredCrashSubsystemAlwaysTeardown_Rollout": "True;60;2024-03-25T16:29:51",
-  "FFlagSimSolverOptimizeLFWriteVectors_Rollout": "True;60;2024-03-25T16:29:55",
   "FFlagDoNotApplyScriptChangesInIDEDoc_Rollout": "True;60;2024-03-25T17:13:26",
+  "FFlagSimIslandizerMultiplierUpdate_Rollout": "True;60;2024-03-25T18:02:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -430,5 +427,5 @@
   "FFlagXboxInferredCrashMoreReporting": "True",
   "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
-  "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-25T16:49:26"
+  "DFFlagReportDetailedSimulationBreakdown": "True"
 }
