@@ -11172,6 +11172,12 @@
   "FFlagIBEnableSendCounters": "True",
   "DFIntImmersiveAdSkipFetchAdPlayerIdleThrottleHundrethsPercent": "10000",
   "DFFlagSimSolverCollectAverageForceOverSpecifiedAmountOfWorldSteps": "True",
+  "FFlagCountUTF8CharactersInAliasAndDisplayName": "True",
+  "DFFlagSimSolverByeByeSoftlock_Rollout": "True;30;2024-03-25T16:14:08",
+  "FFlagGraphicsD3D11NoShaderRelease_Rollout": "True;60;2024-03-25T16:28:14",
+  "FFlagAXFixItemOwnershipPageNilSelector": "True",
+  "FFlagEditProfileFixLogging": "True",
+  "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -11193,5 +11199,7 @@
   "FIntHttpCurlMaxCachedHandlesPerHost": "8",
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
-  "FFlagLuaRollouts": "True"
+  "FFlagLuaRollouts": "True",
+  "FFlagUIBloxModalTitleAutomaticSizing": "True",
+  "FFlagUseMicIconForVoiceUpsell": "True"
 }
