@@ -564,6 +564,6 @@
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "EnableAndroidCheckTTIFlagFetchUseCase": "True",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal_Rollout": "True;60;2024-03-25T17:32:28",
-  "DFFlagReportDetailedSimulationBreakdown": "True"
+  "DFFlagReportDetailedSimulationBreakdown": "True",
+  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True"
 }
