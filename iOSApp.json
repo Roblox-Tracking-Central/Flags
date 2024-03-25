@@ -23,7 +23,7 @@
   "FStringTextureFormatFilterString": "Apple A7 GPU;Apple A8 GPU;Apple A11 GPU@*.*.*@12.*.*",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoadediOS",
-  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994",
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16870666715",
   "FFlagMobilePlayerList2": "True",
   "FFlagLuaAppAccountSecurityPromptEnabled": "True",
   "FFlagSocialTabUseUIBloxCarouselForFriends": "False",
@@ -131,6 +131,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
+  "FFlagPopupMessageBoxSupportMoreInfoWidget_Rollout": "True;60;2024-03-25T23:18:20",
+  "FFlagDisablePlaySoloUIUpdatesInBeta2_Rollout": "True;60;2024-03-25T23:18:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -524,5 +526,6 @@
   "DFFlagInferredCrashSubsystemAlternative": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "DFFlagSplitModuleRequire": "True",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True"
+  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
+  "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-03-25T23:25:29"
 }

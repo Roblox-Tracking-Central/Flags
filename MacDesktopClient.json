@@ -23,7 +23,7 @@
   "FStringTextureFormatFilterString": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoaded",
-  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994",
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16870666715",
   "FFlagMobilePlayerList2": "True",
   "FFlagLuaAppAccountSecurityPromptEnabled": "True",
   "FFlagSocialTabUseUIBloxCarouselForFriends": "True",
@@ -131,6 +131,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
+  "FFlagPopupMessageBoxSupportMoreInfoWidget_Rollout": "True;60;2024-03-25T23:18:20",
+  "FFlagDisablePlaySoloUIUpdatesInBeta2_Rollout": "True;60;2024-03-25T23:18:33",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -438,5 +440,6 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
-  "DFFlagReportDetailedSimulationBreakdown": "True"
+  "DFFlagReportDetailedSimulationBreakdown": "True",
+  "FFlagUpdateCheckOnLogin_Rollout": "True;60;2024-03-25T23:23:41"
 }
