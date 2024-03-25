@@ -11199,6 +11199,7 @@
   "FFlagIGMResetGfxLv5Only": "True",
   "FFlagIGMResetGfxQuality": "True",
   "FFlagViewportFrameEnvMapSupport": "True",
+  "FFlagSocialTabAdaptEntryPoint": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
