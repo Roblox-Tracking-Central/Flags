@@ -11195,6 +11195,8 @@
   "FFlagViewportFrameEnvMapSupport": "True",
   "FStringStudioPlayModeAllowedBuiltins_Rollout": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm;30;2024-03-25T21:40:51",
   "FFlagACETemporaryToolHack": "True",
+  "FFlagIGMResetGfxLv5Only": "True",
+  "FFlagIGMResetGfxQuality": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
