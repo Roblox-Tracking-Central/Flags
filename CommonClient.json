@@ -11194,6 +11194,7 @@
   "FFlagRemoveLSCHashEvents": "True",
   "FFlagTexturePackUploadApiMigration2": "True",
   "FFlagViewportFrameEnvMapSupport": "True",
+  "FStringStudioPlayModeAllowedBuiltins_Rollout": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm;30;2024-03-25T21:40:51",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
