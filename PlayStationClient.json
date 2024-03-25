@@ -135,6 +135,7 @@
   "FFlagPackageUpdateAnalytics_Rollout": "True;60;2024-03-25T16:14:19",
   "DFFlagInferredCrashSubsystemAlwaysTeardown_Rollout": "True;60;2024-03-25T16:29:51",
   "FFlagSimSolverOptimizeLFWriteVectors_Rollout": "True;60;2024-03-25T16:29:55",
+  "FFlagDoNotApplyScriptChangesInIDEDoc_Rollout": "True;60;2024-03-25T17:13:26",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
