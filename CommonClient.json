@@ -9536,8 +9536,6 @@
   "FFlagEnableCanSendGameInviteAsync429ErrorMarshalingFix": "True",
   "FFlagOverhaulChatDeeplink2": "True",
   "FFlagRenameCompleteExternalNavigationForChat": "True",
-  "DFIntDataStoreGetVersionPerPlayerRequestLimit_PlaceFilter": "10;5938036553",
-  "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "10;5938036553",
   "FFlagEnableGameInviteModalUIFeedbackFixesV1": "True",
   "FFlagStudioUpdateDockPanelActionsBasedOnIsClosed": "True",
   "FFlagFixOutdoorIbl2": "True",
@@ -11213,6 +11211,11 @@
   "FFlagHttpWrapperAddCustomHeadersOption_Rollout": "True;60;2024-03-26T17:42:30",
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
   "DFFlagMakeRBXFileSystemWrapperOneToOneWithBoostFunctions": "True",
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
+  "DFFlagEnableThumbnailTimeoutNew_Rollout": "True;60;2024-03-26T17:58:38",
+  "FFlagModifiedPropertiesFixEventOrdering_Rollout": "True;60;2024-03-26T18:05:54",
+  "FFlagSimIslandizerMultiplierUpdate": "True",
+  "DFFlagInferredCrashSubsystemAlternative": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -11239,5 +11242,6 @@
   "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
   "FFlagLuaRollouts": "True",
   "FFlagUIBloxModalTitleAutomaticSizing": "True",
-  "FFlagUseMicIconForVoiceUpsell": "True"
+  "FFlagUseMicIconForVoiceUpsell": "True",
+  "FFlagChatSendMessageEventWithRecipients": "True"
 }
