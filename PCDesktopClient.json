@@ -134,6 +134,7 @@
   "FFlagPopupMessageBoxSupportMoreInfoWidget_Rollout": "True;60;2024-03-25T23:18:20",
   "FFlagDisablePlaySoloUIUpdatesInBeta2_Rollout": "True;60;2024-03-25T23:18:33",
   "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2024-03-25T23:32:33",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-03-25T23:50:45",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
