@@ -11244,6 +11244,7 @@
   "FFlagEnableFeatureTracking_Rollout": "True;60;2024-03-26T23:08:23",
   "DFIntThumbnailContentProviderTimeoutSecs": "10",
   "DFIntThumbnailTextureLoadTimeoutSecs": "10",
+  "FFlagLuauPreallocateTarjanVectors_Rollout": "True;30;2024-03-26T23:39:45",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
