@@ -528,6 +528,8 @@
   "FFlagTerrainEditorRibbonBarFix": "True",
   "FFlagToolboxRetireGotham": "True",
   "FFlagTextureGeneratorTelemetryIncludeLocalId": "True",
+  "DFFlagOverlappedAddToFilter_Rollout": "True;60;2024-03-26T18:43:22",
+  "FFlagDebugLuaAppValidateProps": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -549,8 +551,8 @@
   "FFlagCLI98896": "True",
   "DFFlagWriterInputCheck": "True",
   "DFFlagVoiceChatProfileJoinProcessV2_Rollout": "True;60;2024-03-26T18:29:03",
-  "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2_Rollout": "5000;30;2024-03-26T19:02:33"
 }
