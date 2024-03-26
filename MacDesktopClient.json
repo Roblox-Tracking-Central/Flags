@@ -162,7 +162,8 @@
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagELFSubsystemInternalFlowControl2": "True",
   "DFFlagWriterInputCheck": "True",
-  "DFFlagSplitModuleRequire_Rollout": "True;30;2024-03-26T17:11:34",
+  "DFFlagSplitModuleRequire": "True",
+  "DFFlagVoiceChatProfileJoinProcessV2_Rollout": "True;60;2024-03-26T18:29:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -438,5 +439,5 @@
   "DFFlagPhysicsReportWorldTime": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
-  "FFlagDMPatchCoreScriptsBlake3Deserialize2_Rollout": "True;60;2024-03-26T16:55:17"
+  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True"
 }

@@ -277,5 +277,5 @@
   "FFlagUpdateAnnotationModalParent": "True",
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
-  "FFlagDMPatchCoreScriptsBlake3Deserialize2_Rollout": "True;60;2024-03-26T16:55:17"
+  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True"
 }
