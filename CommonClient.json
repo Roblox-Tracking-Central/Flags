@@ -11210,6 +11210,7 @@
   "DFFlagUIErrorCaptureFix_Rollout": "True;60;2024-03-26T17:14:15",
   "FFlagPoolSmallFmodAllocs2_Rollout": "True;60;2024-03-26T17:15:05",
   "FFlagLuauMakeStringMethodsChecked_Rollout": "True;60;2024-03-26T17:15:18",
+  "FFlagJavaAudioDeviceSelection2_Rollout": "True;60;2024-03-26T17:38:04",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
