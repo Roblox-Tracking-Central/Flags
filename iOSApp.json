@@ -525,5 +525,6 @@
   "DFFlagInferredCrashSubsystemAlternative": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "DFFlagSplitModuleRequire": "True",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True"
+  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
+  "FFlagDMPatchCoreScriptsBlake3Deserialize2_Rollout": "True;60;2024-03-26T16:55:17"
 }

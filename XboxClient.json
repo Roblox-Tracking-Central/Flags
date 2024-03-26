@@ -429,5 +429,6 @@
   "FFlagGamepadSupportForAbuseReportMenu": "True",
   "FFlagUpdateAnnotationModalParent": "True",
   "FFlagUpdateFocusNavigationEffectsProps": "True",
-  "FFlagUpdateModalBasedSelectorParent": "True"
+  "FFlagUpdateModalBasedSelectorParent": "True",
+  "FFlagDMPatchCoreScriptsBlake3Deserialize2_Rollout": "True;60;2024-03-26T16:55:17"
 }

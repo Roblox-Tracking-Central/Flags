@@ -440,5 +440,6 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
-  "DFFlagReportDetailedSimulationBreakdown": "True"
+  "DFFlagReportDetailedSimulationBreakdown": "True",
+  "FFlagDMPatchCoreScriptsBlake3Deserialize2_Rollout": "True;60;2024-03-26T16:55:17"
 }
