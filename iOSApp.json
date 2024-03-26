@@ -526,5 +526,6 @@
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
-  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True"
+  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
+  "FFlagEnableAdsEudsaDynamicDisclosure_Rollout": "True;60;2024-03-26T21:16:15"
 }

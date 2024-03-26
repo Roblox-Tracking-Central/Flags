@@ -562,6 +562,8 @@
   "FFlagIGMEnableGFXReset": "False",
   "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-26T17:37:50",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
+  "FFlagEnableAdsEudsaDynamicDisclosure_Rollout": "True;60;2024-03-26T21:16:15",
+  "DFFlagReportOutputDeviceWithRobloxTelemetry_Rollout": "True;60;2024-03-26T21:24:35",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
