@@ -527,6 +527,7 @@
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEmitNewRefreshTokenAvailable": "True",
   "FFlagTerrainEditorRaycastPaintFix": "True",
+  "FFlagTerrainEditorIconsMatchTheme": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

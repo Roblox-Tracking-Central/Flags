@@ -425,5 +425,9 @@
   "FFlagXboxInferredCrashMoreReporting": "True",
   "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
-  "DFFlagReportDetailedSimulationBreakdown": "True"
+  "DFFlagReportDetailedSimulationBreakdown": "True",
+  "FFlagGamepadSupportForAbuseReportMenu": "True",
+  "FFlagUpdateAnnotationModalParent": "True",
+  "FFlagUpdateFocusNavigationEffectsProps": "True",
+  "FFlagUpdateModalBasedSelectorParent": "True"
 }
