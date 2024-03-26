@@ -131,10 +131,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagPopupMessageBoxSupportMoreInfoWidget_Rollout": "True;60;2024-03-25T23:18:20",
-  "FFlagDisablePlaySoloUIUpdatesInBeta2_Rollout": "True;60;2024-03-25T23:18:33",
-  "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -508,7 +506,6 @@
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableViewabilityTracking3": "True",
@@ -526,6 +523,5 @@
   "DFFlagInferredCrashSubsystemAlternative": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "DFFlagSplitModuleRequire": "True",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-03-25T23:25:29"
+  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True"
 }
