@@ -131,6 +131,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
+  "FFlagXboxCredentialsHeaders_Rollout": "True;60;2024-03-26T23:19:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -561,7 +562,7 @@
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagIGMEnableGFXReset": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FFlagEnableAdsEudsaDynamicDisclosure_Rollout": "True;60;2024-03-26T21:16:15",
-  "DFFlagReportOutputDeviceWithRobloxTelemetry_Rollout": "True;60;2024-03-26T21:24:35",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-03-26T21:46:31"
+  "FFlagEnableAdsEudsaDynamicDisclosure": "True",
+  "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000"
 }
