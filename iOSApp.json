@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagSimSolverOptimizeTimestepMultiplierChanges_Rollout": "True;60;2024-03-26T16:13:21",
   "AllowVideoPreRoll": "True",
   "FFlagSimIslandizerMultiplierUpdate_Rollout": "True;60;2024-03-26T16:32:28",
   "AxisAdornmentGrabSize": "12",
