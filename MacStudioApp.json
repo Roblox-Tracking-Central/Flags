@@ -556,7 +556,7 @@
   "FFlagEnableViewabilityTracking3": "True",
   "FFlagELFSubsystemInternalFlowControl2": "True",
   "DFFlagWriterInputCheck": "True",
-  "DFFlagVoiceChatProfileJoinProcessV2_Rollout": "True;60;2024-03-26T18:29:03",
+  "DFFlagVoiceChatProfileJoinProcessV2": "True",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",

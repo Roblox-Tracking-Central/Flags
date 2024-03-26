@@ -165,7 +165,7 @@
   "FFlagELFSubsystemInternalFlowControl2": "True",
   "DFFlagWriterInputCheck": "True",
   "DFFlagSplitModuleRequire": "True",
-  "DFFlagVoiceChatProfileJoinProcessV2_Rollout": "True;60;2024-03-26T18:29:03",
+  "DFFlagVoiceChatProfileJoinProcessV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
