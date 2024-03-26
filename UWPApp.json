@@ -131,8 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagLuauCodegenVectorOptAnd_Rollout": "True;30;2024-03-26T19:21:44",
-  "FFlagLuauCodegenSmallerUnm_Rollout": "True;30;2024-03-26T19:22:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
