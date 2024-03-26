@@ -501,7 +501,7 @@
   "FFlagNotificationTrayImpressions": "True",
   "FFlagStudioNewPlaceUploadPublishRollout2": "True",
   "FFlagCOLLAB5718AccessibleColors": "True",
-  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2": "2500",
+  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2": "5000",
   "FFlagDeveloperFrameworkGridNotDefinedError2": "True",
   "FFlagSkipExtraTokenRefreshes": "True",
   "FFlagStudioFixRibbonTooltipSizeForGerman": "True",
@@ -526,7 +526,6 @@
   "FFlagToolboxRetireGotham": "True",
   "FFlagTextureGeneratorTelemetryIncludeLocalId": "True",
   "DFFlagOverlappedAddToFilter_Rollout": "True;60;2024-03-26T18:43:22",
-  "FLogSignalRNotification": "0",
   "FFlagToolboxCleanupLegacyContext": "True",
   "FFlagToolboxFinallyRemoveLegacyContext": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -557,6 +556,7 @@
   "FFlagELFSubsystemInternalFlowControl2": "True",
   "DFFlagWriterInputCheck": "True",
   "DFFlagVoiceChatProfileJoinProcessV2": "True",
+  "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
@@ -565,6 +565,5 @@
   "FFlagDeferFmodDriverShutdown2": "True",
   "FFlagAllSoundServicesShareOneFmod": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2_Rollout": "5000;30;2024-03-26T19:02:33"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
 }
