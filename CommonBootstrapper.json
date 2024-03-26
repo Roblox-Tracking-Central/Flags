@@ -74,5 +74,6 @@
   "FIntClientTermniateTimeoutMillisec": "10000",
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
-  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True"
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
+  "FFlagMacInstallerAddInstallTypeAttribute_Rollout": "True;60;2024-03-26T17:07:37"
 }
