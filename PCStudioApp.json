@@ -527,6 +527,8 @@
   "FFlagTextureGeneratorTelemetryIncludeLocalId": "True",
   "DFFlagOverlappedAddToFilter_Rollout": "True;60;2024-03-26T18:43:22",
   "FFlagDebugLuaAppValidateProps": "True",
+  "FFlagToolboxCleanupLegacyContext": "True",
+  "FFlagToolboxFinallyRemoveLegacyContext": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
