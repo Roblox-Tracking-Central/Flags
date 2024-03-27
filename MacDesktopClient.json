@@ -437,5 +437,6 @@
   "DFFlagPhysicsReportWorldTime": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
-  "FFlagVerbsWithNoContainerStats": "True"
+  "FFlagVerbsWithNoContainerStats": "True",
+  "FFlagVerbsWithNoContainerFullScreen_Rollout": "True;30;2024-03-27T22:46:05"
 }

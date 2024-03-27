@@ -49,7 +49,7 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "DFIntGameJoinFlowTelemetryThrottle": "10000",
+  "DFIntGameJoinFlowTelemetryThrottle": "100",
   "FFlagCLI56034": "True",
   "DFIntMinSoundStreamSizeBytes": "512000",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
