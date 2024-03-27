@@ -133,10 +133,9 @@
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagIGMEnableGFXReset": "False",
   "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
-  "AllowVideoPreRoll": "True",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
@@ -167,6 +166,7 @@
   "DFFlagWriterInputCheck": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGpuGeometryManager14": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -440,8 +440,6 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
   "FFlagUserSearchUseNewEndpointIXP": "True",
-  "DFFlagReportDetailedSimulationBreakdown": "True",
-  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03",
-  "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True"
+  "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
+  "FFlagVerbsWithNoContainerStats": "True"
 }

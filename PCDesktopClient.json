@@ -133,9 +133,9 @@
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagIGMEnableGFXReset": "False",
   "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
-  "AllowVideoPreRoll": "True",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-27T20:32:15",
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-27T20:53:16",
+  "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-27T21:43:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -159,6 +159,7 @@
   "DFFlagWriterInputCheck": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGpuGeometryManager14": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -417,8 +418,7 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
-  "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03",
-  "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True"
+  "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
+  "FFlagVerbsWithNoContainerStats": "True"
 }

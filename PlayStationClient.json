@@ -133,9 +133,9 @@
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagIGMEnableGFXReset": "False",
   "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
-  "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-27T20:53:16",
+  "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",
@@ -275,12 +275,10 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
-  "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagGamepadSupportForAbuseReportMenu": "True",
   "FFlagUpdateAnnotationModalParent": "True",
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
-  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGpuGeometryManager14": "True"
 }
