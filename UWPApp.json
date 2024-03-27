@@ -313,5 +313,6 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
-  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True"
+  "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
+  "FFlagGpuGeometryManager14_Rollout": "True;60;2024-03-27T17:36:55"
 }

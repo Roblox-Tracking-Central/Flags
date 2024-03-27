@@ -448,7 +448,6 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FIntScrollingPerfTrackerKibana": "20",
-  "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagEnableInGameMenuChromeABTest": "False",
@@ -527,5 +526,6 @@
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FFlagEnableAdsEudsaDynamicDisclosure": "True"
+  "FFlagEnableAdsEudsaDynamicDisclosure": "True",
+  "FFlagGpuGeometryManager14_Rollout": "True;60;2024-03-27T17:36:55"
 }

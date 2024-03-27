@@ -165,6 +165,7 @@
   "DFFlagSplitModuleRequire": "True",
   "DFFlagVoiceChatProfileJoinProcessV2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
+  "FFlagGpuGeometryManager14_Rollout": "True;60;2024-03-27T17:36:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

@@ -506,7 +506,6 @@
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
-  "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagRenderEnableGlobalInstancingVulkan_PlaceFilter": "True;16303126094",
