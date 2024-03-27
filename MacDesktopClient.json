@@ -23,7 +23,7 @@
   "FStringTextureFormatFilterString": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
   "DFFlagInferredSplitWinShutdown": "False",
   "FStringLuaChatUserLoadedCounter": "LuaChatUserLoaded",
-  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16870666715",
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
   "FFlagMobilePlayerList2": "True",
   "FFlagLuaAppAccountSecurityPromptEnabled": "True",
   "FFlagSocialTabUseUIBloxCarouselForFriends": "True",
@@ -442,6 +442,6 @@
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FFlagVerbsWithNoContainerRemoveDeadVerbs_Rollout": "True;30;2024-03-27T20:28:09",
-  "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03"
+  "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03",
+  "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True"
 }

@@ -419,6 +419,6 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FFlagVerbsWithNoContainerRemoveDeadVerbs_Rollout": "True;30;2024-03-27T20:28:09",
-  "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03"
+  "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03",
+  "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True"
 }
