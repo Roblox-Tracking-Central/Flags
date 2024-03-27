@@ -537,6 +537,7 @@
   "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03",
   "FFlagStudioAssetDataModelScope4": "True",
   "FFlagRemoveIsSyncingEditorText_Rollout": "True;60;2024-03-27T20:56:30",
+  "FFlagStudioRibbonBarWidgets2_Rollout": "True;60;2024-03-27T21:13:23",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
