@@ -133,9 +133,10 @@
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagIGMEnableGFXReset": "False",
   "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
+  "AllowVideoPreRoll": "True",
+  "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-27T20:32:15",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -155,8 +156,6 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagCLI98896": "True",
   "DFFlagWriterInputCheck": "True",
-  "DFFlagSplitModuleRequire": "True",
-  "DFFlagVoiceChatProfileJoinProcessV2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGpuGeometryManager14": "True",
   "AxisAdornmentGrabSize": "12",
@@ -418,5 +417,7 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True"
+  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
+  "FFlagVerbsWithNoContainerRemoveDeadVerbs_Rollout": "True;30;2024-03-27T20:28:09",
+  "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03"
 }
