@@ -522,5 +522,6 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagClothingSortingDeeplink": "True",
-  "FFlagGpuGeometryManager14": "True"
+  "FFlagGpuGeometryManager14": "True",
+  "FFlagCapturesCarouselReducedMotionSupport": "True"
 }

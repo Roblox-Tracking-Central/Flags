@@ -565,5 +565,6 @@
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
-  "FFlagClothingSortingDeeplink": "True"
+  "FFlagClothingSortingDeeplink": "True",
+  "FFlagCapturesCarouselReducedMotionSupport": "True"
 }
