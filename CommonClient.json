@@ -10003,7 +10003,6 @@
   "DFFlagDebugRccLinuxMSTTEnableOnThreshold": "True",
   "DFFlagMSTTDumpTelemetryIsBlocking": "True",
   "FFlagEnablePartialPurchaseForLooksSupport": "True",
-  "FFlagGpuGeometryManagerAndroidBufferPerAllocation": "True",
   "DFFlagRayAABBRefactor": "True",
   "FFlagXboxRemoveGAReporter": "True",
   "FFlagPathfindingUseTerrainOffset": "True",
