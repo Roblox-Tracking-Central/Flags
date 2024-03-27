@@ -377,7 +377,6 @@
   "FIntLuaAppHomeFeedProfilePosition": "0",
   "FFlagUseExternalBrowserForAgeGuidelines10ft": "True",
   "FFlagXboxCleanerGamepadReactivation": "True",
-  "FFlagXboxCredentialsHeaders": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
