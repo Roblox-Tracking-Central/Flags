@@ -133,6 +133,7 @@
   "FFlagUserShowGuiHideToggles": "True",
   "FFlagIGMEnableGFXReset": "True",
   "AllowVideoPreRoll": "True",
+  "DFFlagVoiceChatProfileJoinProcessV2_Rollout": "True;60;2024-03-27T18:46:31",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
