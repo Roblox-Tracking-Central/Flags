@@ -11254,6 +11254,8 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagDefaultFriendingLabelTextNonEmpty": "True",
   "FFlagFewerSoundStringAllocs_Rollout": "True;60;2024-03-27T18:09:53",
+  "FFlagACEPrimaryPartPriority": "True",
+  "FIntLuaAppPercentRolloutGameDetailMoreAnalytics_v2": "100",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
