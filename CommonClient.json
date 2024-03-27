@@ -11259,6 +11259,7 @@
   "DFFlagSimHumanoidTimestepModelUpdate": "True",
   "FFlagMakeUniqueIDVisibleInPropertiesWidget_Rollout": "True;60;2024-03-27T18:56:39",
   "FFlagAllSoundServicesShareOneFmodRegistryFix": "True",
+  "FFlagBreakTranslationDependencyOnRestricted_Rollout": "True;30;2024-03-27T19:12:04",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
