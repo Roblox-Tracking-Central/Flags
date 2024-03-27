@@ -133,6 +133,8 @@
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-27T21:43:49",
   "AllowVideoPreRoll": "True",
+  "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-27T22:56:34",
+  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-03-27T22:56:57",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
