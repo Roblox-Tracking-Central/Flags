@@ -11252,6 +11252,8 @@
   "DFFlagSimHumanoidTimestepModelUpdate_Rollout": "True;60;2024-03-27T17:21:08",
   "FFlagAllSoundServicesShareOneFmodRegistryFix_Rollout": "True;60;2024-03-27T17:27:56",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
+  "FFlagDefaultFriendingLabelTextNonEmpty": "True",
+  "FFlagFewerSoundStringAllocs_Rollout": "True;60;2024-03-27T18:09:53",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
