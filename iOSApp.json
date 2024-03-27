@@ -49,7 +49,7 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "DFIntGameJoinFlowTelemetryThrottle": "100",
+  "DFIntGameJoinFlowTelemetryThrottle": "10000",
   "FFlagCLI56034": "True",
   "DFIntMinSoundStreamSizeBytes": "512000",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
@@ -131,10 +131,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagIGMEnableGFXReset": "False",
-  "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
-  "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -501,7 +499,6 @@
   "DFIntIosDeprecationPhase": "2",
   "FFlagTelemetryRevampPurchase3": "True",
   "FFlagTelemetryRevampClicks2": "True",
-  "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
@@ -525,6 +522,5 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagClothingSortingDeeplink": "True",
-  "FFlagGpuGeometryManager14": "True",
-  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-27T20:55:00"
+  "FFlagGpuGeometryManager14": "True"
 }
