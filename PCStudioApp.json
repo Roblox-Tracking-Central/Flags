@@ -135,6 +135,7 @@
   "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "AllowVideoPreRoll": "True",
+  "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-27T20:09:29",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
