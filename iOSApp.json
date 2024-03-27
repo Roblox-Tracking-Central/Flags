@@ -529,5 +529,6 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagGpuGeometryManager14_Rollout": "True;60;2024-03-27T17:36:55"
+  "FFlagGpuGeometryManager14_Rollout": "True;60;2024-03-27T17:36:55",
+  "FFlagClothingSortingDeeplink": "True"
 }

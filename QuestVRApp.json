@@ -569,6 +569,7 @@
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
+  "FFlagClothingSortingDeeplink": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
