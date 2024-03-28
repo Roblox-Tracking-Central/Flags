@@ -423,5 +423,7 @@
   "FFlagVerbsWithNoContainerStats": "True",
   "FFlagVerbsWithNoContainerFullScreen": "True",
   "FFlagVerbsWithNoContainerRecordToggle": "True",
-  "FFlagVerbsWithNoContainerScreenshot": "True"
+  "FFlagVerbsWithNoContainerScreenshot": "True",
+  "FFlagEnableAdLoadViewabilityEventReporting3_Rollout": "True;60;2024-03-28T20:14:21",
+  "FFlagRefactorPlayerConnect_DataCenterFilter": "True;380"
 }
