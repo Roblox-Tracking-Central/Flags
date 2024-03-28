@@ -563,6 +563,8 @@
   "FFlagCapturesCarouselReducedMotionSupport": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
   "FFlagEnablePhoneLegalCheckbox2": "True",
+  "FFlagDisablePhoneVerificationForCI": "True",
+  "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

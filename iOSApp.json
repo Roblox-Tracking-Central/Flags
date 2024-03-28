@@ -520,5 +520,7 @@
   "FFlagClothingSortingDeeplink": "True",
   "FFlagCapturesCarouselReducedMotionSupport": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
-  "FFlagEnablePhoneLegalCheckbox2": "True"
+  "FFlagEnablePhoneLegalCheckbox2": "True",
+  "FFlagDisablePhoneVerificationForCI": "True",
+  "FStringContactsListLayer": "Social.ContactImporter"
 }

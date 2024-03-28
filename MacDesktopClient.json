@@ -165,6 +165,7 @@
   "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
   "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
+  "FFlagRefactorPlayerConnect_Rollout": "True;60;2024-03-28T21:23:39",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
