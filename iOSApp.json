@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "DFFlagLuauDebugInfoDupArgLeftovers_Rollout": "True;60;2024-03-28T16:07:12",
   "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-28T16:48:42",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -522,5 +521,6 @@
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagClothingSortingDeeplink": "True",
   "FFlagGpuGeometryManager14": "True",
-  "FFlagCapturesCarouselReducedMotionSupport": "True"
+  "FFlagCapturesCarouselReducedMotionSupport": "True",
+  "FFlagFixLooksSecondaryLayerApdativeScrolling": "True"
 }

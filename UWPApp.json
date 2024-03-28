@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "DFFlagLuauDebugInfoDupArgLeftovers_Rollout": "True;60;2024-03-28T16:07:12",
   "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-28T16:48:42",
   "DFFlagSessionTelemetryUnify_Rollout": "True;60;2024-03-28T16:49:36",
   "AllowVideoPreRoll": "True",
