@@ -447,5 +447,6 @@
   "FFlagVerbsWithNoContainerScreenshot": "True",
   "FFlagEnableAdLoadViewabilityEventReporting3": "True",
   "FFlagLaunchContextReducerEnabled": "True",
-  "FFlagEnableViewableImpressionEventReporting2_Rollout": "True;60;2024-03-28T22:00:05"
+  "FFlagEnableViewableImpressionEventReporting2_Rollout": "True;60;2024-03-28T22:00:05",
+  "FFlagEnableAdUnloadViewabilityEventReporting3_Rollout": "True;60;2024-03-28T23:05:19"
 }
