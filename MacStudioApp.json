@@ -573,7 +573,6 @@
   "FFlagCLI91794": "True",
   "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
-  "FFlagRefactorPlayerConnect_Rollout": "True;60;2024-03-28T21:23:39",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
