@@ -415,7 +415,7 @@
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
   "FFlagVerbsWithNoContainerStats": "True",
-  "FFlagVerbsWithNoContainerScreenshot_Rollout": "True;30;2024-03-27T23:40:33",
   "FFlagVerbsWithNoContainerFullScreen": "True",
-  "FFlagVerbsWithNoContainerRecordToggle": "True"
+  "FFlagVerbsWithNoContainerRecordToggle": "True",
+  "FFlagVerbsWithNoContainerScreenshot": "True"
 }
