@@ -311,6 +311,5 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
-  "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagGpuGeometryManager14": "True"
+  "FFlagSupportContactMethodPhoneNumberVoice": "True"
 }

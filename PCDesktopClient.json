@@ -154,7 +154,6 @@
   "FFlagCLI98896": "True",
   "DFFlagWriterInputCheck": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagGpuGeometryManager14": "True",
   "DFFlagHttpDisableSslReleaseBuffers": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
   "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-03-28T18:08:52",

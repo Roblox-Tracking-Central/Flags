@@ -276,6 +276,5 @@
   "FFlagUpdateAnnotationModalParent": "True",
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
-  "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagGpuGeometryManager14": "True"
+  "FFlagEnableAdsEudsaDynamicDisclosure": "True"
 }

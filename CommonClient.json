@@ -11308,6 +11308,7 @@
   "DFFlagBatchId15HotrodAccessorMigration_Rollout": "True;60;2024-03-28T18:11:14",
   "DFFlagSessionTelemetryUnify": "True",
   "FFlagGetReportAdInfo": "True",
+  "FFlagCapturesFrontendVideoSupport": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
