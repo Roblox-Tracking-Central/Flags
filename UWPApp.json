@@ -133,6 +133,8 @@
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagLuauCodeGenOptVecA64_Rollout": "True;30;2024-03-28T16:06:46",
   "DFFlagLuauDebugInfoDupArgLeftovers_Rollout": "True;60;2024-03-28T16:07:12",
+  "DFFlagOverlappedAddToFilter_Rollout": "True;30;2024-03-28T16:07:45",
+  "FFlagLuauCodegenHeapSizeReport_Rollout": "True;30;2024-03-28T16:23:22",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
