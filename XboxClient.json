@@ -423,5 +423,6 @@
   "FFlagUpdateAnnotationModalParent": "True",
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
-  "FFlagEnableAdsEudsaDynamicDisclosure": "True"
+  "FFlagEnableAdsEudsaDynamicDisclosure": "True",
+  "FFlagDragDetectorUsesPermissionPolicyRevised2_Rollout": "True;60;2024-03-28T21:54:18"
 }

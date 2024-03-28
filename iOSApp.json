@@ -523,5 +523,6 @@
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
   "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagDisablePhoneVerificationForCI": "True",
-  "FStringContactsListLayer": "Social.ContactImporter"
+  "FStringContactsListLayer": "Social.ContactImporter",
+  "FFlagLaunchContextReducerEnabled": "True"
 }

@@ -167,6 +167,7 @@
   "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
   "FFlagRefactorPlayerConnect_Rollout": "True;60;2024-03-28T21:40:58",
+  "FFlagDragDetectorUsesPermissionPolicyRevised2_Rollout": "True;60;2024-03-28T21:54:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -444,5 +445,7 @@
   "FFlagVerbsWithNoContainerFullScreen": "True",
   "FFlagVerbsWithNoContainerRecordToggle": "True",
   "FFlagVerbsWithNoContainerScreenshot": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting3": "True"
+  "FFlagEnableAdLoadViewabilityEventReporting3": "True",
+  "FFlagLaunchContextReducerEnabled": "True",
+  "FFlagEnableViewableImpressionEventReporting2_Rollout": "True;60;2024-03-28T22:00:05"
 }
