@@ -548,6 +548,8 @@
   "FFlagStudioUpdateCentralPaneWhenEmpty": "True",
   "FFlagPackageMassUpdateHangFix": "True",
   "FFlagDragDetectorUsesPermissionPolicyRevised2_Rollout": "True;60;2024-03-28T21:54:18",
+  "FFlagACEShowBoneLeaves": "True",
+  "FFlagACEHideBonesOnExit": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
