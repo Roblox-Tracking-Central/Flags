@@ -49,7 +49,7 @@
   "DFIntUISYS_1436_ReportRate_HundredthsPercent": "100",
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "DFIntGameJoinFlowTelemetryThrottle": "100",
+  "DFIntGameJoinFlowTelemetryThrottle": "10000",
   "FFlagCLI56034": "True",
   "DFIntMinSoundStreamSizeBytes": "512000",
   "DFIntSessionTelemetryOSWarningMinimum": "5",
@@ -131,7 +131,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-28T16:48:42",
+  "FFlagScriptDiffTool2_Rollout": "True;60;2024-03-28T18:12:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -321,7 +321,6 @@
   "FStringFriendsLandingMountingPageTimeStats": "FriendsLandingMountingPageTimeAndroid",
   "FFlagLuaAppWaitBeforeTwoStepRenderDev": "True",
   "DFFlagRenderTC2_6": "False",
-  "DFFlagSessionTelemetryUnify": "True",
   "FFlagHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFFlagPredictedOOM": "True",
   "FFlagAETwoFactorLogOutMessage": "True",
@@ -563,5 +562,6 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagClothingSortingDeeplink": "True",
   "FFlagCapturesCarouselReducedMotionSupport": "True",
-  "FFlagFixLooksSecondaryLayerApdativeScrolling": "True"
+  "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
+  "FFlagEnablePhoneLegalCheckbox2": "True"
 }
