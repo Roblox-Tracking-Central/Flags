@@ -135,6 +135,8 @@
   "DFFlagLuauDebugInfoDupArgLeftovers_Rollout": "True;60;2024-03-28T16:07:12",
   "DFFlagOverlappedAddToFilter_Rollout": "True;30;2024-03-28T16:07:45",
   "FFlagLuauCodegenHeapSizeReport_Rollout": "True;30;2024-03-28T16:23:22",
+  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-28T16:48:42",
+  "DFFlagSessionTelemetryUnify_Rollout": "True;60;2024-03-28T16:49:36",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
