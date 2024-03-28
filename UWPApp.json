@@ -132,8 +132,6 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "AllowVideoPreRoll": "True",
-  "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-27T22:56:34",
-  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-03-27T22:56:57",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -311,6 +309,5 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
-  "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagGpuGeometryManager14": "True"
+  "FFlagSupportContactMethodPhoneNumberVoice": "True"
 }

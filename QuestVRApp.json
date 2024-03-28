@@ -131,9 +131,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1000",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagEnableQuestHaptics": "True",
   "AllowVideoPreRoll": "True",
-  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-03-27T22:56:57",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -540,7 +538,6 @@
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagVideoVP9HardWareDecoderCap2": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableAccountSwitchFeature": "False",
   "FFlagEnableDidSwitchAccount": "False",
@@ -567,6 +564,7 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagClothingSortingDeeplink": "True",
   "FFlagCapturesCarouselReducedMotionSupport": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -588,6 +586,5 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-  "FFlagDSAVRSkipFrontendGeoCheck": "True",
-  "FFlagGpuGeometryManager14": "True"
+  "FFlagDSAVRSkipFrontendGeoCheck": "True"
 }

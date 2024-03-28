@@ -132,8 +132,6 @@
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
-  "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-27T22:56:34",
-  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-03-27T22:56:57",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
@@ -276,6 +274,5 @@
   "FFlagUpdateAnnotationModalParent": "True",
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
-  "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagGpuGeometryManager14": "True"
+  "FFlagEnableAdsEudsaDynamicDisclosure": "True"
 }

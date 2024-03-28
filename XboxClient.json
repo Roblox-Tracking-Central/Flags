@@ -133,7 +133,6 @@
   "FFlagUserShowGuiHideToggles": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
-  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-03-27T22:56:57",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -410,7 +409,6 @@
   "FFlagXboxImprovedCrashCollection": "True",
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
@@ -424,6 +422,5 @@
   "FFlagUpdateAnnotationModalParent": "True",
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
-  "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagGpuGeometryManager14": "True"
+  "FFlagEnableAdsEudsaDynamicDisclosure": "True"
 }

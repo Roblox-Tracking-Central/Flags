@@ -133,7 +133,6 @@
   "FFlagUserShowGuiHideToggles": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
-  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-03-27T22:56:57",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -502,7 +501,6 @@
   "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableAccountSwitchFeature": "True",
   "FFlagEnableDidSwitchAccount": "True",
@@ -522,6 +520,5 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagClothingSortingDeeplink": "True",
-  "FFlagGpuGeometryManager14": "True",
   "FFlagCapturesCarouselReducedMotionSupport": "True"
 }
