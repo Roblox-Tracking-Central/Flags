@@ -131,8 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagScriptDiffTool2_Rollout": "True;60;2024-03-28T18:12:55",
-  "DFFlagWriterInputCheck_Rollout": "True;60;2024-03-28T18:28:47",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
