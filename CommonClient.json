@@ -11316,6 +11316,7 @@
   "DFFlagSkipFetchAdPlayerIdle2_Rollout": "True;60;2024-03-28T20:12:56",
   "FFlagStudioDoNotSetWA_OpaquePaintEventAttribute_Rollout": "True;60;2024-03-28T20:17:08",
   "FFlagDescendantsAreRecursivelyInteractable2_Rollout": "True;10;2024-03-28T20:21:04",
+  "FFlagFixThreadingInStepAnimatedJoints_Rollout": "True;60;2024-03-28T20:23:54",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
