@@ -131,6 +131,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
+  "DFIntMaxDiffsOpenAtOneTime_Rollout": "20;60;2024-03-28T21:47:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -165,6 +166,7 @@
   "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
   "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
+  "FFlagRefactorPlayerConnect_Rollout": "True;60;2024-03-28T21:40:58",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -442,5 +444,5 @@
   "FFlagVerbsWithNoContainerFullScreen": "True",
   "FFlagVerbsWithNoContainerRecordToggle": "True",
   "FFlagVerbsWithNoContainerScreenshot": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting3_Rollout": "True;60;2024-03-28T20:14:21"
+  "FFlagEnableAdLoadViewabilityEventReporting3": "True"
 }
