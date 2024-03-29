@@ -550,7 +550,6 @@
   "FFlagCodeAssistDisclaimerUserLogin": "True",
   "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
   "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
-  "FFlagStudioExpandMMEndMetrics_Rollout": "True;60;2024-03-28T23:30:51",
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
