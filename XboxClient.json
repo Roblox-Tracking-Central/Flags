@@ -423,7 +423,6 @@
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
   "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",

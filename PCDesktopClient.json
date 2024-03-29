@@ -160,7 +160,6 @@
   "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
   "FFlagRefactorPlayerConnect": "True",
-  "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
   "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",

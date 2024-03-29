@@ -78,7 +78,6 @@
   "FFlagIBDisableBuyButtonForUnlimitedAsset": "False",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagMacInstallerAddInstallTypeAttribute": "True",
-  "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
   "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",

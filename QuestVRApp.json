@@ -588,6 +588,5 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-  "FFlagDSAVRSkipFrontendGeoCheck": "True",
-  "FFlagDragDetectorUsesPermissionPolicyRevised2": "True"
+  "FFlagDSAVRSkipFrontendGeoCheck": "True"
 }
