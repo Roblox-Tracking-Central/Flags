@@ -11288,7 +11288,7 @@
   "FFlagCOLLAB5718ServerDeprecateBrickColor": "True",
   "FFlagStudioRemoveActionCountCheck": "True",
   "FFlagCOLLAB5863CollaborateTelemetry": "True",
-  "FFlagRoblox3DViewContextMenuAsync": "True",
+  "FFlagRoblox3DViewContextMenuAsync": "False",
   "FFlagDiffToolDocStartEndShortcuts": "True",
   "FFlagRefactorIRoblox": "True",
   "FFlagSkipRebuildingCrashedELF": "True",
