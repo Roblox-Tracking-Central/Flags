@@ -451,5 +451,6 @@
   "FFlagEnableAdLoadViewabilityEventReporting3": "True",
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableViewableImpressionEventReporting2": "True",
-  "FFlagEnableAdUnloadViewabilityEventReporting3": "True"
+  "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
+  "FFlagSendUnloadWithViewableImpression2_Rollout": "True;60;2024-03-29T16:22:20"
 }
