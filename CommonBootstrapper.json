@@ -76,7 +76,6 @@
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "FFlagIBDisableBuyButtonForUnlimitedAsset": "False",
-  "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagMacInstallerAddInstallTypeAttribute": "True",
   "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
   "FFlagIBEnableFixForOwnedText": "True",
