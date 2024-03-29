@@ -131,6 +131,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
+  "FFlagStudioPluginWidgetsViewThreading2_Rollout": "True;60;2024-03-29T17:44:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -432,5 +433,6 @@
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
-  "FFlagSendUnloadWithViewableImpression2_Rollout": "True;60;2024-03-29T16:22:20"
+  "FFlagSendUnloadWithViewableImpression2": "True",
+  "FFlagEnableVideoProgressEventReporting2_Rollout": "True;60;2024-03-29T18:07:29"
 }

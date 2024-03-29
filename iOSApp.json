@@ -131,6 +131,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
+  "FFlagStudioPluginWidgetsViewThreading2_Rollout": "True;60;2024-03-29T17:44:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -522,5 +523,7 @@
   "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagDisablePhoneVerificationForCI": "True",
   "FStringContactsListLayer": "Social.ContactImporter",
-  "FFlagLaunchContextReducerEnabled": "True"
+  "FFlagLaunchContextReducerEnabled": "True",
+  "FFlagEnableiOSCheckTTIFlagFetchUseCase_Rollout": "True;60;2024-03-29T17:38:27",
+  "FFlagEnableCacheiOSCheckTTIFlagFetchUseCase_Rollout": "True;60;2024-03-29T17:38:30"
 }
