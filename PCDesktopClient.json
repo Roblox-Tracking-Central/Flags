@@ -433,5 +433,5 @@
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
-  "FFlagEnableVideoProgressEventReporting2_Rollout": "True;60;2024-03-29T18:07:29"
+  "FFlagEnableVideoProgressEventReporting2": "True"
 }
