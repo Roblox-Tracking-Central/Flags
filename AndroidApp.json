@@ -518,7 +518,6 @@
   "FFlagSelfViewCameraSettings": "True",
   "EnableIrisUpdatedCallingNotificationCompat": "False",
   "FFlagEnableNavBarLabels3": "True",
-  "FFlagPlatformEventEnabled2": "True",
   "FFlagPasskeySignupEnabled": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease2": "True",
   "DFIntInterpolationDtLimitForLod_PlaceFilter": "12;4924922222",

@@ -149,7 +149,6 @@
   "FFlagGpuGeometryManager13": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagBuildInitialCacheFix": "True",
-  "FFlagPlatformEventEnabled2": "True",
   "FFlagCLI98896": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "DFFlagHttpDisableSslReleaseBuffers": "True",

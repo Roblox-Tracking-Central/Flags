@@ -569,7 +569,6 @@
   "FFlagStreamSoundsCompressedInMemory3": "True",
   "FFlagGpuGeometryManager13": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
-  "FFlagPlatformEventEnabled2": "True",
   "FFlagCLI98896": "True",
   "DFFlagHttpDisableSslReleaseBuffers": "True",
   "FFlagCLI91794": "True",
