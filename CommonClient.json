@@ -9012,7 +9012,6 @@
   "DFIntLogMessageTruncateLimit": "980000",
   "FFlagLuaAppDeprecateGamesImageSetLabel": "True",
   "DFFlagCollectibleItemPurchaseDevApiLocalPromptResellAuthEnabled": "True",
-  "DFFlagCollectibleItemPurchaseDevApiResellEnabled": "True",
   "DFFlagCollectibleItemPurchaseResellEnabled": "True",
   "FFlagCollectibleItemPurchaseResellNetworkEnabled": "True",
   "FFlagDisplayCollectiblesIcon": "True",
