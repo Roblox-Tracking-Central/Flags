@@ -11249,7 +11249,7 @@
   "FFlagBreakTranslationDependencyOnRestricted": "True",
   "FFlagSimRefactorSteppingParams": "True",
   "DFFlagReverseBridgeFlags": "True",
-  "DFFlagVoiceChatProfileJoinProcessV2": "True",
+  "DFFlagVoiceChatProfileJoinProcessV2": "False",
   "DFFlagSplitModuleRequire": "True",
   "DFFlagJsonBadAlloc": "True",
   "FFlagLuauLoadExceptionSafe": "True",
