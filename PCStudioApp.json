@@ -536,7 +536,7 @@
   "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
   "FFlagLateComponentRegistration": "True",
   "FFlagRefPropMessageDot": "True",
-  "FFlagEnableSocialPresence3": "True",
+  "FFlagEnableSocialPresence3": "False",
   "FFlagSocialPresenceIxpExperimentation": "False",
   "FFlagLuauCodegenLoadTVTag": "True",
   "FFlagPathEditorSelectModeShortcutChangeToV": "True",
