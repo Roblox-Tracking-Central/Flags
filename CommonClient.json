@@ -11327,6 +11327,7 @@
   "FFlagServerReceiveAvoidPlayerOnFireServer": "True",
   "FFlagFixNotifyMovingCallbackThreading": "True",
   "FFlagRuppFromServer23": "True",
+  "FFlagShouldInitWithFirstPageWithTabHeader": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
