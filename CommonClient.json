@@ -11336,6 +11336,7 @@
   "FFlagLuaAppCreatorWebNavUrlUpdate": "True",
   "FFlagFixMouseForAdsEuDsaModal_Rollout": "True;60;2024-04-01T21:23:03",
   "FFlagLuaAppMorePageCreateLinkUpdate_Rollout": "False;60;2024-04-01T21:23:07",
+  "FFlagXboxRemoveAppStateChange_Rollout": "True;60;2024-04-01T22:05:24",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
