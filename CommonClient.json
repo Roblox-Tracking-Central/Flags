@@ -11307,7 +11307,7 @@
   "FFlagPerformanceTelemetrySubsystem": "True",
   "DFFlagVoiceChatAutoTest_PlaceFilter": "True;7097215816",
   "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
-  "FFlagRuppFromServer23_DataCenterFilter": "True;353;369",
+  "FFlagRuppFromServer23_DataCenterFilter": "True;352;353;369",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagLuaAppSponsoredFooterTopicLayoutData": "True",
   "FFlagDeprecateReceivedCanShowUserAlias": "True",
