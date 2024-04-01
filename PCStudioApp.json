@@ -576,6 +576,7 @@
   "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
   "FFlagRefactorPlayerConnect": "True",
+  "DFFlagDisableRolloutTaggingUnexposed_Rollout": "True;60;2024-04-01T16:49:25",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",

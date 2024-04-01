@@ -524,5 +524,6 @@
   "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableCacheiOSCheckTTIFlagFetchUseCase": "True",
-  "FFlagEnableiOSCheckTTIFlagFetchUseCase": "True"
+  "FFlagEnableiOSCheckTTIFlagFetchUseCase": "True",
+  "DFFlagDisableRolloutTaggingUnexposed_Rollout": "True;60;2024-04-01T16:49:25"
 }

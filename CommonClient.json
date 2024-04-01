@@ -11316,6 +11316,7 @@
   "DFFlagClientNoStreamJob": "True",
   "DFIntClientAccessStreamJobReportPerMyriad": "100",
   "FFlagProcessAnimationLooped_Rollout": "True;60;2024-04-01T16:21:51",
+  "DFIntAndroidDeprecationPhase_Rollout": "2;30;2024-04-01T16:42:28",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
