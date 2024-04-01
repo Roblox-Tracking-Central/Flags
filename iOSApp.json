@@ -527,5 +527,6 @@
   "FFlagEnableiOSCheckTTIFlagFetchUseCase": "True",
   "DFFlagTeleportServiceCallEvent": "True",
   "DFFlagDisableRolloutTaggingUnexposed": "True",
-  "FFlagUpgradeUserAgentOverride": "True"
+  "FFlagUpgradeUserAgentOverride": "True",
+  "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-04-01T20:55:17"
 }

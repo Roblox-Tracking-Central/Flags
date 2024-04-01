@@ -565,6 +565,7 @@
   "FFlagDisablePhoneVerificationForCI": "True",
   "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagLaunchContextReducerEnabled": "True",
+  "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-04-01T20:55:17",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
