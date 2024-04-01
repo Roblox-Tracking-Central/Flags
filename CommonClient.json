@@ -11339,6 +11339,8 @@
   "DFFlagEnableExperienceNotificationOptInPrompt": "True",
   "FFlagForwardRefAssetRenderModel": "True",
   "FFlagEnableExperienceNotificationPrompts2_Rollout": "True;30;2024-04-01T22:18:03",
+  "FFlagEnableConsoleAutoFocusForUEN_Rollout": "True;30;2024-04-01T22:42:31",
+  "FFlagConsoleCredentialsHeadersEverywhere": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
