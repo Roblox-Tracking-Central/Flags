@@ -427,5 +427,5 @@
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
-  "DFFlagTeleportServiceCallEvent_Rollout": "True;30;2024-04-01T17:16:08"
+  "DFFlagTeleportServiceCallEvent": "True"
 }

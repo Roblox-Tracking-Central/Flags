@@ -309,6 +309,6 @@
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "DFFlagDisableRolloutTaggingUnexposed_Rollout": "True;60;2024-04-01T16:49:25",
-  "DFFlagTeleportServiceCallEvent_Rollout": "True;30;2024-04-01T17:16:08"
+  "DFFlagTeleportServiceCallEvent": "True",
+  "DFFlagDisableRolloutTaggingUnexposed": "True"
 }
