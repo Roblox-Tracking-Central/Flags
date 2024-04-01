@@ -512,7 +512,7 @@
   "FStringContactsToastSeen": "ContactsToastSeen_Android",
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
-  "FFlagUniversalAppCsat2": "False",
+  "FFlagUniversalAppCsat2": "True",
   "EnableRequestPermissionsOnAppReady": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
@@ -587,5 +587,6 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-  "FFlagDSAVRSkipFrontendGeoCheck": "True"
+  "FFlagDSAVRSkipFrontendGeoCheck": "True",
+  "DFFlagTeleportServiceCallEvent_Rollout": "True;30;2024-04-01T17:16:08"
 }

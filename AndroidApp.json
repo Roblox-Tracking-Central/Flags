@@ -512,7 +512,7 @@
   "FStringContactsToastSeen": "ContactsToastSeen_Android",
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
-  "FFlagUniversalAppCsat2": "False",
+  "FFlagUniversalAppCsat2": "True",
   "EnableRequestPermissionsOnAppReady": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
