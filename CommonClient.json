@@ -11315,6 +11315,7 @@
   "FFlagStudioPluginWidgetsViewThreading2": "True",
   "DFFlagClientNoStreamJob": "True",
   "DFIntClientAccessStreamJobReportPerMyriad": "100",
+  "FFlagProcessAnimationLooped_Rollout": "True;60;2024-04-01T16:21:51",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
