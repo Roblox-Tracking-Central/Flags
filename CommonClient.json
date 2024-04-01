@@ -11333,6 +11333,7 @@
   "DFFlagIkSolverFixLock": "True",
   "DFFlagWfhAddText": "True",
   "DFFlagWireframeHandleAdornmentWorkspaceCFrameIdentity": "True",
+  "DFFlagEnableExperienceNotificationOptInPrompt_Rollout": "True;60;2024-04-01T20:35:07",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
