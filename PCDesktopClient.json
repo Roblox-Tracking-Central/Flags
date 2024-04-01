@@ -438,5 +438,8 @@
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
-  "FIntEnableVisBugChecksHundredthPercent": "10"
+  "FIntEnableVisBugChecksHundredthPercent": "10",
+  "FFlagEnableSaleLocationShopAndExperiencesDevApi1_Rollout": "True;60;2024-04-01T23:32:34",
+  "FFlagEnableUGC4ACollectiblePurchaseSupport_Rollout": "True;60;2024-04-01T23:32:34",
+  "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport_Rollout": "True;60;2024-04-01T23:32:34"
 }
