@@ -564,5 +564,6 @@
   "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagDisablePhoneVerificationForCI": "True",
   "FStringContactsListLayer": "Social.ContactImporter",
-  "FFlagLaunchContextReducerEnabled": "True"
+  "FFlagLaunchContextReducerEnabled": "True",
+  "FFlagEarlyDataModelInit3_Rollout": "True;30;2024-04-01T19:09:00"
 }
