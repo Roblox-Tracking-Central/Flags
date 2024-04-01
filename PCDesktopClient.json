@@ -437,5 +437,5 @@
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
-  "FIntEnableVisBugChecksHundredthPercent_Rollout": "10;60;2024-04-01T18:42:24"
+  "FIntEnableVisBugChecksHundredthPercent": "10"
 }
