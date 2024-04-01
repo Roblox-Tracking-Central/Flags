@@ -528,5 +528,6 @@
   "DFFlagTeleportServiceCallEvent": "True",
   "DFFlagDisableRolloutTaggingUnexposed": "True",
   "FFlagUpgradeUserAgentOverride": "True",
-  "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-04-01T20:55:17"
+  "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-04-01T20:55:17",
+  "FFlagEnableOtpEmailLoginRelease1": "True"
 }
