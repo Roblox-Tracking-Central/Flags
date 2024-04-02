@@ -427,5 +427,6 @@
   "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
   "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-04-02T20:21:50",
-  "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-02T20:22:10"
+  "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-02T20:22:10",
+  "FFlagEnableMenuModernizationABTest4": "True"
 }
