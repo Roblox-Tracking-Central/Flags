@@ -11323,7 +11323,6 @@
   "FFlagFixFriendsPageDeepLink": "True",
   "FFlagServerReceiveAvoidPlayerOnFireServer": "True",
   "FFlagFixNotifyMovingCallbackThreading": "True",
-  "FFlagRuppFromServer23": "True",
   "FFlagShouldInitWithFirstPageWithTabHeader": "True",
   "FFlagSimCSG3MeshTriangleCountOptimization": "True",
   "DFFlagIkSolverFixLock": "True",

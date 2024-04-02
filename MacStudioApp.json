@@ -558,6 +558,7 @@
   "FFlagLuauNativeExecutionMetrics": "True",
   "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": "5000",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "10000",
+  "FFlagGamepadInputUIPosition_Rollout": "True;60;2024-04-02T16:51:37",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
