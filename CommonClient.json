@@ -11367,6 +11367,7 @@
   "FFlagStudioRemoveOgreGst_Rollout": "True;60;2024-04-02T21:25:56",
   "FFlagNoBlinkingTextNotEditable": "True",
   "FFlagFixSetAvailableSpace_Rollout": "True;60;2024-04-02T21:31:03",
+  "FFlagSocialLuaAnalyticsAddPlatformValue": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
