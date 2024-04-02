@@ -437,6 +437,5 @@
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
-  "FFlagEnableVideoProgressEventReporting2": "True",
-  "FIntEnableVisBugChecksHundredthPercent": "10"
+  "FFlagEnableVideoProgressEventReporting2": "True"
 }
