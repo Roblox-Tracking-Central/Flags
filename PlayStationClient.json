@@ -274,6 +274,6 @@
   "FFlagUpdateFocusNavigationEffectsProps": "True",
   "FFlagUpdateModalBasedSelectorParent": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagDisableIxpUserFetchWithoutCookie_Rollout": "True;60;2024-04-02T17:47:11",
-  "FFlagGamepadInputUIPosition": "True"
+  "FFlagGamepadInputUIPosition": "True",
+  "FFlagDisableIxpUserFetchWithoutCookie": "True"
 }
