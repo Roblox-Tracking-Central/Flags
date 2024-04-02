@@ -82,5 +82,5 @@
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagGamepadInputUIPosition": "True",
-  "FFlagMacInstallerFixCancelAsNotFail_Rollout": "True;60;2024-04-02T21:32:39"
+  "FFlagMacInstallerFixCancelAsNotFail": "True"
 }
