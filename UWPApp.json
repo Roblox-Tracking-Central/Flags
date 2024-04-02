@@ -311,5 +311,7 @@
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "DFFlagTeleportServiceCallEvent": "True",
   "DFFlagDisableRolloutTaggingUnexposed": "True",
-  "FFlagGamepadInputUIPosition": "True"
+  "FFlagGamepadInputUIPosition": "True",
+  "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-04-02T20:21:50",
+  "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-02T20:22:10"
 }
