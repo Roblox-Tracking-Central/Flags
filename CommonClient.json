@@ -8951,7 +8951,6 @@
   "DFFlagDSTelemetryIncludeScopeAndDataModel": "True",
   "FFlagTenFootUiAvatar4": "True",
   "FFlagTeleportShutdownFixOrder": "True",
-  "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagAvatarPreviewerFixLayeredClothingOrdering": "True",
   "FFlagAvatarPreviewerSweaters": "True",
   "FFlagAllowIXPToSetMemoryBufferDataForPerfControl": "True",
