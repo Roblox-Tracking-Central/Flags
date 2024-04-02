@@ -11188,7 +11188,6 @@
   "FFlagMigrateSelectionVerbs": "True",
   "FFlagReportCorrectAvgQualityInFRMMetrics": "True",
   "FFlagMigrateVerbAnchorVerb": "True",
-  "EnableJavaAudioDeviceSelectionV2": "True",
   "DFFlagHasRuppHeaderFromServerTelemetry": "True",
   "DFFlagNoRuppHeaderFromServerTelemetry": "True",
   "DFFlagFixTurnFFlagsLuaOff": "True",
