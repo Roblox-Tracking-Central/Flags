@@ -11361,6 +11361,7 @@
   "FFlagHighlightsIntegratedWithGFX": "True",
   "DFFlagSendStreamingTunableTargetToServerCheck_Rollout": "False;60;2024-04-02T20:24:27",
   "FFlagXboxRemoveCPPLogic": "True",
+  "FFlagLuaAppSearchBarDeprecateLocalizedTextBox_Rollout": "True;60;2024-04-02T20:54:53",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
