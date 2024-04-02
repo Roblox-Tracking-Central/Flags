@@ -553,9 +553,6 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FFlagDebugDisableLuaBridgeMethodProfiling": "True",
   "FFlagDebugDisableLuaBridgePropertyProfiling": "True",
-  "FFlagIBEnableFixForOwnedText": "True",
-  "FFlagIBEnableFixForSaleLocation": "True",
-  "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagClothingSortingDeeplink": "True",
   "FFlagCapturesCarouselReducedMotionSupport": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -586,7 +583,6 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-  "FFlagDSAVRSkipFrontendGeoCheck": "True",
   "DFFlagTeleportServiceCallEvent": "True",
   "FFlagGamepadInputUIPosition": "True"
 }
