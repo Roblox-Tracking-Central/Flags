@@ -525,6 +525,6 @@
   "FFlagUpgradeUserAgentOverride": "True",
   "FFlagEnableOtpEmailLoginRelease1": "True",
   "FFlagGamepadInputUIPosition": "True",
-  "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-04-02T20:21:50",
-  "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-02T20:22:10"
+  "DFFlagPhysicsReportInterpolatedTime": "True",
+  "DFFlagPhysicsReportWorldTime1": "True"
 }
