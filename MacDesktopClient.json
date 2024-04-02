@@ -173,7 +173,7 @@
   "DFFlagDisableRolloutTaggingUnexposed": "True",
   "FFlagGetAudioMetadataAsyncEnabled3": "True",
   "DFFlagEnableRobloxCreditPurchase2": "True",
-  "FFlagGamepadInputUIPosition_Rollout": "True;60;2024-04-02T16:51:37",
+  "FFlagGamepadInputUIPosition": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

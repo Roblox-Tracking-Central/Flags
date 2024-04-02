@@ -590,5 +590,5 @@
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagDSAVRSkipFrontendGeoCheck": "True",
   "DFFlagTeleportServiceCallEvent": "True",
-  "FFlagGamepadInputUIPosition_Rollout": "True;60;2024-04-02T16:51:37"
+  "FFlagGamepadInputUIPosition": "True"
 }
