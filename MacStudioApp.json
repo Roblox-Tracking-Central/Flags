@@ -106,7 +106,7 @@
   "DFFlagSimLimitAssemblyCount2": "False",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "750",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1500",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedCommon",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
@@ -551,11 +551,10 @@
   "FFlagMeasureScriptEditorPaintEvent": "True",
   "FFlagTerrainEditorFixInitialization": "True",
   "FFlagLuauNativeExecutionMetrics": "True",
-  "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": "5000",
+  "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": "10000",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "10000",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagToolboxSendPackageVersionNoteTelemetry": "True",
-  "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent_Rollout": "10000;60;2024-04-02T19:09:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -594,6 +593,5 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "1500;60;2024-04-02T19:09:55"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
 }
