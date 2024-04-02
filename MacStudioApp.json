@@ -444,7 +444,6 @@
   "FFlagTextureGeneratorMoveQuotaCalls": "True",
   "FFlagTextureGeneratorQuotaErrorFix": "True",
   "FFlagTextureGeneratorTelemetry": "True",
-  "FFlagNoBlinkingTextNotEditable": "True",
   "FFlagDevFrameworkFormUseScrollingFrame": "True",
   "FFlagStudioComponentizeRobloxIDEDoc4": "True",
   "FFlagDevFrameworkTextInputFixOnEnter": "True",
