@@ -546,7 +546,6 @@
   "FFlagACEHideBonesOnExit": "True",
   "FFlagAICODuplicateGhostTextShownEvents": "True",
   "FFlagCodeAssistDisclaimerUserLogin": "True",
-  "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
   "FFlagIBEnableFixForOwnedText": "True",
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
@@ -557,8 +556,9 @@
   "FFlagLuauNativeExecutionMetrics": "True",
   "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": "5000",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "10000",
-  "FFlagToolboxSendPackageVersionNoteTelemetry_Rollout": "True;60;2024-04-02T17:34:07",
   "FFlagGamepadInputUIPosition": "True",
+  "FFlagToolboxSendPackageVersionNoteTelemetry": "True",
+  "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent_Rollout": "10000;60;2024-04-02T19:09:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -597,5 +597,6 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "1500;60;2024-04-02T19:09:55"
 }
