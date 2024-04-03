@@ -438,5 +438,5 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
-  "FFlagOptimizeNoCollisionPrimitiveInMidphase2_PlaceFilter": "True;6558526079;6593190090;6696693774;13042543525;13408537127"
+  "FFlagOptimizeNoCollisionPrimitiveInMidphase2_PlaceFilter": "True;10253248401"
 }
