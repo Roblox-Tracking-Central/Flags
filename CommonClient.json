@@ -11038,7 +11038,7 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagUseFindInsteadOfCreateForVisit": "True",
   "FFlagConvAICodeRunner": "True",
-  "FFlagFriendsCarouselPaginatedFriendsWithUILoadingTime2": "True",
+  "FFlagFriendsCarouselPaginatedFriendsWithUILoadingTime2": "False",
   "FFlagFriendsCarouselUILoadingTime3": "True",
   "FFlagGraphicsVulkanDescriptorSetBindCSFix": "True",
   "FFlagGpuGeometryManagerIndexBufferAlignment2": "True",
