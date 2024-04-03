@@ -561,5 +561,6 @@
   "FFlagDisablePhoneVerificationForCI": "True",
   "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagLaunchContextReducerEnabled": "True",
-  "FFlagEnableOtpEmailLoginRelease1": "True"
+  "FFlagEnableOtpEmailLoginRelease1": "True",
+  "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True"
 }

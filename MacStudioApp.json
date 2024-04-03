@@ -557,6 +557,7 @@
   "FFlagToolboxSendPackageVersionNoteTelemetry": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
+  "FLogSignalRNotification": "0",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -586,7 +587,6 @@
   "DFFlagDisableRolloutTaggingUnexposed": "True",
   "FFlagGetAudioMetadataAsyncEnabled3": "True",
   "DFFlagEnableRobloxCreditPurchase2": "True",
-  "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
@@ -594,5 +594,6 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2_Rollout": "7500;30;2024-04-03T19:30:31"
 }

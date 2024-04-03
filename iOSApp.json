@@ -529,5 +529,6 @@
   "DFFlagPhysicsReportInterpolatedTime": "True",
   "DFFlagPhysicsReportWorldTime1": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
+  "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True"
 }

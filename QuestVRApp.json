@@ -562,6 +562,7 @@
   "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableOtpEmailLoginRelease1": "False",
+  "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
