@@ -571,6 +571,8 @@
   "FFlagMigrateVerbRotateAxisVerbs": "True",
   "FFlagTerrainEditorPlaneLockFix": "True",
   "FFlagLuauCodegenDetailedCompilationResult": "True",
+  "FFlagToolboxExcludeGroupCreations": "True",
+  "FFlagSimCSGV3ImprovePerfTelemetry_Rollout": "True;60;2024-04-03T22:18:39",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
