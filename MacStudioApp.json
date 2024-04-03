@@ -573,6 +573,7 @@
   "FFlagSimCSGV3ImprovePerfTelemetry_Rollout": "True;60;2024-04-03T22:18:39",
   "FFlagMigrateVerbDragGridVerbs": "True",
   "FFlagMigrateVerbGridVerbs": "True",
+  "FFlagDevFrameworkFormFixValidation2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
