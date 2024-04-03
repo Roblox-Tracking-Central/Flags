@@ -11377,6 +11377,7 @@
   "FFlagELFSubsystemInternalFlowControl2": "True",
   "FFlagUseMachineIdUploaderInWindows": "True",
   "DFFlagFixInterpolationParallelTasks": "True",
+  "FFlagLuaAppSingleHoveredGridTile": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
