@@ -567,6 +567,8 @@
   "FFlagMigrateVerbGridVerbs_Rollout": "True;60;2024-04-03T20:55:18",
   "FFlagTerrainEditorUseDeleteOperation": "True",
   "FFlagLuauCodegenDetailedCompilationResult_Rollout": "True;30;2024-04-03T21:04:46",
+  "FFlagTerrainEditorOperationFinishedFix": "True",
+  "FFlagSpeedUpDebuggerStartupPlaySoloWithCyclingSubmitTask_Rollout": "True;60;2024-04-03T21:14:05",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
