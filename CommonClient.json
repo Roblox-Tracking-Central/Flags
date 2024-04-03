@@ -11368,6 +11368,7 @@
   "FFlagFixSetAvailableSpace": "False",
   "FFlagStudioEnableHeartbeatsRollout": "True",
   "FIntStudioEnableHeartbeatsRolloutHundredthPercent": "100",
+  "FFlagFixIgnoreAllGamepad": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

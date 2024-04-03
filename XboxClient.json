@@ -333,7 +333,6 @@
   "FFlagFriendCarouselLocalShowRecommendationsLogic": "True",
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": "True",
   "FFlagExpDetailsUseSelectionBumpers": "True",
-  "FFlagFixIgnoreAllGamepad": "True",
   "FFlagFixTenFootUiExperienceGridPadding": "True",
   "FFlagFriendsLandingSafeAreaPadding": "True",
   "FFlagExperienceDetailsPlayButtonAutoFocus10ft": "True",
