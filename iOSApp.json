@@ -527,5 +527,7 @@
   "FFlagEnableOtpEmailLoginRelease1": "True",
   "FFlagGamepadInputUIPosition": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
-  "DFFlagPhysicsReportWorldTime1": "True"
+  "DFFlagPhysicsReportWorldTime1": "True",
+  "FFlagMarketplaceServiceEnableCollectibleBundleSupport_Rollout": "True;60;2024-04-03T17:32:32",
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken_Rollout": "True;60;2024-04-03T17:32:32"
 }

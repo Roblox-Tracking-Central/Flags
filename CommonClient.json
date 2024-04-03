@@ -11376,6 +11376,7 @@
   "FFlagMobileMorePageScrollToTop_Rollout": "True;30;2024-04-03T16:56:12",
   "FFlagMobileScrollToTopLogging_Rollout": "True;30;2024-04-03T16:57:26",
   "FFlagScrollToTopIXPExperimentation_Rollout": "True;30;2024-04-03T16:58:12",
+  "FFlagUseMachineIdUploaderInWindows_Rollout": "True;60;2024-04-03T17:35:04",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

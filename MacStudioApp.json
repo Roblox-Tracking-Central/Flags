@@ -555,6 +555,8 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "10000",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagToolboxSendPackageVersionNoteTelemetry": "True",
+  "FFlagMarketplaceServiceEnableCollectibleBundleSupport_Rollout": "True;60;2024-04-03T17:32:32",
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken_Rollout": "True;60;2024-04-03T17:32:32",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",

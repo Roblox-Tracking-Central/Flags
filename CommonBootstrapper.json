@@ -82,5 +82,7 @@
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagGamepadInputUIPosition": "True",
-  "FFlagMacInstallerFixCancelAsNotFail": "True"
+  "FFlagMacInstallerFixCancelAsNotFail": "True",
+  "FFlagMarketplaceServiceEnableCollectibleBundleSupport_Rollout": "True;60;2024-04-03T17:32:32",
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken_Rollout": "True;60;2024-04-03T17:32:32"
 }
