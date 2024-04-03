@@ -11380,6 +11380,7 @@
   "FFlagLuaAppSingleHoveredGridTile": "True",
   "FFlagDontLeaveCaptureModeOnTP_Rollout": "True;60;2024-04-03T20:25:23",
   "FFlagAllowGroupPackagesPublish_Rollout": "True;60;2024-04-03T20:35:26",
+  "FFlagUseMachineIdUploaderInMacOS_Rollout": "True;60;2024-04-03T20:48:52",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
