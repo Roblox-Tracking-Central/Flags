@@ -435,5 +435,5 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
-  "FFlagFixDmControllerAccessLock_Rollout": "True;60;2024-04-02T23:09:47"
+  "FFlagFixDmControllerAccessLock": "True"
 }
