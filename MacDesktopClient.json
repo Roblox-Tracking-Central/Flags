@@ -123,6 +123,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
+  "FFlagInteractableStateForGuiObjects3": "True",
   "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent": "7500",
   "FStringPresencePropagationDelayMetricName": "MacDUAPresencePropagationDelay",
@@ -154,7 +155,6 @@
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagELFSubsystemInternalFlowControl2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "DFFlagHttpDisableSslReleaseBuffers": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -453,6 +453,5 @@
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
-  "FFlagEnableVideoProgressEventReporting2": "True",
-  "FFlagInteractableStateForGuiObjects3_Rollout": "True;10;2024-04-03T17:45:29"
+  "FFlagEnableVideoProgressEventReporting2": "True"
 }
