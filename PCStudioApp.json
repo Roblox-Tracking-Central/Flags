@@ -583,7 +583,6 @@
   "FFlagPreventDuplicateSetupGameStateView": "True",
   "FFlagUpdateAvatarGestures": "True",
   "FFlagAvatarPreviewerNewAnimations3": "True",
-  "FFlagAvatarPreviewerNewCatalogAccessories4": "True",
   "FFlagTerrainEditorGenerateBiomesFix3": "True",
   "FFlagFixAvatarUtilCharacter_Rollout": "True;60;2024-04-04T20:44:21",
   "DFFlagAssetsUploadAddTeamCreateUploaderUserIdToRequest2": "True",
