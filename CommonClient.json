@@ -11389,6 +11389,7 @@
   "FFlagAvatarPreviewerKeepAccessoriesInCheckFace2_Rollout": "True;60;2024-04-04T17:38:44",
   "FFlagTerrainToolsDontAskLocalized": "True",
   "DFIntRestartFmodRecordingCooldownMs_Rollout": "4000;60;2024-04-04T18:18:30",
+  "FFlagMigrateRoactUtilsToReactUtils": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
