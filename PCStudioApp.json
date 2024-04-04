@@ -610,6 +610,8 @@
   "DFFlagDisableRolloutTaggingUnexposed": "True",
   "FFlagGetAudioMetadataAsyncEnabled3": "True",
   "DFFlagEnableRobloxCreditPurchase2": "True",
+  "FFlagVerbsWithNoContainerStats_Rollout": "True;60;2024-04-04T18:11:03",
+  "DFFlagTerrainVoxelChannelsLS_Rollout": "True;60;2024-04-04T18:12:34",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",

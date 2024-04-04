@@ -171,6 +171,7 @@
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141",
   "AllowVideoPreRoll": "True",
+  "DFFlagTerrainVoxelChannelsLS_Rollout": "True;60;2024-04-04T18:12:34",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -442,5 +443,6 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
-  "FFlagLuaAppFooterLayoutDataBySort": "True"
+  "FFlagLuaAppFooterLayoutDataBySort": "True",
+  "FFlagInteractableStateForGuiObjects3_Rollout": "True;10;2024-04-04T18:21:21"
 }
