@@ -437,6 +437,5 @@
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
-  "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
-  "FFlagOptimizeNoCollisionPrimitiveInMidphase2_PlaceFilter": "True;10253248401"
+  "FFlagFixUgcBadPointerForLowMemoryWarning": "True"
 }

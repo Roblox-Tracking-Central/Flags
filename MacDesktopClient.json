@@ -171,7 +171,7 @@
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "DFFlagHarmonyStreamingNewMetrics_Rollout": "True;60;2024-04-03T21:57:49",
+  "DFFlagHarmonyStreamingNewMetrics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -454,6 +454,5 @@
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
-  "FFlagEnableVideoProgressEventReporting2": "True",
-  "FFlagOptimizeNoCollisionPrimitiveInMidphase2_PlaceFilter": "True;10253248401"
+  "FFlagEnableVideoProgressEventReporting2": "True"
 }
