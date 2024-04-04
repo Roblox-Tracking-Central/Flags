@@ -465,6 +465,6 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-04T19:16:46",
-  "DFFlagVoiceChatTimeToUnmute": "True"
+  "DFFlagVoiceChatTimeToUnmute": "True",
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True"
 }
