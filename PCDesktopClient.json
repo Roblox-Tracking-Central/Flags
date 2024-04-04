@@ -448,6 +448,6 @@
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
   "FFlagOptimizeNoCollisionPrimitiveInMidphase2_DataCenterFilter": "True;361",
-  "DFFlagVoiceChatTimeToUnmute_Rollout": "True;60;2024-04-04T18:55:17",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-04T19:16:46"
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-04T19:16:46",
+  "DFFlagVoiceChatTimeToUnmute": "True"
 }

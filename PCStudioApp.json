@@ -584,6 +584,8 @@
   "FFlagUpdateAvatarGestures": "True",
   "FFlagAvatarPreviewerNewAnimations3": "True",
   "FFlagAvatarPreviewerNewCatalogAccessories4": "True",
+  "FFlagTerrainEditorGenerateBiomesFix3": "True",
+  "DFFlagAssetsUploadAddTeamCreateUploaderUserIdToRequest2_Rollout": "True;5;2024-04-04T20:24:50",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
