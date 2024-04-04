@@ -173,6 +173,8 @@
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
+  "FFlagUpdateAvatarGestures_Rollout": "True;60;2024-04-04T17:34:28",
+  "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -455,5 +457,6 @@
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
-  "FFlagEnableVideoProgressEventReporting2": "True"
+  "FFlagEnableVideoProgressEventReporting2": "True",
+  "FFlagLuaAppFooterLayoutDataBySort": "True"
 }

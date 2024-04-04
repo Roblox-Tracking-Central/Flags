@@ -564,5 +564,8 @@
   "FFlagEnableOtpEmailLoginRelease1": "True",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True",
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
-  "FFlagAnimationClipMemCacheEnabled_Rollout": "False;60;2024-04-04T17:26:07"
+  "FFlagAnimationClipMemCacheEnabled_Rollout": "False;60;2024-04-04T17:26:07",
+  "FFlagLuaAppFooterLayoutDataBySort": "True",
+  "FFlagUpdateAvatarGestures_Rollout": "True;60;2024-04-04T17:34:28",
+  "FFlagEnableTempFixCollectibleBundlePurchase": "True"
 }

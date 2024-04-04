@@ -578,6 +578,8 @@
   "FFlagTerrainEditorClearFix": "True",
   "FFlagTerrainEditorIgnoreWaterFix": "True",
   "FFlagPreventDuplicateSetupGameStateView_Rollout": "True;60;2024-04-04T17:27:10",
+  "FFlagUpdateAvatarGestures_Rollout": "True;60;2024-04-04T17:34:28",
+  "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
