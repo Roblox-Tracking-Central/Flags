@@ -542,6 +542,7 @@
   "FFlagAXFixTopicsNoResultsShimmer": "True",
   "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
   "FFlagHideDraggerPeekViewV3": "True",
-  "DFFlagVideoFixPlayerStateOnClose_Rollout": "True;60;2024-04-04T21:41:44",
-  "FFlagFixAvatarUtilCharacter": "True"
+  "FFlagFixAvatarUtilCharacter": "True",
+  "FFlagIBEnableSendCounters1": "True",
+  "DFFlagVideoFixPlayerStateOnClose": "True"
 }

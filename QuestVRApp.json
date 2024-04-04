@@ -574,6 +574,7 @@
   "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
   "FFlagHideDraggerPeekViewV3": "True",
   "FFlagFixAvatarUtilCharacter": "True",
+  "FFlagIBEnableSendCounters1": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

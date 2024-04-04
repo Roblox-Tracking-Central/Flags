@@ -594,6 +594,7 @@
   "DFFlagTeamCreateNewPlaceUploadSaveRollout": "True",
   "DFIntTeamCreateNewPlaceUploadSaveRolloutHundredthPercent": "100",
   "FFlagStudioManageCollabFixFocusError": "True",
+  "FFlagIBEnableSendCounters1": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

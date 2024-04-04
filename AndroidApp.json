@@ -573,5 +573,6 @@
   "FFlagAXFixTopicsNoResultsShimmer": "True",
   "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
   "FFlagHideDraggerPeekViewV3": "True",
-  "FFlagFixAvatarUtilCharacter": "True"
+  "FFlagFixAvatarUtilCharacter": "True",
+  "FFlagIBEnableSendCounters1": "True"
 }

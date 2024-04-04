@@ -90,5 +90,6 @@
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
   "FFlagUpdateAvatarGestures": "True",
   "FFlagVerbsWithNoContainerStats": "True",
-  "FFlagFixAvatarUtilCharacter": "True"
+  "FFlagFixAvatarUtilCharacter": "True",
+  "FFlagIBEnableSendCounters1": "True"
 }
