@@ -564,6 +564,7 @@
   "FFlagEnableOtpEmailLoginRelease1": "False",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True",
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
+  "FFlagAnimationClipMemCacheEnabled_Rollout": "False;60;2024-04-04T17:26:07",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
