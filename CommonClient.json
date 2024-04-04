@@ -7762,7 +7762,7 @@
   "FFlagUGCValidationAnalytics": "True",
   "FFlagSimSolverEnableLookAtConstraint2": "True",
   "FFlagEnableCanPerformBinaryUpdate": "True",
-  "FFlagDisableAddFriendsInCarousel": "True",
+  "FFlagDisableAddFriendsInCarousel": "False",
   "FFlagFixNonSelfCalls": "True",
   "FFlagImprovePluginSpeedMaterialGenerator": "True",
   "FFlagImprovePluginSpeedPivotEditor": "False",
