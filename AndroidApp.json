@@ -568,5 +568,6 @@
   "FFlagLuaAppFooterLayoutDataBySort": "True",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
-  "FFlagUpdateAvatarGestures": "True"
+  "FFlagUpdateAvatarGestures": "True",
+  "FFlagFixAvatarUtilCharacter_Rollout": "True;60;2024-04-04T20:44:21"
 }
