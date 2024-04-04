@@ -563,6 +563,7 @@
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableOtpEmailLoginRelease1": "False",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True",
+  "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

@@ -84,5 +84,6 @@
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMacInstallerFixCancelAsNotFail": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
+  "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141"
 }

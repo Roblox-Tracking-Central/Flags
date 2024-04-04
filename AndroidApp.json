@@ -562,5 +562,6 @@
   "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableOtpEmailLoginRelease1": "True",
-  "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True"
+  "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True",
+  "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141"
 }
