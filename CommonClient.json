@@ -11387,6 +11387,7 @@
   "DFIntPerformanceControlSoundLatencySecondSegmentUtility": "-250",
   "DFIntPerformanceControlSoundLatencyThirdSegmentUtility": "-140",
   "FFlagAvatarPreviewerKeepAccessoriesInCheckFace2_Rollout": "True;60;2024-04-04T17:38:44",
+  "FFlagTerrainToolsDontAskLocalized": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
