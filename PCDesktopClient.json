@@ -437,5 +437,6 @@
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
-  "FFlagFixUgcBadPointerForLowMemoryWarning": "True"
+  "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
+  "FFlagLuaAppFooterLayoutDataBySort": "True"
 }
