@@ -132,6 +132,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
+  "FFlagTenFootUiDisableContactImporter_Rollout": "True;60;2024-04-04T21:35:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -569,5 +570,9 @@
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
   "FFlagUpdateAvatarGestures": "True",
-  "FFlagFixAvatarUtilCharacter_Rollout": "True;60;2024-04-04T20:44:21"
+  "FFlagFixAvatarUtilCharacter_Rollout": "True;60;2024-04-04T20:44:21",
+  "FFlagAXFixNoItemsFoundWidgetsResults": "True",
+  "FFlagAXFixTopicsNoResultsShimmer": "True",
+  "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
+  "FFlagHideDraggerPeekViewV3": "True"
 }
