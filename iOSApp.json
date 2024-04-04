@@ -536,6 +536,6 @@
   "FFlagLuaAppFooterLayoutDataBySort": "True",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141",
-  "FFlagVerbsWithNoContainerStats_Rollout": "True;60;2024-04-04T18:11:03",
-  "FFlagUpdateAvatarGestures": "True"
+  "FFlagUpdateAvatarGestures": "True",
+  "FFlagVerbsWithNoContainerStats": "True"
 }
