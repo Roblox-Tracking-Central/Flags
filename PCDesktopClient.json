@@ -444,5 +444,6 @@
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "FFlagInteractableStateForGuiObjects3_Rollout": "True;10;2024-04-04T18:21:21"
+  "FFlagInteractableStateForGuiObjects3_Rollout": "True;10;2024-04-04T18:21:21",
+  "FFlagOptimizeNoCollisionPrimitiveInMidphase2_DataCenterFilter": "True;361"
 }

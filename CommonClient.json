@@ -11390,6 +11390,7 @@
   "FFlagTerrainToolsDontAskLocalized": "True",
   "DFIntRestartFmodRecordingCooldownMs_Rollout": "4000;60;2024-04-04T18:18:30",
   "FFlagMigrateRoactUtilsToReactUtils": "True",
+  "DFFlagAssetsUploadRefactorForSyncFlow_Rollout": "True;5;2024-04-04T18:46:52",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
