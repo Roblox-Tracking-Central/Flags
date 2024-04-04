@@ -123,7 +123,7 @@
   "FStringNewConversationCreatedCounter": "NewConversationCreatedDUAR",
   "FStringConversationMessageSentCounter": "ConversationMessageSentDUAR",
   "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
-  "FFlagInteractableStateForGuiObjects3": "False",
+  "FFlagInteractableStateForGuiObjects3": "True",
   "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent": "7500",
   "FStringPresencePropagationDelayMetricName": "WindowsDUAPresencePropagationDelay",
@@ -168,11 +168,11 @@
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
-  "FFlagUpdateAvatarGestures_Rollout": "True;60;2024-04-04T17:34:28",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141",
   "AllowVideoPreRoll": "True",
   "DFFlagTerrainVoxelChannelsLS_Rollout": "True;60;2024-04-04T18:12:34",
+  "FFlagUpdateAvatarGestures": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -445,7 +445,7 @@
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "FFlagInteractableStateForGuiObjects3_Rollout": "True;10;2024-04-04T18:21:21",
   "FFlagOptimizeNoCollisionPrimitiveInMidphase2_DataCenterFilter": "True;361",
-  "DFFlagVoiceChatTimeToUnmute_Rollout": "True;60;2024-04-04T18:55:17"
+  "DFFlagVoiceChatTimeToUnmute_Rollout": "True;60;2024-04-04T18:55:17",
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-04T19:16:46"
 }

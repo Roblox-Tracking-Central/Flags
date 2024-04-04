@@ -174,11 +174,11 @@
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
-  "FFlagUpdateAvatarGestures_Rollout": "True;60;2024-04-04T17:34:28",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141",
   "AllowVideoPreRoll": "True",
   "DFFlagTerrainVoxelChannelsLS_Rollout": "True;60;2024-04-04T18:12:34",
+  "FFlagUpdateAvatarGestures": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -462,5 +462,6 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute_Rollout": "True;60;2024-04-04T18:55:17"
+  "DFFlagVoiceChatTimeToUnmute_Rollout": "True;60;2024-04-04T18:55:17",
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-04T19:16:46"
 }
