@@ -172,6 +172,7 @@
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
+  "DFFlagTerrainVoxelChannelsLS_Rollout": "True;60;2024-04-04T16:47:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
