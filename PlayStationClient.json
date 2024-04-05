@@ -136,6 +136,7 @@
   "DFFlagVideoFixPlayerStateOnClose_Rollout": "True;60;2024-04-05T16:51:43",
   "FFlagLuauCodegenLoadTVTag_Rollout": "True;30;2024-04-05T17:19:42",
   "FFlagRefPropMessageDot_Rollout": "True;30;2024-04-05T17:20:02",
+  "FFlagLateComponentRegistration_Rollout": "True;30;2024-04-05T17:21:54",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
