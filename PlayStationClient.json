@@ -272,6 +272,5 @@
   "DFFlagPhysicsReportWorldTime1": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "FFlagEnablePSAccountProtocol": "True",
   "FFlagVerbsWithNoContainerStats": "True"
 }
