@@ -98,7 +98,6 @@
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
   "DFFlagAUMPAnalytics": "False",
   "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck": "True",
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
@@ -132,10 +131,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
+  "FFlagEnablePSAccountProtocol_Rollout": "True;30;2024-04-05T18:27:20",
   "AllowVideoPreRoll": "True",
-  "FFlagLuauCodegenLoadTVTag_Rollout": "True;30;2024-04-05T17:19:42",
-  "FFlagRefPropMessageDot_Rollout": "True;30;2024-04-05T17:20:02",
-  "FFlagLateComponentRegistration_Rollout": "True;30;2024-04-05T17:21:54",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -547,6 +544,5 @@
   "FFlagHideDraggerPeekViewV3": "True",
   "FFlagFixAvatarUtilCharacter": "True",
   "FFlagIBEnableSendCounters1": "True",
-  "DFFlagVideoFixPlayerStateOnClose": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True"
 }
