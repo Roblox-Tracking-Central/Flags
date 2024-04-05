@@ -182,8 +182,9 @@
   "FFlagFixAvatarUtilCharacter": "True",
   "FFlagIBEnableSendCounters1": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
-  "AllowVideoPreRoll": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -455,7 +456,5 @@
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-05T17:48:29"
+  "DFFlagVoiceChatTimeToUnmute": "True"
 }

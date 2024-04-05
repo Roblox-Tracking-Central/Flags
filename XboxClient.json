@@ -423,5 +423,5 @@
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "FFlagVerbsWithNoContainerStats": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-05T17:48:29"
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True"
 }
