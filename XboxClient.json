@@ -98,6 +98,7 @@
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
   "DFFlagSimulateNewDynamicFlagRolloutCheck": "False",
+  "FFlagSimulateNewStaticFlagRolloutCheck": "False",
   "FFlagEnableInGameMenuModernization": "False",
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
@@ -131,7 +132,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "False;30;2024-04-05T16:35:29",
   "DFFlagVideoFixPlayerStateOnClose_Rollout": "True;60;2024-04-05T16:51:43",
   "FFlagLuauCodegenLoadTVTag_Rollout": "True;30;2024-04-05T17:19:42",
   "FFlagRefPropMessageDot_Rollout": "True;30;2024-04-05T17:20:02",
@@ -428,5 +428,6 @@
   "DFFlagPhysicsReportWorldTime1": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "FFlagVerbsWithNoContainerStats": "True"
+  "FFlagVerbsWithNoContainerStats": "True",
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-05T17:48:29"
 }

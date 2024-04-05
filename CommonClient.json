@@ -7467,7 +7467,6 @@
   "FFlagCOLLAB4802_FixManageCollabLanguageBug": "True",
   "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
   "FFlagDragDetectorJointType": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck": "True",
   "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
   "FFlagBootcampCLI84830": "True",
   "FFlagHideContextualButtonBasedOnStateForVR": "True",
