@@ -138,6 +138,7 @@
   "FFlagAvatarPreviewerFixSurveyOverlap_Rollout": "True;60;2024-04-08T20:53:10",
   "FFlagAvatarPreviewerFixStretchyHair_Rollout": "True;60;2024-04-08T20:58:59",
   "FFlagLuauCompileRepeatUntilSkippedLocals_Rollout": "True;60;2024-04-08T21:12:02",
+  "FFlagPackageMassUpdateHangFix_Rollout": "True;60;2024-04-08T21:35:40",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
