@@ -417,11 +417,8 @@
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
-  "DFFlagPhysicsReportWorldTime1": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "FFlagVerbsWithNoContainerStats": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
-  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
-  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50"
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True"
 }

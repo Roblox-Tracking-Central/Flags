@@ -131,9 +131,9 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagEnableFriendsListAnimation_Rollout": "True;60;2024-04-08T18:44:28",
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -157,7 +157,6 @@
   "FFlagCLI91794": "True",
   "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
-  "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
   "FFlagRefactorPlayerConnect": "True",
   "DFFlagTeleportServiceCallEvent": "True",
@@ -455,7 +454,5 @@
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True",
-  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
-  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50"
+  "DFFlagVoiceChatTimeToUnmute": "True"
 }

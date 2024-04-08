@@ -132,8 +132,8 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "AllowVideoPreRoll": "True",
-  "AxisAdornmentGrabSize": "12",
   "FFlagEnableFriendsListAnimation_Rollout": "True;60;2024-04-08T18:44:28",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -313,9 +313,6 @@
   "DFFlagTeleportServiceCallEvent": "True",
   "FFlagGamepadInputUIPosition": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
-  "DFFlagPhysicsReportWorldTime1": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
-  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50"
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
 }

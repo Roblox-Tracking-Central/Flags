@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-04-08T17:39:04",
   "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-08T17:42:47",
   "FFlagEnableFriendsListAnimation_Rollout": "True;60;2024-04-08T18:44:28",
   "AllowVideoPreRoll": "True",
@@ -581,8 +580,6 @@
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "DisableSendrNotificationInForeground": "True",
-  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
-  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50",
   "FFlagEnableDoraemonLandingRelease1": "True",
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "True"

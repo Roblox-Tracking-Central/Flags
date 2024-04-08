@@ -11429,7 +11429,6 @@
   "FFlagPublishServiceAddPublishFlagSinglePart": "True",
   "FFlagSelfViewGetRidOfFalselyRenderedFaceDecal": "True",
   "FFlagSelfViewUpdatedCamFraming": "True",
-  "FFlagDragDetectorUsesPermissionPolicyRevised2_Rollout": "True;60;2024-04-08T17:30:16",
   "DFFlagClientRolloutPhaseTelemetry": "True",
   "DFIntClientRolloutPhaseTelemetryThrottle_Rollout": "10;60;2024-04-08T17:45:50",
   "DFFlagDisableRolloutTaggingUnexposed": "True",
@@ -11449,6 +11448,8 @@
   "FFlagLuauCompileNoJumpLineRetarget_Rollout": "True;60;2024-04-08T18:46:22",
   "FFlagFixPseudoInstanceBugs_Rollout": "True;60;2024-04-08T18:49:50",
   "FFlagTenFootUiHideFriendsTools": "True",
+  "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
+  "DFFlagPhysicsReportWorldTime1": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -11471,5 +11472,7 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaRollouts": "True",
   "FFlagUIBloxModalTitleAutomaticSizing": "True",
-  "FFlagUseMicIconForVoiceUpsell": "True"
+  "FFlagUseMicIconForVoiceUpsell": "True",
+  "FIntRuntimeMaxNumOfConditions": "2400",
+  "FIntRuntimeMaxNumOfMutexes": "2400"
 }
