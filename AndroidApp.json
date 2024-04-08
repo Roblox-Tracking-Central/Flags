@@ -137,6 +137,7 @@
   "FFlagDevFrameworkAssetRenderModelEnableSky_Rollout": "True;60;2024-04-08T20:22:02",
   "FFlagAvatarPreviewerFixSurveyOverlap_Rollout": "True;60;2024-04-08T20:53:10",
   "FFlagAvatarPreviewerFixStretchyHair_Rollout": "True;60;2024-04-08T20:58:59",
+  "FFlagLuauCompileRepeatUntilSkippedLocals_Rollout": "True;60;2024-04-08T21:12:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
