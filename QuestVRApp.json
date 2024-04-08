@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1000",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagPackageMassUpdateHangFix_Rollout": "True;60;2024-04-08T21:35:40",
   "FFlagEnableQuestHaptics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
