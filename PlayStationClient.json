@@ -269,6 +269,5 @@
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "FFlagVerbsWithNoContainerStats": "True"
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
 }
