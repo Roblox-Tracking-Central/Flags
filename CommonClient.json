@@ -11452,6 +11452,8 @@
   "DFIntClientRolloutPhaseTelemetryThrottle": "10",
   "FFlagFixAddTagPopupFalseTag": "True",
   "FFlagGraphicsVulkanSplitInstancedDrawCalls": "True",
+  "FFlagAppChatExitResetActiveConversation_Rollout": "True;60;2024-04-08T19:39:59",
+  "DFFlagclearPlaceIDOnRCCShutdown_Rollout": "True;60;2024-04-08T19:50:38",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
