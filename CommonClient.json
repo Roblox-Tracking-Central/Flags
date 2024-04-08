@@ -11450,6 +11450,7 @@
   "FFlagTenFootUiHideFriendsTools": "True",
   "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
   "DFFlagPhysicsReportWorldTime1": "True",
+  "DFFlagPhysicsReportInterpolatedTime": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

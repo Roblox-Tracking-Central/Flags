@@ -132,6 +132,7 @@
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "FFlagLuauNativeExecutionMetrics_Rollout": "True;60;2024-04-08T19:20:13",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
@@ -267,7 +268,6 @@
   "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
-  "DFFlagPhysicsReportInterpolatedTime": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "FFlagVerbsWithNoContainerStats": "True"
