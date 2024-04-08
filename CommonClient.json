@@ -11487,6 +11487,7 @@
   "FFlagAvatarPreviewerFixStretchyHair": "True",
   "FFlagDevFrameworkLimitDropdownHeight": "True",
   "FFlagPropertiesConsistentHiding": "True",
+  "FFlagLuauCompileRepeatUntilSkippedLocals": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

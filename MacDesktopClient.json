@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagLuauCompileRepeatUntilSkippedLocals_Rollout": "True;60;2024-04-08T21:12:02",
   "FFlagPackageMassUpdateHangFix_Rollout": "True;60;2024-04-08T21:35:40",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
