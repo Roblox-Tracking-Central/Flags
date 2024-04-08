@@ -131,8 +131,9 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "DFFlagDisableRolloutTaggingUnexposed_Rollout": "True;60;2024-04-08T16:15:17",
   "FFlagTenFootUiHideFriendsTools_Rollout": "True;60;2024-04-08T17:15:53",
+  "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-04-08T17:39:04",
+  "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-08T17:42:47",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -579,5 +580,8 @@
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
-  "DisableSendrNotificationInForeground": "True"
+  "DisableSendrNotificationInForeground": "True",
+  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
+  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50",
+  "FFlagEnableDoraemonLandingRelease1": "True"
 }

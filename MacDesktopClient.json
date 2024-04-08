@@ -131,9 +131,9 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTenFootUiHideFriendsTools_Rollout": "True;60;2024-04-08T17:15:53",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -166,7 +166,6 @@
   "DFFlagPhysicsReportInterpolatedTime": "True",
   "FFlagRefactorPlayerConnect": "True",
   "DFFlagTeleportServiceCallEvent": "True",
-  "DFFlagDisableRolloutTaggingUnexposed": "True",
   "FFlagGetAudioMetadataAsyncEnabled3": "True",
   "DFFlagEnableRobloxCreditPurchase2": "True",
   "FFlagGamepadInputUIPosition": "True",
@@ -472,5 +471,7 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True"
+  "DFFlagVoiceChatTimeToUnmute": "True",
+  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
+  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50"
 }

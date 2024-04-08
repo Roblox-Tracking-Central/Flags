@@ -131,10 +131,9 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "DFFlagDisableRolloutTaggingUnexposed_Rollout": "True;60;2024-04-08T16:15:17",
+  "CaptureCountersIntervalInMinutes": "5",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
-  "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
@@ -423,5 +422,7 @@
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "FFlagVerbsWithNoContainerStats": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True"
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
+  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50"
 }

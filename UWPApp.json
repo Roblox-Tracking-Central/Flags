@@ -131,8 +131,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "AllowVideoPreRoll": "True",
   "FFlagTenFootUiHideFriendsTools_Rollout": "True;60;2024-04-08T17:15:53",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -311,10 +311,11 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "DFFlagTeleportServiceCallEvent": "True",
-  "DFFlagDisableRolloutTaggingUnexposed": "True",
   "FFlagGamepadInputUIPosition": "True",
   "DFFlagPhysicsReportInterpolatedTime": "True",
   "DFFlagPhysicsReportWorldTime1": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
+  "FIntRuntimeMaxNumOfConditions_Rollout": "2400;60;2024-04-08T17:33:50",
+  "FIntRuntimeMaxNumOfMutexes_Rollout": "2400;60;2024-04-08T17:33:50"
 }
