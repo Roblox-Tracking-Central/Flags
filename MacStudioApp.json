@@ -132,6 +132,7 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagTenFootUiHideFriendsTools_Rollout": "True;60;2024-04-08T17:15:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

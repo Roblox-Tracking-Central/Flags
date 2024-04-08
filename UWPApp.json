@@ -132,6 +132,7 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "AllowVideoPreRoll": "True",
+  "FFlagTenFootUiHideFriendsTools_Rollout": "True;60;2024-04-08T17:15:53",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
