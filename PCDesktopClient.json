@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagTenFootUiHideFriendsTools_Rollout": "True;60;2024-04-08T17:15:53",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagEnableFriendsListAnimation_Rollout": "True;60;2024-04-08T18:44:28",

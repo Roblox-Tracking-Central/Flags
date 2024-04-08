@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagTenFootUiHideFriendsTools_Rollout": "True;60;2024-04-08T17:15:53",
   "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-04-08T17:39:04",
   "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-08T17:42:47",
   "FFlagEnableFriendsListAnimation_Rollout": "True;60;2024-04-08T18:44:28",
