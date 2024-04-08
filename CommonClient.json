@@ -11475,6 +11475,7 @@
   "FFlagPropertiesConsistentHiding_Rollout": "True;60;2024-04-08T20:57:28",
   "FFlagInviteFriendsDesignUpdates": "True",
   "FFlagAppChatExitResetActiveConversation": "True",
+  "FFlagIrisUseLocalizationProvider2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
