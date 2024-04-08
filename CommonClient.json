@@ -11436,6 +11436,8 @@
   "DFFlagSimDisableNonWorkspacePhysicsOwnerVis_Rollout": "True;60;2024-04-08T17:06:54",
   "DFFlagSimFuzzyEqualWeldConstraint_Rollout": "True;60;2024-04-08T17:07:34",
   "FFlagSelfViewUpdatedCamFraming": "True",
+  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "1000;60;2024-04-08T17:27:03",
+  "FFlagDragDetectorUsesPermissionPolicyRevised2_Rollout": "True;60;2024-04-08T17:30:16",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
