@@ -11467,6 +11467,7 @@
   "FFlagEnableFriendsListAnimation": "True",
   "FFlagLuauCompileNoJumpLineRetarget": "True",
   "FFlagFixPseudoInstanceBugs": "True",
+  "DFFlagFixHumanoidPlayEmoteCrash_Rollout": "True;60;2024-04-08T20:24:53",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
