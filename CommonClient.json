@@ -11494,6 +11494,7 @@
   "FFlagUnifyInferredCrashViewInitializedCall_Rollout": "True;60;2024-04-09T16:20:49",
   "FFlagDevFrameworkTostringQueryParams_Rollout": "True;60;2024-04-09T16:45:18",
   "FFlagAvatarPreviewerAutoSetupCopyName_Rollout": "True;60;2024-04-09T16:45:30",
+  "FFlagAvatarPreviewerProportionControls3_Rollout": "True;60;2024-04-09T16:57:02",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
