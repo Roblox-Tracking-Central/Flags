@@ -583,6 +583,6 @@
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
-  "DFFlagEnableArbiterTimeTelemetry_Rollout": "True;60;2024-04-09T17:14:03",
-  "FFlagRunSoundCacheTunableV2BranchIXP": "True"
+  "FFlagRunSoundCacheTunableV2BranchIXP": "True",
+  "DFFlagEnableArbiterTimeTelemetry": "True"
 }

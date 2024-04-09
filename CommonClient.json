@@ -11504,6 +11504,7 @@
   "FFlagAvatarPreviewerAutoSetupCopyName": "True",
   "FFlagAvatarPreviewerNewDraggableTileList2": "True",
   "FFlagAvatarPreviewerProportionControls3": "True",
+  "FFlagSelectRotatedGuiObjects_Rollout": "True;60;2024-04-09T18:42:10",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
