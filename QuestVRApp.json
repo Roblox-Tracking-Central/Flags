@@ -585,6 +585,7 @@
   "FFlagEnableBackgroundFillOptionsRelease1": "False",
   "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
   "FFlagRunSoundCacheTunableV2BranchIXP_Rollout": "True;60;2024-04-09T16:33:38",
+  "DFFlagEnableArbiterTimeTelemetry_Rollout": "True;60;2024-04-09T17:14:03",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
