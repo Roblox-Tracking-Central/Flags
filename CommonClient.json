@@ -11508,6 +11508,7 @@
   "FFlagRIDE7916StudioEmulatorFixCalibratePhysicalSize": "True",
   "FFlagVoiceChatV2UseControlPlaneIsolationTag_Rollout": "True;60;2024-04-09T20:15:27",
   "FFlagSelectRotatedGuiObjects": "True",
+  "FFlagCAPDebounceTimeoutWhenContentReceived_Rollout": "True;60;2024-04-09T20:33:46",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
