@@ -11364,7 +11364,6 @@
   "FFlagFixIgnoreAllGamepad": "True",
   "FFlagFriendsLandingSafeAreaPadding": "True",
   "FFlagAvatarPreviewerAutoSetupFixPositioning": "True",
-  "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagFixStatusBarTouchedHandlingIOS": "True",
   "FFlagMobileMorePageScrollToTop": "True",
   "FFlagMobileScrollToTopLogging": "True",

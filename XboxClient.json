@@ -415,5 +415,6 @@
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True"
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+  "FFlagEnableFriendsLandingControllerBar2": "True"
 }

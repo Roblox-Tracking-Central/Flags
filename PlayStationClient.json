@@ -266,5 +266,6 @@
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "FFlagTenFootUiSupportSortHeaderTooltip2": "True"
+  "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
+  "FFlagEnableFriendsLandingControllerBar2": "True"
 }

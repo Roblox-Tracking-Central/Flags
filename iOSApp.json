@@ -469,7 +469,7 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FFlagDebugGraphicsCrashOnLeaks": "False",
-  "DFIntOOMInferenceThreshold": "6800",
+  "DFIntOOMInferenceThreshold": "2000",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
@@ -543,6 +543,5 @@
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
-  "DFIntOOMInferenceThreshold_Rollout": "2000;60;2024-04-09T21:36:06",
   "FIntEnableCullableScene2HundredthPercent3": "10000"
 }
