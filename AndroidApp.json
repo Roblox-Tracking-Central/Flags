@@ -583,5 +583,6 @@
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
   "FFlagRunSoundCacheTunableV2BranchIXP": "True",
-  "DFFlagEnableArbiterTimeTelemetry": "True"
+  "DFFlagEnableArbiterTimeTelemetry": "True",
+  "FIntRenderMeshOptimizeVertexBuffer_Rollout": "3;60;2024-04-09T21:56:11"
 }
