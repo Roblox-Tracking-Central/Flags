@@ -543,6 +543,6 @@
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;60;2024-04-09T20:35:17",
-  "DFIntOOMInferenceThreshold_Rollout": "2000;60;2024-04-09T21:36:06"
+  "DFIntOOMInferenceThreshold_Rollout": "2000;60;2024-04-09T21:36:06",
+  "FIntEnableCullableScene2HundredthPercent3": "10000"
 }
