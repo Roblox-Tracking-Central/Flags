@@ -131,7 +131,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1000",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagEnableQuestHaptics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -583,6 +582,7 @@
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "False",
   "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -604,7 +604,6 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-  "DFFlagTeleportServiceCallEvent": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
