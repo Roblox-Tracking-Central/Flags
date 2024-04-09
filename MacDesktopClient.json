@@ -162,7 +162,6 @@
   "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
   "FFlagRefactorPlayerConnect": "True",
   "FFlagGetAudioMetadataAsyncEnabled3": "True",
-  "DFFlagEnableRobloxCreditPurchase2": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
