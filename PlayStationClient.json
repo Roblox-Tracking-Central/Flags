@@ -261,7 +261,6 @@
   "FFlagEnableHomePageUpsellReportingFix": "True",
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
