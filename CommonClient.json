@@ -8509,7 +8509,7 @@
   "FFlagEnableSessionCheckInEngine1": "True",
   "FFlagLuaEnableGameInviteModal2023V5": "True",
   "FFlagLuaEnableGameInviteModalSettingsHub": "True",
-  "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
+  "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "False",
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagScriptProfilerFrequencyControl": "True",
   "DFFlagEnableStayInFullscreenAndKeepVolumeOnRotation": "True",
