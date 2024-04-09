@@ -578,6 +578,7 @@
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FIntLuauNativeExecutionTimePeriodFrameCount": "4000",
   "FFlagPrintWarningForClampedColorValues": "True",
+  "FFlagDebugLuaAppValidateProps": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -604,8 +605,8 @@
   "DFFlagTerrainVoxelChannelsLS": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
-  "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2_Rollout": "10000;30;2024-04-09T22:54:47"
 }

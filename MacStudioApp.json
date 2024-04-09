@@ -578,6 +578,7 @@
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FIntLuauNativeExecutionTimePeriodFrameCount": "4000",
   "FFlagPrintWarningForClampedColorValues": "True",
+  "FLogSignalRNotification": "0",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -606,7 +607,6 @@
   "FFlagTerrainEditorUseTerrainChannels": "True",
   "DFFlagTerrainVoxelChannelsLS": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
-  "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
@@ -614,5 +614,6 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent2_Rollout": "10000;30;2024-04-09T22:54:47"
 }
