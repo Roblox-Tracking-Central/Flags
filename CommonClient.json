@@ -11512,6 +11512,8 @@
   "DFFlagAdditionalMemoryOutsideCurrentRadiusIXPCheck": "True",
   "DFFlagMoveTunableTargetUpdateToBeginningOfFrame": "True",
   "FFlagAvatarChatServiceExposeUserVerifiedForVoice": "True",
+  "FIntCSGKernelManagerMaxMemoryConsumptionMB_Rollout": "300;60;2024-04-10T15:59:54",
+  "FFlagEnableNewFontNameMappingABTest": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
