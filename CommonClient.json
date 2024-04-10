@@ -11508,7 +11508,6 @@
   "FFlagOmniSearchSystemInfo": "True",
   "FFlagVoiceChatV2UseControlPlaneIsolationTag": "True",
   "FFlagCAPDebounceTimeoutWhenContentReceived": "True",
-  "FFlagSupportSmoothScaleRichText2": "True",
   "FFlagTenFootUiDisableInviteFriends": "True",
   "FFlagAvatarChatServiceExposeUserVerifiedForVoice_Rollout": "True;60;2024-04-09T23:56:07",
   "DFFlagAdditionalMemoryOutsideCurrentRadiusIXPCheck": "True",
