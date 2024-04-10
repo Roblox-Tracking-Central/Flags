@@ -130,7 +130,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagRefactorPlayerConnect_Rollout": "True;60;2024-04-10T21:40:51",
   "FFlagGetAudioMetadataAsyncEnabled3_Rollout": "True;60;2024-04-10T21:53:04",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -543,6 +542,5 @@
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
-  "FFlagColorPickerSliderIXPEnabled6_Rollout": "True;60;2024-04-10T22:03:27"
+  "FFlagLuaAppNewStreamNotificationsEnabledV3": "True"
 }
