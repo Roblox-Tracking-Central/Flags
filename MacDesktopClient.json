@@ -180,6 +180,8 @@
   "FFlagIBEnableSendCounters1": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+  "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361",
+  "FFlagReconstructBVHWhenCanCollideChanged_Rollout": "True;60;2024-04-10T21:01:45",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

@@ -175,6 +175,7 @@
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+  "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -443,6 +444,5 @@
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True",
-  "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361"
+  "DFFlagVoiceChatTimeToUnmute": "True"
 }
