@@ -11514,6 +11514,8 @@
   "FFlagAvatarChatServiceExposeUserVerifiedForVoice": "True",
   "FIntCSGKernelManagerMaxMemoryConsumptionMB_Rollout": "300;60;2024-04-10T15:59:54",
   "FFlagEnableNewFontNameMappingABTest": "True",
+  "FFlagStopPublishedPlacesOpening_Rollout": "True;60;2024-04-10T16:19:14",
+  "FFlagAdsUseThumbnailVideoStream_Rollout": "True;60;2024-04-10T16:27:22",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
