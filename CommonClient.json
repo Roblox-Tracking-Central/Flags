@@ -11516,6 +11516,8 @@
   "FFlagStopPublishedPlacesOpening_Rollout": "True;60;2024-04-10T16:19:14",
   "FFlagAdsUseThumbnailVideoStream_Rollout": "True;60;2024-04-10T16:27:22",
   "FFlagUWPRemoveDeviceHandle_Rollout": "True;60;2024-04-10T16:30:35",
+  "FFlagUWPSkipDeviceInitialize_Rollout": "True;60;2024-04-10T16:56:44",
+  "FFlagToolboxAnimationAPIMigration": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
