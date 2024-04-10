@@ -556,7 +556,6 @@
   "FFlagDebugDisableLuaBridgeMethodProfiling": "True",
   "FFlagDebugDisableLuaBridgePropertyProfiling": "True",
   "FFlagClothingSortingDeeplink": "True",
-  "FFlagCapturesCarouselReducedMotionSupport": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
   "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagDisablePhoneVerificationForCI": "True",
