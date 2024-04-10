@@ -159,7 +159,6 @@
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
   "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
-  "FFlagGetAudioMetadataAsyncEnabled3": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
