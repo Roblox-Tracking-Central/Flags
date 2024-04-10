@@ -460,5 +460,6 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True"
+  "DFFlagVoiceChatTimeToUnmute": "True",
+  "FFlagLuaAppNewStreamNotificationsEnabledV3": "True"
 }
