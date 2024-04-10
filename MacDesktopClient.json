@@ -182,6 +182,7 @@
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361",
   "FFlagColorPickerSliderIXPEnabled6_Rollout": "True;60;2024-04-10T22:03:27",
+  "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -461,6 +462,5 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True",
-  "FFlagLuaAppNewStreamNotificationsEnabledV3": "True"
+  "DFFlagVoiceChatTimeToUnmute": "True"
 }
