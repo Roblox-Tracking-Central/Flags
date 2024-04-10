@@ -104,7 +104,6 @@
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "DFFlagSimLimitAssemblyCount2": "True",
-  "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
@@ -444,5 +443,6 @@
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True"
+  "DFFlagVoiceChatTimeToUnmute": "True",
+  "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361"
 }
