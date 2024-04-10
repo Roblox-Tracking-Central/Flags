@@ -11528,6 +11528,7 @@
   "FFlagToolboxAddBuyerStatus3": "True",
   "FFlagToolboxCreationsUseItemsDetails2": "True",
   "FFlagToolboxM3Configuration3": "True",
+  "FFlagVoiceChatV2UseControlPlaneIsolationTag_Rollout": "False;30;2024-04-10T21:55:08",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

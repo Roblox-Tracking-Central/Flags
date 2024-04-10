@@ -131,6 +131,7 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagRefactorPlayerConnect_Rollout": "True;60;2024-04-10T21:40:51",
+  "FFlagGetAudioMetadataAsyncEnabled3_Rollout": "True;60;2024-04-10T21:53:04",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -416,5 +417,6 @@
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
-  "FFlagEnableFriendsLandingControllerBar2": "True"
+  "FFlagEnableFriendsLandingControllerBar2": "True",
+  "FFlagColorPickerSliderIXPEnabled6_Rollout": "True;60;2024-04-10T22:03:27"
 }

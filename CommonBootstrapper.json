@@ -91,5 +91,6 @@
   "FFlagUpdateAvatarGestures": "True",
   "FFlagFixAvatarUtilCharacter": "True",
   "FFlagIBEnableSendCounters1": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True"
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+  "FFlagColorPickerSliderIXPEnabled6_Rollout": "True;60;2024-04-10T22:03:27"
 }
