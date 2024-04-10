@@ -581,7 +581,6 @@
   "FFlagEnableDoraemonLandingRelease1": "False",
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "False",
-  "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
   "FFlagRunSoundCacheTunableV2BranchIXP": "True",
   "DFFlagEnableArbiterTimeTelemetry": "True",
   "FIntRenderMeshOptimizeVertexBuffer": "3",

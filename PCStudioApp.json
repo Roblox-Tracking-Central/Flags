@@ -613,6 +613,7 @@
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
+  "FFlagInternationalNamesIXPSetupEnabled_v2_Rollout": "True;60;2024-04-10T22:46:59",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",

@@ -11530,6 +11530,7 @@
   "FFlagDeferredPivotEditor": "True",
   "FFlagImprovePluginSpeedPivotEditor": "True",
   "DFFlagStreamingPendingCharacterOnlyParent_Rollout": "True;60;2024-04-10T22:38:38",
+  "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
