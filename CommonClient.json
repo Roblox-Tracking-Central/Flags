@@ -11541,7 +11541,6 @@
   "FIntCAPDMHierarchySelectedMaxDepth": "3",
   "DFFlagEnableAudioDuckingAroundVideoAdsRccFix": "True",
   "FIntUGCValidateFacsDataOperationalThreshold": "100",
-  "DFFlagEarlyReturnOnRemovingNoCollisionJoint": "True",
   "FFlagEnableAdsVideoInAdsGui": "True",
   "FFlagSupportAdsVideoFormat": "True",
   "DFIntImmersiveAdVideoViewEventThrottleHundrethsPercent": "10000",
