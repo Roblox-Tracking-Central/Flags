@@ -446,5 +446,5 @@
   "FFlagLuaAppFooterLayoutDataBySort": "True",
   "DFFlagVoiceChatTimeToUnmute": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
-  "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-11T17:40:43"
+  "DFFlagEnableViewPortSizeTracking": "True"
 }

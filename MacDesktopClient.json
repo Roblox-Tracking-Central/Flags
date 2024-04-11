@@ -461,5 +461,5 @@
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
   "DFFlagVoiceChatTimeToUnmute": "True",
-  "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-11T17:40:43"
+  "DFFlagEnableViewPortSizeTracking": "True"
 }
