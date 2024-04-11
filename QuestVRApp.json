@@ -129,7 +129,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1000",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting3_Rollout": "True;60;2024-04-11T20:33:12",
+  "FFlagEnableAdUnloadViewabilityEventReporting3_Rollout": "True;60;2024-04-11T22:14:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

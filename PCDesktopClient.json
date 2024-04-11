@@ -435,7 +435,6 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting3": "True",
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",

@@ -452,7 +452,6 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
-  "FFlagEnableAdLoadViewabilityEventReporting3": "True",
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
