@@ -598,6 +598,7 @@
   "FFlagStudioShowNoninsertableClassesInObjectBrowser": "True",
   "FFlagSimCSGV3DisablePerOperationSupersetReporting_Rollout": "True;60;2024-04-11T22:09:31",
   "FFlagDuplicateUseSafeMover": "True",
+  "FFlagStudioRendererWindowManager2_Rollout": "True;60;2024-04-11T22:33:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

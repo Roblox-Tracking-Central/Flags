@@ -130,6 +130,7 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "AllowVideoPreRoll": "True",
+  "FFlagPath2DCapNumberOfControlPoints_Rollout": "True;60;2024-04-11T22:37:14",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
