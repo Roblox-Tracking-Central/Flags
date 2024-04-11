@@ -11412,7 +11412,6 @@
   "FFlagScriptDebuggerNoWrongAncestry": "True",
   "FFlagScriptProfilerFunctionsViewUseSourceInfoForAnon": "True",
   "FFlagScriptProfilerHideGCOverhead2": "True",
-  "FFlagScriptProfilerRememberExpandedNodes": "True",
   "FFlagScriptProfilerSetRootFixSourceInfo": "True",
   "DFFlagFixInterpolationParallelTasks": "True",
   "FFlagFixNotifyMovingCallbackThreading": "True",
