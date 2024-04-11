@@ -445,5 +445,6 @@
   "DFFlagVoiceChatTimeToUnmute": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
   "DFFlagEnableViewPortSizeTracking": "True",
-  "DFFlagEnableArbiterTimeTelemetry_Rollout": "True;60;2024-04-11T20:13:44"
+  "DFFlagEnableArbiterTimeTelemetry_Rollout": "True;60;2024-04-11T20:13:44",
+  "FFlagSimAdaptiveDirtyIslandCollectionConditionFix_Rollout": "True;30;2024-04-11T21:21:56"
 }
