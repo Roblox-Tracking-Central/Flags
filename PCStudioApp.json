@@ -102,6 +102,7 @@
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "False",
   "DFFlagSimLimitAssemblyCount2": "False",
+  "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "30",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
