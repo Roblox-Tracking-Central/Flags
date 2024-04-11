@@ -311,5 +311,5 @@
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "FFlagUWPCheckTTIBlockingDialog_Rollout": "True;60;2024-04-11T20:10:15"
+  "FFlagUWPCheckTTIBlockingDialog": "True"
 }

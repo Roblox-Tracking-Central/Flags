@@ -415,5 +415,5 @@
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "DFFlagEnableArbiterTimeTelemetry_Rollout": "True;60;2024-04-11T20:13:44"
+  "DFFlagEnableArbiterTimeTelemetry": "True"
 }
