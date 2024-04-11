@@ -11559,6 +11559,7 @@
   "FFlagPath2DGuiRTCacheImpl2_Rollout": "True;60;2024-04-11T23:20:15",
   "FFlagPath2DFixSerializerZeroSize_Rollout": "True;60;2024-04-11T23:20:18",
   "FFlagSimSolverDecreasePartMinimumDensityPhasedRollout": "True",
+  "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
