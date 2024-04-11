@@ -447,7 +447,6 @@
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
   "DFFlagEnableViewPortSizeTracking": "True",
   "DFFlagEnableArbiterTimeTelemetry": "True",
-  "FFlagSimAdaptiveMinorOptimizations_Rollout": "True;15;2024-04-11T22:23:28",
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FIntMaxTimestepMultiplierVelocity_Rollout": "4;30;2024-04-11T22:28:32"
 }
