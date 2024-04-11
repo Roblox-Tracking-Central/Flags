@@ -96,8 +96,6 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
-  "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck": "True",
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
