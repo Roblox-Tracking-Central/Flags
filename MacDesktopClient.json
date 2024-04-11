@@ -179,6 +179,8 @@
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
+  "FFlagEnableAdsMouseUnlock_Rollout": "True;60;2024-04-11T18:24:43",
+  "DFFlagCheckValidatePurchaseTicketForStringSafety_Rollout": "True;60;2024-04-11T18:30:14",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -457,5 +459,6 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
-  "DFFlagVoiceChatTimeToUnmute": "True"
+  "DFFlagVoiceChatTimeToUnmute": "True",
+  "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-11T17:40:43"
 }
