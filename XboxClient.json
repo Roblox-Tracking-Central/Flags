@@ -50,7 +50,6 @@
   "FFlagLuaProfileIXPEnabled_v3": "False",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "FFlagCLI56034": "True",
-  "DFIntMinSoundStreamSizeBytes": "512000",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
   "FFlagRobuxUpsellIXPV2": "True",
   "FFlagGraphicsParticlesFlipbookInvalidateEntity": "False",
