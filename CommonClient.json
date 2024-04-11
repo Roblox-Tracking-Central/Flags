@@ -11544,6 +11544,7 @@
   "FFlagEnableAdsVideoInAdsGui_Rollout": "True;60;2024-04-11T18:36:35",
   "FFlagSupportAdsVideoFormat_Rollout": "True;60;2024-04-11T18:36:57",
   "DFIntImmersiveAdVideoViewEventThrottleHundrethsPercent_Rollout": "10000;60;2024-04-11T18:56:02",
+  "FStringStudioPlayModeAllowedBuiltins_Rollout": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm;60;2024-04-11T19:44:45",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
