@@ -448,5 +448,6 @@
   "DFFlagEnableViewPortSizeTracking": "True",
   "DFFlagEnableArbiterTimeTelemetry": "True",
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
-  "FIntMaxTimestepMultiplierVelocity_Rollout": "4;30;2024-04-11T22:28:32"
+  "FIntMaxTimestepMultiplierVelocity_Rollout": "4;30;2024-04-11T22:28:32",
+  "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "True;30;2024-04-11T23:20:54"
 }
