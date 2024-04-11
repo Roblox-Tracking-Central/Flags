@@ -607,5 +607,6 @@
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
+  "DFFlagEnableArbiterTimeTelemetry_Rollout": "True;60;2024-04-11T20:13:44"
 }
