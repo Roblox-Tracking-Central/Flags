@@ -460,6 +460,8 @@
   "FFlagLuaAppFooterLayoutDataBySort": "True",
   "DFFlagVoiceChatTimeToUnmute": "True",
   "DFFlagEnableViewPortSizeTracking": "True",
-  "FFlagSimAdaptiveDirtyIslandCollectionConditionFix_Rollout": "True;30;2024-04-11T21:21:56",
-  "DFFlagEnableArbiterTimeTelemetry": "True"
+  "DFFlagEnableArbiterTimeTelemetry": "True",
+  "FFlagSimAdaptiveMinorOptimizations_Rollout": "True;15;2024-04-11T22:23:28",
+  "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
+  "FIntMaxTimestepMultiplierVelocity_Rollout": "4;30;2024-04-11T22:28:32"
 }
