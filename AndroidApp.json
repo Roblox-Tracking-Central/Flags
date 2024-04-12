@@ -129,7 +129,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagPath2DCapNumberOfControlPoints_Rollout": "True;60;2024-04-11T22:37:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -584,5 +583,5 @@
   "FIntRenderMeshOptimizeVertexBuffer": "3",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
-  "DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs_Rollout": "5000;15;2024-04-11T23:23:12"
+  "DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs": "5000"
 }

@@ -129,7 +129,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagPath2DCapNumberOfControlPoints_Rollout": "True;60;2024-04-11T22:37:14",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -447,6 +446,6 @@
   "DFFlagEnableViewPortSizeTracking": "True",
   "DFFlagEnableArbiterTimeTelemetry": "True",
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
-  "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "True;30;2024-04-11T23:20:54",
-  "FIntMaxTimestepMultiplierVelocity": "4"
+  "FIntMaxTimestepMultiplierVelocity": "4",
+  "FFlagSimAdaptiveTimesteppingDefault2": "True"
 }
