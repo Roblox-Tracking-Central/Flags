@@ -585,7 +585,6 @@
   "FIntRenderMeshOptimizeVertexBuffer": "3",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
-  "DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs": "25000",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
