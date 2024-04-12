@@ -11562,6 +11562,8 @@
   "FFlagPath2DGuiRTCacheImpl2": "True",
   "FFlagEnableViewableImpressionEventReporting2": "True",
   "FFlagCAPInstanceTrackerForUndoTelemetry_Rollout": "True;60;2024-04-12T17:52:12",
+  "EnableAndroidBtMicRaceFix": "True",
+  "FFlagUseAESGetOutfitDetailsInApp2_Rollout": "True;60;2024-04-12T18:18:22",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
