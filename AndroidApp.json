@@ -584,6 +584,5 @@
   "FIntRenderMeshOptimizeVertexBuffer": "3",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
-  "DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs": "5000",
-  "DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs_Rollout": "25000;15;2024-04-12T16:23:46"
+  "DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs": "25000"
 }
