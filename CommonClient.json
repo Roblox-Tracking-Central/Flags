@@ -10632,7 +10632,7 @@
   "DFIntRemoteSaveValidatorFailureTelemetryThrottleHundredthsPercent": "10000",
   "FFlagStudioNewPlaceUploadPublishRollout": "False",
   "FFlagLuauHeapExpandableEllipsis": "True",
-  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent": "2500",
+  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent": "5000",
   "FFlagStudioAlwaysShowSouthRegionsWhenEmpty": "True",
   "FFlagExportPathCheckEnabled": "True",
   "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
