@@ -129,6 +129,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -180,7 +181,6 @@
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "FFlagEnableAdsMouseUnlock": "True",
   "DFFlagCheckValidatePurchaseTicketForStringSafety": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -462,5 +462,6 @@
   "DFFlagEnableArbiterTimeTelemetry": "True",
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FIntMaxTimestepMultiplierVelocity": "4",
-  "FFlagSimAdaptiveTimesteppingDefault2": "True"
+  "FFlagSimAdaptiveTimesteppingDefault2": "True",
+  "DFIntTimestepArbiterThresholdCFLThou_Rollout": "1500;60;2024-04-12T16:23:44"
 }

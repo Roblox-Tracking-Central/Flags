@@ -91,5 +91,6 @@
   "FFlagUpdateAvatarGestures": "True",
   "FFlagFixAvatarUtilCharacter": "True",
   "FFlagIBEnableSendCounters1": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True"
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+  "FFlagEnableAdminWebView2Installation_Rollout": "True;1;2024-04-12T16:12:00"
 }

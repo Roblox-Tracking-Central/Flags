@@ -11561,6 +11561,7 @@
   "FFlagPath2DEnabled15": "True",
   "FFlagPath2DFixSerializerZeroSize": "True",
   "FFlagPath2DGuiRTCacheImpl2": "True",
+  "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2024-04-12T16:35:11",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
