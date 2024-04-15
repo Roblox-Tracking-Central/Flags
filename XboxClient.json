@@ -417,5 +417,6 @@
   "DFFlagEnableArbiterTimeTelemetry": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagEnableXboxAccountProtocol": "True",
-  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True"
+  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
+  "FFlagLuaAppChallengeNativeWrapperEnabled_Rollout": "True;30;2024-04-15T22:07:44"
 }
