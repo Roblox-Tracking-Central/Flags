@@ -129,7 +129,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
   "FFlagAnimationClipMemCacheEnabled_Rollout": "True;60;2024-04-15T21:20:07",
   "FFlagPath2DFixCrashOnSplineQuerying_Rollout": "True;60;2024-04-15T21:28:46",
@@ -180,6 +179,7 @@
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
   "DFFlagVoiceChatThreadPoolFixDestructionRace": "True",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -439,7 +439,6 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagLaunchContextReducerEnabled": "True",
-  "FFlagEnableVideoProgressEventReporting2": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
   "FFlagLuaAppFooterLayoutDataBySort": "True",
   "DFFlagVoiceChatTimeToUnmute": "True",
@@ -449,5 +448,6 @@
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FIntMaxTimestepMultiplierVelocity": "4",
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
-  "FFlagRunSoundCacheTunableV2BranchIXP": "True"
+  "FFlagRunSoundCacheTunableV2BranchIXP": "True",
+  "FFlagUniversalAppCsat3_Rollout": "True;30;2024-04-15T21:37:51"
 }
