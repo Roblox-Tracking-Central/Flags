@@ -11557,7 +11557,6 @@
   "FFlagSimSolverDecreasePartMinimumDensityPhasedRollout": "True",
   "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
   "FFlagPath2DCapNumberOfControlPoints": "True",
-  "FFlagPath2DEnabled15": "True",
   "FFlagPath2DFixSerializerZeroSize": "True",
   "FFlagPath2DGuiRTCacheImpl2": "True",
   "FFlagEnableViewableImpressionEventReporting2": "True",
