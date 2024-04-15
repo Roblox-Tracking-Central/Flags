@@ -11579,6 +11579,8 @@
   "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc;15098120933;13398434647",
   "FFlagScriptProfilerMobileSettingsUI": "True",
   "FFlagMarketplaceServiceEnableCollectibleBundleSupport_Rollout": "True;60;2024-04-15T17:21:22",
+  "DFFlagSimSolverLevitationLiberateImpulseLimit2_Rollout": "True;30;2024-04-15T17:26:41",
+  "FIntNewDockingBetaFeatureRolloutPercent_Rollout": "20;60;2024-04-15T17:31:46",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
