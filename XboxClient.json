@@ -415,5 +415,6 @@
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "DFFlagEnableArbiterTimeTelemetry": "True",
-  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing_Rollout": "True;60;2024-04-15T17:16:15"
+  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing_Rollout": "True;60;2024-04-15T17:16:15",
+  "FFlagEnableXboxAccountProtocol_Rollout": "True;60;2024-04-15T17:40:06"
 }
