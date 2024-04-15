@@ -540,5 +540,5 @@
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
-  "FFlagUniversalAppCsat3_Rollout": "True;30;2024-04-15T21:37:51"
+  "FFlagUniversalAppCsat3": "True"
 }

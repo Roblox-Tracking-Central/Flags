@@ -587,5 +587,5 @@
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "InitializeWebLoginProtocolV2": "true",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
-  "FFlagUniversalAppCsat3_Rollout": "True;30;2024-04-15T21:37:51"
+  "FFlagUniversalAppCsat3": "True"
 }

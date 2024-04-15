@@ -462,6 +462,6 @@
   "FIntMaxTimestepMultiplierVelocity": "4",
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "FFlagRunSoundCacheTunableV2BranchIXP": "True",
-  "FFlagUniversalAppCsat3_Rollout": "True;30;2024-04-15T21:37:51",
-  "FFlagPrintWarningForClampedColorValues_Rollout": "True;10;2024-04-15T22:00:44"
+  "FFlagPrintWarningForClampedColorValues_Rollout": "True;10;2024-04-15T22:00:44",
+  "FFlagUniversalAppCsat3": "True"
 }
