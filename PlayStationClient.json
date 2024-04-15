@@ -129,6 +129,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
+  "FFlagEnableVideoProgressEventReporting2_Rollout": "True;60;2024-04-15T20:00:14",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -261,9 +262,8 @@
   "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning_Rollout": "True;60;2024-04-15T18:20:28",
-  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True"
+  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
+  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True"
 }

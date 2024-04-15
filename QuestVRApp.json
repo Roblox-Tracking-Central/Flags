@@ -129,7 +129,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1000",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagEnableQuestHaptics": "True",
+  "FFlagEnableVideoProgressEventReporting2_Rollout": "True;60;2024-04-15T20:00:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -585,9 +585,10 @@
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
   "FFlagEnableReportingAndroidVariant": "True",
-  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning_Rollout": "True;60;2024-04-15T18:20:28",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "InitializeWebLoginProtocolV2": "true",
+  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -609,6 +610,5 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-  "FFlagGamepadInputUIPosition": "True",
-  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True"
+  "FFlagGamepadInputUIPosition": "True"
 }
