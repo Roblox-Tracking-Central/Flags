@@ -309,7 +309,7 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagGamepadInputUIPosition": "True",
-  "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-  "FFlagUWPCheckTTIBlockingDialog": "True"
+  "FFlagUWPCheckTTIBlockingDialog": "True",
+  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing_Rollout": "True;60;2024-04-15T17:16:15"
 }

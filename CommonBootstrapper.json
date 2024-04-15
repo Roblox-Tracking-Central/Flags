@@ -83,7 +83,6 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagMacInstallerFixCancelAsNotFail": "True",
-  "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
   "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -92,5 +91,6 @@
   "FFlagFixAvatarUtilCharacter": "True",
   "FFlagIBEnableSendCounters1": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
-  "FFlagEnableAdminWebView2Installation": "True"
+  "FFlagEnableAdminWebView2Installation": "True",
+  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing_Rollout": "True;60;2024-04-15T17:16:15"
 }
