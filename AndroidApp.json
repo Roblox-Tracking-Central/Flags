@@ -583,5 +583,6 @@
   "DFFlagEnableArbiterTimeTelemetry": "True",
   "FIntRenderMeshOptimizeVertexBuffer": "3",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
-  "DFFlagCLI94314_DataCenterFilter": "True;361;356"
+  "DFFlagCLI94314_DataCenterFilter": "True;361;356",
+  "FFlagEnableReportingAndroidVariant_Rollout": "True;60;2024-04-15T16:32:15"
 }

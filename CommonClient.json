@@ -11566,6 +11566,7 @@
   "FFlagSendUnloadWithViewableImpression2": "True",
   "FFlagCAPInstanceTrackerForUndoTelemetry": "True",
   "FFlagUseAESGetOutfitDetailsInApp2": "True",
+  "FFlagUseLargerCDLCodeFontForVRV2_Rollout": "True;60;2024-04-15T16:32:11",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
