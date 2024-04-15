@@ -586,5 +586,6 @@
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
   "FFlagEnableReportingAndroidVariant": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning_Rollout": "True;60;2024-04-15T18:20:28",
-  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True"
+  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
+  "InitializeWebLoginProtocolV2": "true"
 }
