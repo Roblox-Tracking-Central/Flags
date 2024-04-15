@@ -130,6 +130,7 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
+  "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken_Rollout": "True;60;2024-04-15T18:27:40",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -585,5 +586,6 @@
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing_Rollout": "True;60;2024-04-15T17:16:15",
-  "FFlagEnableReportingAndroidVariant": "True"
+  "FFlagEnableReportingAndroidVariant": "True",
+  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning_Rollout": "True;60;2024-04-15T18:20:28"
 }
