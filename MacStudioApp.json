@@ -630,7 +630,6 @@
   "FFlagReconstructBVHWhenCanCollideChanged_DataCenterFilter": "True;361",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "FFlagEnableAdsMouseUnlock": "True",
-  "DFFlagVoiceChatThreadPoolFixDestructionRace": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

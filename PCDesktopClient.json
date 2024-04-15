@@ -177,7 +177,6 @@
   "DFFlagCheckValidatePurchaseTicketForStringSafety": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
-  "DFFlagVoiceChatThreadPoolFixDestructionRace": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
