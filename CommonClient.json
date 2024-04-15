@@ -11590,6 +11590,7 @@
   "FIntRealtimeReliabilityRetryPeriodMs_Rollout": "100000;60;2024-04-15T20:55:15",
   "FFlagOpenURLUseRequestResponse_Rollout": "True;60;2024-04-15T21:07:24",
   "FFlagEnableVideoProgressEventReporting2": "True",
+  "DFFlagSimSolverLevitationApplyDimensionZeroImpulseAtPivot_Rollout": "True;30;2024-04-15T21:45:48",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
