@@ -422,7 +422,6 @@
   "FFlagStudioFixComponentOverrideRegistration": "True",
   "FFlagStudioRemoveOldOpenPlaceEvent": "True",
   "FFlagPath2DBetaBetaFeature": "True",
-  "FFlagPath2DFixCrashOnSplineQuerying": "True",
   "FFlagToolboxAddPaddingToPriceRedirect": "True",
   "FFlagStudioReworkSavePlaceDialog5": "False",
   "FFlagReportPluginCollisionGroups": "True",

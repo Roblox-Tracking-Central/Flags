@@ -129,7 +129,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagPath2DFixCrashOnSplineQuerying_Rollout": "True;60;2024-04-15T21:28:46",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -266,5 +265,5 @@
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
-  "FFlagLuaAppChallengeNativeWrapperEnabled_Rollout": "True;30;2024-04-15T22:07:44"
+  "FFlagLuaAppChallengeNativeWrapperEnabled": "True"
 }
