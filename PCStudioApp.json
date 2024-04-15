@@ -597,6 +597,7 @@
   "FFlagDuplicateUseSafeMover": "True",
   "FFlagFixLocalRunWithPausedDM": "True",
   "FFlagSimCSGV3DisablePerOperationSupersetReporting": "True",
+  "FFlagStudioUseLocalizedReflectionMetadata2_Rollout": "True;60;2024-04-15T16:51:38",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
