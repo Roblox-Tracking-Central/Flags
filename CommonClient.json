@@ -11646,6 +11646,7 @@
   "DFFlagWorkspaceInsertPoint_Rollout": "True;30;2024-04-16T21:02:17",
   "DFFlagEnableNextGenDevProductPurchaseIxpRollout2_Rollout": "True;30;2024-04-16T21:11:36",
   "FLogNavigation_Rollout": "Error;60;2024-04-16T21:16:45",
+  "DFFlagReportFPSToV2_Rollout": "True;60;2024-04-16T21:20:46",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

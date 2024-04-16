@@ -588,6 +588,7 @@
   "FFlagToolboxFixContextualRecommendationsDefaultState": "True",
   "FFlagStudioSuppressRenderJob3": "True",
   "FFlagStudioRenderThrottleModel2": "True",
+  "FFlagSplitDescendantDirtyBit2_Rollout": "True;60;2024-04-16T21:21:25",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
