@@ -428,7 +428,6 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "True",
   "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
   "FFlagLuaAppDisableSound": "True",
@@ -448,6 +447,5 @@
   "FIntMaxTimestepMultiplierVelocity": "4",
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "FFlagRunSoundCacheTunableV2BranchIXP": "True",
-  "FFlagUniversalAppCsat3": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356"
 }

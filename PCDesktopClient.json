@@ -421,7 +421,6 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
@@ -437,6 +436,5 @@
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FIntMaxTimestepMultiplierVelocity": "4",
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
-  "FFlagRunSoundCacheTunableV2BranchIXP": "True",
-  "FFlagUniversalAppCsat3": "True"
+  "FFlagRunSoundCacheTunableV2BranchIXP": "True"
 }
