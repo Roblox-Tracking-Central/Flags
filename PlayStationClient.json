@@ -249,7 +249,6 @@
   "FFlagGraphicsEnableOrbisContextNullResourceAllocMem": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagRenderMeshEvictUnusedEnable": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",

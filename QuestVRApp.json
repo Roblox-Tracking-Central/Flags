@@ -531,7 +531,6 @@
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagVideoVP9HardWareDecoderCap2": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableAccountSwitchFeature": "False",
   "FFlagEnableDidSwitchAccount": "False",
   "FFlagEnableLuaAccountSwitchRelease2": "False",

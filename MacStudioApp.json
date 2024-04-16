@@ -487,7 +487,6 @@
   "FFlagStudioLogEnabledBetaFeatures": "True",
   "FFlagStudioManageCollabWideBox2": "True",
   "FFlagToolboxRunTestsWithTestLoader": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEmitNewRefreshTokenAvailable": "False",
   "FFlagTerrainEditorRaycastPaintFix": "True",
   "FFlagTerrainEditorIconsMatchTheme": "True",

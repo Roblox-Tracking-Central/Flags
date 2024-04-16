@@ -440,7 +440,6 @@
   "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
   "FFlagLaunchContextReducerEnabled": "True",

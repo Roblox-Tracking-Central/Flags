@@ -465,7 +465,7 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FFlagDebugGraphicsCrashOnLeaks": "False",
-  "DFIntOOMInferenceThreshold": "5000",
+  "DFIntOOMInferenceThreshold": "7000",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
@@ -495,7 +495,6 @@
   "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableAccountSwitchFeature": "True",
   "FFlagEnableDidSwitchAccount": "True",
   "FFlagEnableLuaAccountSwitchRelease2": "True",
@@ -532,6 +531,5 @@
   "FFlagUniversalAppCsat3": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
   "FFlagDisplayNamesDiagLogging": "True",
-  "DFIntOOMInferenceThreshold_Rollout": "7000;60;2024-04-16T18:26:17",
   "DFFlagHarmonyStreamingNewMetrics": "True"
 }

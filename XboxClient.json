@@ -395,7 +395,6 @@
   "FFlagXboxImprovedCrashCollection": "True",
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagXboxInferredCrashMoreReporting": "True",
   "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
