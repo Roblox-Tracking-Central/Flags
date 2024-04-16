@@ -11622,6 +11622,7 @@
   "FFlagPrintWarningForClampedColorValues": "True",
   "FFlagNavigationAnalyticsImprovement": "True",
   "DFFlagGjkUseNativeSupportPoints": "True",
+  "DFFlagFixFullscreenButtonPosition_Rollout": "True;60;2024-04-16T18:25:54",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
