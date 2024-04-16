@@ -127,7 +127,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1000",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-16T17:48:49",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

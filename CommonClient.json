@@ -11633,6 +11633,8 @@
   "FFlagMeshCreationWithFluidFidelity_Rollout": "True;60;2024-04-16T19:00:58",
   "FFlagSimSolverImprovedAeroForce2_Rollout": "True;60;2024-04-16T19:01:03",
   "FFlagFixRelocationCheck": "True",
+  "FFlagEnableVideoAdsClickToPlay_Rollout": "True;60;2024-04-16T19:18:17",
+  "DFFlagEnableViewPortSizeTracking": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
