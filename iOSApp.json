@@ -509,13 +509,9 @@
   "FFlagLuaEnableDidSwitchAccount": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
-  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
-  "FFlagSupportContactMethodPhoneNumberVoice": "True",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagClothingSortingDeeplink": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
-  "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagDisablePhoneVerificationForCI": "True",
   "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagLaunchContextReducerEnabled": "True",
@@ -542,5 +538,6 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "FFlagUniversalAppCsat3": "True",
-  "FFlagEnableSignupBirthdayExperimentsRelease3": "True"
+  "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
+  "DFIntIosDeprecationPhase_Rollout": "3;30;2024-04-16T16:44:18"
 }

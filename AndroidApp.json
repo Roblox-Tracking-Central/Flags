@@ -546,10 +546,7 @@
   "FFlagVideoServiceAddHardwareCodecMetrics": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
-  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
-  "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "EnableAndroidCheckTTIFlagFetchUseCase": "True",
-  "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
@@ -557,7 +554,6 @@
   "FFlagDebugDisableLuaBridgePropertyProfiling": "True",
   "FFlagClothingSortingDeeplink": "True",
   "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
-  "FFlagEnablePhoneLegalCheckbox2": "True",
   "FFlagDisablePhoneVerificationForCI": "True",
   "FStringContactsListLayer": "Social.ContactImporter",
   "FFlagLaunchContextReducerEnabled": "True",
@@ -590,5 +586,6 @@
   "InitializeWebLoginProtocolV2": "true",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
   "FFlagUniversalAppCsat3": "True",
-  "FFlagEnableSignupBirthdayExperimentsRelease3": "True"
+  "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
+  "DFIntIosDeprecationPhase_Rollout": "3;30;2024-04-16T16:44:18"
 }

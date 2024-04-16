@@ -308,8 +308,6 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
-  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
-  "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagUWPCheckTTIBlockingDialog": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",

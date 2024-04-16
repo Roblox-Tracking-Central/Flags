@@ -404,8 +404,6 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
-  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
-  "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagXboxInferredCrashMoreReporting": "True",
   "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",

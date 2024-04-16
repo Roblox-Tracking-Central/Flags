@@ -258,8 +258,6 @@
   "FFlagRenderMeshEvictUnusedEnable": "True",
   "FFlagEnableNavigationPerformanceIntervals2": "True",
   "FFlagEnableHomePageUpsellReportingFix": "True",
-  "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
-  "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
