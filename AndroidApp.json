@@ -579,5 +579,5 @@
   "FFlagUniversalAppCsat3": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
   "FFlagDisplayNamesDiagLogging": "True",
-  "DFFlagSimSolverReduceTimingStatFreq_Rollout": "True;60;2024-04-16T18:34:53"
+  "DFFlagSimSolverReduceTimingStatFreq": "True"
 }
