@@ -132,6 +132,7 @@
   "CaptureCountersIntervalInMinutes": "5",
   "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
+  "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-16T17:48:49",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
@@ -591,7 +592,7 @@
   "FFlagToolboxFunctionalComponentsForContextualRecs": "True",
   "FFlagToolboxFixContextualRecommendationsDefaultState": "True",
   "FFlagStudioSuppressRenderJob3": "True",
-  "FFlagStudioRenderThrottleModel2_Rollout": "True;60;2024-04-16T16:19:55",
+  "FFlagStudioRenderThrottleModel2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -621,5 +622,6 @@
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
+  "DFFlagCLI94314_DataCenterFilter": "True;361;356"
 }
