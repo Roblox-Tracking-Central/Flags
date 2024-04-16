@@ -37,8 +37,6 @@
   "DFFlagReportCSGMeshVersionOnce": "False",
   "DFFlagReportCollisionDetectionTime": "True",
   "DFFlagReportLuaKicks": "True",
-  "DFFlagReportPhysicsFPSStatsPlaceSpecific_PlaceFilter": "True;606849621;171391948;189707",
-  "DFFlagReportPhysicsSolverStatsPlaceSpecific_PlaceFilter": "True;606849621;171391948;189707",
   "DFFlagReportSolverUsageStats": "True",
   "DFFlagRomarkAdjustCharacterReportThrottle": "True",
   "DFFlagSIMForceCSGv2Once": "False",
