@@ -404,7 +404,6 @@
   "FFlagEnableMenuModernizationABTest4": "True",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "DFFlagEnableArbiterTimeTelemetry": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagEnableXboxAccountProtocol": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",

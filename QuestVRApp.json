@@ -568,7 +568,6 @@
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "False",
   "FFlagRunSoundCacheTunableV2BranchIXP": "True",
-  "DFFlagEnableArbiterTimeTelemetry": "True",
   "FIntRenderMeshOptimizeVertexBuffer": "3",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356",
