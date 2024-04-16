@@ -71,7 +71,6 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
-  "DFFlagFlagRolloutTestDynamicBool1": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -85,7 +84,6 @@
   "FIntUITextureLowSingleTextureMemoryMB": "4",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "True",
   "FFlagEnableLocationRecording": "True",
-  "DFFlagFlagRolloutTestDynamicBool0": "False",
   "FStringUIOcclusionMetricsRectQueryList": "[{\u0022id\u0022:\u0022a1d\u0022,\u0022pos\u0022:[1,-56,0,10],\u0022size\u0022:[0,44,0,48]},{\u0022id\u0022:\u0022a2d\u0022,\u0022pos\u0022:[1,-100,0,10],\u0022size\u0022:[0,88,0,48]},{\u0022id\u0022:\u0022a4d\u0022,\u0022pos\u0022:[1,-418,0,10],\u0022size\u0022:[0,406,0,48]},{\u0022id\u0022:\u0022a5d\u0022,\u0022pos\u0022:[0.5,-102,0,10],\u0022size\u0022:[0,204,0,48]},{\u0022id\u0022:\u0022a5dl\u0022,\u0022pos\u0022:[0.5,-305,0,10],\u0022size\u0022:[0,204,0,48]},{\u0022id\u0022:\u0022lrd\u0022,\u0022pos\u0022:[0,16,0,12],\u0022size\u0022:[0,44,0,44]},{\u0022id\u0022:\u0022l1d\u0022,\u0022pos\u0022:[0,72,0,12],\u0022size\u0022:[0,44,0,44]},{\u0022id\u0022:\u0022l2d\u0022,\u0022pos\u0022:[0,72,0,12],\u0022size\u0022:[0,88,0,44]},{\u0022id\u0022:\u0022l4d\u0022,\u0022pos\u0022:[0,72,0,12],\u0022size\u0022:[0,406,0,44]},{\u0022id\u0022:\u0022l-pc\u002Bsv-d\u0022,\u0022pos\u0022:[0,72,0,12],\u0022size\u0022:[0,132,0,44]}]",
   "DFIntReportUIOcclusionRectQuery": "100",
   "FFlagSignalRLogMessageDeliveryByPlatform": "True",
@@ -132,7 +130,6 @@
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "AllowVideoPreRoll": "True",
-  "AxisAdornmentGrabSize": "12",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -179,6 +176,7 @@
   "DFFlagCheckValidatePurchaseTicketForStringSafety": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -456,6 +454,5 @@
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "FFlagRunSoundCacheTunableV2BranchIXP": "True",
   "FFlagUniversalAppCsat3": "True",
-  "FFlagPrintWarningForClampedColorValues": "True",
   "DFFlagCLI94314_DataCenterFilter": "True;361;356"
 }
