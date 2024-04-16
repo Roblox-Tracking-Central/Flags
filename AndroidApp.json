@@ -127,9 +127,9 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "AxisAdornmentGrabSize": "12",
-  "AllowVideoPreRoll": "True",
   "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-16T17:48:49",
+  "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "CatalogPromoAssetId": "-1",
@@ -539,7 +539,6 @@
   "FFlagLuaEnableDidSwitchAccount": "True",
   "FFlagVideoServiceAddHardwareCodecMetrics": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "FFlagEnableHomePageUpsellReportingFix": "True",
   "EnableAndroidCheckTTIFlagFetchUseCase": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
@@ -581,5 +580,6 @@
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
   "FFlagUniversalAppCsat3": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
-  "FFlagDisplayNamesDiagLogging": "True"
+  "FFlagDisplayNamesDiagLogging": "True",
+  "DFFlagSimSolverReduceTimingStatFreq_Rollout": "True;60;2024-04-16T18:34:53"
 }
