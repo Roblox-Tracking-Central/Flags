@@ -10630,7 +10630,7 @@
   "FFlagStudioAlwaysShowSouthRegionsWhenEmpty": "True",
   "FFlagExportPathCheckEnabled": "True",
   "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
-  "FIntUserHeartbeatsPulseRolloutPerMyriad": "3000",
+  "FIntUserHeartbeatsPulseRolloutPerMyriad": "4000",
   "FFlagXboxRemoveIsRetail": "True",
   "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
   "FFlagPlatformServiceNoLongerStartGames": "True",
