@@ -529,5 +529,7 @@
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
   "FFlagDisplayNamesDiagLogging": "True",
-  "DFFlagHarmonyStreamingNewMetrics": "True"
+  "DFFlagHarmonyStreamingNewMetrics": "True",
+  "FFlagContactImporterUIRefactor_v1": "True",
+  "FFlagUseRoduxContactsV091": "True"
 }

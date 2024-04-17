@@ -578,5 +578,7 @@
   "FFlagDisplayNamesDiagLogging": "True",
   "DFFlagSimSolverReduceTimingStatFreq": "True",
   "DFFlagHttpDisableSslReleaseBuffers_DataCenterFilter": "True;265;370;295",
-  "DFFlagHttpDisableSslReleaseBuffers": "True"
+  "DFFlagHttpDisableSslReleaseBuffers": "True",
+  "FFlagContactImporterUIRefactor_v1": "True",
+  "FFlagUseRoduxContactsV091": "True"
 }
