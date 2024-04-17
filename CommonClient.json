@@ -11645,6 +11645,8 @@
   "DFFlagLogServiceDeprecateCanManage": "True",
   "FIntPathfindingLargeTerrainTileThrottleHundrethsPercentPoints": "10000",
   "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
+  "FIntMaxTimestepMultiplierHumanoid_Rollout": "1;30;2024-04-17T16:11:15",
+  "FFlagPoolHashStates_Rollout": "True;60;2024-04-17T16:19:11",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
