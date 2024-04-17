@@ -130,7 +130,6 @@
   "FFlagStudioRibbonBarWidgets2_Rollout": "True;60;2024-04-17T20:27:06",
   "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
-  "FFlagSimAdaptiveDirtyIslandCollectionConditionFix_Rollout": "True;30;2024-04-17T21:04:49",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "CatalogPromoAssetId": "-1",
@@ -580,5 +579,6 @@
   "DFFlagHttpDisableSslReleaseBuffers_DataCenterFilter": "True;265;370;295",
   "FFlagContactImporterUIRefactor_v1": "True",
   "FFlagUseRoduxContactsV091": "True",
-  "FFlagAXFixCatalogDataOverride": "True"
+  "FFlagAXFixCatalogDataOverride": "True",
+  "FFlagAXFixBuyActionBarLoadingHeight1_Rollout": "True;60;2024-04-17T21:20:03"
 }

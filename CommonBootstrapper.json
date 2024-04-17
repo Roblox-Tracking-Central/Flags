@@ -93,5 +93,6 @@
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FFlagEnableAdminWebView2Installation": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
-  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True"
+  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
+  "FFlagAXFixBuyActionBarLoadingHeight1_Rollout": "True;60;2024-04-17T21:20:03"
 }

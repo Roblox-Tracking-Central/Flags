@@ -130,7 +130,6 @@
   "FFlagStudioRibbonBarWidgets2_Rollout": "True;60;2024-04-17T20:27:06",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-17T20:31:47",
   "AllowVideoPreRoll": "True",
-  "FFlagSimAdaptiveDirtyIslandCollectionConditionFix_Rollout": "True;30;2024-04-17T21:04:49",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",

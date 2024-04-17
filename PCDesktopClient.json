@@ -130,7 +130,6 @@
   "FFlagStudioRibbonBarWidgets2_Rollout": "True;60;2024-04-17T20:27:06",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -172,6 +171,8 @@
   "DFFlagCheckValidatePurchaseTicketForStringSafety": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
+  "FFlagAXFixBuyActionBarLoadingHeight1_Rollout": "True;60;2024-04-17T21:20:03",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -434,5 +435,6 @@
   "DFFlagVoiceChatTimeToUnmute": "True",
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FIntMaxTimestepMultiplierVelocity": "4",
-  "FFlagSimAdaptiveTimesteppingDefault2": "True"
+  "FFlagSimAdaptiveTimesteppingDefault2": "True",
+  "DFFlagEnableAverageScreenPercentageTracking_Rollout": "True;60;2024-04-17T21:25:02"
 }
