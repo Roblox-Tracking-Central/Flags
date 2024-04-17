@@ -127,7 +127,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagStudioRibbonBarWidgets2_Rollout": "True;60;2024-04-17T20:27:06",
   "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-17T20:31:47",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning_Rollout": "True;60;2024-04-17T20:32:44",
   "AllowVideoPreRoll": "True",
@@ -468,7 +467,7 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FFlagDebugGraphicsCrashOnLeaks": "False",
-  "DFIntOOMInferenceThreshold": "7000",
+  "DFIntOOMInferenceThreshold": "3000",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
@@ -535,7 +534,7 @@
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagContactImporterUIRefactor_v1": "True",
   "FFlagUseRoduxContactsV091": "True",
-  "DFIntOOMInferenceThreshold_Rollout": "3000;60;2024-04-17T20:26:37",
   "FFlagAXFixCatalogDataOverride": "True",
-  "FFlagAXFixBuyActionBarLoadingHeight1_Rollout": "True;60;2024-04-17T21:20:03"
+  "FFlagAXFixBuyActionBarLoadingHeight1_Rollout": "True;60;2024-04-17T21:20:03",
+  "FFlagAdjustAudioLoaderThreadCount_Rollout": "True;60;2024-04-17T21:42:20"
 }
