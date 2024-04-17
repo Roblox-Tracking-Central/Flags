@@ -590,6 +590,9 @@
   "FFlagSplitDescendantDirtyBit2": "True",
   "FFlagLayoutNodeFlexRefactor6": "True",
   "FFlagLuauCodegen_Rollout": "True;60;2024-04-17T17:12:43",
+  "FFlagFixFlexLayoutASTextScaledInfiniteLayout_Rollout": "True;60;2024-04-17T17:54:50",
+  "FFlagRelayoutFlexLayoutOnChildDirty_Rollout": "True;60;2024-04-17T17:55:59",
+  "DFIntGuiServicePropertyMetrics_ReportHundredthsPercent_Rollout": "1;60;2024-04-17T17:57:18",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -625,6 +628,5 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
-  "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "DFFlagCLI94314_DataCenterFilter": "True;361;356"
+  "DFFlagEnableGamepassPurchaseIxpRollout": "True"
 }
