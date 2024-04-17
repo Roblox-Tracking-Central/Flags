@@ -11609,7 +11609,6 @@
   "FFlagEnableCredentialsProtocolPasswords": "True",
   "EnableCredentialManagerPasswordMigration": "True",
   "FFlagPrintWarningForClampedColorValues": "True",
-  "FFlagNavigationAnalyticsImprovement": "True",
   "DFFlagGjkUseNativeSupportPoints": "True",
   "FFlagGpuGeometryManager14": "True",
   "FFlagFixRelocationCheck": "True",
