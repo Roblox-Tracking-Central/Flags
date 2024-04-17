@@ -3079,7 +3079,6 @@
   "FFlagFinishMigrateCreateAliasAPIs": "True",
   "FFlagOnlyRecordRegistryResetWhenReset": "True",
   "DFFlagPathfindingStatsPerRequestThrottlePerRequest": "True",
-  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerSession": "10000",
   "DFFlagSimCollectConstraintInfo3": "True",
   "DFIntSimConstraintDataCollectionRate3": "1000",
