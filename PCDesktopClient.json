@@ -127,8 +127,8 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -164,12 +164,10 @@
   "FFlagIBEnableSendCounters1": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
-  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "FFlagEnableAdsMouseUnlock": "True",
   "DFFlagCheckValidatePurchaseTicketForStringSafety": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
-  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
   "FFlagAXFixBuyActionBarLoadingHeight1_Rollout": "True;60;2024-04-17T21:20:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -435,5 +433,6 @@
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FIntMaxTimestepMultiplierVelocity": "4",
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
-  "DFFlagEnableAverageScreenPercentageTracking_Rollout": "True;60;2024-04-17T21:25:02"
+  "DFFlagEnableAverageScreenPercentageTracking_Rollout": "True;60;2024-04-17T21:25:02",
+  "FFlagOptimizeNoCollisionPrimitiveInMidphase3_DataCenterFilter": "True;361"
 }
