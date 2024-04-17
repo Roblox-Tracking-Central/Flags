@@ -11618,7 +11618,6 @@
   "FFlagFixInvertedIntervalFPSMetric": "True",
   "DFFlagFixFullscreenButtonPosition": "True",
   "FFlagPath2DUpdatesCorrectlyWhenGLCPropChanges": "True",
-  "FFlagPathfindingTerrainGenerateMesh2": "True",
   "FFlagEnableVideoAdsClickToPlay": "True",
   "FFlagVideoAnalyticsReportFpsAndMemory": "True",
   "FFlagDelayedInstallerLaunchTelemetry": "True",
