@@ -127,7 +127,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagRunSoundCacheTunableV2BranchIXP_Rollout": "True;60;2024-04-17T18:20:37",
   "FFlagHookUgcGameDidClose_Rollout": "True;60;2024-04-17T18:56:05",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",

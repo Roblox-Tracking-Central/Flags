@@ -127,7 +127,6 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "AllowVideoPreRoll": "True",
   "FFlagHookUgcGameDidClose_Rollout": "True;60;2024-04-17T18:56:05",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -173,6 +172,7 @@
   "DFFlagCheckValidatePurchaseTicketForStringSafety": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -435,6 +435,5 @@
   "DFFlagVoiceChatTimeToUnmute": "True",
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FIntMaxTimestepMultiplierVelocity": "4",
-  "FFlagSimAdaptiveTimesteppingDefault2": "True",
-  "FFlagRunSoundCacheTunableV2BranchIXP": "True"
+  "FFlagSimAdaptiveTimesteppingDefault2": "True"
 }
