@@ -127,7 +127,10 @@
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagHookUgcGameDidClose_Rollout": "True;60;2024-04-17T18:56:05",
+  "FFlagStudioRibbonBarWidgets2_Rollout": "True;60;2024-04-17T20:27:06",
+  "DFFlagHttpDisableSslReleaseBuffers_Rollout": "True;10;2024-04-17T20:31:21",
+  "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-17T20:31:47",
+  "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning_Rollout": "True;60;2024-04-17T20:32:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -533,5 +536,6 @@
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagContactImporterUIRefactor_v1": "True",
   "FFlagUseRoduxContactsV091": "True",
-  "FFlagAXFixCatalogDataOverride_Rollout": "True;60;2024-04-17T18:45:20"
+  "DFIntOOMInferenceThreshold_Rollout": "3000;60;2024-04-17T20:26:37",
+  "FFlagAXFixCatalogDataOverride": "True"
 }
