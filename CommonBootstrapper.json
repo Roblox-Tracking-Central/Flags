@@ -94,5 +94,6 @@
   "FFlagEnableAdminWebView2Installation": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
-  "FFlagAXFixBuyActionBarLoadingHeight1_Rollout": "True;60;2024-04-17T21:20:03"
+  "FFlagAXFixBuyActionBarLoadingHeight1": "True",
+  "FFlagAXFixCatalogDataOverride_Rollout": "True;60;2024-04-17T22:56:33"
 }

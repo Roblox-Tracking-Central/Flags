@@ -87,6 +87,7 @@
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
   "FFlagSignalRLogMessageDeliveryByPlatform": "True",
+  "DFIntTimestepArbiterThresholdCFLThou": "300",
   "FFlagLuaAppEnableToastNotifications4": "False",
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
