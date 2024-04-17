@@ -11677,7 +11677,6 @@
   "FFlagRemoveLegacyPageWrapper3": "True",
   "FFlagRoactNavigationMigrateTo0_5_10": "True",
   "FFlagSocialTabAdaptEntryPoint3": "True",
-  "FFlagV2LuaRequireCount": "True",
   "DFFlagReportAvatarAssetNetworkingTime2": "True",
   "FFlagGraphicsVulkanFixComputeDispatchAdreno": "True",
   "FFlagStudioRibbonBarWidgets2": "True",
