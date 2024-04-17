@@ -578,5 +578,5 @@
   "FFlagDisplayNamesDiagLogging": "True",
   "DFFlagSimSolverReduceTimingStatFreq": "True",
   "DFFlagHttpDisableSslReleaseBuffers_DataCenterFilter": "True;265;370;295",
-  "DFFlagHttpDisableSslReleaseBuffers_Rollout": "True;10;2024-04-17T16:28:56"
+  "DFFlagHttpDisableSslReleaseBuffers": "True"
 }
