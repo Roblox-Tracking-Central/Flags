@@ -95,5 +95,6 @@
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
-  "FFlagAXFixCatalogDataOverride": "True"
+  "FFlagAXFixCatalogDataOverride": "True",
+  "FFlagIBFixBuyingFromResellers": "True"
 }

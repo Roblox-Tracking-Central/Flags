@@ -586,6 +586,7 @@
   "FStringMetricFlagsOverride": "{\u0022CrashUniqueId\u0022: 1}",
   "FFlagLuaAppGridTileUpdatedFontSizes": "True",
   "FFlagEnableNewFontNameMappingABTest2": "True",
+  "FFlagIBFixBuyingFromResellers": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

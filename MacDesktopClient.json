@@ -182,6 +182,7 @@
   "DFFlagFixJobTimeOfLastStep_Rollout": "True;360;2024-04-18T17:44:43",
   "FFlagDisableFeedbackSoothsayerCheck": "True",
   "DFFlagExperienceStateCaptureEnableBillboardSelection": "True",
+  "FFlagIBFixBuyingFromResellers": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
