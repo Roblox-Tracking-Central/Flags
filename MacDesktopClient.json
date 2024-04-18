@@ -459,5 +459,7 @@
   "FFlagLuaAppGridTileUpdatedFontSizes": "True",
   "DFFlagLuauHeapProfilerTelemetry": "True",
   "DFFlagWebParserOptimizeStringWrite": "True",
-  "FFlagEnableNewFontNameMappingABTest2": "True"
+  "FFlagEnableNewFontNameMappingABTest2": "True",
+  "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
+  "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273"
 }
