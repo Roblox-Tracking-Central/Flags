@@ -455,7 +455,7 @@
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "DFFlagEnableAverageScreenPercentageTracking": "True",
   "FFlagLuaAppGridTileUpdatedFontSizes": "True",
-  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;30;2024-04-18T17:25:53",
   "DFFlagLuauHeapProfilerTelemetry": "True",
-  "DFFlagWebParserOptimizeStringWrite": "True"
+  "DFFlagWebParserOptimizeStringWrite": "True",
+  "FFlagEnableNewFontNameMappingABTest2": "True"
 }

@@ -538,5 +538,5 @@
   "FFlagAXFixCatalogDataOverride": "True",
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagLuaAppGridTileUpdatedFontSizes": "True",
-  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;30;2024-04-18T17:25:53"
+  "FFlagEnableNewFontNameMappingABTest2": "True"
 }
