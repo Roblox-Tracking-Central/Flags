@@ -583,8 +583,9 @@
   "FFlagLuaAppGridTileUpdatedFontSizes": "True",
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "FFlagIBFixBuyingFromResellers": "True",
-  "FFlagAXAdaptiveScrollingImprovementIXPEnabled_Rollout": "True;60;2024-04-18T21:38:23",
-  "FFlagAXPortraitSplitAdaptiveScrollingFix2_Rollout": "True;60;2024-04-18T21:38:23",
-  "FFlagAXSearchResultsCategories2_Rollout": "True;60;2024-04-18T21:38:23",
-  "FFlagAXSearchResultsCategoriesIXPEnabled_Rollout": "True;60;2024-04-18T21:38:23"
+  "FFlagAXFixBuyActionBarLoadingHeight1": "True",
+  "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
+  "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
+  "FFlagAXSearchResultsCategories2": "True",
+  "FFlagAXSearchResultsCategoriesIXPEnabled": "True"
 }
