@@ -446,7 +446,7 @@
   "FFlagWindowsClientCrashpadRollout": "False",
   "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
   "FFlagLuaAppGridTileUpdatedFontSizes": "True",
-  "DFFlagWebParserOptimizeStringWrite_Rollout": "True;60;2024-04-18T16:52:47",
-  "DFFlagLuauHeapProfilerTelemetry_Rollout": "True;30;2024-04-18T17:13:25",
-  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;30;2024-04-18T17:25:53"
+  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;30;2024-04-18T17:25:53",
+  "DFFlagLuauHeapProfilerTelemetry": "True",
+  "DFFlagWebParserOptimizeStringWrite": "True"
 }
