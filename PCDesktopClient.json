@@ -173,9 +173,9 @@
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
-  "DFIntExperienceStateCaptureHighlightTransparencyPercent_Rollout": "60;60;2024-04-17T23:34:37",
-  "FFlagExpStateCaptureModeSelectAnything2_Rollout": "True;60;2024-04-17T23:36:50",
   "FFlagAXFixCatalogDataOverride": "True",
+  "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+  "FFlagExpStateCaptureModeSelectAnything2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -441,5 +441,6 @@
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "DFFlagEnableAverageScreenPercentageTracking": "True",
   "FFlagWindowsClientCrashpadRollout": "True",
-  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000"
+  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
+  "FFlagWindowsClientCrashpadRollout_Rollout": "False;1;2024-04-18T01:00:56"
 }
