@@ -440,7 +440,6 @@
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "DFFlagEnableAverageScreenPercentageTracking": "True",
-  "FFlagWindowsClientCrashpadRollout": "True",
-  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
-  "FFlagWindowsClientCrashpadRollout_Rollout": "False;1;2024-04-18T01:00:56"
+  "FFlagWindowsClientCrashpadRollout": "False",
+  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000"
 }
