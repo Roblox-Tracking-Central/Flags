@@ -129,7 +129,7 @@
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
-  "FIntMaxTimestepMultiplierVelocity_Rollout": "2;15;2024-04-17T23:08:58",
+  "FIntMaxTimestepMultiplierVelocity": "2",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
