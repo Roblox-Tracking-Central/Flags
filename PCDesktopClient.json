@@ -451,5 +451,7 @@
   "DFFlagLuauHeapProfilerTelemetry": "True",
   "DFFlagWebParserOptimizeStringWrite": "True",
   "FFlagEnableNewFontNameMappingABTest2": "True",
-  "FFlagGuildedGameOverlaySupport": "True"
+  "FFlagGuildedGameOverlaySupport": "True",
+  "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
+  "FFlagAtomicTouchingWaterCount_DataCenterFilter": "True;361"
 }
