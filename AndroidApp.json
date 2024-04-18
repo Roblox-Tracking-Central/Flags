@@ -583,5 +583,6 @@
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagEnableMetricFlagsOverride": "True",
   "FStringMetricFlagsOverride": "{\u0022CrashUniqueId\u0022: 1}",
-  "FFlagLuaAppGridTileUpdatedFontSizes": "True"
+  "FFlagLuaAppGridTileUpdatedFontSizes": "True",
+  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;30;2024-04-18T17:25:53"
 }

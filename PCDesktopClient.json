@@ -176,6 +176,9 @@
   "FFlagAXFixCatalogDataOverride": "True",
   "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
   "FFlagExpStateCaptureModeSelectAnything2": "True",
+  "DFFlagExperienceStateCaptureEnableBillboardSelection_Rollout": "True;60;2024-04-18T17:30:31",
+  "FFlagDisableFeedbackSoothsayerCheck_Rollout": "True;30;2024-04-18T17:39:36",
+  "DFFlagFixJobTimeOfLastStep_Rollout": "True;360;2024-04-18T17:44:43",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -442,5 +445,8 @@
   "DFFlagEnableAverageScreenPercentageTracking": "True",
   "FFlagWindowsClientCrashpadRollout": "False",
   "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
-  "FFlagLuaAppGridTileUpdatedFontSizes": "True"
+  "FFlagLuaAppGridTileUpdatedFontSizes": "True",
+  "DFFlagWebParserOptimizeStringWrite_Rollout": "True;60;2024-04-18T16:52:47",
+  "DFFlagLuauHeapProfilerTelemetry_Rollout": "True;30;2024-04-18T17:13:25",
+  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;30;2024-04-18T17:25:53"
 }
