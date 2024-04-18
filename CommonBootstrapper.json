@@ -94,7 +94,10 @@
   "FFlagEnableAdminWebView2Installation": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
-  "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXFixCatalogDataOverride": "True",
-  "FFlagIBFixBuyingFromResellers": "True"
+  "FFlagIBFixBuyingFromResellers": "True",
+  "FFlagAXAdaptiveScrollingImprovementIXPEnabled_Rollout": "True;60;2024-04-18T21:38:23",
+  "FFlagAXPortraitSplitAdaptiveScrollingFix2_Rollout": "True;60;2024-04-18T21:38:23",
+  "FFlagAXSearchResultsCategories2_Rollout": "True;60;2024-04-18T21:38:23",
+  "FFlagAXSearchResultsCategoriesIXPEnabled_Rollout": "True;60;2024-04-18T21:38:23"
 }

@@ -537,8 +537,11 @@
   "FFlagContactImporterUIRefactor_v1": "True",
   "FFlagUseRoduxContactsV091": "True",
   "FFlagAXFixCatalogDataOverride": "True",
-  "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagLuaAppGridTileUpdatedFontSizes": "True",
   "FFlagEnableNewFontNameMappingABTest2": "True",
-  "FFlagIBFixBuyingFromResellers": "True"
+  "FFlagIBFixBuyingFromResellers": "True",
+  "FFlagAXAdaptiveScrollingImprovementIXPEnabled_Rollout": "True;60;2024-04-18T21:38:23",
+  "FFlagAXPortraitSplitAdaptiveScrollingFix2_Rollout": "True;60;2024-04-18T21:38:23",
+  "FFlagAXSearchResultsCategories2_Rollout": "True;60;2024-04-18T21:38:23",
+  "FFlagAXSearchResultsCategoriesIXPEnabled_Rollout": "True;60;2024-04-18T21:38:23"
 }
