@@ -583,6 +583,7 @@
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagEnableMetricFlagsOverride": "True",
   "FStringMetricFlagsOverride": "{\u0022CrashUniqueId\u0022: 1}",
+  "FFlagLuaAppGridTileUpdatedFontSizes": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

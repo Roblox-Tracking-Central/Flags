@@ -441,5 +441,6 @@
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "DFFlagEnableAverageScreenPercentageTracking": "True",
   "FFlagWindowsClientCrashpadRollout": "False",
-  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000"
+  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
+  "FFlagLuaAppGridTileUpdatedFontSizes": "True"
 }

@@ -606,6 +606,7 @@
   "DFIntReportPath2DInstanceAPICallsHundrethsPercent": "100",
   "FFlagAXFixCatalogDataOverride": "True",
   "DFFlagPath2DAnalyticsEnabled": "True",
+  "FFlagLuauCodegenContext_Rollout": "True;60;2024-04-18T16:07:39",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

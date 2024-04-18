@@ -536,5 +536,6 @@
   "FFlagContactImporterUIRefactor_v1": "True",
   "FFlagUseRoduxContactsV091": "True",
   "FFlagAXFixCatalogDataOverride": "True",
-  "FFlagAXFixBuyActionBarLoadingHeight1": "True"
+  "FFlagAXFixBuyActionBarLoadingHeight1": "True",
+  "FFlagLuaAppGridTileUpdatedFontSizes": "True"
 }
