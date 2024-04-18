@@ -621,6 +621,8 @@
   "FFlagFixNewLoginDetectedEmailSpamFromStudio": "True",
   "FFlagCAPDMHierarchyTelemetry": "True",
   "FFlagStudioAllowYieldsInGetSelection_Rollout": "True;60;2024-04-18T22:25:20",
+  "FFlagCAPRecentInstancesContext": "True",
+  "FFlagCAPRecentInstancesDeletedBugfix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
