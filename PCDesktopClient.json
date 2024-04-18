@@ -130,6 +130,7 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FIntMaxTimestepMultiplierVelocity": "4",
+  "FFlagEnableTenFootInterfaceCheckForLegacyChat_Rollout": "True;60;2024-04-18T20:13:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -449,5 +450,5 @@
   "DFFlagLuauHeapProfilerTelemetry": "True",
   "DFFlagWebParserOptimizeStringWrite": "True",
   "FFlagEnableNewFontNameMappingABTest2": "True",
-  "FFlagGuildedGameOverlaySupport_Rollout": "True;60;2024-04-18T18:37:57"
+  "FFlagGuildedGameOverlaySupport": "True"
 }
