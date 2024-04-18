@@ -130,7 +130,6 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FIntMaxTimestepMultiplierVelocity": "2",
-  "FFlagEnableTenFootInterfaceCheckForLegacyChat_Rollout": "True;60;2024-04-18T20:13:11",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
