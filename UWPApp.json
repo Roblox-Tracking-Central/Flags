@@ -304,5 +304,6 @@
   "FFlagSelfViewCameraSettings": "True",
   "FFlagGamepadInputUIPosition": "True",
   "FFlagUWPCheckTTIBlockingDialog": "True",
-  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True"
+  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
+  "FFlagGuildedGameOverlaySupport_Rollout": "True;60;2024-04-18T18:37:57"
 }
