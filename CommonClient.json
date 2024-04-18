@@ -11700,6 +11700,7 @@
   "DFFlagSimClampSensorSpatialQueries": "True",
   "FFlagFixTestServiceInFasterPlaySoloBeta": "True",
   "DFFlagEnableCaptureModeNonTextGuiSelection": "True",
+  "FFlagVideoUseYUVBufferPool_Rollout": "True;60;2024-04-18T16:32:11",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
