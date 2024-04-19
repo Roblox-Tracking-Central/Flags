@@ -402,6 +402,5 @@
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
-  "FFlagEnableXboxAccountProtocol": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True"
 }
