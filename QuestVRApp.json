@@ -608,5 +608,6 @@
   "FFlagSwitchInExpTranslationsPackage2": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-  "FFlagEnableAsyncAttestationTokenRetrieval": "True"
+  "FFlagEnableAsyncAttestationTokenRetrieval": "True",
+  "FFlagEnableAdditionalMaquettesAttestationNullCheck_Rollout": "True;60;2024-04-19T16:09:44"
 }
