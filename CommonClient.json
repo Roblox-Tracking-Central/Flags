@@ -11684,7 +11684,6 @@
   "FFlagVideoUseYUVBufferPool": "False",
   "DFFlagEnableNextGenDevProductPurchaseIxpRollout2": "True",
   "FFlagAvatarPreviewerAutoSetupDisablePublish": "True",
-  "DFFlagSimForgoWorldReportMetricsForPlaceIdZero3": "True",
   "FIntFasterPlaySoloBetaFeatureRolloutPercent": "50",
   "DFFlagDisableLayeredClothingRemovedWarning": "True",
   "FFlagAddMissingToolboxLocalization": "True",
