@@ -11572,7 +11572,6 @@
   "FFlagOpenURLUseRequestResponse": "True",
   "FFlagPath2DFixCrashOnSplineQuerying": "True",
   "FFlagLuaAppGamesProductInfoRoduxKey": "True",
-  "FIntConsolidateBubbleChatRollout2": "50",
   "FFlagPublishableCanPublish": "True",
   "DFFlagZeroRaycastFourthLane": "True",
   "FFlagDataModelPatchEarlyExitLocalConfig": "True",
