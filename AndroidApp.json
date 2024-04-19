@@ -585,6 +585,5 @@
   "FFlagIBFixBuyingFromResellers": "True",
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
-  "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
-  "FFlagAXSearchResultsCategoriesIXPEnabled": "True"
+  "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True"
 }

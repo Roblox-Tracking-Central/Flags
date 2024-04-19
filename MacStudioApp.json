@@ -619,7 +619,6 @@
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
-  "FFlagAXSearchResultsCategoriesIXPEnabled": "True",
   "FFlagStudioAllowYieldsInGetSelection": "True",
   "FFlagLuauCodegenContext_Rollout": "True;60;2024-04-19T15:57:32",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
