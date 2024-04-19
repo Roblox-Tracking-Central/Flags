@@ -300,7 +300,6 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FFlagGamepadInputUIPosition": "True",
   "FFlagUWPCheckTTIBlockingDialog": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagGuildedGameOverlaySupport": "True"

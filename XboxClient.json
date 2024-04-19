@@ -398,7 +398,6 @@
   "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",

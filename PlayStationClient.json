@@ -250,7 +250,6 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagRenderMeshEvictUnusedEnable": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FFlagGamepadInputUIPosition": "True",
   "FFlagDisableIxpUserFetchWithoutCookie": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",

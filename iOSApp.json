@@ -510,7 +510,6 @@
   "FFlagEnableiOSCheckTTIFlagFetchUseCase": "True",
   "FFlagUpgradeUserAgentOverride": "True",
   "FFlagEnableOtpEmailLoginRelease1": "True",
-  "FFlagGamepadInputUIPosition": "True",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True",
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -540,6 +539,5 @@
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
-  "FFlagAXSearchResultsCategories2": "True",
   "FFlagAXSearchResultsCategoriesIXPEnabled": "True"
 }
