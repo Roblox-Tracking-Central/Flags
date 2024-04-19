@@ -94,7 +94,6 @@
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagAXFixCatalogDataOverride": "True",
   "FFlagIBFixBuyingFromResellers": "True",
-  "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True"
 }
