@@ -622,6 +622,8 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "1000",
   "FFlagLuauCodegenUseContextAwareApis": "True",
   "FFlagConvAIDropdownGenerationIndicator": "True",
+  "FFlagAtomicTouchingWaterCount_DataCenterFilter": "True;361",
+  "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

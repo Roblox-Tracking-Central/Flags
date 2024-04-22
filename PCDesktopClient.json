@@ -178,6 +178,8 @@
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "DFFlagFixJobTimeOfLastStep": "True",
+  "FFlagAtomicTouchingWaterCount_DataCenterFilter": "True;361",
+  "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

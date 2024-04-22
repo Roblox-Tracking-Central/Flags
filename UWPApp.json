@@ -303,5 +303,6 @@
   "FFlagUWPCheckTTIBlockingDialog": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagGuildedGameOverlaySupport": "True",
-  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25"
+  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25",
+  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;60;2024-04-22T16:35:01"
 }
