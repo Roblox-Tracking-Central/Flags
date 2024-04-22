@@ -468,5 +468,6 @@
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "FFlagCLI98640_player_conf_access": "True",
-  "DFFlagVoiceChatFixClientTurnAuthTtl": "True"
+  "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
+  "FFlagUseExitInUpdateTermination_Rollout": "True;1;2024-04-22T20:19:23"
 }
