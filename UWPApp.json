@@ -303,9 +303,9 @@
   "FFlagUWPCheckTTIBlockingDialog": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagGuildedGameOverlaySupport": "True",
-  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25",
-  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;60;2024-04-22T16:35:01",
   "FFlagLuaAppGameIconsRoduxKey": "True",
   "FFlagLuaAppBigGameIconsRoduxKey": "True",
-  "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-22T17:14:25"
+  "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-22T17:14:25",
+  "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
+  "FFlagEnableNewFontNameMappingABTest2": "True"
 }

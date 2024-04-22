@@ -463,6 +463,6 @@
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
-  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25",
-  "FFlagCLI98640_player_conf_access": "True"
+  "FFlagCLI98640_player_conf_access": "True",
+  "DFFlagVoiceChatFixClientTurnAuthTtl": "True"
 }

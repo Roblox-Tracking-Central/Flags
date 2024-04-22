@@ -510,7 +510,7 @@
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagUniversalAppCsat2": "True",
   "EnableRequestPermissionsOnAppReady": "True",
-  "FFlagLuaAppDisableSound": "True",
+  "FFlagLuaAppDisableSound": "False",
   "FFlagSelfViewCameraSettings": "True",
   "EnableIrisUpdatedCallingNotificationCompat": "False",
   "FFlagEnableNavBarLabels3": "False",
@@ -588,6 +588,9 @@
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "FFlagLuaAppGameIconsRoduxKey": "True",
   "FFlagLuaAppBigGameIconsRoduxKey": "True",
+  "FFlagDisplayNamesOnSignupExperiment_v3": "True",
+  "FFlagSignupAddLoadingSpinner": "True",
+  "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -611,6 +614,5 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-  "FFlagLuaAppDisableSound_Rollout": "False;60;2024-04-22T16:15:47",
   "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-22T17:14:25"
 }

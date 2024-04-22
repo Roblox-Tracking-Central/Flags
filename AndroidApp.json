@@ -587,5 +587,8 @@
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "FFlagLuaAppGameIconsRoduxKey": "True",
-  "FFlagLuaAppBigGameIconsRoduxKey": "True"
+  "FFlagLuaAppBigGameIconsRoduxKey": "True",
+  "FFlagDisplayNamesOnSignupExperiment_v3": "True",
+  "FFlagSignupAddLoadingSpinner": "True",
+  "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True"
 }
