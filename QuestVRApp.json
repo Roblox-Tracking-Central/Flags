@@ -608,5 +608,6 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-  "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True"
+  "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
+  "FFlagLuaAppDisableSound_Rollout": "False;60;2024-04-22T16:15:47"
 }

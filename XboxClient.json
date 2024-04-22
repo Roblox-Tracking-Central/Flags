@@ -402,5 +402,6 @@
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
-  "FFlagLuaAppChallengeNativeWrapperEnabled": "True"
+  "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
+  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25"
 }

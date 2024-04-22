@@ -302,5 +302,6 @@
   "FFlagSelfViewCameraSettings": "True",
   "FFlagUWPCheckTTIBlockingDialog": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
-  "FFlagGuildedGameOverlaySupport": "True"
+  "FFlagGuildedGameOverlaySupport": "True",
+  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25"
 }
