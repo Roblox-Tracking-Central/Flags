@@ -591,5 +591,6 @@
   "FFlagLuaAppBigGameIconsRoduxKey": "True",
   "FFlagDisplayNamesOnSignupExperiment_v3": "True",
   "FFlagSignupAddLoadingSpinner": "True",
-  "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True"
+  "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
+  "FFlagSignupAddDisplayNameFieldToRequest": "True"
 }

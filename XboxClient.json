@@ -406,6 +406,6 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagLuaAppGameIconsRoduxKey": "True",
   "FFlagLuaAppBigGameIconsRoduxKey": "True",
-  "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-22T17:14:25",
-  "DFFlagVoiceChatFixClientTurnAuthTtl": "True"
+  "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
+  "DFFlagUseJsonWriterInPerformPurchase": "True"
 }

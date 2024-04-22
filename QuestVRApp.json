@@ -592,6 +592,7 @@
   "FFlagDisplayNamesOnSignupExperiment_v3": "True",
   "FFlagSignupAddLoadingSpinner": "True",
   "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
+  "FFlagSignupAddDisplayNameFieldToRequest": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -615,5 +616,5 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-  "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-22T17:14:25"
+  "DFFlagUseJsonWriterInPerformPurchase": "True"
 }
