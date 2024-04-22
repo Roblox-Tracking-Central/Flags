@@ -11724,6 +11724,7 @@
   "DFFlagSimShowInstanceNameInForceVis": "True",
   "FFlagEnableReworkedConeTorqueVisualization": "True",
   "FFlagSimDebugVisualizeNetForces": "True",
+  "FFlagPlaystationAvoidClusterSwitches2": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
