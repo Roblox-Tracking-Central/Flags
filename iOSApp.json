@@ -554,5 +554,6 @@
   "FFlagSignupAddDisplayNameFieldToRequest": "True",
   "FFlagEnableVNGWebHostFilter_Rollout": "True;60;2024-04-22T19:57:05",
   "FFlagSignupDisplayNameLogging": "True",
-  "FFlagSignupTrackFailedRequestv1_Rollout": "True;60;2024-04-22T20:11:18"
+  "FFlagSignupTrackFailedRequestv1_Rollout": "True;60;2024-04-22T20:11:18",
+  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus_Rollout": "True;60;2024-04-22T21:05:11"
 }

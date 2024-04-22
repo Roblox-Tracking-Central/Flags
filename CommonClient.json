@@ -11728,6 +11728,7 @@
   "FFlagSocialAnalyticsUseSendEventDeferred_Rollout": "True;60;2024-04-22T20:12:09",
   "FFlagGraphicsGLTimerQuery2_Rollout": "True;60;2024-04-22T20:30:17",
   "FFlagLuaAppFullRefreshOmniRecOnGameExit_Rollout": "True;30;2024-04-22T20:31:37",
+  "FFlagToolboxFixSubmitDevelopmentItemWidth": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

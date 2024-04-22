@@ -621,5 +621,6 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-  "DFFlagUseJsonWriterInPerformPurchase": "True"
+  "DFFlagUseJsonWriterInPerformPurchase": "True",
+  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "False"
 }
