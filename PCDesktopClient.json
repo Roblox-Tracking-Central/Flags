@@ -184,6 +184,7 @@
   "FFlagLuaAppBigGameIconsRoduxKey": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37",
+  "FFlagInternalCaptureSavedEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -454,7 +455,7 @@
   "DFFlagWebParserOptimizeStringWrite": "True",
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "FFlagGuildedGameOverlaySupport": "True",
-  "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
+  "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "FFlagCLI98640_player_conf_access": "True",
   "DFFlagVoiceChatFixClientTurnAuthTtl": "True"

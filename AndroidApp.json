@@ -593,7 +593,7 @@
   "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
   "FFlagSignupAddDisplayNameFieldToRequest": "True",
   "FFlagSignupDisplayNameLogging": "True",
-  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus_Rollout": "True;60;2024-04-22T21:05:11",
   "FFlagSignupTrackFailedRequestv1": "True",
-  "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37"
+  "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37",
+  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True"
 }

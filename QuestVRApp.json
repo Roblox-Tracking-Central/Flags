@@ -593,9 +593,10 @@
   "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
   "FFlagSignupAddDisplayNameFieldToRequest": "True",
   "FFlagSignupDisplayNameLogging": "True",
-  "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagSignupTrackFailedRequestv1": "True",
   "FFlagEnableQuestHaptics": "True",
+  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "False",
+  "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
   "FFlagEnableAlwaysOnTopForPanel3D": "True",
@@ -618,6 +619,5 @@
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
-  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "False",
   "FFlagColorPickerSliderIXPEnabled7": "False"
 }

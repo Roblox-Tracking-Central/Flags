@@ -625,6 +625,8 @@
   "FFlagNcgBasicUsageMetrics2": "True",
   "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37",
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "10",
+  "FFlagAssetImportRefactorPresetDropdown_Rollout": "True;60;2024-04-22T22:33:06",
+  "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
