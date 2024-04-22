@@ -11739,6 +11739,7 @@
   "FFlagMigrateVerbRotateAxisVerbs": "True",
   "FFlagEnableVNGNewAppAvailableModal_Rollout": "True;60;2024-04-22T23:02:39",
   "DFIntPlayerLoadTimeEventsThrottleHundredthsPercent": "5000",
+  "FFlagRoundGlyphOffsetForEllipsis_Rollout": "True;30;2024-04-22T23:44:34",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
