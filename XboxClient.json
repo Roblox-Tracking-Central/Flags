@@ -130,6 +130,8 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagDoNotDisableMainWindow_Rollout": "True;30;2024-04-22T20:05:59",
   "FFlagSpeedUpDebuggerStartupPlaySoloWithCyclingSubmitTask_Rollout": "True;30;2024-04-22T20:07:44",
+  "FFlagPreventDuplicateSetupGameStateView_Rollout": "True;30;2024-04-22T20:09:02",
+  "FFlagFixLocalRunWithPausedDM_Rollout": "True;30;2024-04-22T20:10:36",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
