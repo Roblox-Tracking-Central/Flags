@@ -128,6 +128,7 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
+  "FFlagPlaystationAvoidClusterSwitches2_Rollout": "True;60;2024-04-22T18:33:27",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
