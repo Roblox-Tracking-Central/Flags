@@ -624,6 +624,7 @@
   "FFlagCOLLAB6083AvatarAssert": "True",
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent_Rollout": "10;60;2024-04-22T20:30:31",
   "FFlagNcgBasicUsageMetrics2": "True",
+  "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

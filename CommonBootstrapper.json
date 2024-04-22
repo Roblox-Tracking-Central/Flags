@@ -95,5 +95,6 @@
   "FFlagAXFixCatalogDataOverride": "True",
   "FFlagIBFixBuyingFromResellers": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
-  "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True"
+  "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
+  "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37"
 }
