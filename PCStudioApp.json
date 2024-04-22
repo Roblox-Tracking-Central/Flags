@@ -627,6 +627,7 @@
   "FFlagAssetImportRefactorPresetDropdown_Rollout": "True;60;2024-04-22T22:33:06",
   "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
+  "FFlagRemoveEditorLiveScripting_Rollout": "True;60;2024-04-22T23:38:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
