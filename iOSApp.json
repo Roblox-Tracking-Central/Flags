@@ -128,10 +128,6 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
-  "FFlagDoNotDisableMainWindow_Rollout": "True;30;2024-04-22T20:05:59",
-  "FFlagSpeedUpDebuggerStartupPlaySoloWithCyclingSubmitTask_Rollout": "True;30;2024-04-22T20:07:44",
-  "FFlagPreventDuplicateSetupGameStateView_Rollout": "True;30;2024-04-22T20:09:02",
-  "FFlagFixLocalRunWithPausedDM_Rollout": "True;30;2024-04-22T20:10:36",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -552,8 +548,8 @@
   "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagSignupAddDisplayNameFieldToRequest": "True",
-  "FFlagEnableVNGWebHostFilter_Rollout": "True;60;2024-04-22T19:57:05",
   "FFlagSignupDisplayNameLogging": "True",
   "FFlagSignupTrackFailedRequestv1_Rollout": "True;60;2024-04-22T20:11:18",
-  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus_Rollout": "True;60;2024-04-22T21:05:11"
+  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus_Rollout": "True;60;2024-04-22T21:05:11",
+  "FFlagEnableVNGWebHostFilter": "True"
 }
