@@ -594,6 +594,6 @@
   "FFlagSignupAddDisplayNameFieldToRequest": "True",
   "FFlagSignupDisplayNameLogging": "True",
   "FFlagSignupTrackFailedRequestv1": "True",
-  "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37",
-  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True"
+  "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True",
+  "FFlagColorPickerSliderIXPEnabled7": "True"
 }

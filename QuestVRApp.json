@@ -594,8 +594,9 @@
   "FFlagSignupAddDisplayNameFieldToRequest": "True",
   "FFlagSignupDisplayNameLogging": "True",
   "FFlagSignupTrackFailedRequestv1": "True",
-  "FFlagEnableQuestHaptics": "True",
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "False",
+  "FFlagColorPickerSliderIXPEnabled7": "False",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -618,6 +619,5 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-  "DFFlagUseJsonWriterInPerformPurchase": "True",
-  "FFlagColorPickerSliderIXPEnabled7": "False"
+  "DFFlagUseJsonWriterInPerformPurchase": "True"
 }
