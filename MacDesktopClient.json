@@ -183,6 +183,8 @@
   "FFlagAtomicTouchingWaterCount_DataCenterFilter": "True;361",
   "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
   "FFlagLuaAppGameIconsRoduxKey": "True",
+  "FFlagLuaAppBigGameIconsRoduxKey": "True",
+  "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-22T17:14:25",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -461,6 +463,6 @@
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
-  "FFlagCLI98640_player_conf_access_Rollout": "True;60;2024-04-22T16:07:40",
-  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25"
+  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25",
+  "FFlagCLI98640_player_conf_access": "True"
 }
