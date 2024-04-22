@@ -180,6 +180,7 @@
   "DFFlagFixJobTimeOfLastStep": "True",
   "FFlagAtomicTouchingWaterCount_DataCenterFilter": "True;361",
   "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
+  "FFlagLuaAppGameIconsRoduxKey": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

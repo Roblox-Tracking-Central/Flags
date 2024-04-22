@@ -585,5 +585,6 @@
   "FFlagIBFixBuyingFromResellers": "True",
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
-  "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True"
+  "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
+  "FFlagLuaAppGameIconsRoduxKey": "True"
 }

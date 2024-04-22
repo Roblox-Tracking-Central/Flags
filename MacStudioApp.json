@@ -624,6 +624,8 @@
   "FFlagConvAIDropdownGenerationIndicator": "True",
   "FFlagAtomicTouchingWaterCount_DataCenterFilter": "True;361",
   "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
+  "FFlagLuaAppGameIconsRoduxKey": "True",
+  "FFlagLuauFixNormalizeCaching_Rollout": "True;60;2024-04-22T16:58:22",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
