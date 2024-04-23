@@ -128,8 +128,6 @@
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
-  "DFFlagEnableAverageScreenPercentageTracking_Rollout": "True;60;2024-04-23T20:27:20",
-  "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-23T21:26:42",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
