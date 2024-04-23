@@ -11790,6 +11790,7 @@
   "FFlagMediaCodecReportBufferPoolMallocCount": "True",
   "FFlagAtomicTouchingWaterCount": "True",
   "FFlagVideoStreamCleanup_Rollout": "True;60;2024-04-23T20:40:00",
+  "FFlagFixParticleEmissionBias2_Rollout": "True;60;2024-04-23T20:50:42",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
