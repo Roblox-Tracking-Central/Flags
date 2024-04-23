@@ -554,5 +554,6 @@
   "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "FFlagBuilderSansNavbarFlagSize_Rollout": "True;60;2024-04-23T17:06:09"
+  "FFlagBuilderSansNavbarFlagSize_Rollout": "True;60;2024-04-23T17:06:09",
+  "FFlagColorPickerSliderOptimization2": "True"
 }

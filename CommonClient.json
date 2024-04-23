@@ -11741,6 +11741,7 @@
   "FFlagRoundGlyphOffsetForEllipsis": "True",
   "FFlagUpdateDisplayNameModalCopy": "True",
   "FFlagLuaAppConsolidateProfileLogging": "True",
+  "FFlagEnableEDPShareLinkGameJoinAnalytics_Rollout": "True;60;2024-04-23T17:38:43",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
