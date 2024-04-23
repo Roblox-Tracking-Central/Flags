@@ -128,8 +128,8 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -152,7 +152,6 @@
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
-  "FFlagUpdateAvatarGestures": "True",
   "FFlagShorelinesRemoveDialog": "True",
   "FFlagTerrainEditorUseTerrainChannels": "True",
   "DFFlagTerrainVoxelChannelsLS": "True",
@@ -160,7 +159,6 @@
   "FFlagAXFixTopicsNoResultsShimmer": "True",
   "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
   "FFlagHideDraggerPeekViewV3": "True",
-  "FFlagFixAvatarUtilCharacter": "True",
   "FFlagIBEnableSendCounters1": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
@@ -457,5 +455,7 @@
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "FFlagCLI98640_player_conf_access": "True",
-  "DFFlagVoiceChatFixClientTurnAuthTtl": "True"
+  "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
+  "FFlagOptimizeNoCollisionPrimitiveInMidphase3_DataCenterFilter": "True;361",
+  "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815"
 }

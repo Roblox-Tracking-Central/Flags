@@ -128,8 +128,6 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
-  "FFlagUpdateAvatarGestures_Rollout": "True;60;2024-04-23T18:32:08",
-  "FFlagFixAvatarUtilCharacter_Rollout": "True;60;2024-04-23T18:32:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
