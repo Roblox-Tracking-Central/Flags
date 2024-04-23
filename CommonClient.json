@@ -11739,6 +11739,8 @@
   "FFlagMigrateVerbRotateAxisVerbs": "True",
   "DFIntPlayerLoadTimeEventsThrottleHundredthsPercent": "5000",
   "FFlagRoundGlyphOffsetForEllipsis": "True",
+  "FFlagUpdateDisplayNameModalCopy": "True",
+  "FFlagLuaAppConsolidateProfileLogging": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
