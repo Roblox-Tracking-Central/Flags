@@ -596,6 +596,7 @@
   "FFlagSignupTrackFailedRequestv1": "True",
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "False",
   "FFlagColorPickerSliderIXPEnabled7": "False",
+  "FFlagBuilderSansNavbarFlagSize_Rollout": "True;60;2024-04-23T17:06:09",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
