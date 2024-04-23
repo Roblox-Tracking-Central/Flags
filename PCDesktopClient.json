@@ -176,7 +176,6 @@
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "DFFlagFixJobTimeOfLastStep": "True",
-  "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",

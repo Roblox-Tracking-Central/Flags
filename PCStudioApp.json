@@ -610,7 +610,6 @@
   "FFlagLuauCodegenContext": "True",
   "FFlagLuauCodegenUseContextAwareApis": "True",
   "FFlagConvAIDropdownGenerationIndicator": "True",
-  "FFlagUseNewTerrainBroadPhase6_DataCenterFilter": "True;361",
   "FFlagLuauFixNormalizeCaching": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagCOLLAB6008TCDisconnectFix": "True",
