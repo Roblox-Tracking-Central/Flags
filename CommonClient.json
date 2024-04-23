@@ -11792,6 +11792,7 @@
   "DFFlagRemoveHasGyro": "True",
   "FFlagTerrainToolsPaintToolFix": "True",
   "FFlagTrustRblxOrgDomain_Rollout": "True;30;2024-04-23T23:24:21",
+  "FIntQuadTreeRebuildThreshold_Rollout": "1000;30;2024-04-23T23:45:56",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
