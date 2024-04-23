@@ -594,5 +594,5 @@
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
-  "FFlagBuilderSansNavbarFlagSize": "True"
+  "FFlagDisableAppChatConversationAbsorbInputLayerAndroid": "True"
 }
