@@ -128,6 +128,7 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
+  "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -184,7 +185,6 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "5",
-  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -456,6 +456,5 @@
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "FFlagCLI98640_player_conf_access": "True",
   "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
-  "FFlagOptimizeNoCollisionPrimitiveInMidphase3_DataCenterFilter": "True;361",
   "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815"
 }
