@@ -128,6 +128,7 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
+  "DFFlagEnableAverageScreenPercentageTracking_Rollout": "True;60;2024-04-23T20:27:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
