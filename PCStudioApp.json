@@ -586,7 +586,6 @@
   "FFlagStudioCloseStartPageAtPlaceOpen3": "True",
   "FFlagPreventDuplicatePlaySoloLoads": "True",
   "FFlagStudioReportTeamCreateRCCPings": "True",
-  "FFlagUnifyRawAndRichTextLayout": "True",
   "FFlagNcgBasicUsageAggregateMetrics2": "True",
   "FFlagStudioCancellableWithUiContext": "True",
   "DFFlagRefactorAssetsUploadApiResultForCounterStats": "True",
