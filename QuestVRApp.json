@@ -586,8 +586,6 @@
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
-  "FFlagLuaAppGameIconsRoduxKey": "True",
-  "FFlagLuaAppBigGameIconsRoduxKey": "True",
   "FFlagDisplayNamesOnSignupExperiment_v3": "False",
   "FFlagSignupAddLoadingSpinner": "True",
   "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
