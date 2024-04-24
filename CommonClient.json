@@ -11803,6 +11803,8 @@
   "FFlagLuaAppChallengeRenderNativeChallengeFieldEnabled_Rollout": "True;60;2024-04-24T16:55:04",
   "FFlagCAPChromelessInputBox": "True",
   "FFlagAllocationFreeRaycasts_Rollout": "True;60;2024-04-24T17:20:00",
+  "DFFlagMemoryStoreUpdateAsyncThrowIfInvalidSortKey_Rollout": "True;60;2024-04-24T17:30:22",
+  "FFlagGuaranteeFilteredSelection_Rollout": "True;60;2024-04-24T17:30:28",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
