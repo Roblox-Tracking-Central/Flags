@@ -549,5 +549,5 @@
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
-  "FFlagLuaAppAddSortsTopicLayoutDataInAppend_Rollout": "True;30;2024-04-24T19:14:49"
+  "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True"
 }

@@ -594,7 +594,7 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagDisableAppChatConversationAbsorbInputLayerAndroid": "True",
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000",
-  "FFlagLuaAppAddSortsTopicLayoutDataInAppend_Rollout": "True;30;2024-04-24T19:14:49",
+  "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
