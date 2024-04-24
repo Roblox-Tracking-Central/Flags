@@ -595,5 +595,6 @@
   "FFlagDisableAppChatConversationAbsorbInputLayerAndroid": "True",
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000",
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
-  "FFlagAXItemCardTallIXPEnabled": "False"
+  "FFlagAXItemCardTallIXPEnabled": "False",
+  "FFlagAXItemCardTallEnabled": "False"
 }

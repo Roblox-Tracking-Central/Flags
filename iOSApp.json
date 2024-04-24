@@ -548,5 +548,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
-  "FFlagAXItemCardTallIXPEnabled": "False"
+  "FFlagAXItemCardTallIXPEnabled": "False",
+  "FFlagAXItemCardTallEnabled": "False"
 }

@@ -596,6 +596,7 @@
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000",
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "FFlagAXItemCardTallIXPEnabled": "False",
+  "FFlagAXItemCardTallEnabled": "False",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
