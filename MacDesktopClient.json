@@ -179,7 +179,6 @@
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "DFFlagFixJobTimeOfLastStep": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
-  "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",

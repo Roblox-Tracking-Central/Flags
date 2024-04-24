@@ -615,7 +615,6 @@
   "FFlagCOLLAB6083AvatarAssert": "True",
   "FFlagNcgBasicUsageMetrics2": "False",
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "10",
-  "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagAssetImportRefactorPresetDropdown": "True",
   "FFlagRemoveEditorLiveScripting": "True",

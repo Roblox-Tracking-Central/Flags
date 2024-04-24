@@ -546,7 +546,6 @@
   "FFlagSignupDisplayNameLogging": "True",
   "FFlagEnableVNGWebHostFilter": "True",
   "FFlagSignupTrackFailedRequestv1": "True",
-  "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",

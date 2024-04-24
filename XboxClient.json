@@ -405,7 +405,6 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
-  "FFlagInternalCaptureSavedEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True"
 }
