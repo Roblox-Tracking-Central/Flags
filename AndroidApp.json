@@ -593,5 +593,5 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagDisableAppChatConversationAbsorbInputLayerAndroid": "True",
-  "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "5000;60;2024-04-23T23:48:23"
+  "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000"
 }
