@@ -11814,6 +11814,7 @@
   "FFlagPoolPropertyChangeItems": "True",
   "FFlagFixDisabledPluginsLookEnabledInStartPlayers_Rollout": "True;60;2024-04-24T18:24:27",
   "FFlagLuaAppChallengeRenderNativeChallengeFieldEnabled": "True",
+  "FFlagGraphicsFixBoxMappedMesh_Rollout": "True;60;2024-04-24T18:31:27",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
