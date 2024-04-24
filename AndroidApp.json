@@ -128,7 +128,6 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
-  "FFlagStudioPluginPanels_Rollout": "True;60;2024-04-24T16:39:59",
   "FFlagPreventDuplicatePlaySoloLoads_Rollout": "True;30;2024-04-24T17:47:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
