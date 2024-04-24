@@ -145,7 +145,6 @@
   "DFFlagLockViolationScriptCrash": "False",
   "DFFlagOrder66": "False",
   "DFFlagPreventReturnOfElevatedPhysicsFPS": "True",
-  "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
   "DFFlagThrottleDebuggerMetrics": "True",
   "DFIntAnalyticsCDNProbeInfluxPermyriad": "100",
   "DFIntAnalyticsNS1CDNProbeChancePercent": "5",
