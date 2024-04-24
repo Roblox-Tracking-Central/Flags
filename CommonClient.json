@@ -11801,6 +11801,7 @@
   "FFlagEnableSwitchBaseUrlToRblx_Rollout": "True;60;2024-04-24T16:39:10",
   "FFlagJoinTimeIXP_Rollout": "True;30;2024-04-24T16:46:19",
   "FFlagPoolPropertyChangeItems_Rollout": "True;60;2024-04-24T16:47:13",
+  "FFlagLuaAppChallengeRenderNativeChallengeFieldEnabled_Rollout": "True;60;2024-04-24T16:55:04",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
