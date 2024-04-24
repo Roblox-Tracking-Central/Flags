@@ -302,7 +302,6 @@
   "FFlagUWPCheckTTIBlockingDialog": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagGuildedGameOverlaySupport": "True",
-  "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",

@@ -403,7 +403,6 @@
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-  "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True"

@@ -536,7 +536,6 @@
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "FFlagUseInExperienceUrlWhitelist_PlaceFilter": "True;15098120933;13398434647;14298635815",
-  "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
   "FFlagDisplayNamesOnSignupExperiment_v3": "True",
   "FFlagSignupAddLoadingSpinner": "True",
   "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
@@ -548,5 +547,6 @@
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
-  "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True"
+  "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
+  "FFlagAXItemCardTallIXPEnabled": "False"
 }
