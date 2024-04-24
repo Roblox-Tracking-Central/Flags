@@ -11327,7 +11327,7 @@
   "FFlagHighlightsIntegratedWithGFX": "True",
   "FFlagXboxRemoveCPPLogic": "True",
   "FFlagNoBlinkingTextNotEditable": "True",
-  "FFlagSocialLuaAnalyticsAddPlatformValue": "False",
+  "FFlagSocialLuaAnalyticsAddPlatformValue": "True",
   "FFlagSyncWebViewCookieToEngine": "False",
   "FFlagLuaAppSearchBarDeprecateLocalizedTextBox": "True",
   "FFlagUseUGCValidationContext3": "True",
