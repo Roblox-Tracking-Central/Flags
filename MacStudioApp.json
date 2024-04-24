@@ -580,7 +580,6 @@
   "FFlagRelayoutFlexLayoutOnChildDirty": "True",
   "FFlagStudioRemoveLegacyActivityFromMainWindow": "True",
   "FFlagStudioCloseStartPageAtPlaceOpen3": "True",
-  "FFlagPreventDuplicatePlaySoloLoads": "True",
   "FFlagStudioReportTeamCreateRCCPings": "True",
   "FFlagNcgBasicUsageAggregateMetrics2": "True",
   "FFlagStudioCancellableWithUiContext": "True",
