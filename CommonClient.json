@@ -11823,6 +11823,7 @@
   "FFlagMonoMixDspUseSimd": "True",
   "FFlagFixDisabledPluginsLookEnabledInStartPlayers": "True",
   "FFlagShowMaterialManagerFromElsewhere": "True",
+  "FFlagSimAdaptiveMinorOptimizations_Rollout": "True;60;2024-04-24T20:38:07",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
