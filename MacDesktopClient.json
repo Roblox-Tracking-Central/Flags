@@ -130,6 +130,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -185,11 +186,10 @@
   "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagCountCollisionGeometryTypeUsage": "True",
-  "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-25T19:47:42",
-  "FFlagEnableCapturesDesktopExperiment_v9_Rollout": "True;60;2024-04-25T19:48:52",
   "FFlagFixNavgiationRbxThreadAccessToPlayer": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest_Rollout": "1;60;2024-04-25T20:16:21",
-  "AxisAdornmentGrabSize": "12",
+  "FFlagEnableCapturesDesktopExperiment_v9": "True",
+  "FFlagFixMacSaveToExternalStorage": "True",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -467,5 +467,6 @@
   "FFlagUseExitInUpdateTermination": "False",
   "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "True",
-  "FFlagAXItemCardTallEnabled": "True"
+  "FFlagAXItemCardTallEnabled": "True",
+  "FFlagEnableImpressionReporterCounter3_Rollout": "True;60;2024-04-25T20:50:20"
 }

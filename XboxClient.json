@@ -130,6 +130,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagCLI98640_player_conf_access_Rollout": "True;60;2024-04-25T20:06:14",
+  "DFFlagVoiceChatTimeToUnmute_Rollout": "True;60;2024-04-25T21:08:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
