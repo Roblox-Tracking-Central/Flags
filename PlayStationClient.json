@@ -257,5 +257,6 @@
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
-  "FFlagLuaAppChallengeNativeWrapperEnabled": "True"
+  "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
+  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
 }

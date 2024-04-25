@@ -307,5 +307,6 @@
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "FFlagColorPickerSliderOptimization2": "True"
+  "FFlagColorPickerSliderOptimization2": "True",
+  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
 }

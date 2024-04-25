@@ -183,9 +183,11 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
-  "FIntAppChatChannelsAPIRolloutPercentRC1": "5",
-  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "50;60;2024-04-25T16:23:47",
+  "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
   "FFlagUpdateFmodVorbisDecoder_Rollout": "True;60;2024-04-25T16:37:15",
+  "FFlagCountCollisionGeometryTypeUsage_Rollout": "True;60;2024-04-25T18:06:55",
+  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-04-25T18:07:06",
+  "FFlagOnAssemblyCanCollideChanged_DataCenterFilter": "True;361",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -441,7 +443,6 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagUniversalAppCsat2": "True",
-  "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
@@ -469,5 +470,6 @@
   "FFlagAXItemCardTallEnabled": "False",
   "DFIntMissingReplicationRootHundredths_Rollout": "5000;30;2024-04-25T17:15:00",
   "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
-  "DFFlagReportMissingReplicationRootMoreInfo": "True"
+  "DFFlagReportMissingReplicationRootMoreInfo": "True",
+  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
 }

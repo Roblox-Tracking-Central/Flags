@@ -598,5 +598,6 @@
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000",
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "FFlagAXItemCardTallIXPEnabled": "False",
-  "FFlagAXItemCardTallEnabled": "False"
+  "FFlagAXItemCardTallEnabled": "False",
+  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
 }

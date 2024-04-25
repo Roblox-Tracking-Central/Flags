@@ -599,6 +599,7 @@
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "FFlagAXItemCardTallIXPEnabled": "False",
   "FFlagAXItemCardTallEnabled": "False",
+  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

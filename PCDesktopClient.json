@@ -181,8 +181,8 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
-  "FIntAppChatChannelsAPIRolloutPercentRC1": "5",
-  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "50;60;2024-04-25T16:23:47",
+  "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
+  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-04-25T18:07:06",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -455,5 +455,6 @@
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "FFlagCLI98640_player_conf_access": "True",
-  "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815"
+  "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
+  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
 }

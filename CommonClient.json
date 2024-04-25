@@ -11845,6 +11845,8 @@
   "DFFlagSetFocusCallbackAPI2_Rollout": "True;60;2024-04-25T17:42:27",
   "FFlagStudioFixCleanupBehavior2_Rollout": "True;60;2024-04-25T17:42:42",
   "FFlagUIEditorDistanceLinesDontUpdateForUnparentedObject_Rollout": "True;60;2024-04-25T17:43:03",
+  "DFFlagreadNewSharedStringsPerf_Rollout": "True;60;2024-04-25T17:54:38",
+  "DFFlagUpdateELFDataEarlierInST_Rollout": "True;60;2024-04-25T18:00:12",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
