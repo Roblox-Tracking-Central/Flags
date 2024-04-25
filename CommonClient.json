@@ -11603,7 +11603,7 @@
   "DFFlagSimSolverAeroAutomatedForceModel": "True",
   "DFFlagSimSolverAerodynamicNewNewton": "True",
   "FFlagMeshCreationWithFluidFidelity": "True",
-  "FFlagEnableCommonFriendsMenu2": "True",
+  "FFlagEnableCommonFriendsMenu2": "False",
   "FFlagFriendsCarouselIXPfriendsSort": "True",
   "FFlagUseMicIconForVoiceUpsell": "True",
   "FFlagUseUIBloxButtonsUpsellCard": "True",
