@@ -463,5 +463,6 @@
   "FFlagUseExitInUpdateTermination": "True",
   "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "False",
-  "FFlagAXItemCardTallEnabled": "False"
+  "FFlagAXItemCardTallEnabled": "False",
+  "FFlagUseExitInUpdateTermination_Rollout": "False;1;2024-04-25T15:35:04"
 }
