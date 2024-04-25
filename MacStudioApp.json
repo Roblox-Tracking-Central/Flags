@@ -643,6 +643,7 @@
   "FFlagPackageActionsIn3DView2_Rollout": "True;60;2024-04-25T23:07:41",
   "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
   "FFlagStudioLogOverdueTasks_Rollout": "True;60;2024-04-25T23:15:37",
+  "FFlagUpdateModifiedPackage_Rollout": "True;60;2024-04-25T23:34:55",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
