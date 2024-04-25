@@ -181,6 +181,8 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
+  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-04-25T21:49:33",
+  "FFlagAppChatChannelsAPIForAllRC1_Rollout": "True;60;2024-04-25T21:49:33",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
