@@ -130,6 +130,7 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -188,7 +189,6 @@
   "FFlagCountCollisionGeometryTypeUsage": "True",
   "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-25T19:47:42",
   "FFlagEnableCapturesDesktopExperiment_v9_Rollout": "True;60;2024-04-25T19:48:52",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -468,6 +468,5 @@
   "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "False",
-  "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
   "DFFlagReportMissingReplicationRootMoreInfo": "True"
 }
