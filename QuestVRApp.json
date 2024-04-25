@@ -599,6 +599,7 @@
   "FFlagAXItemCardTallEnabled": "True",
   "FFlagEnableImpressionReporterCounter3": "True",
   "FFlagLuaAppUseAppChatDeps": "True",
+  "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
