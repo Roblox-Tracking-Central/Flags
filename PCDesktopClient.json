@@ -130,7 +130,6 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "AllowVideoPreRoll": "True",
-  "AxisAdornmentGrabSize": "12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -182,6 +181,7 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -450,7 +450,6 @@
   "FFlagGuildedGameOverlaySupport": "True",
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
-  "FFlagCLI98640_player_conf_access": "True",
   "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True"
