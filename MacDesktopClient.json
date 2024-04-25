@@ -125,6 +125,7 @@
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FFlagAnimationClipMemCacheEnabled": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FIntNewDockingBetaFeatureRolloutPercent": "20",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
@@ -469,6 +470,6 @@
   "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
-  "FFlagEnableImpressionReporterCounter3_Rollout": "True;60;2024-04-25T20:50:20",
-  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix_Rollout": "True;60;2024-04-25T22:04:53"
+  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix_Rollout": "True;60;2024-04-25T22:04:53",
+  "FFlagEnableImpressionReporterCounter3": "True"
 }

@@ -125,6 +125,7 @@
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FFlagAnimationClipMemCacheEnabled": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FIntNewDockingBetaFeatureRolloutPercent": "20",
   "FFlagLuauExtendedSizeClasses": "False",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",

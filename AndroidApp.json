@@ -125,6 +125,7 @@
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
   "FFlagAnimationClipMemCacheEnabled": "False",
   "FIntIntervalPerformanceTrackerEventStream": "1",
+  "FIntNewDockingBetaFeatureRolloutPercent": "20",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
@@ -597,5 +598,5 @@
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
-  "FFlagEnableImpressionReporterCounter3_Rollout": "True;60;2024-04-25T20:50:20"
+  "FFlagEnableImpressionReporterCounter3": "True"
 }
