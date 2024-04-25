@@ -186,6 +186,8 @@
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagFixNavgiationRbxThreadAccessToPlayer_Rollout": "True;60;2024-04-25T18:39:11",
   "FFlagCountCollisionGeometryTypeUsage": "True",
+  "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-25T19:47:42",
+  "FFlagEnableCapturesDesktopExperiment_v9_Rollout": "True;60;2024-04-25T19:48:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
