@@ -661,6 +661,7 @@
   "DFFlagFixJobTimeOfLastStep": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "5",
+  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "50;60;2024-04-25T16:23:47",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

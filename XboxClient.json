@@ -405,5 +405,6 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "FFlagColorPickerSliderOptimization2": "True"
+  "FFlagColorPickerSliderOptimization2": "True",
+  "FFlagXboxInferredCrashReportOld_Rollout": "True;30;2024-04-25T16:26:04"
 }
