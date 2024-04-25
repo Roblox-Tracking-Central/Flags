@@ -130,6 +130,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagRCCJobsUGCValidateUseValidationUtility_Rollout": "True;60;2024-04-25T17:50:49",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",

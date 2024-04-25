@@ -130,6 +130,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagRCCJobsUGCValidateUseValidationUtility_Rollout": "True;60;2024-04-25T17:50:49",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -466,7 +467,7 @@
   "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "False",
   "FFlagAXItemCardTallEnabled": "False",
-  "DFFlagReportMissingReplicationRootMoreInfo_Rollout": "True;60;2024-04-25T16:12:06",
   "DFIntMissingReplicationRootHundredths_Rollout": "5000;30;2024-04-25T17:15:00",
-  "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291"
+  "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
+  "DFFlagReportMissingReplicationRootMoreInfo": "True"
 }
