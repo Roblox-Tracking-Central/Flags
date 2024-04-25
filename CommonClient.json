@@ -11836,10 +11836,12 @@
   "DFFlagBatchId9HotrodAccessorMigration": "True",
   "FFlagEnableFriendsListSearchNormalizationErrorFix": "True",
   "FFlagRemoveIsSyncingEditorText1": "True",
-  "FFlagUseNewTerrainBroadPhase6_Rollout": "True;30;2024-04-25T16:23:06",
   "FFlagToolboxRemoveUseNewSwimlanes_Rollout": "True;60;2024-04-25T16:35:36",
   "FFlagVideoFixGpuShaderAspectRatio_Rollout": "True;60;2024-04-25T16:49:16",
   "FFlagDevFrameworkMaterialPickerImprovedScroll_Rollout": "True;60;2024-04-25T17:23:36",
+  "FFlagUseNewTerrainBroadPhase6": "True",
+  "FFlagFixMaterialPickerPopupHover2_Rollout": "True;60;2024-04-25T17:27:39",
+  "FFlagMaterialPickerBetaFeature_Rollout": "True;60;2024-04-25T17:35:23",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -11862,5 +11864,6 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
-  "FIntRuntimeMaxNumOfMutexes": "2400"
+  "FIntRuntimeMaxNumOfMutexes": "2400",
+  "FFlagUGCValidateMinBoundsOnlyMesh_Rollout": "True;60;2024-04-25T17:31:02"
 }
