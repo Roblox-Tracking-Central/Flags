@@ -126,7 +126,6 @@
   "FFlagAnimationClipMemCacheEnabled": "False",
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
-  "DFIntMissingReplicationRootHundredths": "100",
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
@@ -597,5 +596,5 @@
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000",
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "FFlagAXItemCardTallIXPEnabled": "True",
-  "FFlagAXItemCardTallEnabled": "False"
+  "FFlagAXItemCardTallEnabled": "True"
 }

@@ -126,7 +126,6 @@
   "FFlagAnimationClipMemCacheEnabled": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
-  "DFIntMissingReplicationRootHundredths": "5000",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
@@ -468,6 +467,5 @@
   "FFlagUseExitInUpdateTermination": "False",
   "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "True",
-  "FFlagAXItemCardTallEnabled": "False",
-  "DFFlagReportMissingReplicationRootMoreInfo": "True"
+  "FFlagAXItemCardTallEnabled": "True"
 }

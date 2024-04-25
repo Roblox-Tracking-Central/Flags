@@ -126,7 +126,6 @@
   "FFlagAnimationClipMemCacheEnabled": "True",
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "FFlagLuauExtendedSizeClasses": "True",
-  "DFIntMissingReplicationRootHundredths": "100",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
@@ -453,5 +452,6 @@
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "FFlagCLI98640_player_conf_access": "True",
   "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
-  "FFlagAXItemCardTallIXPEnabled": "True"
+  "FFlagAXItemCardTallIXPEnabled": "True",
+  "FFlagAXItemCardTallEnabled": "True"
 }
