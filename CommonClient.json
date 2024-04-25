@@ -11851,6 +11851,7 @@
   "DFFlagUpdateELFDataEarlierInST": "True",
   "DFFlagBatchId12HotrodAccessorMigration_Rollout": "True;60;2024-04-25T19:56:45",
   "FFlagVideoFixGpuShaderAspectRatio_Rollout": "False;60;2024-04-25T20:11:58",
+  "FFlagRibbonXMLFlagList_Rollout": "True;30;2024-04-25T20:26:50",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
