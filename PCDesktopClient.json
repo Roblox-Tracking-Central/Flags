@@ -129,8 +129,9 @@
   "DFIntMissingReplicationRootHundredths": "100",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagRCCJobsUGCValidateUseValidationUtility_Rollout": "True;60;2024-04-25T17:50:49",
+  "FFlagColorPickerSliderIXPEnabled7": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -178,7 +179,6 @@
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "DFFlagFixJobTimeOfLastStep": "True",
   "DFFlagUseJsonWriterInPerformPurchase": "True",
-  "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
@@ -455,5 +455,6 @@
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "FFlagCLI98640_player_conf_access": "True",
   "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
-  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
+  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15",
+  "FFlagAXItemCardTallIXPEnabled": "True"
 }

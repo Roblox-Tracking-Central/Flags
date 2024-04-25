@@ -11834,9 +11834,7 @@
   "DFFlagBatchId9HotrodAccessorMigration": "True",
   "FFlagEnableFriendsListSearchNormalizationErrorFix": "True",
   "FFlagRemoveIsSyncingEditorText1": "True",
-  "FFlagDevFrameworkMaterialPickerImprovedScroll_Rollout": "True;60;2024-04-25T17:23:36",
   "FFlagUseNewTerrainBroadPhase6": "True",
-  "FFlagFixMaterialPickerPopupHover2_Rollout": "True;60;2024-04-25T17:27:39",
   "FFlagMaterialPickerBetaFeature_Rollout": "True;60;2024-04-25T17:35:23",
   "DFFlagSetFocusCallbackAPI2_Rollout": "True;60;2024-04-25T17:42:27",
   "FFlagStudioFixCleanupBehavior2_Rollout": "True;60;2024-04-25T17:42:42",
@@ -11846,6 +11844,11 @@
   "FFlagToolboxRemoveUseNewSwimlanes": "True",
   "FFlagVideoFixGpuShaderAspectRatio": "True",
   "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
+  "FFlagVideoFrameYuvGPU4_Rollout": "True;60;2024-04-25T18:47:00",
+  "FFlagDevFrameworkMaterialPickerImprovedScroll": "True",
+  "FFlagFixMaterialPickerPopupHover2": "True",
+  "FFlagEulerToQuaternionActivated_Rollout": "True;60;2024-04-25T19:05:35",
+  "FStringMaterialPickerBetaFeatureUrl": "https://devforum.roblox.com/t/change-materials-faster-with-the-new-material-picker-beta/2945587",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -11869,5 +11872,5 @@
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
   "FIntRuntimeMaxNumOfMutexes": "2400",
-  "FFlagUGCValidateMinBoundsOnlyMesh_Rollout": "True;60;2024-04-25T17:31:02"
+  "FFlagUGCValidateMinBoundsOnlyMesh": "True"
 }
