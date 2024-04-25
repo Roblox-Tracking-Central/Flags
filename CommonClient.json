@@ -11835,7 +11835,6 @@
   "FFlagEnableFriendsListSearchNormalizationErrorFix": "True",
   "FFlagRemoveIsSyncingEditorText1": "True",
   "FFlagUseNewTerrainBroadPhase6": "True",
-  "DFFlagreadNewSharedStringsPerf_Rollout": "True;60;2024-04-25T17:54:38",
   "DFFlagUpdateELFDataEarlierInST_Rollout": "True;60;2024-04-25T18:00:12",
   "FFlagToolboxRemoveUseNewSwimlanes": "True",
   "FFlagVideoFixGpuShaderAspectRatio": "True",
@@ -11848,6 +11847,8 @@
   "FFlagUIEditorDistanceLinesDontUpdateForUnparentedObject": "True",
   "DFFlagSetFocusCallbackAPI2": "True",
   "FFlagStudioFixCleanupBehavior2": "True",
+  "FFlagRCCJobsUGCValidateUseValidationUtility": "True",
+  "DFFlagreadNewSharedStringsPerf": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -11871,5 +11872,6 @@
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
   "FIntRuntimeMaxNumOfMutexes": "2400",
-  "FFlagUGCValidateMinBoundsOnlyMesh": "True"
+  "FFlagUGCValidateMinBoundsOnlyMesh": "True",
+  "FFlagUGCValidateFullBody2": "True"
 }

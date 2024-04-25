@@ -129,7 +129,6 @@
   "DFIntMissingReplicationRootHundredths": "100",
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
-  "FFlagRCCJobsUGCValidateUseValidationUtility_Rollout": "True;60;2024-04-25T17:50:49",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -598,6 +597,5 @@
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000",
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "FFlagAXItemCardTallIXPEnabled": "True",
-  "FFlagAXItemCardTallEnabled": "False",
-  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
+  "FFlagAXItemCardTallEnabled": "False"
 }

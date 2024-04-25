@@ -129,7 +129,6 @@
   "DFIntMissingReplicationRootHundredths": "5000",
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
-  "FFlagRCCJobsUGCValidateUseValidationUtility_Rollout": "True;60;2024-04-25T17:50:49",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -468,6 +467,5 @@
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "False",
   "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
-  "DFFlagReportMissingReplicationRootMoreInfo": "True",
-  "FFlagUGCValidateFullBody2_Rollout": "True;60;2024-04-25T17:54:15"
+  "DFFlagReportMissingReplicationRootMoreInfo": "True"
 }
