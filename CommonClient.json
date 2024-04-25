@@ -11850,6 +11850,7 @@
   "DFFlagreadNewSharedStringsPerf": "True",
   "DFFlagUpdateELFDataEarlierInST": "True",
   "DFFlagBatchId12HotrodAccessorMigration_Rollout": "True;60;2024-04-25T19:56:45",
+  "FFlagVideoFixGpuShaderAspectRatio_Rollout": "False;60;2024-04-25T20:11:58",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
