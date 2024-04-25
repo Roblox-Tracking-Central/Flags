@@ -11810,7 +11810,7 @@
   "FFlagDevFrameworkRangeSliderImprovements": "True",
   "FFlagTerrainEditorRegionBufferStringFix": "True",
   "FFlagExploreApiSortsEnabledByDefault3": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFix": "True",
+  "FFlagFriendsMenuDummyLoadingFriendsFix": "False",
   "FFlagSimAdaptiveDirtyIslandCollectionConditionFix": "True",
   "FFlagBreakScriptEditorDependencyOnScriptingManager": "True",
   "FFlagMonoMixDspUseSimd": "True",

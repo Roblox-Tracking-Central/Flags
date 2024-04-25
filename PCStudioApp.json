@@ -636,6 +636,7 @@
   "FFlagTerrainEditorTimeStatistic2": "True",
   "FFlagLuauMetatableInstantiationCloneCheck": "True",
   "FFlagScriptDebuggerGuidMap": "True",
+  "FFlagFixNavgiationRbxThreadAccessToPlayer_Rollout": "True;60;2024-04-25T18:39:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
