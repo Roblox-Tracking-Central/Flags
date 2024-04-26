@@ -457,5 +457,6 @@
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
   "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "True",
-  "FFlagAXItemCardTallEnabled": "True"
+  "FFlagAXItemCardTallEnabled": "True",
+  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix_Rollout": "True;60;2024-04-26T16:28:36"
 }
