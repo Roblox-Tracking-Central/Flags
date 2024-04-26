@@ -459,7 +459,6 @@
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "DFFlagEnableAdSizeTracking_Rollout": "True;60;2024-04-26T17:31:58",
   "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
   "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix": "True"
 }
