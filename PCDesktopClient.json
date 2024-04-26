@@ -454,9 +454,11 @@
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "FFlagGuildedGameOverlaySupport": "True",
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
+  "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273;8650964641;15696848933;7714627632;11765402359",
   "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
-  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix_Rollout": "True;60;2024-04-26T16:28:36"
+  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix_Rollout": "True;60;2024-04-26T16:28:36",
+  "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
+  "FFlagLuaAppAddSortsTopicLayoutDataInAppend_Rollout": "True;30;2024-04-26T16:46:57"
 }
