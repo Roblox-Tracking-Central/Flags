@@ -129,7 +129,6 @@
   "FFlagLuauExtendedSizeClasses": "True",
   "DFFlagFlagRolloutTestDynamicBool10": "True",
   "FFlagUserShowGuiHideToggles": "False",
-  "FFlagPoolSmallFmodAllocs2": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
