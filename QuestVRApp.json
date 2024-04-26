@@ -602,6 +602,7 @@
   "FFlagEnableImpressionReporterCounter3": "True",
   "FFlagLuaAppUseAppChatDeps": "True",
   "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
+  "DFFlagAdditionalMemoryOutsideCurrentRadiusEnabled_Rollout": "True;30;2024-04-26T17:12:29",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

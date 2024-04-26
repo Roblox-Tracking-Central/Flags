@@ -11861,6 +11861,7 @@
   "FFlagJoinTimeIXP_Rollout": "True;30;2024-04-26T16:58:15",
   "FFlagMaterialPickerBetaFeature": "True",
   "FFlagGraphicsFixEmptyMeshResource_Rollout": "True;60;2024-04-26T17:04:06",
+  "FFlagStudioStrictLowMemoryCheck_Rollout": "True;60;2024-04-26T17:12:10",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
