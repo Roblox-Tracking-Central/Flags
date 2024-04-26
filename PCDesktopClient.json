@@ -184,6 +184,8 @@
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
+  "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-26T16:02:07",
+  "FFlagEnableCapturesDesktopExperiment_v9_Rollout": "True;60;2024-04-26T16:02:28",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
