@@ -412,5 +412,5 @@
   "FFlagXboxInferredCrashUnbufferedIO": "True",
   "FFlagLuaAppUseAppChatDeps": "True",
   "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
-  "FFlagTenFootUiExperiencesOmniLogFix_Rollout": "True;60;2024-04-26T17:07:49"
+  "FFlagTenFootUiExperiencesOmniLogFix": "True"
 }
