@@ -678,7 +678,7 @@
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
-  "FFlagEnableCapturesDesktopExperiment_v9": "True",
+  "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagFixMacSaveToExternalStorage": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",

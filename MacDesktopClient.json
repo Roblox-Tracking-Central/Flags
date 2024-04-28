@@ -187,7 +187,7 @@
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagCountCollisionGeometryTypeUsage": "True",
   "FFlagFixNavgiationRbxThreadAccessToPlayer": "True",
-  "FFlagEnableCapturesDesktopExperiment_v9": "True",
+  "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagFixMacSaveToExternalStorage": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagLuaAppUseAppChatDeps": "True",
