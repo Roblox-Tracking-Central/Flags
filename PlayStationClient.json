@@ -132,6 +132,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "FFlagLuaAppUseAppChatDeps_Rollout": "True;60;2024-04-29T16:41:34",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",

@@ -192,7 +192,6 @@
   "FFlagFixMacSaveToExternalStorage": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagLuaAppUseAppChatDeps": "True",
-  "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

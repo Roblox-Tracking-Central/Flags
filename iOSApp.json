@@ -554,6 +554,5 @@
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
   "FFlagEnableImpressionReporterCounter3": "True",
-  "FFlagLuaAppUseAppChatDeps": "True",
-  "FFlagLuaAppUseDiscoveryUiBloxDeps": "True"
+  "FFlagLuaAppUseAppChatDeps": "True"
 }

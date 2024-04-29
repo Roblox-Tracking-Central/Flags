@@ -11862,6 +11862,16 @@
   "FFlagStudioStrictLowMemoryCheck": "True",
   "FFlagFixTerrainEditorDETruncations": "True",
   "DFFlagThumbnailVideoStreamReportVideoLoads_Rollout": "True;60;2024-04-29T16:26:44",
+  "FFlagEnableExternalWebDeeplink_Rollout": "True;60;2024-04-29T16:44:10",
+  "FFlagUGCValidateFullBody2": "True",
+  "FFlagUGCValidateMinBoundsOnlyMesh": "True",
+  "FFlagXboxRemoveAnotherAppStateChange_Rollout": "True;60;2024-04-29T16:47:17",
+  "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
+  "FIntStudioMigrateCreatePlaceToUniversesApiRolloutHundredthPercent_Rollout": "10000;20;2024-04-29T16:58:17",
+  "FFlagRunEventBroadcastSubsystemv2_Rollout": "True;60;2024-04-29T17:10:44",
+  "FFlagMacFullscreenShortcutFix_Rollout": "True;60;2024-04-29T17:17:39",
+  "DFFlagFindFirstChildStringViewOverload_Rollout": "True;60;2024-04-29T17:18:40",
+  "FFlagEnableBulkManagementExperiment": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -11884,7 +11894,5 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
-  "FIntRuntimeMaxNumOfMutexes": "2400",
-  "FFlagUGCValidateMinBoundsOnlyMesh": "True",
-  "FFlagUGCValidateFullBody2": "True"
+  "FIntRuntimeMaxNumOfMutexes": "2400"
 }
