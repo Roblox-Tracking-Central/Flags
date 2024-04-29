@@ -590,7 +590,6 @@
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "FFlagDisplayNamesOnSignupExperiment_v3": "False",
-  "FFlagSignupCollapsingTextValidatorPaddingBottomOverride": "True",
   "FFlagSignupTrackFailedRequestv1": "True",
   "FFlagEnableKeyboardVisibilityCheckOnPasswordFocus": "False",
   "FFlagColorPickerSliderOptimization2": "True",
