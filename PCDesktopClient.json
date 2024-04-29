@@ -131,10 +131,6 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "AllowVideoPreRoll": "True",
-  "FFlagStudioWithUiContextRetryOnYield_Rollout": "True;60;2024-04-29T20:31:39",
-  "FFlagStudioCancellableWithUiContext_Rollout": "True;60;2024-04-29T20:32:18",
-  "FFlagStudioAllowYieldsInGetSelection_Rollout": "True;60;2024-04-29T20:32:46",
   "FFlagSTUDIOPLAT_33802_AnrDetectorStopDuringExitCausesHang_Rollout": "True;60;2024-04-29T21:12:17",
   "FFlagSTUDIOPLAT_33802_AnrDetectorStopDuringExitCausesHang_SystemOutputUnitTestFix_Rollout": "True;60;2024-04-29T21:12:33",
   "FFlagCountCollisionGeometryTypeUsage_Rollout": "True;60;2024-04-29T21:39:35",
@@ -192,6 +188,7 @@
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagFixMacSaveToExternalStorage": "True",
   "FFlagLuaAppGameTileOTA1": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -464,6 +461,5 @@
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix": "True",
   "FFlagEnableImpressionReporterCounter3": "True"
 }
