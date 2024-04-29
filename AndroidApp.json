@@ -137,6 +137,7 @@
   "FFlagStudioAllowYieldsInGetSelection_Rollout": "True;60;2024-04-29T20:32:46",
   "FFlagSTUDIOPLAT_33802_AnrDetectorStopDuringExitCausesHang_Rollout": "True;60;2024-04-29T21:12:17",
   "FFlagSTUDIOPLAT_33802_AnrDetectorStopDuringExitCausesHang_SystemOutputUnitTestFix_Rollout": "True;60;2024-04-29T21:12:33",
+  "FFlagCountCollisionGeometryTypeUsage_Rollout": "True;60;2024-04-29T21:39:35",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
