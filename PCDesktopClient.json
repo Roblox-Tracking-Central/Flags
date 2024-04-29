@@ -165,7 +165,6 @@
   "FFlagAXFixTopicsNoResultsShimmer": "True",
   "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
   "FFlagHideDraggerPeekViewV3": "True",
-  "FFlagIBEnableSendCounters1": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
@@ -462,6 +461,6 @@
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
-  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix": "True"
+  "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix": "True",
+  "FFlagEnableImpressionReporterCounter3_Rollout": "True;30;2024-04-29T20:44:45"
 }
