@@ -11761,7 +11761,7 @@
   "FFlagFixUninitTestOriginalRenderingSettings": "True",
   "FFlagFixAvatarUtilCharacter": "True",
   "FFlagUpdateAvatarGestures": "True",
-  "FIntConsolidateBubbleChatRollout2": "100",
+  "FIntConsolidateBubbleChatRollout2": "0",
   "FFlagCacheParsePolicy": "True",
   "FFlagUnifyRawAndRichTextLayout": "True",
   "FFlagInExperienceItemLinking3": "True",
