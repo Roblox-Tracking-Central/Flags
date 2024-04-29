@@ -135,6 +135,8 @@
   "FFlagStudioWithUiContextRetryOnYield_Rollout": "True;60;2024-04-29T20:31:39",
   "FFlagStudioCancellableWithUiContext_Rollout": "True;60;2024-04-29T20:32:18",
   "FFlagStudioAllowYieldsInGetSelection_Rollout": "True;60;2024-04-29T20:32:46",
+  "FFlagSTUDIOPLAT_33802_AnrDetectorStopDuringExitCausesHang_Rollout": "True;60;2024-04-29T21:12:17",
+  "FFlagSTUDIOPLAT_33802_AnrDetectorStopDuringExitCausesHang_SystemOutputUnitTestFix_Rollout": "True;60;2024-04-29T21:12:33",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
