@@ -190,7 +190,6 @@
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagFixMacSaveToExternalStorage": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
-  "FFlagLuaAppUseAppChatDeps": "True",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

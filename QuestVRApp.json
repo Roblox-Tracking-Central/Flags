@@ -597,7 +597,6 @@
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
   "FFlagEnableImpressionReporterCounter3": "True",
-  "FFlagLuaAppUseAppChatDeps": "True",
   "DFFlagAdditionalMemoryOutsideCurrentRadiusEnabled": "True",
   "FFlagCrashpadReportVendorDeviceFLevel": "True",
   "FFlagReportVendorDeviceDriverToTelemetry": "True",

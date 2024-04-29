@@ -551,7 +551,6 @@
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
   "FFlagEnableImpressionReporterCounter3": "True",
-  "FFlagLuaAppUseAppChatDeps": "True",
   "FFlagDisplayNamesDiagLogging": "True",
   "FFlagSignupDisplayNameLogging": "True"
 }

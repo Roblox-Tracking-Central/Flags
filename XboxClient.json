@@ -409,6 +409,5 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagXboxInferredCrashReportOld": "True",
   "FFlagXboxInferredCrashUnbufferedIO": "True",
-  "FFlagLuaAppUseAppChatDeps": "True",
   "FFlagTenFootUiExperiencesOmniLogFix": "True"
 }
