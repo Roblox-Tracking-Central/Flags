@@ -131,7 +131,6 @@
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "FFlagCountCollisionGeometryTypeUsage_Rollout": "True;60;2024-04-29T21:39:35",
   "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-29T22:20:17",
   "DFFlagCheckValidatePurchaseTicketForStringSafety_Rollout": "True;60;2024-04-29T22:21:19",
   "AllowVideoPreRoll": "True",
@@ -602,5 +601,7 @@
   "FFlagSetDbgInfoVulkan": "True",
   "FFlagDisplayNamesDiagLogging": "True",
   "FFlagSignupDisplayNameLogging": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "100"
+  "FIntEnableCullableScene2HundredthPercent3": "100",
+  "DFIntSessionReporterGameRunningMemoryInterval_Rollout": "1000;60;2024-04-29T22:54:50",
+  "FIntEnableCullableScene2HundredthPercent3_Rollout": "500;30;2024-04-29T23:00:48"
 }

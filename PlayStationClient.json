@@ -131,7 +131,6 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "FFlagCountCollisionGeometryTypeUsage_Rollout": "True;60;2024-04-29T21:39:35",
   "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-29T22:20:17",
   "DFFlagCheckValidatePurchaseTicketForStringSafety_Rollout": "True;60;2024-04-29T22:21:19",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",

@@ -184,7 +184,6 @@
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "FFlagUpdateFmodVorbisDecoder": "True",
-  "FFlagCountCollisionGeometryTypeUsage": "True",
   "FFlagFixNavgiationRbxThreadAccessToPlayer": "True",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagFixMacSaveToExternalStorage": "True",
