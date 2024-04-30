@@ -11949,6 +11949,7 @@
   "FFlagTenFootUiExperiencesOmniLogFix": "True",
   "DFFlagAvatarChatTelemetryAddTrackingTimeToSessionTracking2_Rollout": "True;60;2024-04-30T20:14:31",
   "FFlagCAPInstanceTrackerForUndoTelemetry2_Rollout": "True;60;2024-04-30T20:24:52",
+  "EnableScreentimeClientBehavior": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
