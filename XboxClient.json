@@ -131,6 +131,7 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
+  "FFlagLuauCodegenLoadPropCheckRegLinkInTv_Rollout": "True;30;2024-04-30T16:48:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -408,5 +409,6 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagXboxInferredCrashReportOld": "True",
   "FFlagXboxInferredCrashUnbufferedIO": "True",
-  "FFlagTenFootUiExperiencesOmniLogFix": "True"
+  "FFlagTenFootUiExperiencesOmniLogFix": "True",
+  "FFlagXboxAddHangTimerAndLKStoBT_Rollout": "True;30;2024-04-30T16:43:31"
 }
