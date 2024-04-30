@@ -11918,6 +11918,7 @@
   "FFlagFixMacSaveToExternalStorage": "True",
   "DFFlagCLI101868": "True",
   "DFFlagVideoCaptureReportDurationInSec": "True",
+  "FIntInGameMenuChromeAllowlistTimeout_Rollout": "0;15;2024-04-30T15:46:57",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
