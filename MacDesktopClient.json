@@ -184,7 +184,6 @@
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagFixNavgiationRbxThreadAccessToPlayer": "True",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
-  "FFlagFixMacSaveToExternalStorage": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "AllowVideoPreRoll": "True",
