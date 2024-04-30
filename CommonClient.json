@@ -11955,6 +11955,7 @@
   "DFIntWiringApiReportingHundredthsPercent_Rollout": "10000;60;2024-04-30T23:06:38",
   "FFlagSupportSmoothScaleRichText3_Rollout": "True;30;2024-04-30T23:29:27",
   "DFFlagBatchId8HotrodAccessorMigration": "True",
+  "FFlagRemoveEditorLiveScripting": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

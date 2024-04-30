@@ -132,7 +132,6 @@
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "False",
-  "FFlagRemoveEditorLiveScripting_Rollout": "True;60;2024-04-30T22:09:05",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

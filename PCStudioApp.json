@@ -604,7 +604,6 @@
   "FFlagNcgBasicUsageMetrics2": "True",
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "10",
   "FFlagAssetImportRefactorPresetDropdown": "True",
-  "FFlagRemoveEditorLiveScripting": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagCAPSeparateWelcomeTutorialEndpoints": "True",
   "FFlagNcgBasicUsageMetricsNewBehavior": "True",
