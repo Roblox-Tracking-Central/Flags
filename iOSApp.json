@@ -549,5 +549,6 @@
   "FFlagAXItemCardTallEnabled": "True",
   "FFlagEnableImpressionReporterCounter3": "True",
   "FFlagDisplayNamesDiagLogging": "True",
-  "FFlagSignupDisplayNameLogging": "True"
+  "FFlagSignupDisplayNameLogging": "True",
+  "FFlagUpdateFmodVorbisDecoder_Rollout": "True;60;2024-04-30T17:11:20"
 }
