@@ -131,8 +131,6 @@
   "FFlagUserShowGuiHideToggles": "True",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-29T22:20:17",
-  "DFFlagCheckValidatePurchaseTicketForStringSafety_Rollout": "True;60;2024-04-29T22:21:19",
   "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-29T23:20:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -531,8 +529,6 @@
   "DFIntIosDeprecationDate": "1714374000000",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFIntIosDeprecationPhase": "3",
-  "FFlagTelemetryRevampPurchase3": "True",
-  "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagVideoVP9HardWareDecoderCap2": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
@@ -602,7 +598,6 @@
   "FFlagSetDbgInfoVulkan": "True",
   "FFlagDisplayNamesDiagLogging": "True",
   "FFlagSignupDisplayNameLogging": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "100",
-  "DFIntSessionReporterGameRunningMemoryInterval_Rollout": "1000;60;2024-04-29T22:54:50",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "500;30;2024-04-29T23:00:48"
+  "FIntEnableCullableScene2HundredthPercent3": "500",
+  "DFIntSessionReporterGameRunningMemoryInterval": "1000"
 }

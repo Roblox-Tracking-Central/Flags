@@ -131,8 +131,6 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
-  "DFFlagUseJsonWriterInPerformPurchase_Rollout": "True;60;2024-04-29T22:20:17",
-  "DFFlagCheckValidatePurchaseTicketForStringSafety_Rollout": "True;60;2024-04-29T22:21:19",
   "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-29T23:20:18",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
