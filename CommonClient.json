@@ -11950,6 +11950,7 @@
   "DFFlagAvatarChatTelemetryAddTrackingTimeToSessionTracking2": "True",
   "FFlagCAPInstanceTrackerForUndoTelemetry2": "True",
   "DFFlagBatchId8HotrodAccessorMigration_Rollout": "True;60;2024-04-30T21:58:20",
+  "FFlagEnableScreentimeClientBehavior": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
