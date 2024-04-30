@@ -408,6 +408,5 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagXboxInferredCrashReportOld": "True",
   "FFlagXboxInferredCrashUnbufferedIO": "True",
-  "FFlagTenFootUiExperiencesOmniLogFix": "True",
   "FFlagXboxAddHangTimerAndLKStoBT": "True"
 }
