@@ -71,6 +71,7 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
+  "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "8",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -462,6 +463,5 @@
   "FFlagAXItemCardTallEnabled": "True",
   "FFlagEnableImpressionReporterCounter3": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "FFlagFaceAnimatorV2CUseRuntimeWorker": "True",
-  "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent_Rollout": "8;30;2024-04-30T21:05:18"
+  "FFlagFaceAnimatorV2CUseRuntimeWorker": "True"
 }
