@@ -673,7 +673,6 @@
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
-  "FFlagLuaAppGameTileOTA1": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
