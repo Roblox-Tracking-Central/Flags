@@ -453,5 +453,5 @@
   "FFlagAXItemCardTallEnabled": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagEnableImpressionReporterCounter3": "True",
-  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest_Rollout": "1;60;2024-04-30T19:34:44"
+  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1"
 }
