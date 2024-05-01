@@ -412,5 +412,5 @@
   "FFlagXboxInferredCrashReportOld": "True",
   "FFlagXboxInferredCrashUnbufferedIO": "True",
   "FFlagXboxAddHangTimerAndLKStoBT": "True",
-  "FFlagRenderEnableGlobalInstancingD3D11_Rollout": "True;60;2024-05-01T20:41:16"
+  "FFlagRenderEnableGlobalInstancingD3D11": "True"
 }
