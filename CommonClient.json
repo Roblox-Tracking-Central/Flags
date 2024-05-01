@@ -11884,7 +11884,7 @@
   "DFFlagTaskLibReportNonSuspendedBefore": "True",
   "FFlagStudioAllowYieldsInGetSelection": "True",
   "FFlagStudioCancellableWithUiContext": "True",
-  "FFlagStudioTaskRunnerMutexLeak": "True",
+  "FFlagStudioTaskRunnerMutexLeak": "False",
   "FFlagStudioWithUiContextRetryOnYield": "True",
   "DFIntAverageTimeSimulationBreakdownHundredthsPercentage": "100",
   "DFIntGjkBulkTileThreshold": "0",
