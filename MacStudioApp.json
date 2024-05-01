@@ -677,6 +677,8 @@
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
+  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-01T21:26:54",
+  "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-01T21:28:05",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

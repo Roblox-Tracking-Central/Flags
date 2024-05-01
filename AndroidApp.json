@@ -599,10 +599,9 @@
   "FFlagSetDbgInfoVulkan": "True",
   "FFlagDisplayNamesDiagLogging": "True",
   "FFlagSignupDisplayNameLogging": "True",
-  "FIntEnableCullableScene2HundredthPercent3": "2000",
+  "FIntEnableCullableScene2HundredthPercent3": "5000",
   "DFIntSessionReporterGameRunningMemoryInterval": "1000",
   "DisableNotificationStreamOpenEvent": "True",
   "FFlagPerformanceControlSoundTunableV22": "True",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "5000;30;2024-05-01T20:22:27",
   "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache;60;2024-05-01T20:56:41"
 }

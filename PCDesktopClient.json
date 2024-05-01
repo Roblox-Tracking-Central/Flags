@@ -184,6 +184,8 @@
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
+  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-01T21:26:54",
+  "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-01T21:28:05",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
