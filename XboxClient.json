@@ -410,5 +410,6 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagXboxInferredCrashReportOld": "True",
   "FFlagXboxInferredCrashUnbufferedIO": "True",
-  "FFlagXboxAddHangTimerAndLKStoBT": "True"
+  "FFlagXboxAddHangTimerAndLKStoBT": "True",
+  "FFlagRenderEnableGlobalInstancingD3D11_Rollout": "True;60;2024-05-01T20:41:16"
 }
