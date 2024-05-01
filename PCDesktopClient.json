@@ -186,6 +186,7 @@
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-01T21:26:54",
   "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-01T21:28:05",
+  "DFFlagSimJobTimeAddUniverseId_Rollout": "True;60;2024-05-01T21:39:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -460,5 +461,7 @@
   "FFlagEnableImpressionReporterCounter3": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
-  "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361"
+  "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
+  "FFlagPreOptimizeNoCollisionPrimitive_DataCenterFilter": "True;398",
+  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_DataCenterFilter": "True;398"
 }
