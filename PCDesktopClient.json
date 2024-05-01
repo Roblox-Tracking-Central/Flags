@@ -464,6 +464,6 @@
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
   "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
-  "FFlagPreOptimizeNoCollisionPrimitive_DataCenterFilter": "True;398",
-  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_DataCenterFilter": "True;398"
+  "FFlagPreOptimizeNoCollisionPrimitive_DataCenterFilter": "True;398;361",
+  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_DataCenterFilter": "True;398;361"
 }
