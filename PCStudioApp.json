@@ -681,6 +681,7 @@
   "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-01T21:26:54",
   "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-01T21:28:05",
   "DFFlagSimJobTimeAddUniverseId_Rollout": "True;60;2024-05-01T21:39:03",
+  "FFlagPreOptimizeNoCollisionPrimitive_Rollout": "True;60;2024-05-01T22:28:39",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
