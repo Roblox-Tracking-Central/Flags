@@ -132,6 +132,7 @@
   "FFlagUserShowGuiHideToggles": "False",
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
+  "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

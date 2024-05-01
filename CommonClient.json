@@ -11956,6 +11956,7 @@
   "DFFlagRealtimeMeasurementInjectIsConnectedStatus": "True",
   "FFlagUserFixVRAvatarGesturesSeats_Rollout": "True;60;2024-05-01T16:57:37",
   "FFlagVRServiceStudioExplorer3_Rollout": "True;60;2024-05-01T17:05:44",
+  "FFlagInvisibleMeshThumbnailFix": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
