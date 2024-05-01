@@ -11960,6 +11960,7 @@
   "FFlagUserFixVRAvatarGesturesSeats": "True",
   "FFlagFixTextNilCrash_Rollout": "True;30;2024-05-01T18:40:50",
   "FFlagVRServiceStudioExplorer3": "True",
+  "DFFlagWebrtcEnableICEAggressiveMode_Rollout": "True;60;2024-05-01T19:04:03",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

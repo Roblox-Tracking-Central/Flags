@@ -189,6 +189,7 @@
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
+  "FFlagEnableVideoCaptureServiceSubflow_Rollout": "True;30;2024-05-01T18:47:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -465,5 +466,6 @@
   "FFlagAXItemCardTallEnabled": "True",
   "FFlagEnableImpressionReporterCounter3": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "FFlagFaceAnimatorV2CUseRuntimeWorker": "True"
+  "FFlagFaceAnimatorV2CUseRuntimeWorker": "True",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, RenderingQuality;60;2024-05-01T18:51:50"
 }

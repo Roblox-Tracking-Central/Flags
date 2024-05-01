@@ -674,6 +674,7 @@
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
+  "FFlagEnableVideoCaptureServiceSubflow_Rollout": "True;30;2024-05-01T18:47:52",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
