@@ -11965,6 +11965,8 @@
   "FFlagFixTextNilCrash": "True",
   "FFlagXboxRemoveAnotherAppStateChange": "True",
   "FFlagToolboxRestrictAssetConfig": "True",
+  "FFlagMigrateVerbStatsVerbs_Rollout": "True;30;2024-05-01T20:16:36",
+  "FFlagRenderCrashOnFailedMemoryMap_Rollout": "True;60;2024-05-01T20:25:36",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
