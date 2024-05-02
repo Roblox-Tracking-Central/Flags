@@ -639,7 +639,6 @@
   "DFFlagInstanceInserter": "True",
   "FFlagLocalSecretsInStudio": "True",
   "FFlagStudioReportBlockingThreadIdForANR": "True",
-  "FFlagStudioCheckModerationStatusUponLogin": "True",
   "DFFlagSafeMoverSetDragging": "True",
   "FFlagLuauNativeExecutionPerformanceSampleCount": "True",
   "FFlagStudioLinkedSourceMigratorLogs": "True",
