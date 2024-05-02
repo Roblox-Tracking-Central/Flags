@@ -135,6 +135,7 @@
   "FIntRuntimeWorkerStackSize": "2097152",
   "FFlagDisableIxpUserFetchWithoutCookie_Rollout": "True;60;2024-05-02T16:24:30",
   "DFFlagAdditionalMemoryOutsideCurrentRadiusEnabled_Rollout": "True;60;2024-05-02T16:39:55",
+  "FFlagStudioLogOverdueTasks_Rollout": "True;60;2024-05-02T17:24:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

@@ -135,6 +135,7 @@
   "FIntRuntimeWorkerStackSize": "1048576",
   "AllowVideoPreRoll": "True",
   "DFFlagAdditionalMemoryOutsideCurrentRadiusEnabled_Rollout": "True;60;2024-05-02T16:39:55",
+  "FFlagStudioLogOverdueTasks_Rollout": "True;60;2024-05-02T17:24:29",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
