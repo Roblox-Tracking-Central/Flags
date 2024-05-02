@@ -11994,6 +11994,7 @@
   "FFlagHardenGImageDecodingAgainstMalformedData_Rollout": "True;60;2024-05-02T21:21:50",
   "FFlagGjkFastSupport_Rollout": "True;30;2024-05-02T21:23:51",
   "FFlagGrassLengthCustomization_FRMDensityScaling_Rollout": "True;60;2024-05-02T21:24:04",
+  "FFlagMicroProfileRawProcessFix_Rollout": "True;60;2024-05-02T21:42:22",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
