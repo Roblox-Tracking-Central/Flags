@@ -193,6 +193,7 @@
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagSimJobTimeAddUniverseId": "True",
   "DFFlagReportRayCastTime": "True",
+  "FFlagRenderGlobalInstancingPadBuffers_Rollout": "True;60;2024-05-02T20:11:24",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

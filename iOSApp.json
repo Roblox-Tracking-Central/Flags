@@ -550,5 +550,6 @@
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
-  "FIntAppChatChannelsAPIRolloutPercentRC1": "20"
+  "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
+  "FFlagRenderGlobalInstancingPadBuffers_Rollout": "True;60;2024-05-02T20:11:24"
 }
