@@ -645,7 +645,6 @@
   "FFlagDuplicateUseSafeMover2_Rollout": "True;60;2024-05-02T18:54:37",
   "FFlagStudioLinkedSourceMigratorLogs": "True",
   "FFlagLuauLoadTypeInfo": "True",
-  "FFlagPasteVerbsUseInstanceInserter3_Rollout": "True;60;2024-05-02T19:17:41",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

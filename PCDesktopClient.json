@@ -463,5 +463,5 @@
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
   "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
-  "FFlagLuaAppSingleHoveredGridTile2_Rollout": "True;60;2024-05-02T17:56:20"
+  "FFlagLuaAppSingleHoveredGridTile2": "True"
 }
