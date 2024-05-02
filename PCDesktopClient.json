@@ -187,7 +187,6 @@
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagSimJobTimeAddUniverseId": "True",
-  "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -462,6 +461,5 @@
   "FFlagEnableImpressionReporterCounter3": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
-  "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
-  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_DataCenterFilter": "True;398;361"
+  "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361"
 }
