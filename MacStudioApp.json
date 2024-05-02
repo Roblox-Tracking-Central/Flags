@@ -681,7 +681,6 @@
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_DataCenterFilter": "True;398;361",
-  "FFlagPreOptimizeNoCollisionPrimitive_DataCenterFilter": "True;398;361",
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "FFlagOptimizeRaycastBroadphaseBuffer": "True",

@@ -184,10 +184,10 @@
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
-  "FFlagPreOptimizeNoCollisionPrimitive_Rollout": "True;60;2024-05-01T22:28:39",
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagSimJobTimeAddUniverseId": "True",
+  "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -463,6 +463,5 @@
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
   "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
-  "FFlagPreOptimizeNoCollisionPrimitive_DataCenterFilter": "True;398;361",
   "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_DataCenterFilter": "True;398;361"
 }
