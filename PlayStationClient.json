@@ -133,7 +133,6 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
-  "DFFlagAdditionalMemoryOutsideCurrentRadiusEnabled_Rollout": "True;60;2024-05-02T16:39:55",
   "FFlagStudioLogOverdueTasks_Rollout": "True;60;2024-05-02T17:24:29",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
