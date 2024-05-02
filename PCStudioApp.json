@@ -605,7 +605,6 @@
   "FFlagAssetImportRefactorPresetDropdown": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagCAPSeparateWelcomeTutorialEndpoints": "True",
-  "FFlagNcgBasicUsageMetricsNewBehavior": "True",
   "FFlagEnableSkyForMetalBalls": "True",
   "FFlagStudioMacOSSetCookiesOnBackgroundThread": "True",
   "FFlagDevFrameworkEnableSkyForMetalBalls": "True",

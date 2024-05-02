@@ -11996,6 +11996,7 @@
   "FFlagGjkFastSupport": "True",
   "DFFlagDynamicTextureManagerAddThrottling": "True",
   "FFlagVoiceChatThreadPoolAccessAfterDestructionFix_Rollout": "True;60;2024-05-02T22:36:52",
+  "FFlagNcgBasicUsageMetricsNewBehavior": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

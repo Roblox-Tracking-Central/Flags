@@ -133,7 +133,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "2097152",
-  "FFlagNcgBasicUsageMetricsNewBehavior_Rollout": "True;30;2024-05-02T21:43:58",
+  "FFlagNcgBasicUsageMetrics2_Rollout": "True;30;2024-05-02T22:48:50",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
