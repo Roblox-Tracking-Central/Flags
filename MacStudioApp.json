@@ -686,6 +686,7 @@
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagSimJobTimeAddUniverseId": "True",
+  "DFFlagReportRayCastTime_Rollout": "True;30;2024-05-02T16:44:23",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

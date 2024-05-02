@@ -194,6 +194,7 @@
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagSimJobTimeAddUniverseId": "True",
+  "DFFlagReportRayCastTime_Rollout": "True;30;2024-05-02T16:44:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
