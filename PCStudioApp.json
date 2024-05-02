@@ -642,6 +642,7 @@
   "FFlagStudioReportBlockingThreadIdForANR": "True",
   "FFlagStudioCheckModerationStatusUponLogin": "True",
   "DFFlagSafeMoverSetDragging": "True",
+  "FFlagLuauNativeExecutionPerformanceSampleCount_Rollout": "True;60;2024-05-02T16:01:33",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
