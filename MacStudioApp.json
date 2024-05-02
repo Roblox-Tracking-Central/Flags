@@ -646,6 +646,8 @@
   "FFlagLuauLoadTypeInfo": "True",
   "FFlagAssetManagerUseInstanceInserter_Rollout": "True;60;2024-05-02T20:14:15",
   "FFlagDuplicateUseSafeMover2": "True",
+  "FLogStudioLinkedSourceMigrator_Rollout": "Info;60;2024-05-02T20:56:38",
+  "FFlagLoadQEntityIconFromCurrentDataModel_Rollout": "True;60;2024-05-02T20:58:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
