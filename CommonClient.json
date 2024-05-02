@@ -11985,6 +11985,8 @@
   "FFlagBatchNameGuidChanges": "True",
   "DFFlagCLI96239_Rollout": "True;60;2024-05-02T20:30:18",
   "FFlagGraphicsFixEditableDegenerateUpdate_Rollout": "True;60;2024-05-02T20:40:01",
+  "FFlagEnableGeneratePredictedValueAPI": "True",
+  "UnpackEnhancement": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
