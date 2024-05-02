@@ -11983,6 +11983,8 @@
   "FFlagBulkPropertyEditTelemetry2_Rollout": "True;60;2024-05-02T19:42:24",
   "FFlagAvoidCreatingLanguageServiceInPlaySoloStartup": "True",
   "FFlagBatchNameGuidChanges": "True",
+  "DFFlagCLI96239_Rollout": "True;60;2024-05-02T20:30:18",
+  "FFlagGraphicsFixEditableDegenerateUpdate_Rollout": "True;60;2024-05-02T20:40:01",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
