@@ -11969,6 +11969,7 @@
   "DFFlagBatchId17HotrodAccessorMigration": "True",
   "FFlagFixPluginManagementAssetIdType_Rollout": "True;60;2024-05-02T16:06:48",
   "FFlagStudioFixPluginGuiCloseDuringDragCrash_Rollout": "True;60;2024-05-02T16:07:16",
+  "FFlagStudioMoveCreatePluginServices2_Rollout": "True;60;2024-05-02T16:11:08",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
