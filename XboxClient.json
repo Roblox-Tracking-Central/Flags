@@ -133,7 +133,6 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
-  "FFlagNcgBasicUsageMetrics2_Rollout": "True;30;2024-05-02T22:48:50",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -412,5 +411,6 @@
   "FFlagXboxInferredCrashUnbufferedIO": "True",
   "FFlagXboxAddHangTimerAndLKStoBT": "True",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "DFFlagReportNonPhysicsJobsTimes": "True"
+  "DFFlagReportNonPhysicsJobsTimes": "True",
+  "FFlagAXCloseTryOnManagerWhenUnselectingLook_Rollout": "True;60;2024-05-02T23:45:41"
 }
