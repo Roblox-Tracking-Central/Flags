@@ -549,6 +549,6 @@
   "FFlagSignupDisplayNameLogging": "True",
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagPerformanceControlSoundTunableV22": "True",
-  "FFlagAppChatChannelsAPIRolloutRC1_Rollout": "True;60;2024-05-02T18:16:01",
-  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "20;60;2024-05-02T18:16:01"
+  "FFlagAppChatChannelsAPIRolloutRC1": "True",
+  "FIntAppChatChannelsAPIRolloutPercentRC1": "20"
 }
