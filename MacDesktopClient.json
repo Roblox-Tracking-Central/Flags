@@ -473,8 +473,6 @@
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
   "FFlagLuaAppSingleHoveredGridTile2": "True",
-  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "False",
-  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment_Rollout": "True;60;2024-05-02T21:08:35",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "False",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin_Rollout": "True;60;2024-05-02T21:08:35"
+  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
+  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True"
 }

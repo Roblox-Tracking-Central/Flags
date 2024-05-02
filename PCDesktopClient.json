@@ -465,9 +465,7 @@
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
   "FFlagLuaAppSingleHoveredGridTile2": "True",
-  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "False",
-  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment_Rollout": "True;60;2024-05-02T21:08:35",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "False",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin_Rollout": "True;60;2024-05-02T21:08:35",
+  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
+  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-02T21:26:08"
 }
