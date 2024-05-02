@@ -11692,7 +11692,6 @@
   "FFlagAppChatUseFetchNewestMessages": "True",
   "FFlagIBFixBundlePurchase": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch2": "True",
-  "FFlagClampEdgePlaneIntersection": "True",
   "FFlagGraphicsFixBoxMappedMesh": "False",
   "FIntMaxTimestepMultiplierVelocity": "2",
   "FFlagGamepadInputUIPosition": "True",
