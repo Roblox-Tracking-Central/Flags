@@ -467,5 +467,6 @@
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "False",
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment_Rollout": "True;60;2024-05-02T21:08:35",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "False",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin_Rollout": "True;60;2024-05-02T21:08:35"
+  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin_Rollout": "True;60;2024-05-02T21:08:35",
+  "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-02T21:26:08"
 }
