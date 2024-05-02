@@ -133,7 +133,6 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "2097152",
-  "FFlagDisableIxpUserFetchWithoutCookie_Rollout": "True;60;2024-05-02T16:24:30",
   "DFFlagAdditionalMemoryOutsideCurrentRadiusEnabled_Rollout": "True;60;2024-05-02T16:39:55",
   "FFlagStudioLogOverdueTasks_Rollout": "True;60;2024-05-02T17:24:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -190,7 +189,7 @@
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagSimJobTimeAddUniverseId": "True",
-  "DFFlagReportRayCastTime_Rollout": "True;30;2024-05-02T16:44:23",
+  "DFFlagReportRayCastTime": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -465,5 +464,6 @@
   "FFlagEnableImpressionReporterCounter3": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
-  "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361"
+  "DFFlagCrashOnNotRemovingFromMidPhase_DataCenterFilter": "True;361",
+  "FFlagLuaAppSingleHoveredGridTile2_Rollout": "True;60;2024-05-02T17:56:20"
 }
