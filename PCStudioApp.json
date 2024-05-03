@@ -576,7 +576,6 @@
   "FFlagLayoutNodeFlexRefactor6": "True",
   "FFlagLuauCodegen": "True",
   "FFlagFixFlexLayoutASTextScaledInfiniteLayout": "True",
-  "DFIntGuiServicePropertyMetrics_ReportHundredthsPercent": "1",
   "FFlagRelayoutFlexLayoutOnChildDirty": "True",
   "FFlagStudioRemoveLegacyActivityFromMainWindow": "True",
   "FFlagStudioCloseStartPageAtPlaceOpen3": "True",
