@@ -687,6 +687,7 @@
   "DFFlagSimJobTimeAddUniverseId": "True",
   "DFFlagReportRayCastTime": "True",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
+  "FFlagPathfindingReduceMemoryForHFs_Rollout": "True;60;2024-05-03T16:09:34",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
