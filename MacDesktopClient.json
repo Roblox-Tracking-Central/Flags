@@ -476,5 +476,6 @@
   "FFlagLuaAppSingleHoveredGridTile2": "True",
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
-  "DFFlagVoicePublishConnectionStateTelemetryFix": "True"
+  "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
+  "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-03T17:13:48"
 }

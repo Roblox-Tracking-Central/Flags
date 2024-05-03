@@ -553,5 +553,7 @@
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
-  "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True"
+  "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
+  "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-03T17:13:48",
+  "FFlagEnablePushNotificationPromptExperimentV2_Rollout": "True;60;2024-05-03T17:19:59"
 }
