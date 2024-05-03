@@ -313,5 +313,6 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagUpdateFmodVorbisDecoder": "True",
   "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-03T17:44:06",
-  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-03T17:45:05"
+  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-03T17:45:05",
+  "FFlagUWPTTIStartupCheck_Rollout": "True;60;2024-05-03T18:40:32"
 }
