@@ -552,5 +552,5 @@
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
-  "FFlagAXCloseTryOnManagerWhenUnselectingLook_Rollout": "True;60;2024-05-02T23:45:41"
+  "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True"
 }

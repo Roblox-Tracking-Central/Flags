@@ -189,7 +189,7 @@
   "DFFlagSimJobTimeAddUniverseId": "True",
   "DFFlagReportRayCastTime": "True",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
-  "FFlagAXCloseTryOnManagerWhenUnselectingLook_Rollout": "True;60;2024-05-02T23:45:41",
+  "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

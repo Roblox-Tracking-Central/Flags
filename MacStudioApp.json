@@ -646,7 +646,7 @@
   "FFlagLoadQEntityIconFromCurrentDataModel": "True",
   "FLogStudioLinkedSourceMigrator": "Info",
   "FFlagAddChannelInfoToMainWindowTitle": "True",
-  "FFlagAXCloseTryOnManagerWhenUnselectingLook_Rollout": "True;60;2024-05-02T23:45:41",
+  "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

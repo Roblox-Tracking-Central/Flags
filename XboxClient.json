@@ -412,5 +412,5 @@
   "FFlagXboxAddHangTimerAndLKStoBT": "True",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagReportNonPhysicsJobsTimes": "True",
-  "FFlagAXCloseTryOnManagerWhenUnselectingLook_Rollout": "True;60;2024-05-02T23:45:41"
+  "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True"
 }
