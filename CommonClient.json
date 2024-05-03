@@ -11993,7 +11993,6 @@
   "DFFlagSimSolverSimulatedBodyCountStatistics": "True",
   "FFlagClampEdgePlaneIntersection": "True",
   "FFlagStudioFixOgreWidgetUpdateEvent": "True",
-  "FFlagTerrainFixThumbnailerTextures": "True",
   "FFlagSkipHashingCoreScriptsInHSR": "True",
   "FFlagStudioLoadsCoreScriptTranslationsFromPatch": "True",
   "FFlagStudioPlayModeExcludeSomeBuiltins": "True",
