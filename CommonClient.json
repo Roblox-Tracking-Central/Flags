@@ -11924,7 +11924,6 @@
   "FFlagCapturesManagerGuacPolicy": "True",
   "FFlagCaptureStorageBulkManagementEnabled": "True",
   "FFlagFixSymbolCachingWithExecInfo": "True",
-  "FFlagTerrainFixThumbnailerTextures": "True",
   "FFlagRealtimeAssignIsConnectedFunc": "True",
   "DFFlagBatchId1HotrodAccessorMigration": "True",
   "DFFlagSignalAncestryDeferredYield": "True",
