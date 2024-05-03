@@ -555,8 +555,8 @@
   "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
-  "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-03T17:13:48",
   "FFlagEnablePushNotificationPromptExperimentV2_Rollout": "True;60;2024-05-03T17:19:59",
   "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-03T17:44:06",
-  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-03T17:45:05"
+  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-03T17:45:05",
+  "DFFlagEnableParallelFrustumQueries3": "True"
 }

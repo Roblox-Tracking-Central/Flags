@@ -415,5 +415,5 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
-  "FFlagLuaAppChallengeMoreTelemetryEnabled_Rollout": "True;30;2024-05-03T17:42:51"
+  "FFlagLuaAppChallengeMoreTelemetryEnabled": "True"
 }
