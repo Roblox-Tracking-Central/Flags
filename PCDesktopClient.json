@@ -94,7 +94,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, RenderingQuality",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
@@ -471,6 +471,5 @@
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
-  "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality;60;2024-05-03T17:15:56"
+  "DFFlagVoicePublishConnectionStateTelemetryFix": "True"
 }
