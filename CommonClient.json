@@ -11997,6 +11997,7 @@
   "DFFlagBatchId0HotrodAccessorMigration": "True",
   "FFlagNcgBasicUsageMetrics2": "True",
   "FFlagVoiceChatThreadPoolAccessAfterDestructionFix": "True",
+  "FFlagClampEdgePlaneIntersection_Rollout": "True;60;2024-05-03T16:19:29",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
