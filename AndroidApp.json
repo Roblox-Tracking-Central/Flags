@@ -134,6 +134,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
+  "FFlagRuntimeUseNativeWorkers": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

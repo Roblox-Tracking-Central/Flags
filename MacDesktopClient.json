@@ -134,6 +134,7 @@
   "DFFlagExperienceStateCaptureMinMemEnabled": "False",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
+  "FFlagRuntimeUseNativeWorkers": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
