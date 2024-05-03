@@ -312,7 +312,7 @@
   "FFlagEnableNewFontNameMappingABTest2": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagUpdateFmodVorbisDecoder": "True",
-  "FFlagUWPTTIStartupCheck_Rollout": "True;60;2024-05-03T18:40:32",
   "DFFlagReportNonPhysicsJobsTimes": "True",
-  "FFlagFixInitializationIssueWithArbiterTelemetry": "True"
+  "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
+  "FFlagUWPTTIStartupCheck": "True"
 }
