@@ -647,6 +647,8 @@
   "FLogStudioLinkedSourceMigrator": "Info",
   "FFlagAddChannelInfoToMainWindowTitle": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
+  "FFlagStudioRenderErrorModel_Rollout": "True;60;2024-05-03T16:38:52",
+  "FFlagStudioWarnWhenLowOnMemory2_Rollout": "True;60;2024-05-03T16:41:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
