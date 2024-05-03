@@ -649,6 +649,7 @@
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "FFlagStudioRenderErrorModel_Rollout": "True;60;2024-05-03T16:38:52",
   "FFlagStudioWarnWhenLowOnMemory2_Rollout": "True;60;2024-05-03T16:41:26",
+  "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-05-03T17:23:20",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
