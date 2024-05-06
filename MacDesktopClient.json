@@ -185,7 +185,6 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
-  "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
