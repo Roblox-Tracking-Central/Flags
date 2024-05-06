@@ -137,6 +137,7 @@
   "FFlagRuntimeUseNativeWorkers": "True",
   "AllowVideoPreRoll": "True",
   "FFlagEnableQuestHaptics": "True",
+  "FFlagLuaAppChallengeMoreTelemetryEnabled_Rollout": "True;30;2024-05-06T18:11:34",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",

@@ -137,6 +137,7 @@
   "FFlagRuntimeUseNativeWorkers": "True",
   "AllowVideoPreRoll": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval_Rollout": "True;60;2024-05-06T17:39:13",
+  "FFlagLuaAppChallengeMoreTelemetryEnabled_Rollout": "True;30;2024-05-06T18:11:34",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -560,5 +561,6 @@
   "FFlagEnablePushNotificationPromptExperimentV2": "True",
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
-  "DFFlagReportRayCastTime": "True"
+  "DFFlagReportRayCastTime": "True",
+  "DFStringVNGWebViewUrlAllowlist_Rollout": "vnggames.net,vnggames.com,vngcorp.mobi,zing.vn;60;2024-05-06T18:27:21"
 }
