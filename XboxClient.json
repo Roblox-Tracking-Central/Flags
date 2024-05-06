@@ -417,5 +417,5 @@
   "DFFlagReportRayCastTime": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagEnableVideoCaptureServiceSubflow_Rollout": "True;30;2024-05-06T21:49:23"
+  "FFlagEnableVideoCaptureServiceSubflow": "True"
 }

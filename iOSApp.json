@@ -559,6 +559,6 @@
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagReportRayCastTime": "True",
   "DFStringVNGWebViewUrlAllowlist": "vnggames.net,vnggames.com,vngcorp.mobi,zing.vn",
-  "FFlagEnableVideoCaptureServiceSubflow_Rollout": "True;30;2024-05-06T21:49:23",
-  "DFFlagPerformanceControlIXPMemoryBufferConstantCheck": "True"
+  "DFFlagPerformanceControlIXPMemoryBufferConstantCheck": "True",
+  "FFlagEnableVideoCaptureServiceSubflow": "True"
 }
