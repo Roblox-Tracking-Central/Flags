@@ -313,5 +313,6 @@
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "FFlagUWPTTIStartupCheck": "True",
-  "DFFlagReportRayCastTime": "True"
+  "DFFlagReportRayCastTime": "True",
+  "FFlagEnableVideoCaptureServiceSubflow_Rollout": "True;30;2024-05-06T21:49:23"
 }

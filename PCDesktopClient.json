@@ -194,6 +194,7 @@
   "FFlagPathfindingReduceMemoryForHFs": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "DFFlagFixExplosionTimescale": "True",
+  "FFlagEnableVideoCaptureServiceSubflow_Rollout": "True;30;2024-05-06T21:49:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
