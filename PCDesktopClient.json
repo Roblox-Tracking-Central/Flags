@@ -474,6 +474,5 @@
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
-  "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
-  "DFFlagEnableAdSizeTracking_Rollout": "True;60;2024-05-06T18:40:57"
+  "DFFlagVoicePublishConnectionStateTelemetryFix": "True"
 }
