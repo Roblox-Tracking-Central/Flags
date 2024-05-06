@@ -11998,6 +11998,8 @@
   "FFlagStudioPlayModeExcludeSomeBuiltins": "True",
   "DFFlagReportAvatarAssetNetworkingTime3": "True",
   "FFlagCAPContextAndErrorTelemetry": "True",
+  "FFlagFriendsLandingContextualMenuErrorHandling": "True",
+  "DFIntMissingReplicationRootHundredths_Rollout": "10000;60;2024-05-06T16:08:41",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
