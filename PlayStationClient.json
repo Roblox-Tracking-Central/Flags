@@ -89,7 +89,6 @@
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
   "FFlagSignalRLogMessageDeliveryByPlatform": "True",
-  "FFlagLuaAppEnableToastNotifications4": "False",
   "FStringStudioEmergencyMessageV4": "",
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
