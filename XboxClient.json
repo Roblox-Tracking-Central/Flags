@@ -135,6 +135,7 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "False",
+  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;60;2024-05-06T17:11:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -416,5 +417,6 @@
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "FFlagLuaAppChallengeMoreTelemetryEnabled": "True",
-  "DFFlagReportRayCastTime_Rollout": "True;30;2024-05-06T16:31:00"
+  "DFFlagReportRayCastTime_Rollout": "True;30;2024-05-06T16:31:00",
+  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-06T17:05:38"
 }
