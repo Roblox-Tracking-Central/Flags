@@ -660,6 +660,7 @@
   "FFlagStudioCheckModerationStatusUponLogin_Rollout": "True;60;2024-05-06T18:32:51",
   "FFlagStudioWithUiContextRemoveShortCircuit": "True",
   "FFlagRemoveShowErrorMessageWithOutputText": "True",
+  "FFlagCAPDMHierarchyEnableMaxCap_Rollout": "True;60;2024-05-06T19:36:24",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
