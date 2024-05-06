@@ -136,6 +136,7 @@
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
   "AllowVideoPreRoll": "True",
+  "FFlagEnableAsyncAttestationTokenRetrieval_Rollout": "True;60;2024-05-06T17:39:13",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -198,6 +199,7 @@
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-06T16:56:18",
   "FFlagPreOptimizeNoCollisionPrimitive_Rollout": "True;60;2024-05-06T17:00:18",
+  "DFFlagFixExplosionTimescale_Rollout": "True;60;2024-05-06T17:56:16",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -478,5 +480,6 @@
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
-  "DFFlagEnableParallelFrustumQueries3": "True"
+  "DFFlagEnableParallelFrustumQueries3": "True",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality;30;2024-05-06T18:03:43"
 }

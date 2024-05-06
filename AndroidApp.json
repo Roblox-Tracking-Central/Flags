@@ -136,6 +136,7 @@
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
   "AllowVideoPreRoll": "True",
+  "FFlagEnableAsyncAttestationTokenRetrieval_Rollout": "True;60;2024-05-06T17:39:13",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -604,5 +605,6 @@
   "DisableNotificationStreamOpenEvent": "True",
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "DFIntInterpolationNumMechanismsPerTask": "32"
+  "DFIntInterpolationNumMechanismsPerTask": "32",
+  "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-06T17:37:48"
 }
