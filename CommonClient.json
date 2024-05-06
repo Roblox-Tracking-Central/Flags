@@ -12035,6 +12035,8 @@
   "FFlagFixExplorerUpdateTimer_Rollout": "True;60;2024-05-06T20:17:09",
   "FFlagLuaAppHomeGameGridReportExperienceLaunched_Rollout": "True;60;2024-05-06T20:27:14",
   "FFlagAXCatalogRefreshCounter_Rollout": "True;60;2024-05-06T20:39:05",
+  "DFIntVideoAdImpressionContinuityDurationMS_Rollout": "500;60;2024-05-06T20:42:16",
+  "FFlagLuaAppRemoveExtraCarouselPadding_Rollout": "True;60;2024-05-06T20:42:24",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
