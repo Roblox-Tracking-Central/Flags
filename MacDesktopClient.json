@@ -135,7 +135,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagEnableAsyncAttestationTokenRetrieval_Rollout": "True;60;2024-05-06T17:39:13",
   "FFlagLuaAppChallengeMoreTelemetryEnabled_Rollout": "True;30;2024-05-06T18:11:34",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -198,9 +197,10 @@
   "DFFlagReportRayCastTime": "True",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
-  "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-06T16:56:18",
-  "FFlagPreOptimizeNoCollisionPrimitive_Rollout": "True;60;2024-05-06T17:00:18",
   "DFFlagFixExplosionTimescale_Rollout": "True;60;2024-05-06T17:56:16",
+  "FFlagOptimizeRaycastBroadphaseBuffer": "True",
+  "FFlagPreOptimizeNoCollisionPrimitive": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -467,7 +467,6 @@
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagSimAdaptiveTimesteppingDefault2": "True",
   "DFFlagEnableAverageScreenPercentageTracking": "True",
-  "FFlagEnableNewFontNameMappingABTest2": "True",
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273;8650964641;15696848933;7714627632;11765402359",
   "FFlagUseExitInUpdateTermination": "False",
@@ -482,5 +481,6 @@
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality;30;2024-05-06T18:03:43"
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality;30;2024-05-06T18:03:43",
+  "DFFlagEnableAdSizeTracking_Rollout": "True;60;2024-05-06T18:40:57"
 }

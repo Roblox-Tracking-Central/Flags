@@ -135,7 +135,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
-  "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;60;2024-05-06T17:11:16",
   "FFlagEnableAsyncAttestationTokenRetrieval_Rollout": "True;60;2024-05-06T17:39:13",
   "FFlagLuaAppChallengeMoreTelemetryEnabled_Rollout": "True;30;2024-05-06T18:11:34",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
@@ -264,8 +263,8 @@
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-  "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-06T17:05:38",
-  "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-06T17:10:46",
   "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-06T17:37:48",
-  "DFFlagReportRayCastTime": "True"
+  "DFFlagReportRayCastTime": "True",
+  "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
+  "DFFlagReportNonPhysicsJobsTimes": "True"
 }
