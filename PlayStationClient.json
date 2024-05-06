@@ -84,7 +84,6 @@
   "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "30",
   "FFlagUserIsChatTranslationEnabled": "False",
   "FIntUITextureLowSingleTextureMemoryMB": "4",
-  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "False",
   "FFlagEnableLocationRecording": "True",
   "FStringUIOcclusionMetricsRectQueryList": "[]",
   "DFIntReportUIOcclusionRectQuery": "0",
