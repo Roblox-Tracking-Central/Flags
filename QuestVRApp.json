@@ -135,8 +135,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "False",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
-  "FFlagEnableQuestHaptics": "True",
-  "FFlagLuaAppChallengeMoreTelemetryEnabled_Rollout": "True;30;2024-05-06T18:11:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -606,7 +604,8 @@
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "DFIntInterpolationNumMechanismsPerTask": "32",
-  "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-06T17:37:48",
+  "DFFlagEnableParallelFrustumQueries3": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -627,7 +626,6 @@
   "FFlagSwitchInExpTranslationsPackage2": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-  "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
   "DFFlagReportRayCastTime": "True"
 }
