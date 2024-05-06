@@ -11976,7 +11976,7 @@
   "FFlagLuaAppLazyRequireOverlayComponents": "True",
   "FIntCoreScriptBacktraceErrorReportPercentage": "10",
   "FFlagBulkPropertyEditTelemetry2": "True",
-  "DFFlagCLI96239": "True",
+  "DFFlagCLI96239": "False",
   "FFlagGraphicsFixEditableDegenerateUpdate": "True",
   "FFlagCAPEmptyModuleScript": "True",
   "FFlagGjkFastSupport": "True",
