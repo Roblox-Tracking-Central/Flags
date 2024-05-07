@@ -193,6 +193,7 @@
   "FFlagPathfindingReduceMemoryForHFs": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "DFFlagFixExplosionTimescale": "True",
+  "FIntPathfindingHFBHighMemoryThrottleHundrethsPercentPoints_Rollout": "10000;60;2024-05-07T16:30:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -470,5 +471,6 @@
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
-  "DFFlagVoicePublishConnectionStateTelemetryFix": "True"
+  "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
+  "FIntPathfindingLargeTileThrottleHundrethsPercentPoints_Rollout": "10000;60;2024-05-07T16:29:26"
 }

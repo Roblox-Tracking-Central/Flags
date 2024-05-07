@@ -12057,6 +12057,7 @@
   "FFlagAssetImportRefactorReducer": "True",
   "DFFlagBatchId18HotrodAccessorMigration": "True",
   "FFlagInferredCrashSubsystem3_Rollout": "True;60;2024-05-07T16:10:41",
+  "FFlagVideoFixMacAudioCodec_Rollout": "True;60;2024-05-07T16:26:48",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
