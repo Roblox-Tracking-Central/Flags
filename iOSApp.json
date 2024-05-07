@@ -560,7 +560,7 @@
   "DFFlagHttpStatsErrorSeparateThrottles": "True",
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
-  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23",
   "FFlagOptimizeRaycastBroadphaseBuffer": "True",
-  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-05-07T22:30:20"
+  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-05-07T22:30:20",
+  "FFlagVideoAnalyticsUseWeakThis": "True"
 }

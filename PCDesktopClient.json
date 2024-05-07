@@ -194,7 +194,7 @@
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
   "FFlagOptimizeRaycastBroadphaseBuffer": "True",
   "FFlagPathfindingTerrainGenerateMesh3": "True",
-  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23",
+  "FFlagVideoAnalyticsUseWeakThis": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -471,5 +471,6 @@
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
-  "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000"
+  "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000",
+  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_PlaceFilter": "True;14184086618"
 }

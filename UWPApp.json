@@ -315,6 +315,6 @@
   "DFFlagReportRayCastTime": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
-  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23",
-  "FFlagOptimizeRaycastBroadphaseBuffer": "True"
+  "FFlagOptimizeRaycastBroadphaseBuffer": "True",
+  "FFlagVideoAnalyticsUseWeakThis": "True"
 }

@@ -196,7 +196,7 @@
   "FIntPathfindingHFBHighMemoryThrottleHundrethsPercentPoints": "10000",
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
   "FFlagPathfindingTerrainGenerateMesh3": "True",
-  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23",
+  "FFlagVideoAnalyticsUseWeakThis": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

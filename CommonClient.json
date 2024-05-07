@@ -12102,6 +12102,8 @@
   "FFlagFixConnectionUtilKeys": "True",
   "FFlagPath2DRotatesWithParent": "True",
   "FFlagPath2DUseBetterVerticesBuilder": "True",
+  "FFlagAXSearchResultsCategories3_Rollout": "True;60;2024-05-07T22:34:35",
+  "FFlagAXSearchResultsCategoriesIXPEnabled1_Rollout": "True;60;2024-05-07T22:34:35",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
