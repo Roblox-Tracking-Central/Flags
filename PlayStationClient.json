@@ -264,5 +264,6 @@
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
-  "FFlagEnableVideoCaptureServiceSubflow": "True"
+  "FFlagEnableVideoCaptureServiceSubflow": "True",
+  "FFlagPreOptimizeNoCollisionPrimitive_Rollout": "True;60;2024-05-07T18:04:40"
 }
