@@ -197,8 +197,8 @@
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "DFFlagFixExplosionTimescale": "True",
   "FIntPathfindingHFBHighMemoryThrottleHundrethsPercentPoints": "10000",
-  "FFlagPathfindingTerrainGenerateMesh3_Rollout": "True;60;2024-05-07T18:14:36",
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
+  "FFlagPathfindingTerrainGenerateMesh3": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -479,5 +479,5 @@
   "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000",
-  "FFlagCacheRequestedMaxSize_Rollout": "True;30;2024-05-07T18:22:16"
+  "FFlagCacheRequestedMaxSize": "True"
 }

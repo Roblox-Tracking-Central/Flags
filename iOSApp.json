@@ -562,6 +562,6 @@
   "DFFlagPerformanceControlIXPMemoryBufferConstantCheck": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "DFFlagHttpStatsErrorSeparateThrottles": "True",
-  "FFlagPreOptimizeNoCollisionPrimitive_Rollout": "True;60;2024-05-07T18:04:40",
-  "DFFlagVoiceChatServiceInitJoinProfiling": "True"
+  "DFFlagVoiceChatServiceInitJoinProfiling": "True",
+  "FFlagPreOptimizeNoCollisionPrimitive": "True"
 }
