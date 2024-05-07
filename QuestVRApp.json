@@ -605,7 +605,6 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "DFIntInterpolationNumMechanismsPerTask": "10",
   "DFFlagEnableParallelFrustumQueries3": "True",
-  "FIntNotifyMovingCallbackThreadingThreshold": "100",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

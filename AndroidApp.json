@@ -604,6 +604,5 @@
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "DFIntInterpolationNumMechanismsPerTask": "10",
-  "DFFlagEnableParallelFrustumQueries3": "True",
-  "FIntNotifyMovingCallbackThreadingThreshold": "100"
+  "DFFlagEnableParallelFrustumQueries3": "True"
 }
