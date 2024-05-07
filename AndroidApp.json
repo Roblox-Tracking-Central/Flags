@@ -602,5 +602,6 @@
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "DFIntInterpolationNumMechanismsPerTask": "10",
-  "DFFlagEnableParallelFrustumQueries3": "True"
+  "DFFlagEnableParallelFrustumQueries3": "True",
+  "FIntNotifyMovingCallbackThreadingThreshold_Rollout": "100;30;2024-05-07T16:21:19"
 }
