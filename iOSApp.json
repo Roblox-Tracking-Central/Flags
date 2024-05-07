@@ -133,10 +133,9 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
-  "FFlagExpStateCaptureModeSelectAnything2_Rollout": "True;60;2024-05-07T19:16:25",
-  "AllowVideoPreRoll": "True",
-  "DFFlagFixJobTimeOfLastStep_Rollout": "True;60;2024-05-07T19:16:39",
   "DFFlagAddAnimationToAssetTypeTarget_Rollout": "True;60;2024-05-07T20:38:19",
+  "FFlagCacheRequestedMaxSize_Rollout": "True;30;2024-05-07T20:44:48",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -461,7 +460,6 @@
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "FFlagUpdateCheckOnLogin2": "True",
-  "FFlagExpStateCaptureMode7": "True",
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage": "10000",
   "DFFlagPerformanceControlEnableInference": "True",
   "DFIntPerformanceControlRunInferenceHundrethsPercent": "20",
@@ -565,5 +563,6 @@
   "DFFlagHttpStatsErrorSeparateThrottles": "True",
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
-  "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-07T20:37:14"
+  "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-07T20:37:14",
+  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23"
 }
