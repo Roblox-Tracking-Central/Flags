@@ -562,5 +562,7 @@
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "FFlagOptimizeRaycastBroadphaseBuffer": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-05-07T22:30:20",
-  "FFlagVideoAnalyticsUseWeakThis": "True"
+  "FFlagVideoAnalyticsUseWeakThis": "True",
+  "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "10;60;2024-05-07T23:12:55",
+  "DFIntHttpStatsDnsErrorInfluxReportsPerMillion_Rollout": "10;60;2024-05-07T23:13:44"
 }
