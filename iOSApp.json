@@ -547,7 +547,6 @@
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
-  "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
   "FFlagRenderGlobalInstancingPadBuffers": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
@@ -562,5 +561,6 @@
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23",
-  "FFlagOptimizeRaycastBroadphaseBuffer": "True"
+  "FFlagOptimizeRaycastBroadphaseBuffer": "True",
+  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-05-07T22:30:20"
 }
