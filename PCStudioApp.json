@@ -700,6 +700,7 @@
   "DFFlagVoiceChatServiceInitJoinProfiling_Rollout": "True;60;2024-05-07T17:26:03",
   "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-07T18:03:46",
   "FIntPathfindingHFBHighMemoryThrottleHundrethsPercentPoints": "10000",
+  "FFlagPathfindingTerrainGenerateMesh3_Rollout": "True;60;2024-05-07T18:14:36",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
