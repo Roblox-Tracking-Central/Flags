@@ -601,7 +601,6 @@
   "DisableNotificationStreamOpenEvent": "True",
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "DFIntInterpolationNumMechanismsPerTask": "32",
-  "DFFlagEnableParallelFrustumQueries3": "True",
-  "DFIntInterpolationNumMechanismsPerTask_Rollout": "10;30;2024-05-06T23:39:15"
+  "DFIntInterpolationNumMechanismsPerTask": "10",
+  "DFFlagEnableParallelFrustumQueries3": "True"
 }
