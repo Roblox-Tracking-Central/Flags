@@ -133,6 +133,7 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "False",
+  "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-05-07T17:31:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
