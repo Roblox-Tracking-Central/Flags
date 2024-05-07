@@ -652,6 +652,7 @@
   "FFlagDraftsDoNotRemoveScriptsWhileAddingThem": "True",
   "FFlagMaterialPickerFixButtonState": "True",
   "FIntPathfindingLargeTileThrottleHundrethsPercentPoints_Rollout": "10000;60;2024-05-07T16:29:26",
+  "FFlagStudioFixUnsafeAccessInExplorer_Rollout": "True;60;2024-05-07T17:18:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
