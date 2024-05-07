@@ -136,6 +136,7 @@
   "FFlagExpStateCaptureModeSelectAnything2_Rollout": "True;60;2024-05-07T19:16:25",
   "AllowVideoPreRoll": "True",
   "DFFlagFixJobTimeOfLastStep_Rollout": "True;60;2024-05-07T19:16:39",
+  "DFFlagAddAnimationToAssetTypeTarget_Rollout": "True;60;2024-05-07T20:38:19",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",

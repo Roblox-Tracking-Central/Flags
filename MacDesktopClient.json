@@ -136,6 +136,7 @@
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "DFFlagAddAnimationToAssetTypeTarget_Rollout": "True;60;2024-05-07T20:38:19",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",

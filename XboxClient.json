@@ -136,6 +136,7 @@
   "FFlagExpStateCaptureModeSelectAnything2_Rollout": "True;60;2024-05-07T19:16:25",
   "FFlagExpStateCaptureMode7_Rollout": "True;60;2024-05-07T19:16:36",
   "DFFlagFixJobTimeOfLastStep_Rollout": "True;60;2024-05-07T19:16:39",
+  "DFFlagAddAnimationToAssetTypeTarget_Rollout": "True;60;2024-05-07T20:38:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -420,5 +421,6 @@
   "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
-  "FFlagPreOptimizeNoCollisionPrimitive": "True"
+  "FFlagPreOptimizeNoCollisionPrimitive": "True",
+  "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-07T20:37:14"
 }
