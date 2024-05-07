@@ -469,7 +469,6 @@
   "FFlagAssetImportUseUploadId": "True",
   "FFlagAssetImportFixDropdownRender": "True",
   "FFlagTerrainEditorGetNextSelectablesFix": "True",
-  "DFFlagAddAnimationToAssetTypeTarget": "True",
   "FIntDraggerImprovements2BetaFeatureRolloutPercent": "10",
   "FFlagStudioReworkSavePlaceDialog6": "True",
   "FFlagNotificationTrayImpressions": "True",

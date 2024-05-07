@@ -133,7 +133,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
-  "DFFlagAddAnimationToAssetTypeTarget_Rollout": "True;60;2024-05-07T20:38:19",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -264,5 +263,5 @@
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
-  "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-07T20:37:14"
+  "FFlagOptimizeRaycastBroadphaseBuffer": "True"
 }

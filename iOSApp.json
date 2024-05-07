@@ -133,7 +133,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
   "FFlagRuntimeUseNativeWorkers": "True",
-  "DFFlagAddAnimationToAssetTypeTarget_Rollout": "True;60;2024-05-07T20:38:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -562,6 +561,6 @@
   "DFFlagHttpStatsErrorSeparateThrottles": "True",
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
-  "FFlagOptimizeRaycastBroadphaseBuffer_Rollout": "True;60;2024-05-07T20:37:14",
-  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23"
+  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;60;2024-05-07T21:16:23",
+  "FFlagOptimizeRaycastBroadphaseBuffer": "True"
 }
