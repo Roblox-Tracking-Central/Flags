@@ -472,5 +472,5 @@
   "DFFlagEnableParallelFrustumQueries3": "True",
   "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
   "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000",
-  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_PlaceFilter": "True;14184086618"
+  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_PlaceFilter": "True;14184086618;16389398622"
 }
