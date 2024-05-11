@@ -98,5 +98,6 @@
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
-  "FIntMacInstallerRetryTerminateCheckMS": "2000"
+  "FIntMacInstallerRetryTerminateCheckMS": "2000",
+  "FFlagFixEmptyLimitedBadgesForBundles": "True"
 }
