@@ -621,10 +621,8 @@
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "False",
-  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment_Rollout": "True;60;2024-05-13T21:06:36",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "False",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin_Rollout": "True;60;2024-05-13T21:06:36",
+  "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
+  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "FFlagClientFRMManualToAutoExperimentCheck2": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
 }
