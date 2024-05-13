@@ -140,12 +140,12 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
-  "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagLuauCodegenContext_Rollout": "True;60;2024-05-13T18:25:16",
   "AllowVideoPreRoll": "True",
+  "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagGpuGeometryManager10": "True",
@@ -173,7 +173,6 @@
   "FFlagHideDraggerPeekViewV3": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
-  "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "FFlagEnableAdsMouseUnlock": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -489,7 +488,7 @@
   "FFlagAlwaysShowVRToggleV3": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagRenderEnableIGCounters": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13",
   "FFlagVoxelGridNew4_Rollout": "True;60;2024-05-13T17:24:26",
-  "FFlagAddPolicyForVoiceUpsellSignup": "True"
+  "FFlagAddPolicyForVoiceUpsellSignup": "True",
+  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True"
 }

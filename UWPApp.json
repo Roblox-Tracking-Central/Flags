@@ -140,7 +140,6 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
-  "FFlagLuaAppNewStreamNotificationsEnabledV3_Rollout": "True;60;2024-05-13T17:04:18",
   "AllowVideoPreRoll": "True",
   "FFlagPathfindingReduceMemoryForHFs_Rollout": "True;60;2024-05-13T17:24:29",
   "DFFlagVoiceChatServiceInitJoinProfiling_Rollout": "True;60;2024-05-13T18:20:19",
@@ -332,6 +331,6 @@
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13",
-  "FFlagUseRelativeToRootCFrameForAccessories_Rollout": "True;60;2024-05-13T17:29:50"
+  "FFlagUseRelativeToRootCFrameForAccessories_Rollout": "True;60;2024-05-13T17:29:50",
+  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True"
 }

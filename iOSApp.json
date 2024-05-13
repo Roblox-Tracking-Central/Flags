@@ -140,12 +140,12 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
-  "DFFlagBoxMappedMeshLODFix_v2": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "FFlagLuauCodegenContext_Rollout": "True;60;2024-05-13T18:25:16",
   "AllowVideoPreRoll": "True",
+  "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
   "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
   "DFFlagDebugVisualizerTrackRotationPredictions": "True",
@@ -530,7 +530,6 @@
   "FFlagFriendsCarouseCINavigationUpdate": "True",
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagContactImporterUIRefactor_v1": "True",
@@ -581,8 +580,8 @@
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "FFlagEnableMigratedRoduxContactsPackage": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13",
   "FFlagUseRelativeToRootCFrameForAccessories_Rollout": "True;60;2024-05-13T17:29:50",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
-  "FFlagLuaAppGameTileOTA2_Rollout": "True;30;2024-05-13T18:12:42"
+  "FFlagLuaAppGameTileOTA2_Rollout": "True;30;2024-05-13T18:12:42",
+  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True"
 }

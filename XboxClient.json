@@ -140,7 +140,6 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
-  "FFlagLuaAppNewStreamNotificationsEnabledV3_Rollout": "True;60;2024-05-13T17:04:18",
   "AllowVideoPreRoll": "True",
   "FFlagPathfindingReduceMemoryForHFs_Rollout": "True;60;2024-05-13T17:24:29",
   "DFFlagVoiceChatServiceInitJoinProfiling_Rollout": "True;60;2024-05-13T18:20:19",
