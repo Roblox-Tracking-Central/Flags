@@ -140,7 +140,7 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
-  "FFlagRenderGlobalInstancingPadBuffers_Rollout": "True;30;2024-05-13T22:25:47",
+  "FFlagCAPSeparateWelcomeTutorialEndpoints_Rollout": "True;60;2024-05-13T23:13:42",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

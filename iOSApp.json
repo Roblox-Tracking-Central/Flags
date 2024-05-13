@@ -140,6 +140,7 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
+  "FFlagCAPSeparateWelcomeTutorialEndpoints_Rollout": "True;60;2024-05-13T23:13:42",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -552,7 +553,6 @@
   "FFlagUpdateFmodVorbisDecoder": "True",
   "FFlagPerformanceControlSoundTunableV22": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
-  "FFlagRenderGlobalInstancingPadBuffers": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnablePushNotificationPromptExperimentV2": "True",
@@ -577,6 +577,6 @@
   "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "FFlagHttpBlockWhenAppSuspendedIOS_Rollout": "True;10;2024-05-13T22:42:40",
-  "DFFlagHttpReportWhenAppSuspended_Rollout": "True;10;2024-05-13T22:43:50"
+  "DFFlagHttpReportWhenAppSuspended": "True",
+  "FFlagHttpBlockWhenAppSuspendedIOS": "True"
 }
