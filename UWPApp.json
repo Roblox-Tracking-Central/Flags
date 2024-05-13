@@ -143,6 +143,7 @@
   "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
   "CaptureCountersIntervalInMinutes": "5",
+  "FFlagLuaAppNewStreamNotificationsEnabledV3_Rollout": "True;60;2024-05-13T17:04:18",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
@@ -330,5 +331,6 @@
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
-  "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20"
+  "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20",
+  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13"
 }
