@@ -141,6 +141,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "AllowVideoPreRoll": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
+  "FFlagLuauCodegenUseContextAwareApis_Rollout": "True;60;2024-05-13T20:28:24",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",

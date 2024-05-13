@@ -12189,6 +12189,7 @@
   "DFStringPlayerHydrationServicePublicKey": "8Nu7Er7LsbQpihVC\u002BijfEbbRFzj\u002BKikw9McFEZdFSt4=",
   "FFlagPath2DSubmitsWithCorrectCurrentHeight": "True",
   "FFlagLuauNativeExecutionPerformanceSampleCount": "True",
+  "DFFlagGuiLayoutRemoveAllocsInStableSort_Rollout": "True;60;2024-05-13T20:33:19",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
