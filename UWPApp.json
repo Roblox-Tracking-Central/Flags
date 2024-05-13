@@ -317,7 +317,6 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagUpdateFmodVorbisDecoder": "True",
   "DFFlagReportNonPhysicsJobsTimes": "True",
-  "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "FFlagUWPTTIStartupCheck": "True",
   "DFFlagReportRayCastTime": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
@@ -330,5 +329,6 @@
   "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-  "FFlagEnableHomePageUpsellCardRelease7": "True"
+  "FFlagEnableHomePageUpsellCardRelease7": "True",
+  "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20"
 }

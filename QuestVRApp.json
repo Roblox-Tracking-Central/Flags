@@ -142,6 +142,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "False",
   "FFlagEnableQuestHaptics": "True",
   "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;30;2024-05-13T16:27:51",
+  "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-13T16:46:31",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -613,6 +614,9 @@
   "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
   "DFFlagDebugSimSolverReduceTimingStatFreq": "True",
   "FFlagEnableVideoLandingRelease1": "False",
+  "FFlagAddPolicyForVoiceUpsellSignup_Rollout": "True;60;2024-05-13T16:39:17",
+  "FFlagEnableMigratedRoduxContactsPackage": "True",
+  "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -642,5 +646,6 @@
   "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-  "FFlagFixEmptyLimitedBadgesForBundles": "True"
+  "FFlagFixEmptyLimitedBadgesForBundles": "True",
+  "FFlagEnableGameInviteModalVRSupportV2_Rollout": "True;60;2024-05-13T16:50:37"
 }

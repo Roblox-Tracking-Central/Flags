@@ -422,7 +422,6 @@
   "DFFlagReportNonPhysicsJobsTimes": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "DFFlagReportRayCastTime": "True",
-  "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",

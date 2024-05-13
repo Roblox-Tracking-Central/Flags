@@ -558,7 +558,6 @@
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnablePushNotificationPromptExperimentV2": "True",
   "DFFlagReportNonPhysicsJobsTimes": "True",
-  "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
   "DFFlagReportRayCastTime": "True",
   "DFStringVNGWebViewUrlAllowlist": "vnggames.net,vnggames.com,vngcorp.mobi,zing.vn",
   "DFFlagPerformanceControlIXPMemoryBufferConstantCheck": "True",
@@ -582,5 +581,8 @@
   "FFlagEnableVideoLandingRelease1": "True",
   "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
-  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True"
+  "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
+  "FFlagAddPolicyForVoiceUpsellSignup_Rollout": "True;60;2024-05-13T16:39:17",
+  "FFlagEnableMigratedRoduxContactsPackage": "True",
+  "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20"
 }
