@@ -141,9 +141,9 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagLuauCodegenContext_Rollout": "True;60;2024-05-13T18:25:16",
   "AllowVideoPreRoll": "True",
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -200,7 +200,6 @@
   "DFFlagFixExplosionTimescale": "True",
   "FIntPathfindingHFBHighMemoryThrottleHundrethsPercentPoints": "10000",
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
-  "FFlagPathfindingReduceMemoryForHFs": "True",
   "DFIntImmersiveAdLoadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
@@ -210,7 +209,7 @@
   "FFlagCollisionGroupNamePropertyItem": "True",
   "DFFlagPoolSignalArgumentStorage": "True",
   "FFlagFixEmptyLimitedBadgesForBundles": "True",
-  "FFlagUseRelativeToRootCFrameForAccessories_Rollout": "True;60;2024-05-13T17:29:50",
+  "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -492,7 +491,8 @@
   "FFlagVoxelGridFixGetNonEmptyRegionsInside": "True",
   "FFlagMacSeverCrashpadOnUpdate": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
-  "FFlagVoxelGridNew4_Rollout": "True;60;2024-05-13T17:24:26",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True"
+  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
+  "FFlagVoxelGridNew4": "True",
+  "FFlagVoxelGridNew4_PlaceFilter": "False;11729688377"
 }
