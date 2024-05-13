@@ -144,6 +144,7 @@
   "AxisAdornmentGrabSize": "12",
   "DFFlagVoicePublishConnectionStateTelemetryFix_Rollout": "True;60;2024-05-13T18:26:47",
   "AllowVideoPreRoll": "True",
+  "FFlagLuaAppGameTileOTA2_Rollout": "True;30;2024-05-13T19:44:35",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
