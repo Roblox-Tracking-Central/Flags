@@ -205,7 +205,7 @@
   "DFFlagPoolSignalArgumentStorage": "True",
   "FFlagFixEmptyLimitedBadgesForBundles": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-13T20:52:56",
+  "FFlagPlayerHydrationServiceEnabled_PlaceFilter": "True;15099125805;9872472334;142823291",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -487,5 +487,5 @@
   "FFlagRenderEnableIGCounters": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
-  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3_Rollout": "True;60;2024-05-13T20:16:31"
+  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
 }

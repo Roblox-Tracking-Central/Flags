@@ -331,5 +331,5 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3_Rollout": "True;60;2024-05-13T20:16:31"
+  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
 }

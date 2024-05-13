@@ -12200,6 +12200,7 @@
   "FFlagEnableAdGuiAssetPreloading_Rollout": "True;60;2024-05-13T21:21:18",
   "FFlagDeprecateVideoAssetTypeInAdsGui_Rollout": "True;60;2024-05-13T21:22:24",
   "DFFlagLogServiceStudioOutputSpamFix2_Rollout": "True;60;2024-05-13T21:29:55",
+  "DFFlagLuauFasterConcat_Rollout": "True;60;2024-05-13T21:47:37",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
