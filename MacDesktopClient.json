@@ -484,6 +484,5 @@
   "FFlagMacSeverCrashpadOnUpdate": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
 }

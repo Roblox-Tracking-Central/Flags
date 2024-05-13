@@ -574,7 +574,6 @@
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "FFlagEnableMigratedRoduxContactsPackage": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "DFFlagHttpReportWhenAppSuspended": "True",

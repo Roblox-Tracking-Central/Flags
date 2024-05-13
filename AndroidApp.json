@@ -613,7 +613,6 @@
   "FFlagEnableVideoLandingRelease1": "True",
   "FFlagEnableMigratedRoduxContactsPackage": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",

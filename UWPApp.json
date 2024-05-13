@@ -325,7 +325,6 @@
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
 }
