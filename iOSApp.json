@@ -140,10 +140,10 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
-  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
   "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -565,7 +565,6 @@
   "DFFlagVoiceChatServiceInitJoinProfiling": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "FFlagOptimizeRaycastBroadphaseBuffer": "True",
-  "FFlagVideoAnalyticsUseWeakThis": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FFlagPathfindingReduceMemoryForHFs": "True",
@@ -584,5 +583,6 @@
   "FFlagAddPolicyForVoiceUpsellSignup_Rollout": "True;60;2024-05-13T16:39:17",
   "FFlagEnableMigratedRoduxContactsPackage": "True",
   "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13"
+  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13",
+  "FFlagUseRelativeToRootCFrameForAccessories_Rollout": "True;60;2024-05-13T17:29:50"
 }

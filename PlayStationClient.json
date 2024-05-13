@@ -140,10 +140,10 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
-  "FFlagVideoAnalyticsUseWeakThis_Rollout": "True;30;2024-05-13T16:27:51",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "FFlagLuaAppNewStreamNotificationsEnabledV3_Rollout": "True;60;2024-05-13T17:04:18",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "FFlagPathfindingReduceMemoryForHFs_Rollout": "True;60;2024-05-13T17:24:29",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",
@@ -277,5 +277,6 @@
   "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-  "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20"
+  "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20",
+  "FFlagUseRelativeToRootCFrameForAccessories_Rollout": "True;60;2024-05-13T17:29:50"
 }

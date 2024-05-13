@@ -141,9 +141,10 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "AxisAdornmentGrabSize": "12",
-  "CaptureCountersIntervalInMinutes": "5",
   "FFlagLuaAppNewStreamNotificationsEnabledV3_Rollout": "True;60;2024-05-13T17:04:18",
   "AllowVideoPreRoll": "True",
+  "FFlagPathfindingReduceMemoryForHFs_Rollout": "True;60;2024-05-13T17:24:29",
+  "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
@@ -322,7 +323,6 @@
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagPreOptimizeNoCollisionPrimitive": "True",
   "FFlagOptimizeRaycastBroadphaseBuffer": "True",
-  "FFlagVideoAnalyticsUseWeakThis": "True",
   "DFIntImmersiveAdLoadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent": "10000",
   "FFlagPathfindingTerrainGenerateMesh3": "True",
@@ -331,5 +331,6 @@
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagFixSetPatchStatusBadAccess_Rollout": "True;30;2024-05-13T16:52:20",
-  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13"
+  "FFlagFriendsMenuDummyLoadingFriendsFixV2_Rollout": "True;60;2024-05-13T16:57:13",
+  "FFlagUseRelativeToRootCFrameForAccessories_Rollout": "True;60;2024-05-13T17:29:50"
 }

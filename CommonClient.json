@@ -12160,6 +12160,8 @@
   "DFIntSimMidPhaseContactPipelineBatchSize_Rollout": "32;60;2024-05-13T17:14:19",
   "DFFlagReportRayCastTime": "True",
   "FFlagCASRecursiveUnbindCrashFix_Rollout": "True;60;2024-05-13T17:19:11",
+  "DFFlagFixCharacterLoadFlags_Rollout": "True;60;2024-05-13T17:30:17",
+  "FFlagVideoAnalyticsUseWeakThis": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
