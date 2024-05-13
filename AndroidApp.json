@@ -140,7 +140,6 @@
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
-  "FFlagPathfindingTerrainGenerateMesh3_Rollout": "True;60;2024-05-13T17:15:09",
   "FFlagPathfindingReduceMemoryForHFs_Rollout": "True;60;2024-05-13T17:24:29",
   "DFFlagVoiceChatServiceInitJoinProfiling_Rollout": "True;60;2024-05-13T18:20:19",
   "FFlagLuauCodegenContext_Rollout": "True;60;2024-05-13T18:25:16",
