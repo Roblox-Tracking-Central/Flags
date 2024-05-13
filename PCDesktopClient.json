@@ -487,7 +487,5 @@
   "FFlagRenderEnableIGCounters": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagFriendsMenuDummyLoadingFriendsFixV2": "True",
-  "FFlagVoxelGridNew4": "True",
-  "FFlagVoxelGridNew4_PlaceFilter": "False;11729688377",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3_Rollout": "True;60;2024-05-13T20:16:31"
 }
