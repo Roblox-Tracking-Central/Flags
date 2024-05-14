@@ -12254,6 +12254,7 @@
   "DFFlagPerformanceControlSeparateSessionTrackingUpdates": "True",
   "FFlagAnimationCurveDenseCacheEnabled": "True",
   "FFlagXboxEliminateHeartbeat": "True",
+  "DFFlagSimForgoSolverStatsForUniversalAppDM_Rollout": "True;30;2024-05-14T21:40:17",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

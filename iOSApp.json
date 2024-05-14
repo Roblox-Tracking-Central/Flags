@@ -141,6 +141,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "AllowVideoPreRoll": "True",
+  "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T21:06:08",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -577,6 +578,5 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "DFFlagHttpReportWhenAppSuspended": "True",
   "FFlagHttpBlockWhenAppSuspendedIOS": "True",
-  "DFFlagHttpBlockWhenAppSuspended_Rollout": "True;10;2024-05-14T20:57:12",
-  "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T21:06:08"
+  "DFFlagHttpBlockWhenAppSuspended": "True"
 }
