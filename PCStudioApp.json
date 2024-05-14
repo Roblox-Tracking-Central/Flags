@@ -674,7 +674,6 @@
   "FFlagFixSocialPresenceDropdown": "True",
   "FFlagStudioAddAuxiliaryWindowOnce": "True",
   "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
-  "FFlagFixEmptyLimitedBadgesForBundles": "True",
   "FFlagPathEditorRotation": "True",
   "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces": "True",
   "FFlagLuauCompileTypeInfo": "True",

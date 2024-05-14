@@ -197,7 +197,6 @@
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "FFlagEnableCapturesDesktopExperiment_v10": "True",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-  "FFlagFixEmptyLimitedBadgesForBundles": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T18:35:29",
   "AxisAdornmentGrabSize": "12",
