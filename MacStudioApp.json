@@ -613,7 +613,6 @@
   "FFlagFlexLayoutStopCountingRelayouts": "True",
   "FFlagStudioCreateFixedSplitLayout": "True",
   "FFlagRemovingUnusedParameter": "True",
-  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagRoblox3DViewContextMenuAsync2": "True",
   "FFlagAvatarPreviewerRemoveIncorrectIfTrue": "True",
   "FFlagPackageActionsIn3DView2": "True",

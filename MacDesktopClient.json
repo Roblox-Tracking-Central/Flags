@@ -187,7 +187,6 @@
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
-  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
   "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
