@@ -717,7 +717,7 @@
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagPlayerHydrationServiceEnabled_PlaceFilter": "True;9872472334",
+  "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T18:35:29",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
