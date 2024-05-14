@@ -598,7 +598,6 @@
   "FFlagCOLLAB6083AvatarAssert": "True",
   "FFlagAssetImportRefactorPresetDropdown": "True",
   "FFlagColorPickerSliderOptimization2": "True",
-  "FFlagCAPSeparateWelcomeTutorialEndpoints": "True",
   "FFlagEnableSkyForMetalBalls": "True",
   "FFlagStudioMacOSSetCookiesOnBackgroundThread": "True",
   "FFlagDevFrameworkEnableSkyForMetalBalls": "True",
