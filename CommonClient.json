@@ -12221,6 +12221,7 @@
   "FFlagPerformanceControlCLI105137DenoteNoRolloutGroup": "True",
   "FFlagCapsLoadModuleRequirements": "True",
   "FFlagCAPSeparateWelcomeTutorialEndpoints": "True",
+  "DFFlagHttpReportNetworkTime_Rollout": "True;60;2024-05-14T16:12:17",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
