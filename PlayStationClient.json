@@ -142,6 +142,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T21:43:07",
+  "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces_Rollout": "True;60;2024-05-14T21:55:12",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
