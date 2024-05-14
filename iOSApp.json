@@ -576,5 +576,7 @@
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "DFFlagHttpReportWhenAppSuspended": "True",
-  "FFlagHttpBlockWhenAppSuspendedIOS": "True"
+  "FFlagHttpBlockWhenAppSuspendedIOS": "True",
+  "DFFlagHttpBlockWhenAppSuspended_Rollout": "True;10;2024-05-14T20:57:12",
+  "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T21:06:08"
 }

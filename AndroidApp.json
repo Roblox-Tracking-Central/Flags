@@ -607,7 +607,7 @@
   "DFIntInterpolationNumMechanismsPerTask": "10",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
-  "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
+  "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
   "DFFlagDebugSimSolverReduceTimingStatFreq": "True",
   "FFlagEnableVideoLandingRelease1": "True",
   "FFlagEnableMigratedRoduxContactsPackage": "True",
@@ -616,6 +616,5 @@
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "FFlagClientFRMManualToAutoExperimentCheck2": "True",
-  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "50;60;2024-05-14T19:02:17"
+  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
 }

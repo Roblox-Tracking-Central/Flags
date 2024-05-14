@@ -197,7 +197,7 @@
   "FFlagEnableCapturesDesktopExperiment_v10": "True",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T18:35:29",
+  "FFlagPlayerHydrationServiceEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
