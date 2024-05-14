@@ -199,6 +199,7 @@
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagFixEmptyLimitedBadgesForBundles": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
+  "FFlagPlayerHydrationServiceEnabled_PlaceFilter": "True;9872472334",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
