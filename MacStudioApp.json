@@ -677,6 +677,7 @@
   "FFlagFixEmptyLimitedBadgesForBundles": "True",
   "FFlagPathEditorRotation": "True",
   "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces": "True",
+  "FFlagLuauCompileTypeInfo_Rollout": "True;60;2024-05-14T16:54:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
