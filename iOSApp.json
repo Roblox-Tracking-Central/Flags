@@ -563,7 +563,6 @@
   "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
-  "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagEnableVideoLandingRelease1": "True",

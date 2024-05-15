@@ -615,7 +615,6 @@
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "FFlagClientFRMManualToAutoExperimentCheck2": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "FFlagAppChatChannelsAPIForAllRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "DFFlagHttpStatsErrorSeparateThrottles_Rollout": "True;60;2024-05-15T21:47:06",
   "FFlagEnableQuestHaptics": "True",
