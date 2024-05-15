@@ -180,7 +180,6 @@
   "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
   "FFlagDisableFeedbackSoothsayerCheck": "True",
   "DFFlagExperienceStateCaptureEnableBillboardSelection": "True",
-  "FFlagIBFixBuyingFromResellers": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
   "FFlagColorPickerSliderOptimization2": "True",
