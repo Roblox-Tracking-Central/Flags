@@ -141,8 +141,6 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T21:06:08",
-  "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces_Rollout": "True;60;2024-05-14T21:55:12",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -194,7 +192,6 @@
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "DFFlagFixExplosionTimescale": "True",
   "FIntPathfindingHFBHighMemoryThrottleHundrethsPercentPoints": "10000",
-  "DFIntImmersiveAdLoadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
@@ -484,5 +481,6 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "FFlagBootcampCLI105469": "True"
+  "FFlagBootcampCLI105469": "True",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Streaming Distance, RenderingQuality;30;2024-05-14T23:48:23"
 }
