@@ -197,6 +197,7 @@
   "FFlagEnableCapturesDesktopExperiment_v10": "True",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
+  "DFFlagWaitSignalSmallArguments_Rollout": "True;30;2024-05-15T23:28:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

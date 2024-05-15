@@ -196,6 +196,7 @@
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagGameBasicSettingsFramerateCap5_Rollout": "True;60;2024-05-15T22:48:27",
+  "DFFlagWaitSignalSmallArguments_Rollout": "True;30;2024-05-15T23:28:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
