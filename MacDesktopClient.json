@@ -94,7 +94,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality",
+  "FStringPerformanceControlIncludedTunables": "Streaming Distance, RenderingQuality",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
@@ -481,6 +481,5 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "FFlagBootcampCLI105469": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Streaming Distance, RenderingQuality;30;2024-05-14T23:48:23"
+  "FFlagBootcampCLI105469": "True"
 }
