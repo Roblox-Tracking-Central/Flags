@@ -475,5 +475,6 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagRenderEnableIGCounters": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
-  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
+  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
+  "FFlagAutoCanvasSizeShouldHaveLargeMaxSize2_Rollout": "True;30;2024-05-15T17:42:43"
 }
