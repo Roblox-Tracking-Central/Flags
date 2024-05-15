@@ -12270,6 +12270,7 @@
   "FFlagFixMicroProfilerMouse": "True",
   "FFlagImproveShiftLockTransition": "True",
   "FFlagReplaceArialForFontFallback": "True",
+  "DFFlagEnableBanAsync_PlaceFilter": "True;14277673090",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
