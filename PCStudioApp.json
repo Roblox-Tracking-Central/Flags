@@ -674,6 +674,7 @@
   "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
   "FFlagPathEditorRotation": "True",
   "FFlagLuauCompileTypeInfo": "True",
+  "FFlagLuauCodegenTypeInfo_Rollout": "True;60;2024-05-15T16:35:46",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
