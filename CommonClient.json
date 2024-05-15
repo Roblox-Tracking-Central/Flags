@@ -12272,6 +12272,8 @@
   "DFFlagEnableBanAsync_PlaceFilter": "True;14277673090",
   "FFlagEnableHarmonyOnFrameRateManagerShadow2_Rollout": "True;60;2024-05-15T20:42:07",
   "DFFlagEnableUnbanAsync_PlaceFilter": "True;14277673090",
+  "DFFlagCreatorBanUI_PlaceFilter": "True;14277673090",
+  "DFFlagStudioLanguagesBatchHotrodAccessorMigration_Rollout": "True;60;2024-05-15T21:21:33",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
