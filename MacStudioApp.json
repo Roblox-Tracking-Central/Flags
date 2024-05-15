@@ -671,7 +671,6 @@
   "FFlagStudioEditBreakpointDialogStopDereferencedPointers": "True",
   "FFlagCAPAddLeadingTrailingSource": "True",
   "FFlagFixSocialPresenceDropdown": "True",
-  "FFlagStudioAddAuxiliaryWindowOnce": "True",
   "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
   "FFlagPathEditorRotation": "True",
   "FFlagLuauCompileTypeInfo": "True",
