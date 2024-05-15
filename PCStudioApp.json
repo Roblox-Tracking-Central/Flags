@@ -682,6 +682,7 @@
   "FFlagCAPConversationalAIModelComponent4": "False",
   "FFlagCAPThumbnailAssetDataLoaderComponent": "False",
   "FFlagSystemOutputControllerManagerComponent_Rollout": "True;60;2024-05-15T22:02:15",
+  "DFFlagSafeMoverHandleBadBounds_Rollout": "True;30;2024-05-15T22:29:53",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",

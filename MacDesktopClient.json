@@ -480,5 +480,6 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "FFlagBootcampCLI105469": "True"
+  "FFlagBootcampCLI105469": "True",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality;10;2024-05-15T22:38:20"
 }
