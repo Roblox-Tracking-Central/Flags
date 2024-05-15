@@ -616,5 +616,6 @@
   "FFlagClientFRMManualToAutoExperimentCheck2": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
-  "DFFlagHttpStatsErrorSeparateThrottles_Rollout": "True;60;2024-05-15T21:47:06"
+  "DFFlagHttpStatsErrorSeparateThrottles_Rollout": "True;60;2024-05-15T21:47:06",
+  "EnableBuildVariantInDMParams": "True"
 }

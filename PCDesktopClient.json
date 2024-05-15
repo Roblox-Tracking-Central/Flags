@@ -474,5 +474,6 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagRenderEnableIGCounters": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
-  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True"
+  "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
+  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-15T23:08:21"
 }
