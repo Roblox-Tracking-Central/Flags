@@ -12288,6 +12288,8 @@
   "FFlagToolboxFixAssetConfigResultTranslations": "True",
   "DFFlagHttpStatsErrorSeparateThrottles": "True",
   "DFFlagUIBatchHotrodAccessorMigration": "True",
+  "FFlagFindAndReplaceResizing_Rollout": "True;60;2024-05-16T21:43:19",
+  "FFlagEnableAudioEmitterDistanceAttenuation_Rollout": "True;60;2024-05-16T21:46:21",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
