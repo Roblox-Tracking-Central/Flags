@@ -557,7 +557,6 @@
   "DFStringVNGWebViewUrlAllowlist": "vnggames.net,vnggames.com,vngcorp.mobi,zing.vn",
   "DFFlagPerformanceControlIXPMemoryBufferConstantCheck": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
-  "DFFlagHttpStatsErrorSeparateThrottles": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent": "10000",

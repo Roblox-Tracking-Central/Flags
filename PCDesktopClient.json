@@ -140,7 +140,6 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
-  "DFFlagHttpStatsErrorSeparateThrottles_Rollout": "True;30;2024-05-15T23:12:20",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -195,8 +194,7 @@
   "FFlagEnableCapturesDesktopExperiment_v10": "True",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagGameBasicSettingsFramerateCap5_Rollout": "True;60;2024-05-15T22:48:27",
-  "DFFlagWaitSignalSmallArguments_Rollout": "True;30;2024-05-15T23:28:17",
+  "DFFlagWaitSignalSmallArguments": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -477,5 +475,5 @@
   "FFlagRenderEnableIGCounters": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-15T23:08:21"
+  "DFFlagReportPreRenderJobTimes": "True"
 }

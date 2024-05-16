@@ -617,7 +617,6 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "EnableBuildVariantInDMParams": "True",
-  "DFFlagHttpStatsErrorSeparateThrottles": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
