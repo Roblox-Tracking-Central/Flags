@@ -684,6 +684,7 @@
   "FFlagSystemOutputControllerManagerComponent": "True",
   "FFlagScriptingCommandBarTelemetry": "True",
   "FFlagFFlagToolboxFixUGCBundleValidationCryoThingy": "True",
+  "FFlagAssetConfigLinkToCreatorStore_Rollout": "True;60;2024-05-16T20:58:17",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
