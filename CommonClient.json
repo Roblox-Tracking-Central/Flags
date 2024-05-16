@@ -12249,7 +12249,6 @@
   "DFFlagPerformanceControlSeparateSessionTrackingUpdates": "True",
   "FFlagXboxEliminateHeartbeat": "True",
   "FFlagIBEnableLimitedBundle": "True",
-  "FFlagAXAdaptiveScrollingItemResetFix2": "True",
   "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces": "True",
   "DFIntImmersiveAdLoadPointsThrottleHundredthsPercent": "1000",
   "FFlagModalSelectorCloseButton": "True",

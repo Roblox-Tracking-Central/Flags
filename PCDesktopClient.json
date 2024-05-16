@@ -475,5 +475,6 @@
   "FFlagRenderEnableIGCounters": "True",
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-  "DFFlagReportPreRenderJobTimes": "True"
+  "DFFlagReportPreRenderJobTimes": "True",
+  "DFFlagFixVideoAdAveragePercentSeenTracking_Rollout": "True;60;2024-05-16T21:39:55"
 }
