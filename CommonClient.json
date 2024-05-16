@@ -5699,6 +5699,7 @@
   "FFlagFixSelectionKeyboardActivation": "True",
   "FFlagToolboxUpgradeRoactNavigationForReact2": "True",
   "FFlagEnablePlatformChatMessageAnalytics": "True",
+  "DFIntPerformanceControlPointsHundredthPercentageSent": "21",
   "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest3": "False",
   "DFFlagSoundLoopPointApi3": "True",
   "FFlagJsonRpcNoPromises": "True",
