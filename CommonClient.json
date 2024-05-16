@@ -12292,6 +12292,8 @@
   "FFlagEnableAudioEmitterDistanceAttenuation_Rollout": "True;60;2024-05-16T21:46:21",
   "FFlagToolboxFixAlbumAndArtistClearingOnNewSearch_Rollout": "True;60;2024-05-16T22:23:18",
   "FFlagCinFixApplyForBadSession_Rollout": "True;60;2024-05-16T22:26:15",
+  "FFlagPasteVerbsUseInstanceInserter3_Rollout": "True;30;2024-05-16T22:30:00",
+  "DFFlagBadgeServiceUseSingularGetBadgeAwardDate_PlaceFilter": "True;17513688068",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
