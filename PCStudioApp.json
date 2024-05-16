@@ -690,6 +690,7 @@
   "FFlagLuauCompileTempTypeInfo_Rollout": "True;60;2024-05-16T22:01:42",
   "FFlagDumpCodeSizeStudioFix_Rollout": "True;60;2024-05-16T22:02:54",
   "FFlagEnableExplorerTelemetry_Rollout": "True;60;2024-05-16T22:03:56",
+  "FFlagRemoveTransformToolDefaultShortcut_Rollout": "True;60;2024-05-16T22:12:18",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
