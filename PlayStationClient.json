@@ -140,10 +140,8 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselRenderItem3": "False",
-  "DFFlagExperienceStateCaptureEnableBillboardSelection_Rollout": "True;60;2024-05-16T23:04:05",
-  "DFFlagEnableAverageScreenPercentageTracking_Rollout": "True;60;2024-05-16T23:25:29",
-  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",
@@ -268,9 +266,6 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
-  "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent": "10000",
-  "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
-  "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True"
 }
