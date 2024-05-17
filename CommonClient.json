@@ -12300,6 +12300,7 @@
   "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
   "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
+  "DFFlagSimModelLodMutexLockCrash2_Rollout": "True;15;2024-05-17T17:16:34",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
