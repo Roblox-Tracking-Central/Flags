@@ -683,7 +683,6 @@
   "DFFlagSafeMoverHandleBadBounds": "True",
   "FFlagSystemOutputControllerManagerComponent": "True",
   "FFlagScriptingCommandBarTelemetry": "True",
-  "FFlagFFlagToolboxFixUGCBundleValidationCryoThingy": "True",
   "FFlagAssetConfigLinkToCreatorStore": "True",
   "DFFlagOptimizeNonLinearZoom": "True",
   "DFFlagTeamTestVoiceMuteFix": "True",
