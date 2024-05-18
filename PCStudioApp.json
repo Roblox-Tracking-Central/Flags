@@ -685,7 +685,6 @@
   "FFlagScriptingCommandBarTelemetry": "True",
   "FFlagAssetConfigLinkToCreatorStore": "True",
   "DFFlagOptimizeNonLinearZoom": "True",
-  "DFFlagTeamTestVoiceMuteFix": "True",
   "FFlagEnableExplorerTelemetry": "True",
   "FFlagDumpCodeSizeStudioFix": "True",
   "FFlagLuauCompileTempTypeInfo": "True",
