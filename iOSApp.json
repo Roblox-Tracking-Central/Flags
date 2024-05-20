@@ -573,5 +573,6 @@
   "FFlagHttpBlockWhenAppSuspendedIOS": "True",
   "DFFlagHttpBlockWhenAppSuspended": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp_Rollout": "True;60;2024-05-20T19:46:04",
-  "FFlagAXEnableKeywordAnalyticsForSearch": "True"
+  "FFlagAXEnableKeywordAnalyticsForSearch": "True",
+  "FFlagUseUpdatedVNGAgreementsWorkflow_Rollout": "True;60;2024-05-20T21:15:32"
 }

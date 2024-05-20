@@ -453,7 +453,7 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "FFlagLaunchContextReducerEnabled": "True",
   "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
-  "FFlagWindowsClientCrashpadRollout": "False",
+  "FFlagWindowsClientCrashpadRollout": "True",
   "FIntWindowsClientCrashpadRolloutHundredthPercent": "1000",
   "FFlagGuildedGameOverlaySupport": "True",
   "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
@@ -476,7 +476,6 @@
   "DFFlagReportPreRenderJobTimes": "True",
   "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
   "FFlagWindowsClientCrashpadInitInThread": "True",
-  "FFlagWindowsClientCrashpadRollout_Rollout": "True;1;2024-05-20T20:35:33",
   "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
   "DFFlagEnableAdSizeTrackingInVimpAndProgress_Rollout": "True;60;2024-05-20T20:43:27",
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent_Rollout": "100;60;2024-05-20T20:52:22"
