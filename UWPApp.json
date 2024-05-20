@@ -142,6 +142,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselRenderItem3": "True",
   "AllowVideoPreRoll": "True",
+  "FFlagRefactorBirthdayPicker_Rollout": "True;60;2024-05-20T22:43:29",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",

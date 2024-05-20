@@ -141,8 +141,9 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselRenderItem3": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
+  "AllowVideoPreRoll": "True",
+  "FFlagRefactorBirthdayPicker_Rollout": "True;60;2024-05-20T22:43:29",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -573,6 +574,6 @@
   "FFlagHttpBlockWhenAppSuspendedIOS": "True",
   "DFFlagHttpBlockWhenAppSuspended": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
-  "FFlagUseUpdatedVNGAgreementsWorkflow_Rollout": "True;60;2024-05-20T21:15:32",
-  "FFlagSocialLuaAnalyticsAddTimestamp": "True"
+  "FFlagSocialLuaAnalyticsAddTimestamp": "True",
+  "FFlagUseUpdatedVNGAgreementsWorkflow": "True"
 }
