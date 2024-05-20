@@ -473,5 +473,6 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "DFFlagReportPreRenderJobTimes": "True",
   "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
-  "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-05-20T19:10:00"
+  "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-05-20T19:10:00",
+  "FFlagWindowsClientCrashpadInitInThread_Rollout": "True;1;2024-05-20T19:42:30"
 }
