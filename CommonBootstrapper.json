@@ -99,5 +99,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FIntMacInstallerRetryTerminateCheckMS": "2000",
-  "FFlagFixEmptyLimitedBadgesForBundles": "True"
+  "FFlagFixEmptyLimitedBadgesForBundles": "True",
+  "FFlagAXEnableKeywordAnalyticsForSearch": "True"
 }

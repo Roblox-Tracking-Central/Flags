@@ -641,5 +641,6 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-  "FFlagEnableGameInviteModalVRSupportV2": "True"
+  "FFlagEnableGameInviteModalVRSupportV2": "True",
+  "FFlagAXEnableKeywordAnalyticsForSearch": "True"
 }
