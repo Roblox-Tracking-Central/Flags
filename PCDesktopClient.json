@@ -191,6 +191,7 @@
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "DFFlagWaitSignalSmallArguments": "True",
+  "FFlagCollectionServicePerformanceUpgrades4_Rollout": "True;60;2024-05-20T18:42:31",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -472,5 +473,6 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "DFFlagReportPreRenderJobTimes": "True",
   "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
-  "FFlagVoiceChatAddDataChannelToSubConnection_Rollout": "True;60;2024-05-20T18:25:04"
+  "FFlagVoiceChatAddDataChannelToSubConnection_Rollout": "True;60;2024-05-20T18:25:04",
+  "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-05-20T19:10:00"
 }
