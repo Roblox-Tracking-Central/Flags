@@ -471,5 +471,6 @@
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "DFFlagReportPreRenderJobTimes": "True",
-  "DFFlagFixVideoAdAveragePercentSeenTracking": "True"
+  "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
+  "FFlagVoiceChatAddDataChannelToSubConnection_Rollout": "True;60;2024-05-20T18:25:04"
 }

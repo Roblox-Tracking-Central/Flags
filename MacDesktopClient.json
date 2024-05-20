@@ -477,5 +477,8 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FFlagBootcampCLI105469": "True",
   "DFFlagReportPreRenderJobTimes": "True",
-  "DFFlagFixVideoAdAveragePercentSeenTracking": "True"
+  "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
+  "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-20T18:18:56",
+  "DFFlagEI176_FixDMSwitch_Rollout": "True;30;2024-05-20T18:23:41",
+  "FFlagVoiceChatAddDataChannelToSubConnection_Rollout": "True;60;2024-05-20T18:25:04"
 }
