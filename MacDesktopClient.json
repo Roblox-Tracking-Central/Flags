@@ -93,6 +93,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
+  "DFFlagDataModelControllerUsesEngineContext": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
@@ -479,7 +480,6 @@
   "FFlagBootcampCLI105469": "True",
   "DFFlagReportPreRenderJobTimes": "True",
   "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
-  "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-20T18:18:56",
   "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-05-20T19:10:00",
   "DFFlagEI176_FixDMSwitch": "True"
 }

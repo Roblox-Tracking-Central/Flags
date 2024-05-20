@@ -93,6 +93,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
+  "DFFlagDataModelControllerUsesEngineContext": "False",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
