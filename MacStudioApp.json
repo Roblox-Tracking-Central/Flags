@@ -703,6 +703,7 @@
   "DFFlagEnableGetBanHistoryAsync": "True",
   "FFlagAddMoreAudioSwimlaneAnalytics": "True",
   "FFlagFixSwimlaneAnalytics": "True",
+  "FFlagNewCountCollisionGeometryTypeUsage_Rollout": "True;30;2024-05-20T23:14:48",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
