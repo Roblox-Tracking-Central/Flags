@@ -10636,7 +10636,7 @@
   "DFIntEngineAPICloudProcessingMaxPayloadSize": "500000",
   "FFlagLuaAppReplaceTableUtilities": "True",
   "DFFlagInvalidNumPropertyAssignCheckExt": "True",
-  "FStringPlatformEventUrl": "https://www.roblox.com/the-hunt",
+  "FStringPlatformEventUrl": "https://www.roblox.com/the-classic",
   "DFFlagStrictStringConvertReportTypeof": "True",
   "FFlagVoiceChatExplicitInProgressForSubsOperation": "True",
   "FFlagStudioComponentizeSleepStateTracker": "True",
@@ -12313,7 +12313,6 @@
   "FFlagAbstractShowWebpagePhoneUpsell": "True",
   "FFlagSourceAssetIdInModelChildren": "True",
   "FFlagLuaAppSingleHoveredGridTile2": "True",
-  "DFFlagSurroundEventStreamAccessesWithMutex_Rollout": "True;60;2024-05-20T21:23:35",
   "FFlagLuaAppResponsiveUseLayoutEffect": "True",
   "FFlagFixHGFunction": "True",
   "FFlagSelectRotatedGuiObjects_Rollout": "True;60;2024-05-20T21:39:31",
@@ -12332,6 +12331,9 @@
   "DFFlagPhysicsBatchHotrodAccessorMigration": "True",
   "FFlagFixSTFSMSignals": "True",
   "DFStringWebviewUrlAllowlist": "www.youtube-nocookie.com",
+  "DFFlagSurroundEventStreamAccessesWithMutex": "True",
+  "FFlagIOSEnableYoutubeWebViewExperiment_Rollout": "True;30;2024-05-20T23:08:16",
+  "FLogAvatarAutosetup_Rollout": "Verbose;60;2024-05-20T23:08:19",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -12354,6 +12356,5 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
-  "FIntRuntimeMaxNumOfMutexes": "2400",
-  "FStringPlatformEventUrl_Rollout": "https://www.roblox.com/the-classic;5;2024-05-20T22:15:51"
+  "FIntRuntimeMaxNumOfMutexes": "2400"
 }
