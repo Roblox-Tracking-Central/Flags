@@ -12323,6 +12323,7 @@
   "FFlagLogYouTubeInteractionInApp_Rollout": "True;60;2024-05-20T20:42:40",
   "FFlagAbstractPhoneUpsellFromCentralOverlay": "True",
   "FFlagAbstractShowWebpagePhoneUpsell": "True",
+  "FFlagAXAdaptiveScrollingItemResetFix2_Rollout": "True;60;2024-05-20T21:03:08",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
