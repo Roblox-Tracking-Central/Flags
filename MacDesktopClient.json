@@ -195,7 +195,6 @@
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "DFFlagWaitSignalSmallArguments": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
-  "FFlagCollectionServicePerformanceUpgrades4": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

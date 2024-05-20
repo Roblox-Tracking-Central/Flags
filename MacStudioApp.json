@@ -737,7 +737,6 @@
   "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "DFFlagWaitSignalSmallArguments": "True",
-  "FFlagCollectionServicePerformanceUpgrades4": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
