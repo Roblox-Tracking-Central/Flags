@@ -12309,13 +12309,11 @@
   "FFlagVideoUseYUVBufferPool2": "True",
   "DFFlagPerformanceControlIXPAllowCustomTelemetryThrottles": "True",
   "DFFlagPerformanceControlSwitchFromPerfControlToCoordinatorForIXP": "True",
-  "FFlagLogYouTubeInteractionInApp_Rollout": "True;60;2024-05-20T20:42:40",
   "FFlagAbstractPhoneUpsellFromCentralOverlay": "True",
   "FFlagAbstractShowWebpagePhoneUpsell": "True",
   "FFlagAXAdaptiveScrollingItemResetFix2_Rollout": "True;60;2024-05-20T21:03:08",
   "FFlagFixSTFSMSignals_Rollout": "True;60;2024-05-20T21:11:28",
   "DFFlagPhysicsBatchHotrodAccessorMigration_Rollout": "True;60;2024-05-20T21:11:38",
-  "FFlagGraphicsFixBoxMappedMesh2_Rollout": "True;30;2024-05-20T21:14:10",
   "FFlagSourceAssetIdInModelChildren": "True",
   "FFlagLuaAppSingleHoveredGridTile2": "True",
   "DFFlagSurroundEventStreamAccessesWithMutex_Rollout": "True;60;2024-05-20T21:23:35",
@@ -12331,6 +12329,10 @@
   "DFFlagEnableBanAsync": "True",
   "DFFlagEnableUnbanAsync": "True",
   "FFlagCreatorBanWhitespaceSub": "True",
+  "FFlagLogYouTubeInteractionInApp": "True",
+  "FFlagGraphicsFixBoxMappedMesh2": "True",
+  "DFFlagDMCodeownerBatchHotrodAccessorMigration_Rollout": "True;60;2024-05-20T22:17:37",
+  "DFFlagMoveGamePerfMonitorStart_Rollout": "True;60;2024-05-20T22:23:51",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -12353,5 +12355,6 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
-  "FIntRuntimeMaxNumOfMutexes": "2400"
+  "FIntRuntimeMaxNumOfMutexes": "2400",
+  "FStringPlatformEventUrl_Rollout": "https://www.roblox.com/the-classic;5;2024-05-20T22:15:51"
 }

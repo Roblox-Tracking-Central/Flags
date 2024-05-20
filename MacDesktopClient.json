@@ -141,6 +141,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselRenderItem3": "True",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -196,7 +197,6 @@
   "DFFlagWaitSignalSmallArguments": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -482,6 +482,6 @@
   "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
   "DFFlagEI176_FixDMSwitch": "True",
   "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
-  "DFFlagEnableAdSizeTrackingInVimpAndProgress_Rollout": "True;60;2024-05-20T20:43:27",
-  "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent_Rollout": "100;60;2024-05-20T20:52:22"
+  "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent_Rollout": "100;60;2024-05-20T20:52:22",
+  "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True"
 }
