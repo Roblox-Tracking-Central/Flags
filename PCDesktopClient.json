@@ -192,6 +192,7 @@
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "DFFlagWaitSignalSmallArguments": "True",
   "FFlagCollectionServicePerformanceUpgrades4_Rollout": "True;60;2024-05-20T18:42:31",
+  "FFlagSocialLuaAnalyticsAddTimestamp_Rollout": "True;60;2024-05-20T19:46:04",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -460,7 +461,6 @@
   "FFlagAXItemCardTallEnabled": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagEnableImpressionReporterCounter3": "True",
-  "FFlagLuaAppSingleHoveredGridTile2": "True",
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
@@ -474,5 +474,6 @@
   "DFFlagReportPreRenderJobTimes": "True",
   "DFFlagFixVideoAdAveragePercentSeenTracking": "True",
   "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-05-20T19:10:00",
-  "FFlagWindowsClientCrashpadInitInThread_Rollout": "True;1;2024-05-20T19:42:30"
+  "FFlagWindowsClientCrashpadInitInThread_Rollout": "True;1;2024-05-20T19:42:30",
+  "FIntWindowsClientCrashpadRolloutHundredthPercent_Rollout": "1000;1;2024-05-20T19:46:30"
 }
