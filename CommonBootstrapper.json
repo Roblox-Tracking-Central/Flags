@@ -100,5 +100,6 @@
   "FFlagColorPickerSliderOptimization2": "True",
   "FIntMacInstallerRetryTerminateCheckMS": "2000",
   "FFlagFixEmptyLimitedBadgesForBundles": "True",
-  "FFlagAXEnableKeywordAnalyticsForSearch": "True"
+  "FFlagAXEnableKeywordAnalyticsForSearch": "True",
+  "FFlagEnableAvatarEditorServiceAPIErrorLogging_Rollout": "True;60;2024-05-21T17:55:26"
 }

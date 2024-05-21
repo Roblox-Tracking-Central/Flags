@@ -141,6 +141,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselRenderItem3": "False",
+  "FFlagLuauCodegenRemoveDeadStores5_Rollout": "True;60;2024-05-21T18:09:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -426,5 +427,8 @@
   "FFlagFmodFixXboxStallOnClose": "True",
   "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-21T17:37:08",
-  "FFlagProfileTelemetrySkipBackgroundedFrames_Rollout": "True;60;2024-05-21T17:46:34"
+  "FFlagProfileTelemetrySkipBackgroundedFrames_Rollout": "True;60;2024-05-21T17:46:34",
+  "FFlagEnableAvatarEditorServiceAPIErrorLogging_Rollout": "True;60;2024-05-21T17:55:26",
+  "DFFlagHttpFixOsErrno_Rollout": "True;30;2024-05-21T18:06:17",
+  "FLogXboxPlatformBase_Rollout": "Debug;60;2024-05-21T18:08:17"
 }
