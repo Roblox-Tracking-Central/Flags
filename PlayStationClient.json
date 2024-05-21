@@ -266,5 +266,6 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
-  "FFlagUseRelativeToRootCFrameForAccessories": "True"
+  "FFlagUseRelativeToRootCFrameForAccessories": "True",
+  "FFlagLuaAppAddDiscoveryOtaVersion_Rollout": "True;30;2024-05-21T16:27:48"
 }

@@ -423,5 +423,6 @@
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagXboxToggleKinectGpuReservation": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
-  "FFlagFmodFixXboxStallOnClose": "True"
+  "FFlagFmodFixXboxStallOnClose": "True",
+  "FFlagLuaAppAddDiscoveryOtaVersion_Rollout": "True;30;2024-05-21T16:27:48"
 }

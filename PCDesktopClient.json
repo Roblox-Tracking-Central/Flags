@@ -193,6 +193,8 @@
   "DFFlagWaitSignalSmallArguments": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
+  "FFlagLuaAppAddDiscoveryOtaVersion_Rollout": "True;30;2024-05-21T16:27:48",
+  "DFFlagTrackerPerfTelemetryIncludePerfData_Rollout": "True;60;2024-05-21T16:32:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -476,5 +478,6 @@
   "FFlagWindowsClientCrashpadInitInThread": "True",
   "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
   "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
-  "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100"
+  "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100",
+  "FIntWindowsClientCrashpadRolloutHundredthPercent_Rollout": "5000;1;2024-05-21T16:14:18"
 }
