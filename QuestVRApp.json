@@ -142,6 +142,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselRenderItem3": "True",
   "FFlagLuauCodegenRemoveDeadStores5_Rollout": "True;60;2024-05-21T18:09:55",
+  "FFlagLuaAppNavigationAnalytics_Rollout": "True;60;2024-05-21T18:32:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -646,5 +647,6 @@
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-21T17:37:08",
-  "FFlagEnableAvatarEditorServiceAPIErrorLogging_Rollout": "True;60;2024-05-21T17:55:26"
+  "FFlagEnableAvatarEditorServiceAPIErrorLogging_Rollout": "True;60;2024-05-21T17:55:26",
+  "FFlagLuaAppRedoOtaValidation_Rollout": "True;30;2024-05-21T18:34:23"
 }
