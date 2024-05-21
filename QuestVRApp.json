@@ -141,7 +141,6 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "False",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
-  "FFlagFriendsCarouselRenderItem3": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -648,5 +647,5 @@
   "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
-  "FFlagPublishServiceSupportAdditionalParameters_Rollout": "True;60;2024-05-21T19:57:55"
+  "FFlagPublishServiceSupportAdditionalParameters": "True"
 }

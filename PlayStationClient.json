@@ -141,7 +141,6 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
-  "FFlagFriendsCarouselRenderItem3": "False",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
@@ -272,6 +271,6 @@
   "DFFlagHttpFixOsErrno": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
-  "FFlagPublishServiceSupportAdditionalParameters_Rollout": "True;60;2024-05-21T19:57:55",
-  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-21T20:39:45"
+  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-21T20:39:45",
+  "FFlagPublishServiceSupportAdditionalParameters": "True"
 }

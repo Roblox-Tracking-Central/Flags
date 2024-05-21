@@ -102,5 +102,5 @@
   "FFlagFixEmptyLimitedBadgesForBundles": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
-  "FFlagPublishServiceSupportAdditionalParameters_Rollout": "True;60;2024-05-21T19:57:55"
+  "FFlagPublishServiceSupportAdditionalParameters": "True"
 }
