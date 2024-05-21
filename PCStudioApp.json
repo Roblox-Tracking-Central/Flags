@@ -744,6 +744,7 @@
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "DFFlagTrackerPerfTelemetryIncludePerfData": "True",
   "DFFlagHttpFixOsErrno": "True",
+  "DFFlagCLIAVATAR2997_Rollout": "True;60;2024-05-21T20:09:38",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
