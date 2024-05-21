@@ -195,6 +195,7 @@
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "DFFlagTrackerPerfTelemetryIncludePerfData_Rollout": "True;60;2024-05-21T16:32:21",
   "FFlagLuaAppAddDiscoveryOtaVersion": "True",
+  "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-21T17:37:08",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

@@ -267,5 +267,6 @@
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagLuaAppAddDiscoveryOtaVersion": "True"
+  "FFlagLuaAppAddDiscoveryOtaVersion": "True",
+  "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-21T17:37:08"
 }
