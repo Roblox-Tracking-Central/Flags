@@ -617,5 +617,6 @@
   "FFlagClientFRMManualToAutoExperimentCheck2": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
-  "EnableBuildVariantInDMParams": "True"
+  "EnableBuildVariantInDMParams": "True",
+  "FFlagPlatformEventEnabled2": "True"
 }

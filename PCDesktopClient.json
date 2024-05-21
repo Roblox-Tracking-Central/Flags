@@ -479,5 +479,6 @@
   "FFlagWindowsClientCrashpadInitInThread": "True",
   "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
   "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
-  "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100"
+  "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100",
+  "FFlagPlatformEventEnabled2": "True"
 }
