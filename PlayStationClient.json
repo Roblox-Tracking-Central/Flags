@@ -93,7 +93,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "False",
-  "DFFlagDataModelControllerUsesEngineContext": "False",
+  "DFFlagDataModelControllerUsesEngineContext": "True",
   "FStringPerformanceControlIncludedTunables": "None",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
@@ -269,8 +269,7 @@
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagLuaAppAddDiscoveryOtaVersion": "True",
-  "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-21T17:37:08",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging_Rollout": "True;60;2024-05-21T17:55:26",
-  "DFFlagHttpFixOsErrno_Rollout": "True;30;2024-05-21T18:06:17",
-  "FFlagLuaAppRedoOtaValidation_Rollout": "True;30;2024-05-21T18:34:23"
+  "FFlagLuaAppRedoOtaValidation_Rollout": "True;30;2024-05-21T18:34:23",
+  "DFFlagHttpFixOsErrno": "True"
 }
