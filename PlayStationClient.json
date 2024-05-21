@@ -157,7 +157,6 @@
   "FFlagLuaAppEnable10ftSignUpView": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagRefactorAuthPageForTenFoot": "True",
-  "FFlagRefactorBirthdayPicker": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagCalculateFriendsTileSize": "True",
   "FFlagEnableMediaGalleryDesignTokens": "True",
@@ -267,6 +266,5 @@
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
-  "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True"
 }

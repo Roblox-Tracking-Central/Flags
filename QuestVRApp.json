@@ -141,8 +141,6 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "False",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselRenderItem3": "True",
-  "FFlagEnableQuestHaptics": "True",
-  "FFlagRefactorBirthdayPicker_Rollout": "True;60;2024-05-20T22:43:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -620,6 +618,7 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "EnableBuildVariantInDMParams": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -641,7 +640,6 @@
   "FFlagLuaAppSignUpPageRefactor": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-  "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
   "FFlagEnableGameInviteModalVRSupportV2": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True"
 }
