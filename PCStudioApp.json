@@ -681,7 +681,6 @@
   "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking_CrashReporter": "True",
   "FFlagSTUDIOPLAT_34239_ReportHangsToBacktraceOnWindows": "True",
   "DFFlagSafeMoverHandleBadBounds": "True",
-  "FFlagSystemOutputControllerManagerComponent": "True",
   "FFlagScriptingCommandBarTelemetry": "True",
   "FFlagAssetConfigLinkToCreatorStore": "True",
   "DFFlagOptimizeNonLinearZoom": "True",
