@@ -72,7 +72,6 @@
   "FIntSoundTelemetryThrottlingPercentage": "10000",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
-  "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "0",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "False",

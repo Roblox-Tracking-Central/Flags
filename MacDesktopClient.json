@@ -72,7 +72,6 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
-  "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "8",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -493,5 +492,7 @@
   "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100",
   "FFlagPlatformEventEnabled2": "True",
-  "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True"
+  "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
+  "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent_Rollout": "10;60;2024-05-21T22:12:38",
+  "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent_Rollout": "16;60;2024-05-21T22:25:02"
 }
