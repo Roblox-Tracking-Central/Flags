@@ -675,8 +675,6 @@
   "FFlagLuauCompileTypeInfo": "True",
   "FFlagLuauCodegenTypeInfo": "True",
   "FFlagDevFrameworkStylizerNotFound2": "True",
-  "FFlagCAPConversationalAIModelComponent4": "True",
-  "FFlagCAPThumbnailAssetDataLoaderComponent": "True",
   "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking": "True",
   "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking_CrashReporter": "True",
   "FFlagSTUDIOPLAT_34239_ReportHangsToBacktraceOnWindows": "True",
