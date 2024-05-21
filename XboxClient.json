@@ -428,5 +428,6 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FLogXboxPlatformBase": "Debug",
-  "FFlagPublishServiceSupportAdditionalParameters_Rollout": "True;60;2024-05-21T19:57:55"
+  "FFlagPublishServiceSupportAdditionalParameters_Rollout": "True;60;2024-05-21T19:57:55",
+  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-21T20:39:45"
 }
