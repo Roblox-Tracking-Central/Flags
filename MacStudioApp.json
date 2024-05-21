@@ -702,6 +702,8 @@
   "FFlagAddMoreAudioSwimlaneAnalytics": "True",
   "FFlagFixSwimlaneAnalytics": "True",
   "FFlagNewCountCollisionGeometryTypeUsage": "True",
+  "DFIntCollisionGeometryTypePercentage_Rollout": "10000;30;2024-05-21T15:59:33",
+  "DFIntCollisionGeometryTypeElasticPercentage_Rollout": "10000;30;2024-05-21T15:59:52",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
