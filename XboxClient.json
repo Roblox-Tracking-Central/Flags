@@ -349,7 +349,6 @@
   "FFlagFixGamepadDisconnectHighlight2": "True",
   "FFlagLocalUserGameVoteCounterReducer": "True",
   "FFlagLuaAppEnable10ftSignUpView": "True",
-  "FFlagLuaAppNavigationAnalytics": "True",
   "FFlagGamesListBackgroundFix": "True",
   "FFlagGridCarouselHeaderHeightFix": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
@@ -428,5 +427,6 @@
   "DFFlagHttpFixOsErrno": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
-  "FLogXboxPlatformBase": "Debug"
+  "FLogXboxPlatformBase": "Debug",
+  "FFlagPublishServiceSupportAdditionalParameters_Rollout": "True;60;2024-05-21T19:57:55"
 }
