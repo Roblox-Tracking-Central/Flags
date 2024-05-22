@@ -275,5 +275,6 @@
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "DFFlagWaitSignalSmallArguments": "True"
+  "DFFlagWaitSignalSmallArguments": "True",
+  "FFlagDismissKeyboardAfterUsernameInput_Rollout": "True;60;2024-05-22T21:10:17"
 }
