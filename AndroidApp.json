@@ -146,6 +146,7 @@
   "FFlagLuauLoadTypeInfo_Rollout": "True;60;2024-05-22T18:10:26",
   "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-22T18:12:25",
   "FFlagDisableFeedbackSoothsayerCheck_Rollout": "True;60;2024-05-22T18:26:42",
+  "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3_Rollout": "True;60;2024-05-22T18:49:46",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -627,5 +628,6 @@
   "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-22T17:33:46",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
+  "FFlagAddUserScrollingStatData_Rollout": "True;30;2024-05-22T18:40:41"
 }

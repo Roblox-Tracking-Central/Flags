@@ -12363,6 +12363,8 @@
   "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-05-22T18:15:00",
   "FFlagDisableChromeFollowupFTUX_Rollout": "True;60;2024-05-22T18:26:52",
   "FFlagEditableImageBetterPerfAnalytics_Rollout": "True;60;2024-05-22T18:26:55",
+  "FFlagEnableVRInputModeHandling_Rollout": "True;60;2024-05-22T18:40:24",
+  "FFlagEnableAppCommonInputHooks_Rollout": "True;60;2024-05-22T18:40:45",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
