@@ -141,6 +141,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
+  "FFlagLuaAppAddDiscoveryOtaVersion_Rollout": "True;30;2024-05-22T21:19:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -324,5 +325,6 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FFlagUWPSkipNetworkCheck": "True",
   "FFlagPlatformEventEnabled2": "True",
-  "FFlagRuntimeUseNativeWorkers1_Rollout": "True;60;2024-05-22T20:59:00"
+  "FFlagRuntimeUseNativeWorkers1_Rollout": "True;60;2024-05-22T20:59:00",
+  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-22T21:19:44"
 }
