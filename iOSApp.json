@@ -574,7 +574,6 @@
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
-  "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",

@@ -423,7 +423,6 @@
   "FFlagXboxToggleKinectGpuReservation": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagFmodFixXboxStallOnClose": "True",
-  "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "DFFlagHttpFixOsErrno": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",

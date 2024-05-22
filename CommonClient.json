@@ -12381,6 +12381,7 @@
   "FFlagLuaAppInlineRequireAppConfigurer_Rollout": "True;60;2024-05-22T21:49:28",
   "FFlagSocialContextToastEventStream3": "True",
   "FFlagVideoFixGpuShaderAspectRatio2": "True",
+  "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

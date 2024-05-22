@@ -192,7 +192,6 @@
   "DFFlagWaitSignalSmallArguments": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
-  "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "DFFlagTrackerPerfTelemetryIncludePerfData": "True",
   "DFFlagHttpFixOsErrno": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",

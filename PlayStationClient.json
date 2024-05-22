@@ -266,7 +266,6 @@
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
-  "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "DFFlagHttpFixOsErrno": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
