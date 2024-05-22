@@ -430,5 +430,6 @@
   "FFlagLuaAppRedoOtaValidation": "True",
   "FLogXboxPlatformBase": "Debug",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "DFFlagReportPreRenderJobTimes": "True"
+  "DFFlagReportPreRenderJobTimes": "True",
+  "FFlagPSControllerDisconnect_Rollout": "True;60;2024-05-22T16:16:59"
 }

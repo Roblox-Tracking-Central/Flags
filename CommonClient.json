@@ -12109,7 +12109,6 @@
   "DFFlagSimSolverConsolidateEffectiveMassAndDiagonalComputation": "True",
   "FFlagCapturesFixCoreGuiTypeHandling": "True",
   "FFlagSessionTrackingAddCrashReasonAndMessage": "True",
-  "DFFlagLuauFastCrossTableMove": "True",
   "DFFlagHttpFixSmallCompressedReserve": "True",
   "DFFlagCheckSendTypeBeforeSetupTimerInBatchedReporter": "True",
   "FFlagCleanPlayerSearchProp": "True",

@@ -203,6 +203,7 @@
   "DFFlagCLIAVATAR2997": "True",
   "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
   "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "500",
+  "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent_Rollout": "2500;60;2024-05-22T16:16:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
