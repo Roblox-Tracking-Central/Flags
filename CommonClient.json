@@ -12380,6 +12380,7 @@
   "AndroidAppChatMigrationEnabled": "true",
   "DFFlagOnlyAllowThumbnailRbxCdnUrls2_Rollout": "True;60;2024-05-22T21:20:17",
   "FFlagDisableLinkedScriptStudioEditing1_Rollout": "True;60;2024-05-22T21:23:46",
+  "FFlagLuaAppInlineRequireAppConfigurer_Rollout": "True;60;2024-05-22T21:49:28",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
