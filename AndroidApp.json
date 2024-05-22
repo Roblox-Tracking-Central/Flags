@@ -93,7 +93,6 @@
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "DFFlagDataModelControllerUsesEngineContext": "False",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
@@ -142,7 +141,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-22T18:12:25",
   "FFlagDisableFeedbackSoothsayerCheck_Rollout": "True;60;2024-05-22T18:26:42",
   "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3_Rollout": "True;60;2024-05-22T18:49:46",
   "AllowVideoPreRoll": "True",
@@ -626,6 +624,6 @@
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "FFlagAddUserScrollingStatData_Rollout": "True;30;2024-05-22T18:40:41",
-  "DFFlagReportPreRenderJobTimes": "True"
+  "DFFlagReportPreRenderJobTimes": "True",
+  "FFlagAddUserScrollingStatData": "True"
 }
