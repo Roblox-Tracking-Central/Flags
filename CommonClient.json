@@ -12388,7 +12388,7 @@
   "FFlagDisableLinkedScriptStudioEditing1": "True",
   "FFlagGCRemovalTimeLimit_Rollout": "True;60;2024-05-22T23:08:49",
   "FFlagToolboxSampleProductMUS4182_Rollout": "True;60;2024-05-22T23:16:32",
-  "FFlagLuaAppInlineRequireAppConfigurer": "True",
+  "FFlagLuaAppInlineRequireAppConfigurer": "False",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
