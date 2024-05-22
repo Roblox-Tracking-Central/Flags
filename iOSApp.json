@@ -578,5 +578,6 @@
   "FFlagLuaAppAddDiscoveryOtaVersion": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
-  "FFlagLuaAppRedoOtaValidation": "True"
+  "FFlagLuaAppRedoOtaValidation": "True",
+  "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3_Rollout": "True;60;2024-05-22T16:50:54"
 }

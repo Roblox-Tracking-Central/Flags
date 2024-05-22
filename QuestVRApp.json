@@ -620,6 +620,7 @@
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "EnableBuildVariantInDMParams": "True",
   "FFlagPlatformEventEnabled2": "True",
+  "FFlagSocialLuaAnalyticsAddTimestamp_Rollout": "True;60;2024-05-22T16:43:47",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
