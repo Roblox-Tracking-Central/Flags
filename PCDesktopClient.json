@@ -205,6 +205,7 @@
   "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "500",
   "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent_Rollout": "2500;60;2024-05-22T16:16:48",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
+  "FFlagRuntimeUseNativeWorkers1_Rollout": "True;60;2024-05-22T17:28:39",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

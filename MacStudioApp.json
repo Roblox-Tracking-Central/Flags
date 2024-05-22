@@ -713,6 +713,8 @@
   "FFlagTerrainEditorFixDrawIgnoreParts": "True",
   "FFlagTerrainGenerationHideWater": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
+  "FFlagPathEditorSurfaceGui_Rollout": "True;60;2024-05-22T17:26:20",
+  "FFlagPathEditorSurfaceGuiInput_Rollout": "True;60;2024-05-22T17:26:20",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
