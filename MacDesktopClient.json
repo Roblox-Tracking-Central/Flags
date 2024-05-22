@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "AllowVideoPreRoll": "True",
-  "AxisAdornmentGrabSize": "12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -205,6 +204,7 @@
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "DFFlagCLIAVATAR2997": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -493,6 +493,5 @@
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
-  "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True",
   "FFlagLuaAppOverrideExperienceImage": "True"
 }

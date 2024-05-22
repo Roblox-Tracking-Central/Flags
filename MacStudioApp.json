@@ -315,7 +315,6 @@
   "DFIntAnalyticsDeferredEventIngestMaxPostByteSize": "10000",
   "DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": "1000",
   "DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": "1000",
-  "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True",
   "FFlagToolboxAssetPreviewProtectAgainstNilAssetData": "True",
   "FFlagNonuniformUnionsBetaFeature": "false",
   "FStringNonuniformUnionsBetaFeatureUrl": "https://devforum.roblox.com/t/non-uniform-union-scaling-beta/1834472",

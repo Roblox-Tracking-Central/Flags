@@ -578,7 +578,6 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
-  "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
 }
