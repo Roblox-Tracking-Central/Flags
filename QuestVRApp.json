@@ -72,6 +72,7 @@
   "FIntSoundTelemetryThrottlingPercentage": "1",
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
+  "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -647,5 +648,5 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagSoundManagerVolumeFix_Rollout": "True;60;2024-05-21T23:03:15"
+  "FFlagSoundManagerVolumeFix": "True"
 }
