@@ -142,11 +142,11 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagLuauLoadTypeInfo_Rollout": "True;60;2024-05-22T18:10:26",
-  "AxisAdornmentGrabSize": "12",
+  "AllowVideoPreRoll": "True",
   "FFlagDisableFeedbackSoothsayerCheck_Rollout": "True;60;2024-05-22T18:26:42",
   "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3_Rollout": "True;60;2024-05-22T18:49:46",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -434,9 +434,8 @@
   "FLogXboxPlatformBase": "Debug",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "DFFlagReportPreRenderJobTimes": "True",
-  "FFlagRuntimeUseNativeWorkers1_Rollout": "True;60;2024-05-22T17:28:39",
-  "FFlagPSControllerDisconnect": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
+  "FFlagRuntimeUseNativeWorkers1": "True"
 }

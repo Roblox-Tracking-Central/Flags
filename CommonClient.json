@@ -12366,6 +12366,8 @@
   "FFlagEnableVRInputModeHandling_Rollout": "True;60;2024-05-22T18:40:24",
   "FFlagEnableAppCommonInputHooks_Rollout": "True;60;2024-05-22T18:40:45",
   "DFFlagCleanHex_Rollout": "True;60;2024-05-22T19:00:43",
+  "FFlagPSControllerDisconnect": "True",
+  "FFlagStopPublishedPlacesOpening_Rollout": "True;60;2024-05-22T19:14:21",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

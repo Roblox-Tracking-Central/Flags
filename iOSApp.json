@@ -142,7 +142,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagPSControllerDisconnect_Rollout": "True;30;2024-05-22T18:03:16",
   "FFlagLuauLoadTypeInfo_Rollout": "True;60;2024-05-22T18:10:26",
   "DFFlagDataModelControllerUsesEngineContext_Rollout": "True;60;2024-05-22T18:12:25",
   "FFlagDisableFeedbackSoothsayerCheck_Rollout": "True;60;2024-05-22T18:26:42",
