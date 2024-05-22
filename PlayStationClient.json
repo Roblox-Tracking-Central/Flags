@@ -279,5 +279,6 @@
   "DFFlagReportPreRenderJobTimes": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
+  "DFFlagWaitSignalSmallArguments_Rollout": "True;30;2024-05-22T19:29:23"
 }
