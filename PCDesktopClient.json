@@ -490,5 +490,6 @@
   "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
   "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
-  "FFlagPlatformEventEnabled2": "True"
+  "FFlagPlatformEventEnabled2": "True",
+  "FFlagLuaAppOverrideExperienceImage_Rollout": "True;10;2024-05-22T17:38:54"
 }

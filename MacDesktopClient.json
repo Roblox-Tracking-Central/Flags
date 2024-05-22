@@ -495,5 +495,6 @@
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
-  "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True"
+  "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True",
+  "FFlagLuaAppOverrideExperienceImage_Rollout": "True;10;2024-05-22T17:38:54"
 }

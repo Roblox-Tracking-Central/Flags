@@ -623,6 +623,7 @@
   "FFlagSocialLuaAnalyticsAddTimestamp_Rollout": "True;60;2024-05-22T16:43:47",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
   "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-22T17:33:46",
+  "FFlagLuaAppOverrideExperienceImage_Rollout": "True;10;2024-05-22T17:38:54",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
