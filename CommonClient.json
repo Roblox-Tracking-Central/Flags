@@ -12368,6 +12368,7 @@
   "DFFlagCleanHex_Rollout": "True;60;2024-05-22T19:00:43",
   "FFlagPSControllerDisconnect": "True",
   "FFlagStopPublishedPlacesOpening_Rollout": "True;60;2024-05-22T19:14:21",
+  "FFlagLuauLoadTypeInfo": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
