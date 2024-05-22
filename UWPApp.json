@@ -324,6 +324,6 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FFlagUWPSkipNetworkCheck": "True",
   "FFlagPlatformEventEnabled2": "True",
-  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-22T21:19:44",
-  "FFlagRuntimeUseNativeWorkers1": "True"
+  "FFlagRuntimeUseNativeWorkers1": "True",
+  "DFFlagReportPreRenderJobTimes": "True"
 }
