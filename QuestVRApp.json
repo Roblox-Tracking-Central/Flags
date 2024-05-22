@@ -625,6 +625,7 @@
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "DFFlagReportPreRenderJobTimes": "True",
   "FFlagAddUserScrollingStatData": "True",
+  "DFFlagRemoveRBXCRASHFromAdGui_Rollout": "True;60;2024-05-22T21:25:47",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",

@@ -492,5 +492,6 @@
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
-  "FFlagLuaAppOverrideExperienceImage": "True"
+  "FFlagLuaAppOverrideExperienceImage": "True",
+  "DFFlagRemoveRBXCRASHFromAdGui_Rollout": "True;60;2024-05-22T21:25:47"
 }
