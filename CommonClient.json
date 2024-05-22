@@ -12360,6 +12360,7 @@
   "FFlagScreenshotCaptureWriteMetadata": "True",
   "DFFlagBatch25HotrodMigration": "True",
   "DFFlagShareHex": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-05-22T04:21:34",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
