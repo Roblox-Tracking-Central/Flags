@@ -142,6 +142,8 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
+  "FFlagPSControllerDisconnect_Rollout": "True;30;2024-05-22T18:03:16",
+  "FFlagLuauLoadTypeInfo_Rollout": "True;60;2024-05-22T18:10:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -204,7 +206,7 @@
   "DFFlagEnableFdTracking": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "DFFlagCLIAVATAR2997": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -496,5 +498,6 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
   "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True",
-  "FFlagLuaAppOverrideExperienceImage_Rollout": "True;10;2024-05-22T17:38:54"
+  "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent_Rollout": "50;60;2024-05-22T18:15:04",
+  "FFlagLuaAppOverrideExperienceImage": "True"
 }
