@@ -12282,7 +12282,6 @@
   "FFlagDevFrameworkAssetRenderModelImprovedDragging": "True",
   "FFlagFindAndReplaceResizing": "True",
   "FFlagEnableAudioEmitterDistanceAttenuation": "True",
-  "FFlagPasteVerbsUseInstanceInserter3": "True",
   "FFlagToolboxFixAlbumAndArtistClearingOnNewSearch": "True",
   "FFlagCinFixApplyForBadSession": "True",
   "DFFlagBadgeServiceUseSingularGetBadgeAwardDate": "True",
