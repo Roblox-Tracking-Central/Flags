@@ -141,8 +141,8 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",
@@ -272,6 +272,5 @@
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "DFFlagWaitSignalSmallArguments": "True",
   "FFlagDismissKeyboardAfterUsernameInput": "True"
 }
