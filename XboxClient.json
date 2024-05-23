@@ -431,6 +431,5 @@
   "DFFlagReportPreRenderJobTimes": "True",
   "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "FFlagRuntimeUseNativeWorkers1": "True"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
 }
