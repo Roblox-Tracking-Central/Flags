@@ -142,6 +142,7 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "DFFlagWaitSignalSmallArguments_Rollout": "True;60;2024-05-23T18:15:01",
+  "FFlagDismissKeyboardAfterUsernameInput_Rollout": "True;60;2024-05-23T19:12:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
