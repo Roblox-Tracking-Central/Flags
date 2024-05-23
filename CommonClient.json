@@ -12389,6 +12389,7 @@
   "FFlagFixUpdateMovedPrimitivesInStepJoints": "True",
   "FFlagGCRemovalTimeLimit": "True",
   "FFlagToolboxSampleProductMUS4182": "True",
+  "FFlagRefactorOmniSearchFetch": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
