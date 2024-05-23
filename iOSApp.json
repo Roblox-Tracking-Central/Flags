@@ -578,6 +578,5 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "FFlagOmniItemsRowDataEnabled_Rollout": "True;60;2024-05-23T18:10:53"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
 }
