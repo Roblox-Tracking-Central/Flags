@@ -141,6 +141,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
+  "DFFlagWaitSignalSmallArguments_Rollout": "True;60;2024-05-23T18:15:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -619,10 +620,8 @@
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "EnableBuildVariantInDMParams": "True",
   "FFlagPlatformEventEnabled2": "True",
-  "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "DFFlagReportPreRenderJobTimes": "True",
   "FFlagAddUserScrollingStatData": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True"
 }

@@ -141,7 +141,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-23T16:40:18",
+  "DFFlagWaitSignalSmallArguments_Rollout": "True;60;2024-05-23T18:15:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -573,11 +573,11 @@
   "FFlagHttpBlockWhenAppSuspendedIOS": "True",
   "DFFlagHttpBlockWhenAppSuspended": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
-  "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
+  "FFlagOmniItemsRowDataEnabled_Rollout": "True;60;2024-05-23T18:10:53"
 }

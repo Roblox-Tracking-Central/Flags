@@ -103,6 +103,5 @@
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagSocialLuaAnalyticsAddTimestamp": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
 }
