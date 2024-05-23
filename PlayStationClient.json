@@ -271,6 +271,5 @@
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "FFlagDismissKeyboardAfterUsernameInput": "True"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
 }
