@@ -272,5 +272,7 @@
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True"
+  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
+  "FFlagFixSceneMangerEndFrameNesting_Rollout": "True;60;2024-05-28T17:35:57",
+  "FFlagEnableGUACControlTOSPPLinks": "True"
 }

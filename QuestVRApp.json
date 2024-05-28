@@ -651,5 +651,6 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagSoundManagerVolumeFix": "True"
+  "FFlagSoundManagerVolumeFix": "True",
+  "FFlagEnableGUACControlTOSPPLinks": "True"
 }

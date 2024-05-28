@@ -202,6 +202,8 @@
   "DFFlagCLIAVATAR2997": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagIncreaseFileDescriptorLimit": "True",
+  "FFlagFixSceneMangerEndFrameNesting_Rollout": "True;60;2024-05-28T17:35:57",
+  "FFlagEnableGUACControlTOSPPLinks": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -492,5 +494,7 @@
   "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
-  "FFlagFixThumbnailVideoStreamCrash_Rollout": "True;30;2024-05-28T16:23:44"
+  "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-05-28T17:15:51",
+  "FFlagFixThumbnailVideoStreamCrash": "True",
+  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "10;30;2024-05-28T17:41:19"
 }
