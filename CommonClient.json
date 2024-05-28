@@ -12432,6 +12432,7 @@
   "FFlagLuaAppFixCursorHooks": "True",
   "FFlagDevFrameworkTextInputFocusLostInputObjParam": "True",
   "FFlagPackagifyJoinExperience_Rollout": "True;60;2024-05-28T22:18:21",
+  "DFIntAndroidDeprecationDate_Rollout": "1714460400;60;2024-05-28T22:27:27",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
