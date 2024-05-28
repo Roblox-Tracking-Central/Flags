@@ -580,5 +580,6 @@
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "DFFlagPerformanceControlIXPMLOomThresholdIntegration": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
-  "FFlagSmoothClusterTaskPauseFix": "True"
+  "FFlagSmoothClusterTaskPauseFix": "True",
+  "FFlagCaptureServiceRequestSignature_Rollout": "True;60;2024-05-28T20:04:23"
 }
