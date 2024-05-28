@@ -486,9 +486,9 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
-  "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-05-28T17:15:51",
   "FFlagFixThumbnailVideoStreamCrash": "True",
-  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "10;30;2024-05-28T17:41:19",
+  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "100;30;2024-05-28T18:43:36",
   "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-05-28T17:56:33",
-  "FFlagAddUserScrollingStatData": "True"
+  "FFlagAddUserScrollingStatData": "True",
+  "FFlagEnableWebrtcFieldTrials": "True"
 }
