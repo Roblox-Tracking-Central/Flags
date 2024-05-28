@@ -746,7 +746,6 @@
   "DFFlagHttpFixOsErrno": "True",
   "DFFlagCLIAVATAR2997": "True",
   "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
-  "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "5000",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",

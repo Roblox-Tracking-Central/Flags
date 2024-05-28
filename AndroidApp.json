@@ -621,5 +621,6 @@
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagAddUserScrollingStatData": "True",
-  "DFFlagRemoveRBXCRASHFromAdGui": "True"
+  "DFFlagRemoveRBXCRASHFromAdGui": "True",
+  "FFlagUniversalAppCsat3_Rollout": "True;60;2024-05-28T22:06:49"
 }

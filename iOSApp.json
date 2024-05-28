@@ -583,5 +583,6 @@
   "FFlagSmoothClusterTaskPauseFix": "True",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
   "FFlagEarlierFetchTimeForFriendsCarousel_v1": "True",
-  "FFlagCaptureServiceRequestSignature": "True"
+  "FFlagCaptureServiceRequestSignature": "True",
+  "FFlagUniversalAppCsat3_Rollout": "True;60;2024-05-28T22:06:49"
 }
