@@ -141,7 +141,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagLuauCodegenDirectUserdataFlow_Rollout": "True;60;2024-05-28T16:33:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -581,5 +580,6 @@
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "DFFlagPerformanceControlIXPMLOomThresholdIntegration_Rollout": "True;60;2024-05-28T17:10:19",
   "FFlagFixSceneMangerEndFrameNesting_Rollout": "True;60;2024-05-28T17:35:57",
-  "FFlagEnableGUACControlTOSPPLinks": "True"
+  "FFlagEnableGUACControlTOSPPLinks": "True",
+  "FFlagSmoothClusterTaskPauseFix_Rollout": "True;45;2024-05-28T18:04:33"
 }

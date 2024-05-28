@@ -141,7 +141,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagLuauCodegenDirectUserdataFlow_Rollout": "True;60;2024-05-28T16:33:34",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -496,5 +495,7 @@
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
   "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-05-28T17:15:51",
   "FFlagFixThumbnailVideoStreamCrash": "True",
-  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "10;30;2024-05-28T17:41:19"
+  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "10;30;2024-05-28T17:41:19",
+  "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-05-28T17:56:33",
+  "FFlagAddUserScrollingStatData_Rollout": "True;10;2024-05-28T17:56:38"
 }

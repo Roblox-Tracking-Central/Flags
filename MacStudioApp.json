@@ -615,7 +615,6 @@
   "FFlagPackageActionsIn3DView2": "True",
   "FFlagUpdateModifiedPackage": "True",
   "FFlagFixNewLoginDetectedEmailSpamFromStudio": "True",
-  "FFlagLuauCodegenDirectUserdataFlow": "True",
   "FFlagToolboxPortContextualReccomendationsToNewPackage": "True",
   "FFlagNcgToolingDumpCodeSize": "True",
   "FFlagDevFrameworkGridProperUpdate": "True",
