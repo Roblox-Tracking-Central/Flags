@@ -139,7 +139,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagPerformanceControlSoundTunableV22_Rollout": "True;60;2024-05-28T21:26:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

@@ -139,7 +139,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagPerformanceControlSoundTunableV22_Rollout": "True;60;2024-05-28T21:26:14",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

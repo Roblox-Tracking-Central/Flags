@@ -139,7 +139,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagPerformanceControlSoundTunableV22_Rollout": "True;60;2024-05-28T21:26:14",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -489,8 +488,8 @@
   "DFFlagCreatorBanStatusData": "True",
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagEarlierFetchTimeForFriendsCarousel_v1": "True",
-  "FFlagReuseOldVoicePlaybackNodeOnSubRetry_Rollout": "True;60;2024-05-28T21:29:45",
   "DFIntReportUIScrollingTimeSampleInterval": "50",
   "FFlagUniversalAppCsat3_Rollout": "True;60;2024-05-28T22:06:49",
-  "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True"
+  "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
+  "FFlagReuseOldVoicePlaybackNodeOnSubRetry": "True"
 }

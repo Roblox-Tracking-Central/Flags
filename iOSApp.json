@@ -548,7 +548,6 @@
   "FFlagDisplayNamesDiagLogging": "True",
   "FFlagSignupDisplayNameLogging": "True",
   "FFlagUpdateFmodVorbisDecoder": "True",
-  "FFlagPerformanceControlSoundTunableV22": "True",
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",

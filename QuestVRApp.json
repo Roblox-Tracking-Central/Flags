@@ -600,7 +600,6 @@
   "FFlagSignupDisplayNameLogging": "True",
   "DFIntSessionReporterGameRunningMemoryInterval": "1000",
   "DisableNotificationStreamOpenEvent": "True",
-  "FFlagPerformanceControlSoundTunableV22": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "DFIntInterpolationNumMechanismsPerTask": "10",
   "DFFlagEnableParallelFrustumQueries3": "True",
