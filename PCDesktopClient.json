@@ -482,5 +482,6 @@
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "DFFlagRemoveRBXCRASHFromAdGui": "True"
+  "DFFlagRemoveRBXCRASHFromAdGui": "True",
+  "FFlagFixThumbnailVideoStreamCrash_Rollout": "True;30;2024-05-28T16:23:44"
 }
