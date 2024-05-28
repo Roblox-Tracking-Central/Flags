@@ -10226,6 +10226,7 @@
   "DFFlagPreventGCForIncreaseTunableRequests": "True",
   "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FFlagLuauCodegenLuData": "True",
+  "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent": "10000",
   "FFlagDraggerSettings": "True",
   "FFlagLuaAppRefactorPlayButtonDataFetch": "True",
   "FFlagLuauSciNumberSkipTrailDot": "True",
