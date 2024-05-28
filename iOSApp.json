@@ -537,7 +537,7 @@
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
-  "FFlagUseInExperienceUrlWhitelist_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007",
+  "FFlagUseInExperienceUrlWhitelist_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289",
   "FFlagDisplayNamesOnSignupExperiment_v3": "True",
   "FFlagEnableVNGWebHostFilter": "True",
   "FFlagSignupTrackFailedRequestv1": "True",
@@ -581,5 +581,7 @@
   "DFFlagPerformanceControlIXPMLOomThresholdIntegration": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FFlagSmoothClusterTaskPauseFix": "True",
-  "FFlagCaptureServiceRequestSignature_Rollout": "True;60;2024-05-28T20:04:23"
+  "FFlagCaptureServiceRequestSignature_Rollout": "True;60;2024-05-28T20:04:23",
+  "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
+  "FFlagEarlierFetchTimeForFriendsCarousel_v1": "True"
 }
