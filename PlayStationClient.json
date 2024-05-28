@@ -133,7 +133,6 @@
   "FFlagColorPickerSliderIXPEnabled7": "True",
   "FFlagStudioStrictLowMemoryCheck": "True",
   "FIntRuntimeWorkerStackSize": "1048576",
-  "FFlagRuntimeUseNativeWorkers": "True",
   "DFFlagFixGameJoinCrash": "True",
   "DFIntLuauCodegenAggregateStatsEventHundredthsPercent": "2500",
   "DFIntLuauNativeExecutionEventHundredthsPercent": "5000",
@@ -260,7 +259,6 @@
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
-  "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
@@ -272,6 +270,6 @@
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "FFlagFixSceneMangerEndFrameNesting_Rollout": "True;60;2024-05-28T17:35:57",
-  "FFlagEnableGUACControlTOSPPLinks": "True"
+  "FFlagEnableGUACControlTOSPPLinks": "True",
+  "FFlagFixSceneMangerEndFrameNesting": "True"
 }
