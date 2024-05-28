@@ -620,7 +620,7 @@
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagAddUserScrollingStatData": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
-  "FFlagUniversalAppCsat3_Rollout": "True;60;2024-05-28T22:06:49",
+  "FFlagUniversalAppCsat3": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -648,6 +648,5 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagSoundManagerVolumeFix": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True"
 }
