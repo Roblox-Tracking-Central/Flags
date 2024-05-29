@@ -584,6 +584,8 @@
   "FFlagEarlierFetchTimeForFriendsCarousel_v1": "True",
   "FFlagCaptureServiceRequestSignature": "True",
   "FFlagUniversalAppCsat3": "True",
-  "FFlagFFlagMoveCurrentSearchTypeToState_Rollout": "True;60;2024-05-29T17:26:24",
-  "FFlagLuaAppSocialFeaturePill": "True"
+  "FFlagLuaAppSocialFeaturePill": "True",
+  "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-05-29T18:54:24",
+  "FFlagAXFixOrderFieldUnlayeredItems_Rollout": "True;60;2024-05-29T18:54:44",
+  "FFlagFFlagMoveCurrentSearchTypeToState": "True"
 }
