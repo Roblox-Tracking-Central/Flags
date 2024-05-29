@@ -512,8 +512,8 @@
   "DFFlagFixPercentSeenOnScreenStats": "True",
   "DFFlagEnableFirstFrameVideoImpression_Rollout": "True;60;2024-05-29T21:48:19",
   "FFlagContactImporterManagerPolicyFix_v1": "True",
-  "DFIntReportUIScrollingTimeSampleInterval_Rollout": "50;10;2024-05-29T22:27:16",
   "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "True;60;2024-05-29T22:35:54",
   "DFFlagGltfAddAnimationEndTimeEpsilon": "True",
-  "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True"
+  "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
+  "DFIntReportUIScrollingTimeSampleInterval": "50"
 }
