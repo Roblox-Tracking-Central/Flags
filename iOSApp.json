@@ -587,5 +587,6 @@
   "FFlagLuaAppSocialFeaturePill": "True",
   "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-05-29T18:54:24",
   "FFlagAXFixOrderFieldUnlayeredItems_Rollout": "True;60;2024-05-29T18:54:44",
-  "FFlagFFlagMoveCurrentSearchTypeToState": "True"
+  "FFlagFFlagMoveCurrentSearchTypeToState": "True",
+  "FFlagUnifyNavigationGraph5_Rollout": "False;60;2024-05-29T19:39:09"
 }

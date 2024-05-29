@@ -501,6 +501,6 @@
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
   "FFlagReuseOldVoicePlaybackNodeOnSubRetry": "True",
   "FFlagUniversalAppCsat3": "True",
-  "DFFlagFixMRCDiscrepancies_Rollout": "True;60;2024-05-29T18:05:50",
-  "FFlagLuaAppSocialFeaturePill": "True"
+  "FFlagLuaAppSocialFeaturePill": "True",
+  "DFFlagFixMRCDiscrepancies": "True"
 }
