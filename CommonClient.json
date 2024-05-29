@@ -12466,6 +12466,7 @@
   "FStringGraphicsVulkanVaryingBufferLimitMiB": "0x13B5:.\u002B:.\u002B=160;0x5143:.\u002B:.\u002B=160",
   "FFlagLanguageServiceReportICEOnShadowDataModelThread": "True",
   "FFlagStudioNoLegacyLockConstructingPlayersDataManager2": "True",
+  "DFFlagFixRawDumpAlignment_Rollout": "True;60;2024-05-29T23:07:54",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
