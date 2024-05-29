@@ -12439,7 +12439,7 @@
   "DFFlagPacketErrorProgressServer": "True",
   "FFlagSoundManagerVolumeFix": "True",
   "FFlagFixAudioPlayerPreloadAsync": "True",
-  "FFlagMyDummyFlag": "False",
+  "FFlagMyDummyFlag": "True",
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-05-29T17:39:45",
   "DFFlagPhoto2AvatarCounterAndStats": "False",
   "DFFlagPhoto2AvatarCounterAndStats_PlaceFilter": "True;16570073256;17362271377",
