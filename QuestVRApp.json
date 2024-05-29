@@ -622,7 +622,6 @@
   "FFlagAddUserScrollingStatData": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
   "FFlagUniversalAppCsat3": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache;60;2024-05-29T20:55:22",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
