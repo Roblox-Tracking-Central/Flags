@@ -140,6 +140,7 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FFlagLuauCompileTempTypeInfo_Rollout": "True;60;2024-05-29T19:21:58",
+  "FFlagUpdateFriendCarousel10ft6_Rollout": "True;45;2024-05-29T20:49:34",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -199,8 +200,9 @@
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
-  "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent_Rollout": "10000;60;2024-05-29T19:09:42",
   "FFlagVoxelGridFixUpsample_Rollout": "True;30;2024-05-29T20:26:45",
+  "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "10000",
+  "FFlagVoxelGridFixTerrainRegionWater_Rollout": "True;30;2024-05-29T20:48:50",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -499,5 +501,6 @@
   "DFFlagFixMRCDiscrepancies": "True",
   "DFFlagFixPercentSeenOnScreenStats_Rollout": "True;60;2024-05-29T20:01:58",
   "DFFlagEI176_FixDMSwitch_Rollout": "True;60;2024-05-29T20:17:06",
-  "FFlagFFlagMoveCurrentSearchTypeToState_Rollout": "True;30;2024-05-29T20:28:12"
+  "FFlagFFlagMoveCurrentSearchTypeToState_Rollout": "True;30;2024-05-29T20:28:12",
+  "FFlagContactImporterManagerPolicyFix_v1_Rollout": "True;60;2024-05-29T20:49:07"
 }
