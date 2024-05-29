@@ -586,7 +586,6 @@
   "FFlagCaptureServiceRequestSignature": "True",
   "FFlagUniversalAppCsat3": "True",
   "FFlagLuaAppSocialFeaturePill": "True",
-  "FFlagFFlagMoveCurrentSearchTypeToState": "True",
   "FFlagAXFixOrderFieldUnlayeredItems": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagContactImporterManagerPolicyFix_v1_Rollout": "True;60;2024-05-29T20:49:07"
