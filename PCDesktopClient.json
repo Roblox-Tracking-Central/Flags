@@ -495,5 +495,6 @@
   "FFlagReuseOldVoicePlaybackNodeOnSubRetry": "True",
   "FFlagUniversalAppCsat3": "True",
   "FFlagLuaAppSocialFeaturePill": "True",
-  "DFFlagFixMRCDiscrepancies": "True"
+  "DFFlagFixMRCDiscrepancies": "True",
+  "DFFlagFixPercentSeenOnScreenStats_Rollout": "True;60;2024-05-29T20:01:58"
 }
