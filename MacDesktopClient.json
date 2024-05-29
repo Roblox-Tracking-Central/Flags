@@ -139,7 +139,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagLuauCodegenTypeInfo_Rollout": "True;60;2024-05-29T17:38:29",
+  "FFlagLuauCompileTempTypeInfo_Rollout": "True;60;2024-05-29T19:21:58",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
