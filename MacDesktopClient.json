@@ -206,8 +206,8 @@
   "FFlagVoxelGridFixUpsample": "True",
   "FFlagVoxelGridFixTerrainRegionWater": "True",
   "FFlagBootcampCLI107928": "True",
-  "FFlagAdIdentificationFixes_Rollout": "True;60;2024-05-29T22:00:40",
   "FFlagVoxelGridFixRegionChanged": "True",
+  "FFlagAdIdentificationFixes": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -510,10 +510,10 @@
   "FFlagLuaAppSocialFeaturePill": "True",
   "DFFlagFixMRCDiscrepancies": "True",
   "DFFlagFixPercentSeenOnScreenStats": "True",
-  "DFFlagEnableFirstFrameVideoImpression_Rollout": "True;60;2024-05-29T21:48:19",
   "FFlagContactImporterManagerPolicyFix_v1": "True",
   "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "True;60;2024-05-29T22:35:54",
   "DFFlagGltfAddAnimationEndTimeEpsilon": "True",
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
-  "DFIntReportUIScrollingTimeSampleInterval": "50"
+  "DFIntReportUIScrollingTimeSampleInterval": "50",
+  "DFFlagEnableFirstFrameVideoImpression": "True"
 }
