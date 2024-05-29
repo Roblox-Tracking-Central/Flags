@@ -5515,8 +5515,6 @@
   "FFlagImprovePluginSpeed_DraftsWidget": "True",
   "FFlagRCCAllowTempStoreS3Urls": "True",
   "FFlagExtraSelectionDynamicType": "True",
-  "FFlagVRAvatarHeightScaling4": "True",
-  "FFlagVRAvatarHeightScaling4_PlaceFilter": "False;4832438542",
   "FFlagVRHeightScalingAPI": "True",
   "FFlagFloorTrackingAPI2": "True",
   "DFFlagMemoryStoreNewCountersReporting": "True",

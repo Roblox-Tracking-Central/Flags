@@ -587,7 +587,7 @@
   "FFlagLuaAppSocialFeaturePill": "True",
   "FFlagAXFixOrderFieldUnlayeredItems": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "FFlagFullProfileViewIXPEnabled_Rollout": "True;60;2024-05-29T22:19:40",
   "FFlagFullProfileViewIXPSetupEnabled_Rollout": "True;60;2024-05-29T22:20:32",
-  "FFlagContactImporterManagerPolicyFix_v1": "True"
+  "FFlagContactImporterManagerPolicyFix_v1": "True",
+  "FFlagFullProfileViewIXPEnabled": "True"
 }
