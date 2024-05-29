@@ -722,6 +722,7 @@
   "FFlagStudioUseFasterAliasesEndpoint_Rollout": "True;30;2024-05-29T22:21:28",
   "FFlagTransformToolCorrectCamera_Rollout": "True;30;2024-05-29T22:24:27",
   "FFlagTransformToolCursor_Rollout": "True;30;2024-05-29T22:29:55",
+  "FFlagGridVerbsFixInit_Rollout": "True;30;2024-05-29T22:46:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
