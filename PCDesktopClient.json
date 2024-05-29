@@ -504,12 +504,12 @@
   "FFlagUniversalAppCsat3": "True",
   "FFlagLuaAppSocialFeaturePill": "True",
   "DFFlagFixMRCDiscrepancies": "True",
-  "DFFlagGltfAddAnimationEndTimeEpsilon_Rollout": "True;60;2024-05-29T21:22:10",
-  "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA_Rollout": "True;60;2024-05-29T21:23:40",
   "DFFlagFixPercentSeenOnScreenStats": "True",
   "DFFlagEnableFirstFrameVideoImpression_Rollout": "True;60;2024-05-29T21:48:19",
   "DFFlagEI176_FixDMSwitch": "True",
   "DFFlagPerformanceControlIXPMemoryCurveParameterOverride_Rollout": "True;60;2024-05-29T21:56:59",
   "FFlagContactImporterManagerPolicyFix_v1": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "True;60;2024-05-29T22:35:54"
+  "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "True;60;2024-05-29T22:35:54",
+  "DFFlagGltfAddAnimationEndTimeEpsilon": "True",
+  "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True"
 }
