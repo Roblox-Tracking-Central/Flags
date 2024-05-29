@@ -582,5 +582,7 @@
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
   "FFlagEarlierFetchTimeForFriendsCarousel_v1": "True",
   "FFlagCaptureServiceRequestSignature": "True",
-  "FFlagUniversalAppCsat3": "True"
+  "FFlagUniversalAppCsat3": "True",
+  "FFlagLuaAppSocialFeaturePill_Rollout": "True;60;2024-05-29T17:13:28",
+  "FFlagFFlagMoveCurrentSearchTypeToState_Rollout": "True;60;2024-05-29T17:26:24"
 }
