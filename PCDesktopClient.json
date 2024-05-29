@@ -496,5 +496,7 @@
   "FFlagUniversalAppCsat3": "True",
   "FFlagLuaAppSocialFeaturePill": "True",
   "DFFlagFixMRCDiscrepancies": "True",
-  "DFFlagFixPercentSeenOnScreenStats_Rollout": "True;60;2024-05-29T20:01:58"
+  "DFFlagFixPercentSeenOnScreenStats_Rollout": "True;60;2024-05-29T20:01:58",
+  "FFlagContactImporterManagerPolicyFix_v1_Rollout": "True;60;2024-05-29T20:14:25",
+  "DFFlagEI176_FixDMSwitch_Rollout": "True;60;2024-05-29T20:17:06"
 }
