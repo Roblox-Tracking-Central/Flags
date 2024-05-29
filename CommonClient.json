@@ -12456,6 +12456,7 @@
   "FFlagLuauCodegenTypeInfo": "True",
   "DFFlagEnhancedPacketDebugging_Rollout": "True;60;2024-05-29T19:26:52",
   "FFlagCreatePhysicsDataAsync": "True",
+  "FFlagEnsureRestoreStatsDisplayOnReturnToEditing_Rollout": "True;60;2024-05-29T20:36:12",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

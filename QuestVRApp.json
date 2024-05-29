@@ -623,6 +623,7 @@
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
   "FFlagUniversalAppCsat3": "True",
   "FFlagUnifyNavigationGraph5_Rollout": "False;60;2024-05-29T19:39:09",
+  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;60;2024-05-29T20:26:19",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
