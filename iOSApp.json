@@ -138,6 +138,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
+  "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FFlagUpdateFriendCarousel10ft6_Rollout": "True;45;2024-05-29T20:49:34",
   "AllowVideoPreRoll": "True",
@@ -586,7 +587,6 @@
   "FFlagUniversalAppCsat3": "True",
   "FFlagLuaAppSocialFeaturePill": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "FFlagUnifyNavigationGraph5_Rollout": "False;60;2024-05-29T19:39:09",
   "FFlagAXFixOrderFieldUnlayeredItems": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagContactImporterManagerPolicyFix_v1_Rollout": "True;60;2024-05-29T20:49:07"
