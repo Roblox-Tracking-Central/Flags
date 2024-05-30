@@ -12464,6 +12464,7 @@
   "FFlagEnableDeactivatedUserReactivation": "True",
   "DFFlagCanClientReplicateProp": "False",
   "DFFlagCanClientReplicateProp_PlaceFilter": "True;16570073256;17362271377",
+  "FFlagVideoUseFeatureControl_Rollout": "True;60;2024-05-30T19:30:02",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
