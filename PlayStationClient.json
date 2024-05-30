@@ -140,8 +140,8 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",
@@ -162,7 +162,6 @@
   "FFlagExpDetailsUseSelectionBumpers": "True",
   "FFlagFixTenFootUiExperienceGridPadding": "True",
   "FFlagOmniFeedViewAnimatedUseScrollEventThrottle": "True",
-  "FFlagUpdateFriendCarousel10ft6": "True",
   "FFlagEnableAbuseReport10ft2": "True",
   "FFlagEnableExperienceDetailsFuncComponent": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
@@ -271,5 +270,8 @@
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
-  "FFlagFixSceneMangerEndFrameNesting": "True"
+  "FFlagFixSceneMangerEndFrameNesting": "True",
+  "FFlagProcessPSPlusItems_Rollout": "True;60;2024-05-30T22:49:38",
+  "FFlagFinishRolloutsForStaleFlags": "True",
+  "FIntStaleRolloutTimeSeconds": "7200"
 }

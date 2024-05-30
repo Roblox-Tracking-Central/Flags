@@ -140,7 +140,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagUpdateFriendCarousel10ft6_Rollout": "True;30;2024-05-30T21:39:55",
   "FFlagEnableQuestHaptics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -653,8 +652,10 @@
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
-  "FFlagAXWidgetsByContext_Rollout": "True;60;2024-05-30T21:23:35",
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
-  "FFlagKeepZeroInfluenceBones": "True"
+  "FFlagKeepZeroInfluenceBones": "True",
+  "FFlagSortCurrentlyWearingItemsIXPEnabled_Rollout": "True;60;2024-05-30T22:52:20",
+  "FFlagSortCurrentlyWearingItemsIXPSetupEnabled_Rollout": "True;60;2024-05-30T22:52:25",
+  "FFlagAXWidgetsByContext": "True"
 }
