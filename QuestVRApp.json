@@ -650,5 +650,6 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagEnableGUACControlTOSPPLinks": "True"
+  "FFlagEnableGUACControlTOSPPLinks": "True",
+  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54"
 }

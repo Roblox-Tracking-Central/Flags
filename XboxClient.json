@@ -362,6 +362,7 @@
   "FFlagLuaAppUpdateGameSortGridRowHeight10ft2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
+  "FFlagUpdateFriendCarousel10ft6": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
   "FFlagTenFootUiGameCarousel2": "True",
   "FFlagTenFootUiScrollBackFix": "True",
@@ -427,5 +428,6 @@
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
-  "FFlagFixSceneMangerEndFrameNesting": "True"
+  "FFlagFixSceneMangerEndFrameNesting": "True",
+  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54"
 }

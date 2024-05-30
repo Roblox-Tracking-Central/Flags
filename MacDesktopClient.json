@@ -207,7 +207,8 @@
   "FFlagBootcampCLI107928": "False",
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
-  "FFlagLuaAppBacktraceReportDiscovery_Rollout": "True;30;2024-05-30T16:20:19",
+  "FFlagLuaAppBacktraceReportDiscovery": "True",
+  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -515,5 +516,7 @@
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
   "DFIntReportUIScrollingTimeSampleInterval": "50",
   "DFFlagEnableFirstFrameVideoImpression": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync": "True"
+  "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
+  "DFFlagFbxAddAnimationEndTimeEpsilon_Rollout": "True;60;2024-05-30T17:14:18",
+  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-05-30T17:26:33"
 }

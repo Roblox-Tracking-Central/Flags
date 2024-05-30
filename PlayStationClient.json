@@ -162,6 +162,7 @@
   "FFlagExpDetailsUseSelectionBumpers": "True",
   "FFlagFixTenFootUiExperienceGridPadding": "True",
   "FFlagOmniFeedViewAnimatedUseScrollEventThrottle": "True",
+  "FFlagUpdateFriendCarousel10ft6": "True",
   "FFlagEnableAbuseReport10ft2": "True",
   "FFlagEnableExperienceDetailsFuncComponent": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
