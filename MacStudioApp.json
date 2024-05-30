@@ -727,6 +727,8 @@
   "FFlagEnablePath2DSelectedControlPointPropertyEditor": "True",
   "FFlagEnableConnectivityDiagnosticTelemetry_Rollout": "True;60;2024-05-30T19:12:28",
   "FFlagLuauCodegenLoadTypeUpvalCheck": "True",
+  "FFlagLuaAppRefactorOpenGameDetail": "True",
+  "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T20:13:44",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

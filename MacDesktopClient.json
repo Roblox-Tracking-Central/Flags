@@ -209,6 +209,8 @@
   "FFlagAdIdentificationFixes": "True",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-30T19:04:18",
+  "FFlagLuaAppRefactorOpenGameDetail": "True",
+  "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T20:13:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -516,5 +518,6 @@
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
   "DFIntReportUIScrollingTimeSampleInterval": "50",
   "DFFlagEnableFirstFrameVideoImpression": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync": "True"
+  "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
+  "FFlagVoxelGridNew4_Rollout": "True;45;2024-05-30T20:08:17"
 }
