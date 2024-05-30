@@ -651,5 +651,6 @@
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
-  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54"
+  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54",
+  "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T17:54:24"
 }

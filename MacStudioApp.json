@@ -731,6 +731,7 @@
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54",
   "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;60;2024-05-30T17:32:02",
+  "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T17:54:24",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
