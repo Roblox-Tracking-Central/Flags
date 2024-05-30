@@ -767,6 +767,7 @@
   "FFlagBootcampCLI107928": "True",
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
+  "FFlagBootcampCLI107928_Rollout": "False;30;2024-05-30T14:30:28",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

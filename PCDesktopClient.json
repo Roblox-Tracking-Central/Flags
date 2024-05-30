@@ -510,5 +510,6 @@
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
   "DFFlagEnableFirstFrameVideoImpression": "True",
   "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync": "True"
+  "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
+  "FFlagBootcampCLI107928_Rollout": "False;30;2024-05-30T14:30:28"
 }

@@ -514,5 +514,6 @@
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
   "DFIntReportUIScrollingTimeSampleInterval": "50",
   "DFFlagEnableFirstFrameVideoImpression": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync": "True"
+  "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
+  "FFlagBootcampCLI107928_Rollout": "False;30;2024-05-30T14:30:28"
 }

@@ -767,6 +767,7 @@
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
   "FFlagGameBasicSettingsFramerateCap5": "True",
+  "FFlagBootcampCLI107928_Rollout": "False;30;2024-05-30T14:30:28",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
