@@ -182,7 +182,6 @@
   "FFlagAppChatChannelsAPIRolloutRC1": "True",
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "FFlagEnableCapturesDesktopExperiment_v9": "False",
-  "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "DFFlagFixExplosionTimescale": "True",
   "FIntPathfindingHFBHighMemoryThrottleHundrethsPercentPoints": "10000",
@@ -206,8 +205,8 @@
   "FFlagBootcampCLI107928": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
   "FFlagVoxelGridFixRegionChanged": "True",
-  "FFlagGameBasicSettingsFramerateCap5_Rollout": "True;60;2024-05-29T22:38:43",
   "FFlagAdIdentificationFixes": "True",
+  "FFlagGameBasicSettingsFramerateCap5": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -507,9 +506,9 @@
   "DFFlagFixPercentSeenOnScreenStats": "True",
   "DFFlagEI176_FixDMSwitch": "True",
   "FFlagContactImporterManagerPolicyFix_v1": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "True;60;2024-05-29T22:35:54",
   "DFFlagGltfAddAnimationEndTimeEpsilon": "True",
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
   "DFFlagEnableFirstFrameVideoImpression": "True",
-  "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True"
+  "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True",
+  "FFlagVideoCaptureServiceLoadDevicesAsync": "True"
 }

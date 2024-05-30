@@ -416,7 +416,6 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagEnableVideoCaptureServiceSubflow": "True",
   "FFlagXboxToggleKinectGpuReservation": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagFmodFixXboxStallOnClose": "True",
