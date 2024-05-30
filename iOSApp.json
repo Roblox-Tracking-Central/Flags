@@ -589,5 +589,6 @@
   "FFlagContactImporterManagerPolicyFix_v1": "True",
   "FFlagFullProfileViewIXPEnabled": "True",
   "FFlagFullProfileViewIXPSetupEnabled": "True",
-  "FFlagRemoveCaptureWatermark": "True"
+  "FFlagRemoveCaptureWatermark": "True",
+  "FFlagLuaAppBacktraceReportDiscovery_Rollout": "True;30;2024-05-30T16:20:19"
 }
