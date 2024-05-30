@@ -588,5 +588,6 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagContactImporterManagerPolicyFix_v1": "True",
   "FFlagFullProfileViewIXPEnabled": "True",
-  "FFlagFullProfileViewIXPSetupEnabled": "True"
+  "FFlagFullProfileViewIXPSetupEnabled": "True",
+  "FFlagRemoveCaptureWatermark": "True"
 }
