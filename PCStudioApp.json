@@ -729,15 +729,15 @@
   "FFlagEnablePath2DSelectedControlPointPropertyEditor": "True",
   "FFlagLuauCodegenLoadTypeUpvalCheck": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
-  "FFlagStudioAddErrorMessageForComponentDependencyCheck_Rollout": "True;60;2024-05-30T20:28:53",
-  "FFlagStudioMoveCookieBorrowingOffMainThread2_Rollout": "True;60;2024-05-30T20:36:33",
-  "FFlagPathEditorShowInsertDragTangents_Rollout": "True;60;2024-05-30T20:49:43",
   "FFlagEnableConnectivityDiagnosticTelemetry": "True",
-  "FFlagAIDiffMessage1_Rollout": "True;60;2024-05-30T21:01:14",
   "FFlagPathEditorHierarchyValidCheckFixes_Rollout": "True;60;2024-05-30T22:05:58",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagCAPAddInternalTraceContextMenuOption_Rollout": "True;60;2024-05-30T22:23:18",
+  "FFlagStudioAddErrorMessageForComponentDependencyCheck": "True",
+  "FFlagStudioMoveCookieBorrowingOffMainThread2": "True",
+  "FFlagAIDiffMessage1": "True",
+  "FFlagPathEditorShowInsertDragTangents": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -790,6 +790,6 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagPathEditorControlPointVisualImprovements2": "True",
-  "FFlagStudioDeviceEmulatorHttpUserAgentFix_Rollout": "True;60;2024-05-30T20:45:46",
-  "FLogCloseDataModel": "6"
+  "FLogCloseDataModel": "6",
+  "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True"
 }
