@@ -653,5 +653,6 @@
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T20:13:44",
-  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "100;30;2024-05-30T20:19:25"
+  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "100;30;2024-05-30T20:19:25",
+  "FFlagLuaAppShowOtaPackagesLoaded_Rollout": "True;30;2024-05-30T20:40:03"
 }
