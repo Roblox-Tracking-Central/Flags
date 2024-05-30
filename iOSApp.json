@@ -596,7 +596,5 @@
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagSortCurrentlyWearingItemsIXPEnabled_Rollout": "True;60;2024-05-30T22:52:20",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled_Rollout": "True;60;2024-05-30T22:52:25",
-  "FFlagAXWidgetsByContext": "True",
-  "FFlagFinishRolloutsForStaleFlags": "True",
-  "FIntStaleRolloutTimeSeconds": "7200"
+  "FFlagAXWidgetsByContext": "True"
 }

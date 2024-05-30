@@ -433,7 +433,5 @@
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
-  "FFlagAXWidgetsByContext": "True",
-  "FFlagFinishRolloutsForStaleFlags": "True",
-  "FIntStaleRolloutTimeSeconds": "7200"
+  "FFlagAXWidgetsByContext": "True"
 }

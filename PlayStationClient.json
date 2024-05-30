@@ -272,6 +272,5 @@
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FFlagProcessPSPlusItems_Rollout": "True;60;2024-05-30T22:49:38",
-  "FFlagFinishRolloutsForStaleFlags": "True",
-  "FIntStaleRolloutTimeSeconds": "7200"
+  "FFlagItemsReceivedAlert_Rollout": "True;60;2024-05-30T23:11:37"
 }

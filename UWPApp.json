@@ -323,7 +323,5 @@
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FFlagUWPSkipNetworkCheck": "True",
   "FFlagPlatformEventEnabled2": "False",
-  "FFlagEnableGUACControlTOSPPLinks": "True",
-  "FFlagFinishRolloutsForStaleFlags": "True",
-  "FIntStaleRolloutTimeSeconds": "7200"
+  "FFlagEnableGUACControlTOSPPLinks": "True"
 }
