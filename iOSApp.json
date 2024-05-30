@@ -570,7 +570,7 @@
   "DFFlagHttpBlockWhenAppSuspended": "True",
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
-  "FFlagPlatformEventEnabled2": "True",
+  "FFlagPlatformEventEnabled2": "False",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",

@@ -494,7 +494,7 @@
   "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
   "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
-  "FFlagPlatformEventEnabled2": "True",
+  "FFlagPlatformEventEnabled2": "False",
   "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",

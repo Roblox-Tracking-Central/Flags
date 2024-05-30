@@ -321,6 +321,6 @@
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "FFlagUWPSkipNetworkCheck": "True",
-  "FFlagPlatformEventEnabled2": "True",
+  "FFlagPlatformEventEnabled2": "False",
   "FFlagEnableGUACControlTOSPPLinks": "True"
 }
