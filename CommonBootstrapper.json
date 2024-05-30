@@ -104,6 +104,5 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
-  "FFlagEnableGUACControlTOSPPLinks": "True",
-  "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T17:54:24"
+  "FFlagEnableGUACControlTOSPPLinks": "True"
 }

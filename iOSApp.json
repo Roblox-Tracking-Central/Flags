@@ -590,6 +590,5 @@
   "FFlagFullProfileViewIXPEnabled": "True",
   "FFlagFullProfileViewIXPSetupEnabled": "True",
   "FFlagRemoveCaptureWatermark": "True",
-  "FFlagLuaAppBacktraceReportDiscovery": "True",
-  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54"
+  "FFlagLuaAppBacktraceReportDiscovery": "True"
 }

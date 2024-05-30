@@ -723,15 +723,8 @@
   "FFlagShowAvatarImportDeprecationWithRedirect": "True",
   "FFlagGridVerbsFixInit": "True",
   "FFlagAIDiffMessageJSONVariantTypeMatchesPropertyType": "True",
-  "FFlagEnablePath2DSelectedControlPointPropertyEditor_Rollout": "True;60;2024-05-30T16:31:54",
-  "FFlagPathEditorHierarchyValidCheckFixes_Rollout": "True;60;2024-05-30T16:33:10",
-  "FFlagStudioMoveCookieBorrowingOffMainThread2_Rollout": "True;60;2024-05-30T16:49:57",
-  "FFlagEnableConnectivityDiagnosticTelemetry_Rollout": "True;60;2024-05-30T17:13:55",
-  "DFFlagFbxAddAnimationEndTimeEpsilon_Rollout": "True;60;2024-05-30T17:14:18",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
-  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-05-30T17:24:54",
-  "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;60;2024-05-30T17:32:02",
-  "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T17:54:24",
+  "FFlagEnablePath2DSelectedControlPointPropertyEditor": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -776,7 +769,6 @@
   "FFlagBootcampCLI107928": "False",
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
-  "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-30T17:44:00",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
@@ -785,6 +777,5 @@
   "FFlagMacClientSupportIME9": "True",
   "FFlagDeferFmodDriverShutdown2": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FFlagPathEditorControlPointVisualImprovements2": "True",
-  "FFlagDeviceMtlWaitForCompletionHangCheck_Rollout": "True;60;2024-05-30T16:47:57"
+  "FFlagPathEditorControlPointVisualImprovements2": "True"
 }
