@@ -204,7 +204,7 @@
   "DFFlagEnablePlaceIdsForGrantAccess_PlaceFilter": "True;16199276101",
   "FFlagVoxelGridFixUpsample": "True",
   "FFlagVoxelGridFixTerrainRegionWater": "True",
-  "FFlagBootcampCLI107928": "True",
+  "FFlagBootcampCLI107928": "False",
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
   "AllowVideoPreRoll": "True",
@@ -514,6 +514,5 @@
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
   "DFIntReportUIScrollingTimeSampleInterval": "50",
   "DFFlagEnableFirstFrameVideoImpression": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
-  "FFlagBootcampCLI107928_Rollout": "False;30;2024-05-30T14:30:28"
+  "FFlagVideoCaptureServiceLoadDevicesAsync": "True"
 }
