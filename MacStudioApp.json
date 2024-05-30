@@ -725,6 +725,7 @@
   "FFlagAIDiffMessageJSONVariantTypeMatchesPropertyType": "True",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagEnablePath2DSelectedControlPointPropertyEditor": "True",
+  "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;20;2024-05-30T18:43:37",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
