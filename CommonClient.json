@@ -12477,6 +12477,7 @@
   "FFlagUpdateFriendCarousel10ft6": "True",
   "FFlagDragDetectorRestartDragOnlyWhenNeeded": "True",
   "FFlagStudioPluginAddGetComponent_Rollout": "True;60;2024-05-30T23:07:09",
+  "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

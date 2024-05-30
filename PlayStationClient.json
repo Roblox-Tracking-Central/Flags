@@ -260,7 +260,6 @@
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
-  "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "DFFlagHttpFixOsErrno": "True",
