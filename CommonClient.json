@@ -12461,6 +12461,7 @@
   "FFlagDragDetectorAllowOneTouch": "True",
   "FFlagEnableVideoCaptureServiceSubflow": "True",
   "DFFlagFixRawDumpAlignment": "True",
+  "FFlagFixUISelectionRenderingSurfaceBillboard": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
