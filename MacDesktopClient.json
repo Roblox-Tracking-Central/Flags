@@ -208,6 +208,7 @@
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
+  "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-30T19:04:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
