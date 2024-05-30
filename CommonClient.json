@@ -12466,6 +12466,8 @@
   "FFlagVideoUseFeatureControl_Rollout": "True;60;2024-05-30T19:30:02",
   "FFlagRefactorInstanceYieldingFunctionality_Rollout": "True;60;2024-05-30T20:06:58",
   "FFlagStudioNoLegacyLockConstructingPlayersDataManager2_Rollout": "False;60;2024-05-30T20:09:12",
+  "FFlagSelfViewAssertFix_Rollout": "True;60;2024-05-30T20:20:46",
+  "FFlagAXFixItemTypeHandling3_Rollout": "True;60;2024-05-30T20:28:34",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

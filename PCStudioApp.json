@@ -729,6 +729,7 @@
   "FFlagLuauCodegenLoadTypeUpvalCheck": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T20:13:44",
+  "FFlagStudioAddErrorMessageForComponentDependencyCheck_Rollout": "True;60;2024-05-30T20:28:53",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -780,5 +781,6 @@
   "FFlagUseParallelTypecheckInLSP2": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
-  "FFlagPathEditorControlPointVisualImprovements2": "True"
+  "FFlagPathEditorControlPointVisualImprovements2": "True",
+  "FLogCloseDataModel_Rollout": "6;60;2024-05-30T20:20:41"
 }
