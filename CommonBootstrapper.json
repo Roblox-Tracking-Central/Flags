@@ -105,5 +105,5 @@
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
-  "FFlagKeepZeroInfluenceBones_Rollout": "True;60;2024-05-30T20:13:44"
+  "FFlagKeepZeroInfluenceBones": "True"
 }
