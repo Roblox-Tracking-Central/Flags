@@ -812,6 +812,7 @@
   "FFlagGameBasicSettingsFramerateCap5": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
   "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-31T16:05:44",
+  "FFlagIBFixLegacyItemStatus_Rollout": "True;10;2024-05-31T17:19:55",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",

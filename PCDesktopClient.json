@@ -214,6 +214,7 @@
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAimThereIsNoGameUpload": "True",
   "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-31T16:05:44",
+  "FFlagIBFixLegacyItemStatus_Rollout": "True;10;2024-05-31T17:19:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

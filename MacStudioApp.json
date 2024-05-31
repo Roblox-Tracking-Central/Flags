@@ -811,6 +811,7 @@
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
   "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-31T16:05:44",
+  "FFlagIBFixLegacyItemStatus_Rollout": "True;10;2024-05-31T17:19:55",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

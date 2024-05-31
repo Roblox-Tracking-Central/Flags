@@ -273,5 +273,6 @@
   "FFlagProcessPSPlusItems": "True",
   "FFlagItemsReceivedAlert": "True",
   "FFlagEnableLoginByUsernameSSOErrorsTelemetry_Rollout": "True;60;2024-05-31T16:22:45",
-  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "100;10;2024-05-31T16:41:22"
+  "FFlagIBFixLegacyItemStatus_Rollout": "True;10;2024-05-31T17:19:55",
+  "DFIntUIScrollingTime_ReportHundredthsPercent2": "100"
 }
