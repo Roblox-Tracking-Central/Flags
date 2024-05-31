@@ -518,7 +518,6 @@
   "DFFlagEnableFirstFrameVideoImpression": "True",
   "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True",
   "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
-  "FFlagVoxelGridNew4": "True",
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True"

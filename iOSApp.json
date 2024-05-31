@@ -595,5 +595,6 @@
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
-  "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True"
+  "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
+  "FFlagUsernameDisplayNameRecommendationPostSwitch_Rollout": "True;60;2024-05-31T16:21:23"
 }

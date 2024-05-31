@@ -521,7 +521,6 @@
   "DFIntReportUIScrollingTimeSampleInterval": "50",
   "DFFlagEnableFirstFrameVideoImpression": "True",
   "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
-  "FFlagVoxelGridNew4": "True",
   "FFlagAXWidgetsByContext": "False",
   "FFlagVoxelGridNew4_PlaceFilter": "False;5233782396",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",

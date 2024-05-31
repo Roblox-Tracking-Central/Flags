@@ -271,5 +271,6 @@
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FFlagProcessPSPlusItems": "True",
-  "FFlagItemsReceivedAlert": "True"
+  "FFlagItemsReceivedAlert": "True",
+  "FFlagEnableLoginByUsernameSSOErrorsTelemetry_Rollout": "True;60;2024-05-31T16:22:45"
 }

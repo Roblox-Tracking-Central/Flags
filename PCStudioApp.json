@@ -764,6 +764,8 @@
   "FFlagCAPAddInternalTraceContextMenuOption": "True",
   "FFlagCrashpadAddLocations": "True",
   "FFlagAimThereIsNoGameUpload": "True",
+  "FFlagWeakenDestroyedModule_Rollout": "True;60;2024-05-31T16:17:50",
+  "DFIntWeakExpiredRequireReportHundredthsPercent": "10000",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
