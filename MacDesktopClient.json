@@ -212,7 +212,7 @@
   "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
-  "FFlagAimThereIsNoGameUpload_Rollout": "True;60;2024-05-30T23:44:31",
+  "FFlagAimThereIsNoGameUpload": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
