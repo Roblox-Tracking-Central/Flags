@@ -596,7 +596,7 @@
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
-  "FFlagUsernameDisplayNameRecommendationPostSwitch_Rollout": "True;60;2024-05-31T16:21:23",
-  "FFlagIBFixLegacyItemStatus_Rollout": "True;10;2024-05-31T17:19:55",
-  "FFlagMoreStrictLimitOnRelayout": "True"
+  "FFlagMoreStrictLimitOnRelayout": "True",
+  "FFlagUsernameDisplayNameRecommendationPostSwitch": "True",
+  "FFlagIBFixLegacyItemStatus": "True"
 }
