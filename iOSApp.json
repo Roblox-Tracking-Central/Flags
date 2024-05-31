@@ -580,7 +580,6 @@
   "FFlagSmoothClusterTaskPauseFix": "True",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
   "FFlagEarlierFetchTimeForFriendsCarousel_v1": "True",
-  "FFlagCaptureServiceRequestSignature": "True",
   "FFlagUniversalAppCsat3": "True",
   "FFlagLuaAppSocialFeaturePill": "True",
   "FFlagAXFixOrderFieldUnlayeredItems": "True",
