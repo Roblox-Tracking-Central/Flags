@@ -522,7 +522,7 @@
   "DFFlagEnableFirstFrameVideoImpression": "True",
   "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
   "FFlagVoxelGridNew4": "True",
-  "FFlagAXWidgetsByContext": "True",
+  "FFlagAXWidgetsByContext": "False",
   "FFlagVoxelGridNew4_PlaceFilter": "False;5233782396",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True"

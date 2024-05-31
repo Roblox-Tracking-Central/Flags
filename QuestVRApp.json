@@ -654,7 +654,7 @@
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
-  "FFlagAXWidgetsByContext": "True",
+  "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
   "FFlagAimThereIsNoGameUpload": "True"

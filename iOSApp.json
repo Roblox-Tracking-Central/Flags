@@ -593,7 +593,7 @@
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
-  "FFlagAXWidgetsByContext": "True",
+  "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True"
 }

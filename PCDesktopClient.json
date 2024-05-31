@@ -519,7 +519,7 @@
   "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True",
   "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
   "FFlagVoxelGridNew4": "True",
-  "FFlagAXWidgetsByContext": "True",
+  "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True"
 }

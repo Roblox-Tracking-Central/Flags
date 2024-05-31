@@ -432,6 +432,6 @@
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
-  "FFlagAXWidgetsByContext": "True",
+  "FFlagAXWidgetsByContext": "False",
   "FFlagAimThereIsNoGameUpload": "True"
 }
