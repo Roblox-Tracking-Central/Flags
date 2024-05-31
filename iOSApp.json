@@ -596,5 +596,6 @@
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
-  "FFlagUsernameDisplayNameRecommendationPostSwitch_Rollout": "True;60;2024-05-31T16:21:23"
+  "FFlagUsernameDisplayNameRecommendationPostSwitch_Rollout": "True;60;2024-05-31T16:21:23",
+  "FFlagMoreStrictLimitOnRelayout_Rollout": "True;10;2024-05-31T16:43:39"
 }

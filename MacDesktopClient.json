@@ -524,5 +524,6 @@
   "FFlagAXWidgetsByContext": "False",
   "FFlagVoxelGridNew4_PlaceFilter": "False;5233782396",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
-  "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True"
+  "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
+  "FFlagMoreStrictLimitOnRelayout_Rollout": "True;10;2024-05-31T16:43:39"
 }
