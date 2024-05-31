@@ -273,5 +273,5 @@
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagEnableLoginByUsernameSSOErrorsTelemetry": "True",
   "FFlagIBFixLegacyItemStatus": "True",
-  "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent_Rollout": "500;60;2024-05-31T18:42:19"
+  "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500"
 }
