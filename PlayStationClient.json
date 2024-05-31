@@ -267,12 +267,12 @@
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FFlagProcessPSPlusItems": "True",
   "FFlagItemsReceivedAlert": "True",
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagEnableLoginByUsernameSSOErrorsTelemetry": "True",
-  "FFlagIBFixLegacyItemStatus": "True"
+  "FFlagIBFixLegacyItemStatus": "True",
+  "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent_Rollout": "500;60;2024-05-31T18:42:19"
 }

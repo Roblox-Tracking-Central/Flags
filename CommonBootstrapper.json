@@ -103,7 +103,6 @@
   "FFlagAXEnableKeywordAnalyticsForSearch": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAimThereIsNoGameUpload": "True"

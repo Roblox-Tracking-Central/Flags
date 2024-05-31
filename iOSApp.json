@@ -140,6 +140,7 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
+  "FFlagUIBloxEnableNewMenuLayout_Rollout": "True;20;2024-05-31T18:35:10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -574,7 +575,6 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "DFFlagPerformanceControlIXPMLOomThresholdIntegration": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
@@ -596,7 +596,7 @@
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
-  "FFlagMoreStrictLimitOnRelayout": "True",
   "FFlagUsernameDisplayNameRecommendationPostSwitch": "True",
-  "FFlagIBFixLegacyItemStatus": "True"
+  "FFlagIBFixLegacyItemStatus": "True",
+  "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneiOS"
 }

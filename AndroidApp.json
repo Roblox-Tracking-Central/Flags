@@ -140,6 +140,7 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
+  "FFlagUIBloxEnableNewMenuLayout_Rollout": "True;20;2024-05-31T18:35:10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -618,9 +619,9 @@
   "EnableBuildVariantInDMParams": "True",
   "FFlagPlatformEventEnabled2": "False",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagAddUserScrollingStatData": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
   "FFlagUniversalAppCsat3": "True",
-  "FFlagRefactorGuiRTCacheImpl2": "True"
+  "FFlagRefactorGuiRTCacheImpl2": "True",
+  "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneAndroid"
 }

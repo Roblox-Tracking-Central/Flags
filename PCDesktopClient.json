@@ -140,6 +140,7 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
+  "FFlagUIBloxEnableNewMenuLayout_Rollout": "True;20;2024-05-31T18:35:10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -195,7 +196,6 @@
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "DFFlagCLIAVATAR2997": "True",
   "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "10000",
@@ -521,5 +521,6 @@
   "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
-  "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True"
+  "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
+  "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneWindows"
 }

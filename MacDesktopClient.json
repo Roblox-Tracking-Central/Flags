@@ -140,7 +140,7 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "AllowVideoPreRoll": "True",
+  "FFlagUIBloxEnableNewMenuLayout_Rollout": "True;20;2024-05-31T18:35:10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -198,7 +198,6 @@
   "DFFlagEnableFdTracking": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "DFFlagCLIAVATAR2997": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagIncreaseFileDescriptorLimit": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
@@ -215,6 +214,7 @@
   "FFlagAimThereIsNoGameUpload": "True",
   "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
   "FFlagIBFixLegacyItemStatus": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -526,5 +526,5 @@
   "FFlagVoxelGridNew4_PlaceFilter": "False;5233782396",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
-  "FFlagMoreStrictLimitOnRelayout": "True"
+  "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneMac"
 }

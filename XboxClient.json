@@ -425,7 +425,6 @@
   "FLogXboxPlatformBase": "Debug",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
   "FFlagLuaAppOverrideExperienceImage": "True",
-  "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
