@@ -809,7 +809,7 @@
   "FFlagAdIdentificationFixes": "True",
   "FFlagGameBasicSettingsFramerateCap5": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
+  "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-31T16:05:44",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
