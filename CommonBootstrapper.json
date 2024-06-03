@@ -106,7 +106,7 @@
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAimThereIsNoGameUpload": "True",
-  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
-  "FFlagReuseMicroprofilerCounterBuffer": "True"
+  "FFlagReuseMicroprofilerCounterBuffer": "True",
+  "FFlagColorPickerSliderEpsilon2": "True"
 }

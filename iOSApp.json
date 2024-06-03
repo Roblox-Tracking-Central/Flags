@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing_Rollout": "True;60;2024-06-03T17:58:48",
   "DFFlagAttachmentCrashReport_Rollout": "True;60;2024-06-03T18:45:51",
   "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-06-03T18:46:23",
   "AllowVideoPreRoll": "True",
@@ -607,7 +606,6 @@
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagEnableNotificationServiceExtension_Rollout": "True;60;2024-06-03T18:11:40",
   "FFlagShutdownOnIOS_Rollout": "True;60;2024-06-03T18:14:49",
-  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
   "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
   "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming_Rollout": "True;60;2024-06-03T18:34:37",
   "FFlagEnableGothamCleanUp_Rollout": "True;60;2024-06-03T18:47:58",
@@ -615,5 +613,6 @@
   "FFlagFixThumbnailVideoStreamCrash": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57",
-  "FFlagReuseMicroprofilerCounterBuffer": "True"
+  "FFlagReuseMicroprofilerCounterBuffer": "True",
+  "FFlagColorPickerSliderEpsilon2": "True"
 }

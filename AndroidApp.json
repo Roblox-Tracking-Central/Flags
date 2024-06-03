@@ -142,9 +142,9 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "AllowVideoPreRoll": "True",
   "DFFlagAttachmentCrashReport_Rollout": "True;60;2024-06-03T18:45:51",
   "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-06-03T18:46:23",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -576,7 +576,6 @@
   "FFlagEnableBackgroundFillOptionsRelease1": "True",
   "FIntRenderMeshOptimizeVertexBuffer": "3",
   "FFlagEnableReportingAndroidVariant": "True",
-  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "InitializeWebLoginProtocolV2": "true",
   "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
   "DFFlagSimSolverReduceTimingStatFreq": "True",
@@ -638,11 +637,11 @@
   "FFlagConvertXiaomiSdk33VoiceRecord": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
-  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
   "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "DFFlagCreatorBanStatusData": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "DFFlagSessionTrackingAndroidStorageData": "True",
-  "FFlagReuseMicroprofilerCounterBuffer": "True"
+  "FFlagReuseMicroprofilerCounterBuffer": "True",
+  "FFlagColorPickerSliderEpsilon2": "True"
 }

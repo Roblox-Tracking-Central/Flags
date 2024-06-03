@@ -142,9 +142,9 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "AllowVideoPreRoll": "True",
   "DFFlagAttachmentCrashReport_Rollout": "True;60;2024-06-03T18:45:51",
   "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-06-03T18:46:23",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -316,7 +316,6 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagUWPCheckTTIBlockingDialog": "True",
-  "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "FFlagGuildedGameOverlaySupport": "True",
   "FFlagColorPickerSliderOptimization2": "True",
   "FFlagUpdateFmodVorbisDecoder": "True",
@@ -330,12 +329,12 @@
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
-  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
   "DFIntTaskSchedulerJobInGameThreads": "2",
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "DFFlagCreatorBanStatusData": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
-  "FFlagTaskSchedulerLimitTargetFpsTo2402": "True"
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
+  "FFlagColorPickerSliderEpsilon2": "True"
 }
