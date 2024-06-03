@@ -107,6 +107,6 @@
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAimThereIsNoGameUpload": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform_Rollout": "True;60;2024-06-03T17:26:37",
-  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T17:51:37",
-  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15"
+  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
+  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31"
 }

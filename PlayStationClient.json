@@ -141,11 +141,11 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "DFFlagPerformanceControlIXPMemoryCurveParameterOverride_Rollout": "True;60;2024-06-03T16:57:54",
-  "DFFlagFixVideoAdAveragePercentSeenTracking_Rollout": "True;60;2024-06-03T17:11:14",
   "DFFlagEnableGetBanHistoryAsync_Rollout": "True;60;2024-06-03T17:24:05",
   "FFlagAXEnableKeywordAnalyticsForSearch_Rollout": "True;60;2024-06-03T17:28:40",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+  "DFFlagAttachmentCrashReport_Rollout": "True;60;2024-06-03T18:45:51",
+  "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-06-03T18:46:23",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
@@ -280,5 +280,5 @@
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
   "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-06-03T17:25:06",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
-  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T17:51:37"
+  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31"
 }
