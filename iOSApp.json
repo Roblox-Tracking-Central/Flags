@@ -604,8 +604,6 @@
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneiOS",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailediOS",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "FFlagEnableNotificationServiceExtension_Rollout": "True;60;2024-06-03T18:11:40",
-  "FFlagShutdownOnIOS_Rollout": "True;60;2024-06-03T18:14:49",
   "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
   "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming_Rollout": "True;60;2024-06-03T18:34:37",
   "FFlagEnableGothamCleanUp_Rollout": "True;60;2024-06-03T18:47:58",
@@ -614,5 +612,7 @@
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
-  "FFlagColorPickerSliderEpsilon2": "True"
+  "FFlagColorPickerSliderEpsilon2": "True",
+  "FFlagShutdownOnIOS": "True",
+  "FFlagEnableNotificationServiceExtension": "True"
 }

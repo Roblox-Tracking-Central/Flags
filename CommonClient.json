@@ -12504,6 +12504,7 @@
   "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
   "EnableGothamCleanUp": "True",
   "DFFlagTrackDetectedOOMInST2": "True",
+  "FFlagEditProfileAddLoggingForEditAvatar_Rollout": "True;60;2024-06-03T19:45:25",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
