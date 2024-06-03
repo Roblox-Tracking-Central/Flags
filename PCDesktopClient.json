@@ -41,6 +41,7 @@
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "True",
   "DFIntPredictedOOMPercent": "5",
+  "DFFlagAttachmentCrashReport": "False",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -525,8 +526,8 @@
   "FStringUserSearchLoadingTimeFailedStats": "UserSearchLoadingTimeFailedWindows",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneWindows",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedWindows",
-  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
   "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
   "DFIntTaskSchedulerJobInGameThreads": "2",
-  "DFIntTaskSchedulerJobInitThreads": "2"
+  "DFIntTaskSchedulerJobInitThreads": "2",
+  "FFlagReuseMicroprofilerCounterBuffer": "True"
 }

@@ -41,6 +41,7 @@
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "False",
   "DFIntPredictedOOMPercent": "10",
+  "DFFlagAttachmentCrashReport": "False",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -635,7 +636,6 @@
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedAndroid",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagConvertXiaomiSdk33VoiceRecord": "True",
-  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
@@ -643,5 +643,6 @@
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "DFFlagCreatorBanStatusData": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
-  "DFFlagSessionTrackingAndroidStorageData": "True"
+  "DFFlagSessionTrackingAndroidStorageData": "True",
+  "FFlagReuseMicroprofilerCounterBuffer": "True"
 }

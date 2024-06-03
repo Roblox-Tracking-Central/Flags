@@ -41,6 +41,7 @@
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "False",
   "DFIntPredictedOOMPercent": "5",
+  "DFFlagAttachmentCrashReport": "False",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -603,7 +604,6 @@
   "FStringUserSearchLoadingTimeFailedStats": "UserSearchLoadingTimeFailediOS",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneiOS",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailediOS",
-  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagEnableNotificationServiceExtension_Rollout": "True;60;2024-06-03T18:11:40",
   "FFlagShutdownOnIOS_Rollout": "True;60;2024-06-03T18:14:49",
@@ -614,5 +614,6 @@
   "DFFlagCreatorBanStatusData": "True",
   "FFlagFixThumbnailVideoStreamCrash": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
-  "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57"
+  "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57",
+  "FFlagReuseMicroprofilerCounterBuffer": "True"
 }

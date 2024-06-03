@@ -41,6 +41,7 @@
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "True",
   "DFIntPredictedOOMPercent": "5",
+  "DFFlagAttachmentCrashReport": "False",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -327,8 +328,6 @@
   "FFlagPlatformEventEnabled2": "False",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
-  "FFlagTaskSchedulerLimitTargetFpsTo2402_Rollout": "True;60;2024-06-03T17:54:49",
-  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
@@ -336,5 +335,7 @@
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "DFFlagCreatorBanStatusData": "True",
-  "FFlagEnableAXClientLatencyLoggingByPlatform": "True"
+  "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
+  "FFlagReuseMicroprofilerCounterBuffer": "True",
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "True"
 }

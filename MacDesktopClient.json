@@ -41,6 +41,7 @@
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "True",
   "DFIntPredictedOOMPercent": "5",
+  "DFFlagAttachmentCrashReport": "True",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -142,8 +143,8 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "DFFlagAttachmentCrashReport_Rollout": "True;60;2024-06-03T17:49:41",
   "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -216,7 +217,6 @@
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
-  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -531,9 +531,9 @@
   "FStringUserSearchLoadingTimeFailedStats": "UserSearchLoadingTimeFailedMac",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneMac",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedMac",
-  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
   "DFFlagEnableSetClientDeviceRam": "True",
   "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
   "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57",
-  "FFlagVoiceChatAddDataChannelToSubConnection2_Rollout": "True;60;2024-06-03T19:18:00"
+  "FFlagVoiceChatAddDataChannelToSubConnection2_Rollout": "True;60;2024-06-03T19:18:00",
+  "FFlagReuseMicroprofilerCounterBuffer": "True"
 }
