@@ -12481,6 +12481,8 @@
   "FFlagUseConstantBufferViewsMetal2": "True",
   "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
   "DFFlagSimUpdateAssemblyHistoryOnEarlyOut": "True",
+  "FFlagLuaAppRedoOtaValidation": "True",
+  "FFlagVideoUseSharedStringIStreamIo_Rollout": "True;60;2024-06-03T16:41:13",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
