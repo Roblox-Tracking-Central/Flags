@@ -142,6 +142,7 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "AllowVideoPreRoll": "True",
+  "FFlagAddExperienceGuidelinesToActionBar10ft1_Rollout": "True;30;2024-06-03T20:43:06",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
