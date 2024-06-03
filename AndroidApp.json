@@ -633,7 +633,6 @@
   "FStringUserSearchLoadingTimeFailedStats": "UserSearchLoadingTimeFailedAndroid",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneAndroid",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedAndroid",
-  "DFFlagSessionTrackingAndroidStorageData_Rollout": "True;60;2024-06-03T17:41:38",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagConvertXiaomiSdk33VoiceRecord": "True",
   "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
@@ -643,5 +642,6 @@
   "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "DFFlagCreatorBanStatusData": "True",
-  "FFlagEnableAXClientLatencyLoggingByPlatform": "True"
+  "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
+  "DFFlagSessionTrackingAndroidStorageData": "True"
 }
