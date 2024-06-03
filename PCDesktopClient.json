@@ -219,6 +219,7 @@
   "FFlagEnableBulkPurchaseApp3": "True",
   "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324",
   "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09",
+  "DFFlagEnableBulkPurchase3_PlaceFilter": "True;5825389064",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",

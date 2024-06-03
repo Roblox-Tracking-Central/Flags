@@ -649,5 +649,8 @@
   "FFlagEnableBulkPurchaseApp3": "True",
   "FStringRenderIGGPUWhitelistAndroid_Rollout": "PowerVR Rogue GE8320;60;2024-06-03T21:13:49",
   "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324",
-  "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09"
+  "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09",
+  "DFFlagEnableBulkPurchase3_PlaceFilter": "True;5825389064",
+  "FFlagUseLargerHeaderTextOnMultipageSignup_Rollout": "True;15;2024-06-03T21:29:38",
+  "FFlagUseMultiPageSignupTextOnAddAuthMethodPage_Rollout": "True;15;2024-06-03T21:29:38"
 }
