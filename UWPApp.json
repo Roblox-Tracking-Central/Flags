@@ -336,5 +336,7 @@
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
-  "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-03T20:17:46"
+  "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-03T20:17:46",
+  "FFlagEnableBulkPurchaseApp3": "True",
+  "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09"
 }

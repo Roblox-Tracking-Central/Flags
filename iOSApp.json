@@ -611,10 +611,13 @@
   "FFlagShutdownOnIOS": "True",
   "FFlagEnableNotificationServiceExtension": "True",
   "DFFlagReportTopLevelJobsTime": "True",
-  "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "100;30;2024-06-03T20:03:01",
   "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming": "True",
   "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-03T20:17:46",
   "FFlagEnableGothamCleanUp": "True",
   "FFlagShareCaptureUploadToApiEnabled2_Rollout": "True;60;2024-06-03T20:29:57",
-  "FFlagVideoResolutionWorkaround": "True"
+  "FFlagVideoResolutionWorkaround": "True",
+  "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
+  "FFlagEnableBulkPurchaseApp3": "True",
+  "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324",
+  "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09"
 }

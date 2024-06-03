@@ -276,5 +276,7 @@
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "DFFlagCreatorBanStatusData": "True",
-  "FFlagColorPickerSliderEpsilon2": "True"
+  "FFlagColorPickerSliderEpsilon2": "True",
+  "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324",
+  "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09"
 }
