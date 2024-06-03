@@ -12483,6 +12483,7 @@
   "DFFlagSimUpdateAssemblyHistoryOnEarlyOut": "True",
   "FFlagLuaAppRedoOtaValidation": "True",
   "FFlagVideoUseSharedStringIStreamIo_Rollout": "True;60;2024-06-03T16:41:13",
+  "FFlagRenderEnableGlobalInstancingGPUWhitelistAndroid_Rollout": "True;30;2024-06-03T16:59:46",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

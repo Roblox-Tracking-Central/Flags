@@ -143,6 +143,7 @@
   "FFlagMSPhase02Patch_Rollout": "True;60;2024-06-03T16:07:10",
   "FFlagLiveScriptingOperationPeriodTelemetry_Rollout": "True;60;2024-06-03T16:35:32",
   "FFlagScriptRegisterationChecking2_Rollout": "True;60;2024-06-03T16:36:20",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -216,7 +217,6 @@
   "FFlagAimThereIsNoGameUpload": "True",
   "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
   "FFlagIBFixLegacyItemStatus": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -523,5 +523,7 @@
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
-  "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneWindows"
+  "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneWindows",
+  "FFlagAddOSMemoryFieldsToEvent": "False",
+  "FFlagAddOSMemoryFieldsToEvent_Rollout": "True;60;2024-06-03T16:55:17"
 }
