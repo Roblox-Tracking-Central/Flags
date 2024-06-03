@@ -99,6 +99,7 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "False",
   "FFlagLuaAppEnableGameGridTable2": "False",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "False",
+  "FFlagChatTranslationShowFTUX": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "DFFlagSimLimitAssemblyCount2": "True",
   "FFlagRuntimeStmExpEnabled1": "False",
@@ -140,8 +141,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagLiveScriptingOperationPeriodTelemetry_Rollout": "True;60;2024-06-03T16:35:32",
-  "FFlagScriptRegisterationChecking2_Rollout": "True;60;2024-06-03T16:36:20",
   "DFFlagPerformanceControlIXPMemoryCurveParameterOverride_Rollout": "True;60;2024-06-03T16:57:54",
   "DFFlagFixVideoAdAveragePercentSeenTracking_Rollout": "True;60;2024-06-03T17:11:14",
   "DFFlagEnableGetBanHistoryAsync_Rollout": "True;60;2024-06-03T17:24:05",
@@ -279,6 +278,7 @@
   "FFlagEnableLoginByUsernameSSOErrorsTelemetry": "True",
   "FFlagIBFixLegacyItemStatus": "True",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
-  "FFlagLuaAppBacktraceReportDiscovery_Rollout": "True;30;2024-06-03T16:42:52",
-  "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-06-03T17:25:06"
+  "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-06-03T17:25:06",
+  "FFlagLuaAppBacktraceReportDiscovery": "True",
+  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T17:51:37"
 }

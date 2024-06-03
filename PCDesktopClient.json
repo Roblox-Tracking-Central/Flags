@@ -99,6 +99,7 @@
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
+  "FFlagChatTranslationShowFTUX": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "DFFlagSimLimitAssemblyCount2": "True",
   "FFlagRuntimeStmExpEnabled1": "True",
@@ -140,8 +141,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagLiveScriptingOperationPeriodTelemetry_Rollout": "True;60;2024-06-03T16:35:32",
-  "FFlagScriptRegisterationChecking2_Rollout": "True;60;2024-06-03T16:36:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "DFFlagEnableGetBanHistoryAsync_Rollout": "True;60;2024-06-03T17:24:05",
@@ -201,7 +200,6 @@
   "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
-  "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "10000",
   "DFFlagEnablePlaceIdsForGrantAccess_PlaceFilter": "True;16199276101",
   "FFlagVoxelGridFixUpsample": "True",
   "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -219,6 +217,7 @@
   "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform_Rollout": "True;60;2024-06-03T17:26:37",
+  "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T17:51:37",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -531,5 +530,6 @@
   "DFIntTaskSchedulerJobInGameThreads_Rollout": "2;30;2024-06-03T17:32:30",
   "DFIntTaskSchedulerJobInitThreads_Rollout": "2;30;2024-06-03T17:32:30",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneWindows",
-  "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedWindows"
+  "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedWindows",
+  "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15"
 }
