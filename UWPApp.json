@@ -140,10 +140,12 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagMSPhase02Patch_Rollout": "True;60;2024-06-03T16:07:10",
   "FFlagLiveScriptingOperationPeriodTelemetry_Rollout": "True;60;2024-06-03T16:35:32",
   "FFlagScriptRegisterationChecking2_Rollout": "True;60;2024-06-03T16:36:20",
   "DFFlagPerformanceControlIXPMemoryCurveParameterOverride_Rollout": "True;60;2024-06-03T16:57:54",
+  "DFFlagFixVideoAdAveragePercentSeenTracking_Rollout": "True;60;2024-06-03T17:11:14",
+  "DFFlagEnableGetBanHistoryAsync_Rollout": "True;60;2024-06-03T17:24:05",
+  "FFlagAXEnableKeywordAnalyticsForSearch_Rollout": "True;60;2024-06-03T17:28:40",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -329,5 +331,9 @@
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "DFFlagEnableSetClientDeviceRam_Rollout": "True;60;2024-06-03T16:27:27",
   "FFlagLuaAppBacktraceReportDiscovery_Rollout": "True;30;2024-06-03T16:42:52",
-  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-06-03T17:00:23"
+  "FFlagLuaAppRefactorOpenGameDetail_Rollout": "True;30;2024-06-03T17:00:23",
+  "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-06-03T17:25:06",
+  "FFlagEnableAXClientLatencyLoggingByPlatform_Rollout": "True;60;2024-06-03T17:26:37",
+  "DFIntTaskSchedulerJobInGameThreads_Rollout": "2;30;2024-06-03T17:32:30",
+  "DFIntTaskSchedulerJobInitThreads_Rollout": "2;30;2024-06-03T17:32:30"
 }
