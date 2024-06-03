@@ -624,5 +624,7 @@
   "FFlagPasskeySignupEnabled5": "True",
   "FFlagShouldEnableAuthBirthdayBarUpdates": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
-  "FFlagConditionallyFireAuthenticatedCredentials": "True"
+  "FFlagConditionallyFireAuthenticatedCredentials": "True",
+  "FFlagScreenshotHudRemoveWatermark": "True",
+  "FFlagDeepLinkEventReceiverAnalyticsEvent": "True"
 }
