@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagFixHtileClearEnable_Rollout": "True;60;2024-06-03T21:39:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -648,7 +647,6 @@
   "FFlagGpuGeometryManagerArm4VertexShading2": "True",
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagShareCaptureUploadToApiEnabled2": "True",
-  "FFlagCredProtocolRegisterPasswordOnSignup_Rollout": "True;30;2024-06-03T22:12:22",
   "FFlagUseLargerHeaderTextOnMultipageSignup": "True",
   "FFlagUseMultiPageSignupTextOnAddAuthMethodPage": "True",
   "FFlagEnableMultiPageSignupExperimentRelease2": "True",
@@ -656,5 +654,6 @@
   "FStringRenderIGGPUWhitelistAndroid": "PowerVR Rogue GE8320",
   "FFlagShouldEnableAuthBirthdayBarUpdates": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
-  "FFlagConditionallyFireAuthenticatedCredentials": "True"
+  "FFlagConditionallyFireAuthenticatedCredentials": "True",
+  "FFlagCredProtocolRegisterPasswordOnSignup": "True"
 }
