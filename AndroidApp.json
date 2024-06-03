@@ -141,8 +141,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "DFFlagEnableGetBanHistoryAsync_Rollout": "True;60;2024-06-03T17:24:05",
-  "FFlagAXEnableKeywordAnalyticsForSearch_Rollout": "True;60;2024-06-03T17:28:40",
   "AllowVideoPreRoll": "True",
   "DFFlagAttachmentCrashReport_Rollout": "True;60;2024-06-03T18:45:51",
   "DFFlagFixImageAdContinuousPercentSeenTracking_Rollout": "True;60;2024-06-03T18:46:23",
@@ -632,8 +630,6 @@
   "FFlagDisableCameraOnLowSpecDevices": "True",
   "FFlagOnlyShowToastOnce": "True",
   "FFlagAddOSMemoryFieldsToEvent": "True",
-  "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-06-03T17:25:06",
-  "FFlagEnableAXClientLatencyLoggingByPlatform_Rollout": "True;60;2024-06-03T17:26:37",
   "FStringUserSearchLoadingTimeFailedStats": "UserSearchLoadingTimeFailedAndroid",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneAndroid",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedAndroid",
@@ -645,5 +641,7 @@
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
   "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
-  "FFlagLuaAppShowOtaPackagesLoaded": "True"
+  "FFlagLuaAppShowOtaPackagesLoaded": "True",
+  "DFFlagCreatorBanStatusData": "True",
+  "FFlagEnableAXClientLatencyLoggingByPlatform": "True"
 }
