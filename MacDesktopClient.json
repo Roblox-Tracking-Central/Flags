@@ -41,7 +41,6 @@
   "FFlagEnableSpendFrictionTwoFactorV2": "True",
   "FFlagCloudsSunCover": "True",
   "DFIntPredictedOOMPercent": "5",
-  "DFFlagAttachmentCrashReport": "True",
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess3": "False",
   "DFIntHttpBatchApi_maxReqs": "2",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "True",
@@ -143,7 +142,6 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "AllowVideoPreRoll": "True",
-  "AxisAdornmentGrabSize": "12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -216,6 +214,8 @@
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
+  "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-03T20:17:46",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -496,7 +496,6 @@
   "FFlagAddPolicyForVoiceUpsellSignup": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
   "DFFlagEI176_FixDMSwitch": "True",
-  "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
   "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
   "FFlagPlatformEventEnabled2": "False",
@@ -531,8 +530,8 @@
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneMac",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedMac",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "DFFlagReportTopLevelJobsTime_Rollout": "True;60;2024-06-03T18:28:57",
   "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57",
   "FFlagVoiceChatAddDataChannelToSubConnection2_Rollout": "True;60;2024-06-03T19:18:00",
-  "FFlagReuseMicroprofilerCounterBuffer": "True"
+  "FFlagReuseMicroprofilerCounterBuffer": "True",
+  "DFFlagReportTopLevelJobsTime": "True"
 }
