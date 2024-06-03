@@ -606,7 +606,6 @@
   "DFFlagCreatorBanStatusData": "True",
   "FFlagFixThumbnailVideoStreamCrash": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
-  "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
   "FFlagShutdownOnIOS": "True",
@@ -616,5 +615,6 @@
   "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming": "True",
   "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-03T20:17:46",
   "FFlagEnableGothamCleanUp": "True",
-  "FFlagShareCaptureUploadToApiEnabled2_Rollout": "True;60;2024-06-03T20:29:57"
+  "FFlagShareCaptureUploadToApiEnabled2_Rollout": "True;60;2024-06-03T20:29:57",
+  "FFlagVideoResolutionWorkaround": "True"
 }

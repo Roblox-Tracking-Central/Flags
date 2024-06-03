@@ -531,8 +531,8 @@
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneMac",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedMac",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "FFlagVideoResolutionWorkaround_Rollout": "True;60;2024-06-03T19:17:57",
-  "FFlagVoiceChatAddDataChannelToSubConnection2_Rollout": "True;60;2024-06-03T19:18:00",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
-  "DFFlagReportTopLevelJobsTime": "True"
+  "DFFlagReportTopLevelJobsTime": "True",
+  "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
+  "FFlagVideoResolutionWorkaround": "True"
 }
