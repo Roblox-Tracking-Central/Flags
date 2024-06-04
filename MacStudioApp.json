@@ -832,5 +832,6 @@
   "FFlagDeferFmodDriverShutdown2": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagPathEditorControlPointVisualImprovements2": "True",
-  "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True"
+  "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
+  "FIntEventDeviceMtlWaitForCompletionHangThrottling_Rollout": "1000;60;2024-06-04T16:49:22"
 }
