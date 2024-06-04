@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-06-04T19:48:23",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "DFFlagFixPercentSeenOnScreenStats_Rollout": "True;60;2024-06-04T20:59:01",
   "AllowVideoPreRoll": "True",
