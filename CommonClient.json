@@ -12540,6 +12540,7 @@
   "DFFlagEnableTeleportTrustedToSpawnName_Rollout": "True;60;2024-06-04T18:32:10",
   "FFlagDumpCodeSizeStudioFix": "True",
   "FFlagLuauCodegenLoadTypeUpvalCheck": "True",
+  "FFlagEnableLoginByUsernameSSOErrorsTelemetry": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

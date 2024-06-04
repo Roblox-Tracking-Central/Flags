@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagEnableLoginByUsernameSSOErrorsTelemetry_Rollout": "True;60;2024-06-04T17:31:53",
   "FFlagCodegenStatsProtectAssertion_Rollout": "True;60;2024-06-04T17:40:09",
   "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "10;30;2024-06-04T18:07:56",
   "DFFlagFixMRCDiscrepancies_Rollout": "True;60;2024-06-04T18:12:43",
@@ -343,5 +342,6 @@
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
   "DFIntTaskSchedulerJobInGameThreads_Rollout": "1;30;2024-06-04T18:08:56",
-  "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54"
+  "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54",
+  "FFlagGameBasicSettingsFramerateCap5_Rollout": "True;60;2024-06-04T18:53:29"
 }
