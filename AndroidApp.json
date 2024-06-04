@@ -662,8 +662,8 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConditionallyFireAuthenticatedCredentials": "True",
   "FFlagCredProtocolRegisterPasswordOnSignup": "True",
-  "FFlagRenderAdreno730Workaround_Rollout": "True;60;2024-06-04T16:54:13",
   "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;30;2024-06-04T17:46:19",
   "FFlagVoiceChatFixRejoin_Rollout": "True;60;2024-06-04T17:46:24",
-  "DFIntCLI106369t": "10000"
+  "DFIntCLI106369t": "10000",
+  "FFlagRenderAdreno730Workaround": "True"
 }

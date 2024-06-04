@@ -778,6 +778,7 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConvAIDefaultSettingAutoExpandDropdowns": "True",
   "FFlagTerrainEditorTimeStatistic4": "True",
+  "FFlagLuauCodegenSplitDoarith_Rollout": "True;60;2024-06-04T18:28:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -836,5 +837,5 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagPathEditorControlPointVisualImprovements2": "True",
   "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
-  "FIntEventDeviceMtlWaitForCompletionHangThrottling_Rollout": "1000;60;2024-06-04T16:49:22"
+  "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000"
 }

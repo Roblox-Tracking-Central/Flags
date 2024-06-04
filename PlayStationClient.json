@@ -170,7 +170,6 @@
   "FFlagFixTenFootUiExperienceGridPadding": "True",
   "FFlagOmniFeedViewAnimatedUseScrollEventThrottle": "True",
   "FFlagEnableAbuseReport10ft2": "True",
-  "FFlagEnableExperienceDetailsFuncComponent": "True",
   "FFlagUIBloxEnableSelectionCursorProviderOnTableCell": "True",
   "FFlagAXF10ftFixPeekabooWidget": "True",
   "FFlagPlayerContextualMenuAnalytics": "True",

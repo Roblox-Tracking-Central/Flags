@@ -778,6 +778,7 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConvAIDefaultSettingAutoExpandDropdowns": "True",
   "FFlagTerrainEditorTimeStatistic4": "True",
+  "FFlagLuauCodegenSplitDoarith_Rollout": "True;60;2024-06-04T18:28:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
