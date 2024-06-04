@@ -531,5 +531,6 @@
   "DFIntTaskSchedulerJobInGameThreads": "2",
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
-  "DFFlagReportTopLevelJobsTime": "True"
+  "DFFlagReportTopLevelJobsTime": "True",
+  "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "False;60;2024-06-04T16:38:46"
 }

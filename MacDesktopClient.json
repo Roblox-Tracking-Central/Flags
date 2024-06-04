@@ -537,5 +537,6 @@
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "DFFlagReportTopLevelJobsTime": "True",
-  "FFlagVideoResolutionWorkaround": "True"
+  "FFlagVideoResolutionWorkaround": "True",
+  "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "False;60;2024-06-04T16:38:46"
 }
