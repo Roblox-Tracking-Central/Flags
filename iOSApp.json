@@ -628,7 +628,7 @@
   "FFlagScreenshotHudRemoveWatermark": "True",
   "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
   "FFlagVoiceChatFixRejoin": "True",
-  "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
-  "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13",
-  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True"
+  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
+  "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
+  "FFlagLuaAppSocialLibUseLazyRequire": "True"
 }

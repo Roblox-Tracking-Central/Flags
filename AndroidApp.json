@@ -663,9 +663,9 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagVoiceChatFixRejoin": "True",
   "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming": "True",
-  "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
-  "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
-  "DFFlagCLI106369": "True"
+  "DFFlagCLI106369": "True",
+  "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
+  "FFlagLuaAppSocialLibUseLazyRequire": "True"
 }

@@ -12558,6 +12558,8 @@
   "FFlagThreadLockFix": "True",
   "FFlagGuiObjectMobilePressHoverStateFix_Rollout": "True;60;2024-06-04T21:46:05",
   "FFlagStudioPluginPopupAnchorPoint": "True",
+  "FFlagAudioDeferredDeletionUseLockfreeDataStructures3_Rollout": "True;60;2024-06-04T21:56:46",
+  "FFlagAndroidSessionTrackingUtils_Rollout": "True;60;2024-06-04T22:01:48",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

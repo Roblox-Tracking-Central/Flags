@@ -144,6 +144,7 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -223,7 +224,6 @@
   "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -532,7 +532,7 @@
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "DFFlagReportTopLevelJobsTime": "True",
-  "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
-  "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13",
-  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True"
+  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
+  "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
+  "FFlagLuaAppSocialLibUseLazyRequire": "True"
 }

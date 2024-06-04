@@ -340,9 +340,9 @@
   "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523",
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
-  "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
-  "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13",
   "FFlagGameBasicSettingsFramerateCap5": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True"
+  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
+  "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
+  "FFlagLuaAppSocialLibUseLazyRequire": "True"
 }
