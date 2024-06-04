@@ -630,5 +630,7 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "DFIntCrashUploadToBacktracePercentage_Rollout": "5;60;2024-06-04T22:13:14"
+  "DFIntCrashUploadToBacktracePercentage_Rollout": "5;60;2024-06-04T22:13:14",
+  "FFlagOmniItemsRowDataEnabled2_Rollout": "True;60;2024-06-04T22:57:32",
+  "FIntFeedItemRowDataCounterThrottle": "1000"
 }

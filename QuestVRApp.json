@@ -667,8 +667,6 @@
   "DFFlagCLI106369": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "DFFlagClusterCache8_PlaceFilter": "True;15696848933",
-  "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;15696848933",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
