@@ -144,7 +144,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FFlagEnableLoginByUsernameSSOErrorsTelemetry_Rollout": "True;60;2024-06-04T17:31:53",
   "FFlagCodegenStatsProtectAssertion_Rollout": "True;60;2024-06-04T17:40:09",
-  "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;30;2024-06-04T17:40:55",
   "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "10;30;2024-06-04T18:07:56",
   "DFFlagFixMRCDiscrepancies_Rollout": "True;60;2024-06-04T18:12:43",
   "AllowVideoPreRoll": "True",
@@ -434,5 +433,6 @@
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAXWidgetsByContext": "False",
-  "FFlagAimThereIsNoGameUpload": "True"
+  "FFlagAimThereIsNoGameUpload": "True",
+  "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54"
 }
