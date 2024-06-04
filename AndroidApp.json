@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "DFFlagFixMRCDiscrepancies_Rollout": "True;60;2024-06-04T18:12:43",
+  "FStringChatLandingGroupsBtnClicked_Rollout": "ChatLandingGroupsBtnClickedAndroid;30;2024-06-04T19:28:49",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

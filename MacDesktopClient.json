@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "AllowVideoPreRoll": "True",
+  "FStringChatLandingGroupsBtnClicked_Rollout": "ChatLandingGroupsBtnClickedDUAR;30;2024-06-04T19:28:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
