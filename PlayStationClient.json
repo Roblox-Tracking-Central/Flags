@@ -272,7 +272,6 @@
   "FFlagIBFixLegacyItemStatus": "True",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
-  "DFFlagCreatorBanStatusData": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
   "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324",
   "FFlagAXCatalogRefreshEnabled": "True"

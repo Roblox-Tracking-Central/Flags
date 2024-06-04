@@ -636,7 +636,6 @@
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
-  "DFFlagCreatorBanStatusData": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "DFFlagSessionTrackingAndroidStorageData": "True",
   "FFlagReuseMicroprofilerCounterBuffer": "True",

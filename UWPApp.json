@@ -331,7 +331,6 @@
   "DFIntTaskSchedulerJobInGameThreads": "1",
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
-  "DFFlagCreatorBanStatusData": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
