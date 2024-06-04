@@ -12544,6 +12544,8 @@
   "DFFlagAddUniverseIDToTelemetryV2FRMStats": "True",
   "DFFlagReportLegacyFRMStatsToTelemetryV2": "True",
   "FFlagReportCorrectAverageRenderThreadTimeInFRMStats": "True",
+  "DFFlagFixMRCDiscrepancies": "True",
+  "FFlagLuaAppGameTileProps_Rollout": "True;60;2024-06-04T19:49:02",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
