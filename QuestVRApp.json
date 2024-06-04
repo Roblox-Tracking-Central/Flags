@@ -660,12 +660,12 @@
   "FFlagCredProtocolRegisterPasswordOnSignup": "True",
   "DFIntCLI106369t": "10000",
   "FFlagRenderAdreno730Workaround": "True",
-  "DFFlagCLI106369_PlaceFilter": "True;189707",
   "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming_Rollout": "True;60;2024-06-04T18:39:33",
   "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagVoiceChatFixRejoin": "True",
   "DFFlagVoiceSubscribeConnectionStateTelemetry_Rollout": "True;60;2024-06-04T19:24:24",
+  "DFFlagCLI106369_Rollout": "True;60;2024-06-04T19:59:24",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -697,5 +697,5 @@
   "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
   "FFlagAimThereIsNoGameUpload": "True",
   "FFlagIBFixLegacyItemStatus": "True",
-  "FFlagChatTabHideGroupsLinkOnVR_Rollout": "True;30;2024-06-04T18:59:04"
+  "FFlagChatTabHideGroupsLinkOnVR": "True"
 }
