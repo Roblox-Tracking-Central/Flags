@@ -142,8 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagCodegenStatsProtectAssertion_Rollout": "True;60;2024-06-04T17:40:09",
-  "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "10;30;2024-06-04T18:07:56",
   "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -222,8 +220,8 @@
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
-  "FFlagVoiceChatFixRejoin_Rollout": "True;60;2024-06-04T17:46:24",
   "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54",
+  "FFlagVoiceChatFixRejoin": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -531,9 +529,9 @@
   "FStringUserSearchLoadingTimeFailedStats": "UserSearchLoadingTimeFailedWindows",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneWindows",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedWindows",
-  "DFIntTaskSchedulerJobInGameThreads": "2",
+  "DFIntTaskSchedulerJobInGameThreads": "1",
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "DFFlagReportTopLevelJobsTime": "True",
-  "DFIntTaskSchedulerJobInGameThreads_Rollout": "1;30;2024-06-04T18:08:56"
+  "DFFlagVoiceSubscribeConnectionStateTelemetry_Rollout": "True;60;2024-06-04T19:24:24"
 }
