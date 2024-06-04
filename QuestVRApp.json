@@ -657,6 +657,7 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConditionallyFireAuthenticatedCredentials": "True",
   "FFlagCredProtocolRegisterPasswordOnSignup": "True",
+  "FFlagRenderAdreno730Workaround_Rollout": "True;60;2024-06-04T16:54:13",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

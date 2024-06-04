@@ -776,6 +776,7 @@
   "DFFlagSerializerBinaryRemoveStreamAllocs": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConvAIDefaultSettingAutoExpandDropdowns": "True",
+  "FFlagTerrainEditorTimeStatistic4": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

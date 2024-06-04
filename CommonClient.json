@@ -12530,6 +12530,7 @@
   "FFlagCAPMarkdownRendererComponent_Rollout": "True;60;2024-06-04T16:12:48",
   "DFFlagHttpStatsErrorCopyPoints_Rollout": "True;60;2024-06-04T16:14:24",
   "FIntShareCaptureUploadToApiRolloutLimit_Rollout": "200;30;2024-06-04T16:28:04",
+  "FFlagInternalDebugWidgetSleepButton_Rollout": "True;60;2024-06-04T16:57:29",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
