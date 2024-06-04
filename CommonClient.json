@@ -12550,6 +12550,7 @@
   "FFlagEnableNewChatTabExperiment5_Rollout": "True;60;2024-06-04T20:09:54",
   "FFlagStudioPluginPopupAnchorPoint_Rollout": "True;60;2024-06-04T20:16:43",
   "DFFlagSimSolverAerodynamicIntegratorHighGFix": "True",
+  "DFFlagSensorAncestorChanged_Rollout": "True;60;2024-06-04T21:04:43",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

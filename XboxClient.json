@@ -144,6 +144,7 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-06-04T19:48:23",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
+  "DFFlagFixPercentSeenOnScreenStats_Rollout": "True;60;2024-06-04T20:59:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -434,5 +435,6 @@
   "FFlagAimThereIsNoGameUpload": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
   "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13",
-  "FFlagAXWidgetItemsPerRowLowerBound": "True"
+  "FFlagAXWidgetItemsPerRowLowerBound": "True",
+  "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent_Rollout": "500;60;2024-06-04T20:58:03"
 }
