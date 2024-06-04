@@ -147,6 +147,7 @@
   "FFlagCodegenStatsProtectAssertion_Rollout": "True;60;2024-06-04T17:40:09",
   "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;30;2024-06-04T17:40:55",
   "AllowVideoPreRoll": "True",
+  "DFFlagFixMRCDiscrepancies_Rollout": "True;60;2024-06-04T18:12:43",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -629,5 +630,6 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConditionallyFireAuthenticatedCredentials": "True",
   "FFlagScreenshotHudRemoveWatermark": "True",
-  "FFlagDeepLinkEventReceiverAnalyticsEvent": "True"
+  "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
+  "FFlagVoiceChatFixRejoin_Rollout": "True;60;2024-06-04T17:46:24"
 }

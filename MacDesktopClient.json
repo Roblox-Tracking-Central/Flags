@@ -146,6 +146,8 @@
   "FFlagDumpCodeSizeStudioFix_Rollout": "True;30;2024-06-04T17:39:34",
   "FFlagCodegenStatsProtectAssertion_Rollout": "True;60;2024-06-04T17:40:09",
   "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;30;2024-06-04T17:40:55",
+  "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "10;30;2024-06-04T18:07:56",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -223,7 +225,7 @@
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
-  "AllowVideoPreRoll": "True",
+  "FFlagVoiceChatFixRejoin_Rollout": "True;60;2024-06-04T17:46:24",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -527,7 +529,7 @@
   "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
   "DFIntReportUIScrollingTimeSampleInterval": "50",
   "DFFlagEnableFirstFrameVideoImpression": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
+  "FFlagVideoCaptureServiceLoadDevicesAsync": "False",
   "FFlagAXWidgetsByContext": "False",
   "FFlagVoxelGridNew4_PlaceFilter": "False;5233782396",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
@@ -540,6 +542,5 @@
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "DFFlagReportTopLevelJobsTime": "True",
-  "FFlagVideoResolutionWorkaround": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync_Rollout": "False;60;2024-06-04T16:38:46"
+  "FFlagVideoResolutionWorkaround": "True"
 }

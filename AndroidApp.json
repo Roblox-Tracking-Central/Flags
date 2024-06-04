@@ -146,6 +146,8 @@
   "FFlagDumpCodeSizeStudioFix_Rollout": "True;30;2024-06-04T17:39:34",
   "FFlagCodegenStatsProtectAssertion_Rollout": "True;60;2024-06-04T17:40:09",
   "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;30;2024-06-04T17:40:55",
+  "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "10;30;2024-06-04T18:07:56",
+  "DFFlagFixMRCDiscrepancies_Rollout": "True;60;2024-06-04T18:12:43",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -660,5 +662,8 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConditionallyFireAuthenticatedCredentials": "True",
   "FFlagCredProtocolRegisterPasswordOnSignup": "True",
-  "FFlagRenderAdreno730Workaround_Rollout": "True;60;2024-06-04T16:54:13"
+  "FFlagRenderAdreno730Workaround_Rollout": "True;60;2024-06-04T16:54:13",
+  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;30;2024-06-04T17:46:19",
+  "FFlagVoiceChatFixRejoin_Rollout": "True;60;2024-06-04T17:46:24",
+  "DFIntCLI106369t": "10000"
 }
