@@ -142,8 +142,8 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FStringChatLandingGroupsBtnClicked_Rollout": "ChatLandingGroupsBtnClickediOS;30;2024-06-04T19:28:49",
   "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-06-04T19:48:23",
+  "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -627,7 +627,8 @@
   "FFlagConditionallyFireAuthenticatedCredentials": "True",
   "FFlagScreenshotHudRemoveWatermark": "True",
   "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
-  "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54",
   "FFlagVoiceChatFixRejoin": "True",
-  "DFFlagVoiceSubscribeConnectionStateTelemetry_Rollout": "True;60;2024-06-04T19:24:24"
+  "DFFlagVoiceSubscribeConnectionStateTelemetry_Rollout": "True;60;2024-06-04T19:24:24",
+  "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
+  "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13"
 }

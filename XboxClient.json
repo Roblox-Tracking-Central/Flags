@@ -142,8 +142,8 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FStringChatLandingGroupsBtnClicked_Rollout": "ChatLandingGroupsBtnClickedCommon;30;2024-06-04T19:28:49",
   "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-06-04T19:48:23",
+  "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -432,5 +432,7 @@
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAXWidgetsByContext": "False",
   "FFlagAimThereIsNoGameUpload": "True",
-  "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54"
+  "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
+  "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13",
+  "FFlagAXWidgetItemsPerRowLowerBound": "True"
 }

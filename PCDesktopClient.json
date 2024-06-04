@@ -142,8 +142,8 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FStringChatLandingGroupsBtnClicked_Rollout": "ChatLandingGroupsBtnClickedDUAR;30;2024-06-04T19:28:49",
   "AllowVideoPreRoll": "True",
+  "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -221,8 +221,8 @@
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
-  "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-04T18:50:54",
   "FFlagVoiceChatFixRejoin": "True",
+  "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -533,5 +533,7 @@
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "DFFlagReportTopLevelJobsTime": "True",
-  "DFFlagVoiceSubscribeConnectionStateTelemetry_Rollout": "True;60;2024-06-04T19:24:24"
+  "DFFlagVoiceSubscribeConnectionStateTelemetry_Rollout": "True;60;2024-06-04T19:24:24",
+  "FFlagLuaAppLazyRequireSocialLibsDeps_Rollout": "True;60;2024-06-04T20:21:05",
+  "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13"
 }
