@@ -12570,6 +12570,7 @@
   "FFlagOmniSearchAutoTabIXP": "True",
   "DFFlagCLI102833PrelimTelemetry_Rollout": "True;60;2024-06-05T16:23:56",
   "FIntShareCaptureUploadToApiRolloutLimit_Rollout": "500;30;2024-06-05T16:39:48",
+  "FFlagCaptureServiceRequestSignature_Rollout": "True;30;2024-06-05T16:46:04",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
