@@ -205,7 +205,6 @@
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
   "FFlagGameBasicSettingsFramerateCap5": "True",
-  "FFlagLuaAppBacktraceReportDiscovery": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
@@ -532,5 +531,6 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "DFFlagFbxAddAnimationEndTimeEpsilon": "True"
+  "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
+  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-05T19:30:58"
 }

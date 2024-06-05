@@ -271,7 +271,6 @@
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagIBFixLegacyItemStatus": "True",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
-  "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
   "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324",
   "FFlagAXCatalogRefreshEnabled": "True"

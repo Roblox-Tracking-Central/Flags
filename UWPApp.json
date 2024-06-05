@@ -325,7 +325,6 @@
   "FFlagUWPSkipNetworkCheck": "True",
   "FFlagPlatformEventEnabled2": "False",
   "FFlagEnableGUACControlTOSPPLinks": "True",
-  "FFlagLuaAppBacktraceReportDiscovery": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "DFIntTaskSchedulerJobInGameThreads": "1",

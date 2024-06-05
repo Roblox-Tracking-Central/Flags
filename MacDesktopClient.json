@@ -206,7 +206,6 @@
   "FFlagBootcampCLI107928": "False",
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
-  "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
@@ -537,5 +536,6 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "DFFlagFbxAddAnimationEndTimeEpsilon": "True"
+  "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
+  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-05T19:30:58"
 }

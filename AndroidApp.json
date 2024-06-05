@@ -631,7 +631,6 @@
   "FStringUserSearchLoadingTimeFailedStats": "UserSearchLoadingTimeFailedAndroid",
   "FStringUserSearchLoadingTimeNextPageDoneStats": "UserSearchLoadingTimeNextPageDoneAndroid",
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedAndroid",
-  "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagConvertXiaomiSdk33VoiceRecord": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
@@ -665,5 +664,6 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "DFFlagCLI106369": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
-  "FFlagLuaAppSocialLibUseLazyRequire": "True"
+  "FFlagLuaAppSocialLibUseLazyRequire": "True",
+  "FFlagRuntimeEnabled5_Rollout": "True;60;2024-06-05T19:29:09"
 }

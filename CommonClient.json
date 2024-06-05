@@ -12567,6 +12567,8 @@
   "FFlagEnableBundleItemDetailHttpLink": "True",
   "FFlagDualWriteSubFlowDurationToV2Stats": "True",
   "FFlagOmniSearchAutoTabIXP": "True",
+  "FFlagLuaAppBacktraceReportDiscovery": "True",
+  "FFlagStudioFixLowMemoryWarningDialogButtonRoles_Rollout": "True;60;2024-06-05T19:39:05",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

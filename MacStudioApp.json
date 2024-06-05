@@ -711,7 +711,6 @@
   "FFlagShowAvatarImportDeprecationWithRedirect": "True",
   "FFlagGridVerbsFixInit": "True",
   "FFlagAIDiffMessageJSONVariantTypeMatchesPropertyType": "True",
-  "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagEnablePath2DSelectedControlPointPropertyEditor": "True",
   "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagEnableConnectivityDiagnosticTelemetry": "False",
