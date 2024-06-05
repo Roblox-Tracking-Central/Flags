@@ -12561,7 +12561,6 @@
   "FFlagGuiObjectMobilePressHoverStateFix": "True",
   "FFlagAudioDeferredDeletionUseLockfreeDataStructures3": "True",
   "DFFlagCreatorBanStatusData": "True",
-  "FFlagReduceDirtyFlagSettings": "True",
   "FFlagDevFrameworkNestedItemSavesFix": "True",
   "FFlagTextureManagerInitExternalRefWaiting": "True",
   "FFlagCAPMarkdownRendererComponent": "True",
