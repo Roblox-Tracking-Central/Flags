@@ -143,6 +143,8 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
+  "AxisAdornmentGrabSize": "12",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -221,8 +223,6 @@
   "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "AllowVideoPreRoll": "True",
-  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -537,5 +537,7 @@
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
-  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-05T19:30:58"
+  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-05T19:30:58",
+  "FFlagVoxelGridNew4_PlaceFilter": "True;12048809161;8655158217",
+  "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217"
 }

@@ -12569,6 +12569,7 @@
   "FFlagOmniSearchAutoTabIXP": "True",
   "FFlagLuaAppBacktraceReportDiscovery": "True",
   "FFlagStudioFixLowMemoryWarningDialogButtonRoles_Rollout": "True;60;2024-06-05T19:39:05",
+  "FFlagPath2DFixCrashWithInvalidParent_Rollout": "True;60;2024-06-05T19:54:29",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
