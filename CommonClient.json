@@ -12562,7 +12562,7 @@
   "FFlagAudioDeferredDeletionUseLockfreeDataStructures3": "True",
   "DFFlagCreatorBanStatusData": "True",
   "FFlagDevFrameworkNestedItemSavesFix": "True",
-  "FFlagTextureManagerInitExternalRefWaiting": "True",
+  "FFlagTextureManagerInitExternalRefWaiting": "False",
   "FFlagCAPMarkdownRendererComponent": "True",
   "FFlagSetDbgInfoD3D11": "True",
   "FFlagEnableBundleItemDetailHttpLink": "True",
