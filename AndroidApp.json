@@ -667,5 +667,6 @@
   "DFFlagCLI106369": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "FFlagRuntimeEnabled5_Rollout": "True;60;2024-06-05T16:39:31"
+  "FIntDebugFakeTotalMemoryAvailableMB": "1000",
+  "FFlagRuntimeEnabled5": "True"
 }

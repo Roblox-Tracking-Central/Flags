@@ -533,5 +533,6 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "DFFlagFbxAddAnimationEndTimeEpsilon": "True"
+  "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
+  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-05T18:11:23"
 }
