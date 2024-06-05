@@ -665,5 +665,6 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "DFFlagCLI106369": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
-  "FFlagLuaAppSocialLibUseLazyRequire": "True"
+  "FFlagLuaAppSocialLibUseLazyRequire": "True",
+  "FFlagRuntimeEnabled5_Rollout": "True;60;2024-06-05T16:39:31"
 }
