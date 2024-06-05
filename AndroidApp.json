@@ -652,7 +652,7 @@
   "FFlagUseMultiPageSignupTextOnAddAuthMethodPage": "True",
   "FFlagEnableMultiPageSignupExperimentRelease2": "True",
   "FFlagPasskeySignupEnabled5": "True",
-  "FStringRenderIGGPUWhitelistAndroid": "PowerVR Rogue GE8320",
+  "FStringRenderIGGPUWhitelistAndroid": "PowerVR Rogue GE8320|PowerVR Rogue GE8322|PowerVR Rogue GE8100",
   "FFlagShouldEnableAuthBirthdayBarUpdates": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagConditionallyFireAuthenticatedCredentials": "True",
@@ -667,6 +667,5 @@
   "DFFlagCLI106369": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "FStringRenderIGGPUWhitelistAndroid_Rollout": "PowerVR Rogue GE8320|PowerVR Rogue GE8322|PowerVR Rogue GE8100;60;2024-06-05T20:05:36",
   "FFlagRuntimeEnabled5": "True"
 }

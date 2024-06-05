@@ -12576,6 +12576,8 @@
   "FFlagFixSensitivityTextPrecision": "True",
   "FFlagPath2DFixCrashWithInvalidParent": "True",
   "FFlagReduceDirtyFlagSettings": "True",
+  "FFlagEnableContactsMemPool_Rollout": "True;60;2024-06-05T21:37:40",
+  "FFlagEnableConnectivitySupport_Rollout": "True;60;2024-06-05T21:39:01",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
