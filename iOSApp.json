@@ -629,8 +629,8 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "FFlagOmniItemsRowDataEnabled2_Rollout": "True;60;2024-06-04T22:57:32",
   "FIntFeedItemRowDataCounterThrottle": "1000",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
-  "FFlagAutoSearchLoadingTimeEvent": "True"
+  "FFlagAutoSearchLoadingTimeEvent": "True",
+  "FFlagOmniItemsRowDataEnabled2": "True"
 }
