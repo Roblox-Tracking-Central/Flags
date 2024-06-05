@@ -111,5 +111,8 @@
   "FFlagColorPickerSliderEpsilon2": "True",
   "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523",
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
-  "FFlagAXCatalogRefreshEnabled": "True"
+  "FFlagAXCatalogRefreshEnabled": "True",
+  "FFlagRemoveCaptureWatermark_Rollout": "True;60;2024-06-05T20:24:00",
+  "FFlagScreenshotHudRemoveWatermark_Rollout": "True;60;2024-06-05T20:30:02",
+  "FFlagDeepLinkEventReceiverAnalyticsEvent_Rollout": "True;60;2024-06-05T20:30:14"
 }

@@ -145,6 +145,7 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
   "FFlagFixThumbnailVideoStreamCrash_Rollout": "True;30;2024-06-05T19:47:03",
   "FFlagVideoResolutionWorkaround_Rollout": "True;30;2024-06-05T19:48:10",
+  "FFlagNewCountCollisionGeometryTypeUsage_Rollout": "True;60;2024-06-05T20:30:43",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
