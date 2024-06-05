@@ -12568,6 +12568,7 @@
   "FFlagEnableBundleItemDetailHttpLink": "True",
   "FFlagDualWriteSubFlowDurationToV2Stats": "True",
   "FFlagOmniSearchAutoTabIXP": "True",
+  "DFFlagCLI102833PrelimTelemetry_Rollout": "True;60;2024-06-05T16:23:56",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
