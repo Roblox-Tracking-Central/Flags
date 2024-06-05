@@ -221,12 +221,12 @@
   "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "FFlagMoveCurrentSearchTypeToState_v2_Rollout": "True;60;2024-06-05T21:35:05",
-  "FFlagAutoSearchLoadingTimeEvent_Rollout": "True;60;2024-06-05T21:37:58",
-  "FFlagGraphicsMetalShaderChecks_Rollout": "True;60;2024-06-05T21:38:48",
   "FFlagRemoveCaptureWatermark": "True",
   "FFlagScreenshotHudRemoveWatermark": "True",
   "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
+  "FFlagMoveCurrentSearchTypeToState_v2": "True",
+  "FFlagAutoSearchLoadingTimeEvent": "True",
+  "FFlagGraphicsMetalShaderChecks": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -543,5 +543,5 @@
   "FFlagVoxelGridNew4_PlaceFilter": "True;12048809161;8655158217",
   "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
   "DFFlagTrackViewabilityStatsWhenAdOnScreen": "True",
-  "FFlagEnableExperienceCoordinator_Rollout": "True;60;2024-06-05T21:45:50"
+  "FFlagEnableExperienceCoordinator": "True"
 }
