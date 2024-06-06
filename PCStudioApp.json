@@ -841,5 +841,6 @@
   "FIntEventDidWakeThrottling": "10000",
   "FIntEventMonitorIsOffThrottling": "10000",
   "FIntEventMonitorIsOnThrottling": "10000",
-  "FIntEventWillSleepThrottling": "10000"
+  "FIntEventWillSleepThrottling": "10000",
+  "FFlagFixHangOnMonitorThreadExit_Rollout": "True;1;2024-06-06T17:00:16"
 }

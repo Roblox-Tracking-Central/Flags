@@ -840,5 +840,6 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagPathEditorControlPointVisualImprovements2": "True",
   "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
-  "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000"
+  "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
+  "FFlagFixHangOnMonitorThreadExit_Rollout": "True;1;2024-06-06T17:00:16"
 }

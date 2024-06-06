@@ -630,5 +630,6 @@
   "FIntFeedItemRowDataCounterThrottle": "1000",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAutoSearchLoadingTimeEvent": "True",
-  "FFlagOmniItemsRowDataEnabled2": "True"
+  "FFlagOmniItemsRowDataEnabled2": "True",
+  "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-06T17:06:47"
 }
