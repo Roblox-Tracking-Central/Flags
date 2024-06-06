@@ -228,6 +228,7 @@
   "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAutoSearchLoadingTimeEvent": "True",
+  "FFlagFastClusterUpdateDurationTelemetrySendOnLeave_Rollout": "True;5;2024-06-06T17:33:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -540,7 +541,7 @@
   "FFlagVoxelGridNew4_PlaceFilter": "True;12048809161;8655158217",
   "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
   "DFFlagTrackViewabilityStatsWhenAdOnScreen": "True",
-  "FFlagFixHangOnMonitorThreadExit_Rollout": "True;1;2024-06-06T17:00:16",
   "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-06T17:06:47",
-  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000"
+  "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
+  "FFlagFixHangOnMonitorThreadExit": "True"
 }

@@ -829,6 +829,7 @@
   "FFlagVoiceChatAddDataChannelToSubConnection2": "False",
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
+  "FFlagFastClusterUpdateDurationTelemetrySendOnLeave_Rollout": "True;5;2024-06-06T17:33:14",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
@@ -842,5 +843,5 @@
   "FIntEventMonitorIsOffThrottling": "10000",
   "FIntEventMonitorIsOnThrottling": "10000",
   "FIntEventWillSleepThrottling": "10000",
-  "FFlagFixHangOnMonitorThreadExit_Rollout": "True;1;2024-06-06T17:00:16"
+  "FFlagFixHangOnMonitorThreadExit": "True"
 }

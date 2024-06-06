@@ -830,6 +830,7 @@
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagGraphicsMetalShaderChecks": "True",
+  "FFlagFastClusterUpdateDurationTelemetrySendOnLeave_Rollout": "True;5;2024-06-06T17:33:14",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
@@ -841,5 +842,5 @@
   "FFlagPathEditorControlPointVisualImprovements2": "True",
   "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
   "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
-  "FFlagFixHangOnMonitorThreadExit_Rollout": "True;1;2024-06-06T17:00:16"
+  "FFlagFixHangOnMonitorThreadExit": "True"
 }
