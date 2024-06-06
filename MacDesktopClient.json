@@ -546,7 +546,6 @@
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
-  "FFlagVoxelGridNew4_PlaceFilter": "True;12048809161;8655158217;5233782396",
   "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
   "DFFlagTrackViewabilityStatsWhenAdOnScreen": "True",
   "FFlagEnableExperienceCoordinator": "True",
