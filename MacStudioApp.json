@@ -836,7 +836,7 @@
   "FFlagFastClusterUpdateDurationTelemetrySendOnLeave": "True",
   "FFlagFastClusterUpdateDurationTelemetry": "True",
   "FIntThrottleParticipantsUpdateMs": "500",
-  "DFIntFastClusterUpdateDurationTelemetryThrottlePerTenThousand_Rollout": "100;60;2024-06-06T20:11:09",
+  "DFIntFastClusterUpdateDurationTelemetryThrottlePerTenThousand": "100",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
