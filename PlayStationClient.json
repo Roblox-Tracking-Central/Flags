@@ -143,7 +143,6 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
-  "FFlagStudioDisallowUnboundedYields_Rollout": "True;60;2024-06-06T17:23:44",
   "FFlagSTUDIOPLAT34381AddExtraStatsToStudioCrashDetails_Rollout": "True;60;2024-06-06T17:58:57",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",

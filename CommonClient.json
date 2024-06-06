@@ -12591,6 +12591,7 @@
   "FFlagCoreScriptsDynamicDefaultDeviceType_Rollout": "True;60;2024-06-06T18:30:02",
   "DFFlagSimEnableFastSpanningTreeTeardownReport_Rollout": "True;60;2024-06-06T18:36:15",
   "FFlagSimCSG3WeakDMPointer_Rollout": "True;60;2024-06-06T18:40:32",
+  "FFlagStudioDisallowUnboundedYields": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
