@@ -782,6 +782,7 @@
   "FStringStudioEmergencyMessageV4_Rollout": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjI2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;60;2024-06-06T17:45:08",
   "FFlagLuauVmSplitDoarith_Rollout": "True;60;2024-06-06T17:51:19",
   "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-06T18:13:38",
+  "FFlagAmpersandsInInstanceNames_Rollout": "True;60;2024-06-06T18:39:46",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

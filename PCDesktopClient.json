@@ -545,7 +545,9 @@
   "FFlagVoxelGridNew4_PlaceFilter": "True;12048809161;8655158217",
   "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
   "DFFlagTrackViewabilityStatsWhenAdOnScreen": "True",
-  "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-06T17:06:47",
   "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
-  "FFlagFixHangOnMonitorThreadExit": "True"
+  "FFlagFixHangOnMonitorThreadExit": "True",
+  "FFlagOmniItemsRowDataEnabled2_Rollout": "True;60;2024-06-06T18:38:35",
+  "FIntFeedItemRowDataCounterThrottle_Rollout": "1000;60;2024-06-06T18:40:19",
+  "FFlagLuaAppResponsiveHooks": "True"
 }
