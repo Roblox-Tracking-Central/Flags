@@ -552,5 +552,6 @@
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FFlagLuaAppResponsiveHooks": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
-  "FFlagOmniItemsRowDataEnabled2": "True"
+  "FFlagOmniItemsRowDataEnabled2": "True",
+  "FFlagEnableContactsMemPool_Rollout": "False;60;2024-06-06T22:37:36"
 }
