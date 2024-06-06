@@ -143,7 +143,7 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
-  "FFlagSTUDIOPLAT34381AddExtraStatsToStudioCrashDetails_Rollout": "True;60;2024-06-06T17:58:57",
+  "FFlagItemsReceivedAlert_Rollout": "True;60;2024-06-06T19:33:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

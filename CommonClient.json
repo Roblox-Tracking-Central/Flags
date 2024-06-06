@@ -12592,6 +12592,7 @@
   "DFFlagSimEnableFastSpanningTreeTeardownReport_Rollout": "True;60;2024-06-06T18:36:15",
   "FFlagSimCSG3WeakDMPointer_Rollout": "True;60;2024-06-06T18:40:32",
   "FFlagStudioDisallowUnboundedYields": "True",
+  "FFlagSTUDIOPLAT34381AddExtraStatsToStudioCrashDetails": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
