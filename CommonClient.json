@@ -12588,6 +12588,7 @@
   "DFFlagHttpApplyDecompressionMultiplier": "True",
   "DFFlagCLI83296CheckRuppTokenLength_PlaceFilter": "True;151748951",
   "FFlagWindowsClientCrashpadRollout_Rollout": "True;1;2024-06-06T17:35:02",
+  "FFlagLuauCodegenAnalyzeHostVectorOps": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
