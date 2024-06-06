@@ -344,5 +344,6 @@
   "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-06T17:06:47"
+  "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-06T17:06:47",
+  "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-06T18:13:38"
 }

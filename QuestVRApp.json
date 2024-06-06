@@ -669,6 +669,7 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FFlagRuntimeEnabled5": "True",
   "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-06T17:06:47",
+  "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-06T18:13:38",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
