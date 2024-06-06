@@ -144,6 +144,7 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagLuauCodegenAnalyzeHostVectorOps_Rollout": "True;30;2024-06-06T16:44:48",
+  "FFlagStudioDisallowUnboundedYields_Rollout": "True;60;2024-06-06T17:23:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
