@@ -830,6 +830,7 @@
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagGraphicsMetalShaderChecks": "True",
+  "FFlagVoiceChatAddDataChannelToSubConnection2_Rollout": "False;60;2024-06-05T23:52:42",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
