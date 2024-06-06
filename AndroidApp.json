@@ -144,6 +144,7 @@
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
   "FFlagStudioDisallowUnboundedYields_Rollout": "True;60;2024-06-06T17:23:44",
+  "FFlagSTUDIOPLAT34381AddExtraStatsToStudioCrashDetails_Rollout": "True;60;2024-06-06T17:58:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
