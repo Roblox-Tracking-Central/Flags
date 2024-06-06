@@ -143,8 +143,6 @@
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
-  "FFlagItemsReceivedAlert_Rollout": "True;60;2024-06-06T19:33:17",
-  "FFlagRenderEnableIGCounters_Rollout": "True;30;2024-06-06T19:55:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -671,6 +669,6 @@
   "FFlagLuaAppResponsiveHooks": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FStringRenderIGGPUWhitelistAndroid_Rollout": "PowerVR Rogue GE8320|PowerVR Rogue GE8322|PowerVR Rogue GE8100|Mali-G52|Mali-G52 MC2;60;2024-06-06T19:52:54",
-  "FFlagFFlagMoveCurrentSearchTypeToState_Rollout": "True;30;2024-06-06T20:12:33",
-  "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True"
+  "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
+  "FFlagFFlagMoveCurrentSearchTypeToState": "True"
 }

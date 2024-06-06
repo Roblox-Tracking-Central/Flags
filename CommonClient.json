@@ -12597,6 +12597,8 @@
   "FIntShareCaptureUploadToApiRolloutLimit_Rollout": "1000;30;2024-06-06T20:39:12",
   "FFlagCaptureServiceRequestSignature_Rollout": "True;30;2024-06-06T20:39:16",
   "FFlagSimSolverOptimizeIslandizerManager3_Rollout": "True;60;2024-06-06T20:40:45",
+  "FFlagRenderEnableIGCounters": "True",
+  "FFlagItemsReceivedAlert": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

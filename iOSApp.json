@@ -143,8 +143,6 @@
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
-  "FFlagItemsReceivedAlert_Rollout": "True;60;2024-06-06T19:33:17",
-  "FFlagRenderEnableIGCounters_Rollout": "True;30;2024-06-06T19:55:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -634,6 +632,6 @@
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagLuaAppResponsiveHooks": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True",
-  "FFlagFFlagMoveCurrentSearchTypeToState_Rollout": "True;30;2024-06-06T20:12:33",
-  "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True"
+  "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
+  "FFlagFFlagMoveCurrentSearchTypeToState": "True"
 }
