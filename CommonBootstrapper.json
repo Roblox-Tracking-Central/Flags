@@ -115,5 +115,5 @@
   "FFlagRemoveCaptureWatermark": "True",
   "FFlagScreenshotHudRemoveWatermark": "True",
   "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
-  "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-06T18:13:38"
+  "FFlagUIBloxUseFullPageModalZIndex": "True"
 }
