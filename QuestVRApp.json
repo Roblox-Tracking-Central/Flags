@@ -670,6 +670,7 @@
   "FFlagRuntimeEnabled5": "True",
   "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-06T18:13:38",
   "FFlagLuaAppResponsiveHooks": "True",
+  "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2_Rollout": "True;60;2024-06-06T18:50:23",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
