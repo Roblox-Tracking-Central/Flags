@@ -781,6 +781,7 @@
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "DFFlagInstanceInserterOnlyMoveInWorld": "True",
   "FFlagAmpersandsInInstanceNames": "True",
+  "FFlagDefaultToSelectTool_Rollout": "True;60;2024-06-06T21:41:08",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
