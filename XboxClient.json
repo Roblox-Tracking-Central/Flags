@@ -145,6 +145,7 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableContactsMemPool": "True",
   "DFFlagEnableFirstFrameVideoImpression_Rollout": "True;60;2024-06-07T16:25:34",
+  "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-07T16:58:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

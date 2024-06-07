@@ -12604,6 +12604,7 @@
   "FFlagFacialAnimationStreamingClearAllConnectionsFix": "True",
   "FFlagGraphicsReportFbSize": "True",
   "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-06-07T16:26:19",
+  "FFlagAXFixClosingTryOnManagerPeekViewForLooks_Rollout": "True;60;2024-06-07T17:06:41",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
