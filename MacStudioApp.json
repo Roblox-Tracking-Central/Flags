@@ -829,7 +829,6 @@
   "FFlagBootcampCLI107928": "False",
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
-  "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagVoiceChatAddDataChannelToSubConnection2": "False",
   "FFlagVoiceChatFixRejoin": "True",

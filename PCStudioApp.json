@@ -829,7 +829,6 @@
   "FFlagAdIdentificationFixes": "True",
   "FFlagGameBasicSettingsFramerateCap5": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagVoiceChatAddDataChannelToSubConnection2": "False",
   "FFlagVoiceChatFixRejoin": "True",

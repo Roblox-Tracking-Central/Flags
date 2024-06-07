@@ -210,7 +210,6 @@
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAimThereIsNoGameUpload": "True",
-  "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
