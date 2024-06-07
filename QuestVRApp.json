@@ -668,7 +668,6 @@
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "FFlagRenderEnableGlobalInstancingVulkan": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

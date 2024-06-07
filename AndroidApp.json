@@ -667,6 +667,5 @@
   "FFlagLuaAppResponsiveHooks": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
-  "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "FFlagRenderEnableGlobalInstancingVulkan": "True"
+  "FFlagFFlagMoveCurrentSearchTypeToState": "True"
 }
