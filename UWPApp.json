@@ -339,7 +339,6 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagGameBasicSettingsFramerateCap5": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FFlagLuaAppResponsiveHooks": "True",

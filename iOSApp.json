@@ -623,7 +623,6 @@
   "FFlagScreenshotHudRemoveWatermark": "True",
   "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
   "FFlagVoiceChatFixRejoin": "True",
-  "DFFlagVoiceSubscribeConnectionStateTelemetry": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
