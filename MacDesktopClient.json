@@ -547,7 +547,6 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
   "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
-  "FFlagEnableExperienceCoordinator": "True",
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FFlagLuaAppResponsiveHooks": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
