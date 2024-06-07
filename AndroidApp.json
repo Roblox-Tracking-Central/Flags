@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
+  "FFlagEnableContactsMemPool": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -669,5 +670,5 @@
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "FFlagRenderEnableGlobalInstancingVulkan_Rollout": "True;60;2024-06-06T23:32:11"
+  "FFlagRenderEnableGlobalInstancingVulkan": "True"
 }

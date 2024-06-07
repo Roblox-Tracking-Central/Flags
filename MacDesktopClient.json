@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
+  "FFlagEnableContactsMemPool": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -550,6 +551,5 @@
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FFlagLuaAppResponsiveHooks": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
-  "FFlagOmniItemsRowDataEnabled2": "True",
-  "FFlagEnableContactsMemPool_Rollout": "False;60;2024-06-06T22:37:36"
+  "FFlagOmniItemsRowDataEnabled2": "True"
 }

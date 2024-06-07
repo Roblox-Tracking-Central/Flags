@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
+  "FFlagEnableContactsMemPool": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
