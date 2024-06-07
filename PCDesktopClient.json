@@ -146,6 +146,7 @@
   "FFlagEnableContactsMemPool": "True",
   "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagLuauVmSplitDoarith_Rollout": "True;60;2024-06-07T17:09:49",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
