@@ -144,7 +144,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableContactsMemPool": "True",
-  "DFFlagEnableFirstFrameVideoImpression_Rollout": "True;60;2024-06-07T16:25:34",
   "AllowVideoPreRoll": "True",
   "FFlagLuauVmSplitDoarith_Rollout": "True;60;2024-06-07T17:09:49",
   "AxisAdornmentGrabSize": "12",
