@@ -12614,6 +12614,7 @@
   "FFlagAXFixClosingTryOnManagerPeekViewForLooks": "True",
   "FFlagLuauVmSplitDoarith": "True",
   "DFFlagSimFastSpanningTreeTeardown_Rollout": "True;60;2024-06-07T18:47:51",
+  "FFlagFixDialogInstanceGamepadImages_Rollout": "True;60;2024-06-07T18:57:57",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
