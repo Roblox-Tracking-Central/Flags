@@ -143,7 +143,6 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
-  "FFlagEnableContactsMemPool": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -340,6 +339,6 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
-  "FFlagAXPersistentCatalogFiltersIXPEnabled2_Rollout": "True;60;2024-06-10T18:51:17",
-  "FFlagLuaAppHomeVngAppUpsell": "True"
+  "FFlagLuaAppHomeVngAppUpsell": "True",
+  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True"
 }

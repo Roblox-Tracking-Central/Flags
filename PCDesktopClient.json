@@ -143,7 +143,6 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
-  "FFlagEnableContactsMemPool": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -228,8 +227,8 @@
   "FIntThrottleParticipantsUpdateMs": "500",
   "DFIntFastClusterUpdateDurationTelemetryThrottlePerTenThousand": "100",
   "FFlagVideoCodecRemoveInProgressFrameCheck": "True",
-  "FFlagAXPersistentCatalogFiltersIXPEnabled2_Rollout": "True;60;2024-06-10T18:51:17",
   "FFlagLuaAppHomeVngAppUpsell": "True",
+  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -540,5 +539,6 @@
   "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
-  "FFlagOmniItemsRowDataEnabled2": "True"
+  "FFlagOmniItemsRowDataEnabled2": "True",
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-10T20:26:10"
 }
