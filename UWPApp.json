@@ -144,8 +144,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableContactsMemPool": "True",
-  "DFFlagTestmodeErrorMessage_Rollout": "True;60;2024-06-10T16:44:21",
-  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-10T16:50:25",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -341,6 +339,7 @@
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True",
-  "FFlagMoveCurrentSearchTypeToState_v2_Rollout": "True;60;2024-06-10T16:58:46",
-  "FFlagLuaAppHomeVngAppUpsell_Rollout": "True;30;2024-06-10T17:59:05"
+  "FFlagLuaAppHomeVngAppUpsell_Rollout": "True;30;2024-06-10T17:59:05",
+  "FFlagMoveCurrentSearchTypeToState_v2": "True",
+  "FFlagAXPersistentCatalogFiltersIXPEnabled2_Rollout": "True;60;2024-06-10T18:51:17"
 }
