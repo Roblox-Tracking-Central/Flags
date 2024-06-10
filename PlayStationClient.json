@@ -144,7 +144,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-10T21:29:27",
-  "DFStringTeamCreateNewPlaceUploadOptInPlaceIds_Rollout": "16358775511;1;2024-06-10T21:35:06",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

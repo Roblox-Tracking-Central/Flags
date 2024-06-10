@@ -112,9 +112,6 @@
   "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523",
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
-  "FFlagRemoveCaptureWatermark": "True",
-  "FFlagScreenshotHudRemoveWatermark": "True",
-  "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True"

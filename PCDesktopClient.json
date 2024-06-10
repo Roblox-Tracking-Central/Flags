@@ -144,7 +144,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "DFStringTeamCreateNewPlaceUploadOptInPlaceIds_Rollout": "16358775511;1;2024-06-10T21:35:06",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -216,9 +215,6 @@
   "FFlagVoiceChatAddDataChannelToSubConnection2": "False",
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "FFlagRemoveCaptureWatermark": "True",
-  "FFlagScreenshotHudRemoveWatermark": "True",
-  "FFlagDeepLinkEventReceiverAnalyticsEvent": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAutoSearchLoadingTimeEvent": "True",
   "DFIntFastClusterUpdateDurationTelemetryCountThreshold": "10000",
@@ -541,5 +537,5 @@
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
   "FFlagOmniItemsRowDataEnabled2": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-10T20:26:10"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
 }
