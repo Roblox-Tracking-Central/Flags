@@ -663,5 +663,5 @@
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "DFFlagHttpAppSuspendedTelemetry_Rollout": "True;30;2024-06-10T18:56:31"
+  "DFFlagHttpAppSuspendedTelemetry": "True"
 }
