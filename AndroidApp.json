@@ -664,5 +664,6 @@
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "ExposeAppSuspended": "true",
-  "DFFlagHttpReportWhenAppSuspended_Rollout": "True;30;2024-06-10T20:38:23"
+  "DFFlagHttpReportWhenAppSuspended_Rollout": "True;30;2024-06-10T20:38:23",
+  "DFFlagReportAppSuspended_Rollout": "True;30;2024-06-10T21:07:19"
 }
