@@ -222,7 +222,6 @@
   "DFIntFastClusterUpdateDurationTelemetryCountThreshold": "10000",
   "FFlagFastClusterUpdateDurationTelemetrySendOnLeave": "True",
   "FFlagFastClusterUpdateDurationTelemetry": "True",
-  "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FIntThrottleParticipantsUpdateMs": "500",
   "DFIntFastClusterUpdateDurationTelemetryThrottlePerTenThousand": "100",
   "FFlagVideoCodecRemoveInProgressFrameCheck": "True",

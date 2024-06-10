@@ -143,7 +143,6 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
-  "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-10T21:29:27",
   "FFlagLooksAnalyticsEmptyItemsFixes_Rollout": "True;60;2024-06-10T22:31:12",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
