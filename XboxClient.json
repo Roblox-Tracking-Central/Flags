@@ -146,6 +146,8 @@
   "FFlagEnableContactsMemPool": "True",
   "FFlagLuauCodegenSplitDoarith_Rollout": "True;60;2024-06-10T16:16:03",
   "DFFlagEnableSetClientDeviceRam_Rollout": "True;60;2024-06-10T16:16:27",
+  "DFFlagTestmodeErrorMessage_Rollout": "True;60;2024-06-10T16:44:21",
+  "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-10T16:50:25",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -438,6 +440,5 @@
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
-  "FFlagLuaAppResponsiveHooks": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }
