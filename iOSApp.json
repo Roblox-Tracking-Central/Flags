@@ -591,7 +591,6 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagContactImporterManagerPolicyFix_v1": "True",
   "FFlagRemoveCaptureWatermark": "True",
-  "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagAXWidgetsByContext": "False",
   "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",

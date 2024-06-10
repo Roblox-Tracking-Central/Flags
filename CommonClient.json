@@ -12629,6 +12629,7 @@
   "FFlagOpenURLUseRequestResponsev2_Rollout": "True;60;2024-06-10T17:19:05",
   "FFlagLuauForbidAliasNamedTypeof_Rollout": "True;60;2024-06-10T17:33:14",
   "FFlagDevFrameworkGetCellPaddingError_Rollout": "True;60;2024-06-10T17:40:16",
+  "FFlagLuaAppRefactorOpenGameDetail": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

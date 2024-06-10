@@ -431,7 +431,6 @@
   "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
-  "FFlagLuaAppRefactorOpenGameDetail": "True",
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",

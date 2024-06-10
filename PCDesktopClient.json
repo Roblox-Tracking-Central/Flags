@@ -210,7 +210,6 @@
   "FFlagAdIdentificationFixes": "True",
   "FFlagGameBasicSettingsFramerateCap5": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAimThereIsNoGameUpload": "True",

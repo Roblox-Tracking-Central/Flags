@@ -211,7 +211,6 @@
   "FFlagBootcampCLI107928": "False",
   "FFlagVoxelGridFixRegionChanged": "True",
   "FFlagAdIdentificationFixes": "True",
-  "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagKeepZeroInfluenceBones": "True",
   "FFlagAimThereIsNoGameUpload": "True",

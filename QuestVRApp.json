@@ -637,7 +637,6 @@
   "FStringUserSearchLoadingTimeNextPageFailedStats": "UserSearchLoadingTimeNextPageFailedAndroid",
   "FFlagConvertXiaomiSdk33VoiceRecord": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "FFlagLuaAppRefactorOpenGameDetail": "True",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "DFFlagSessionTrackingAndroidStorageData": "True",

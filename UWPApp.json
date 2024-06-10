@@ -331,7 +331,6 @@
   "FFlagPlatformEventEnabled2": "False",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "DFFlagEnableSetClientDeviceRam": "True",
-  "FFlagLuaAppRefactorOpenGameDetail": "True",
   "DFIntTaskSchedulerJobInGameThreads": "1",
   "DFIntTaskSchedulerJobInitThreads": "2",
   "FFlagLuaAppShowOtaPackagesLoaded": "True",
