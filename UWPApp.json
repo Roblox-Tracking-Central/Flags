@@ -344,5 +344,6 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "FFlagUIBloxUseFullPageModalZIndex": "True"
+  "FFlagUIBloxUseFullPageModalZIndex": "True",
+  "FFlagMoveCurrentSearchTypeToState_v2_Rollout": "True;60;2024-06-10T16:58:46"
 }
