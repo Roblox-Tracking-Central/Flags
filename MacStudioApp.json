@@ -145,6 +145,7 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableContactsMemPool": "True",
   "AllowVideoPreRoll": "True",
+  "DFFlagEnableSetClientDeviceRam_Rollout": "True;60;2024-06-10T16:16:27",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -848,5 +849,6 @@
   "FFlagPathEditorControlPointVisualImprovements2": "True",
   "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
   "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
-  "FFlagFixHangOnMonitorThreadExit": "True"
+  "FFlagFixHangOnMonitorThreadExit": "True",
+  "FLogStartPageIXPCheck_Rollout": "Warning,6;60;2024-06-10T16:29:15"
 }

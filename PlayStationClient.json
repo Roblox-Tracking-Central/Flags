@@ -144,6 +144,8 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableContactsMemPool": "True",
+  "FFlagLuauCodegenSplitDoarith_Rollout": "True;60;2024-06-10T16:16:03",
+  "DFFlagEnableSetClientDeviceRam_Rollout": "True;60;2024-06-10T16:16:27",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

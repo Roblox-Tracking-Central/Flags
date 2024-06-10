@@ -145,6 +145,7 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableContactsMemPool": "True",
   "AllowVideoPreRoll": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -784,7 +785,6 @@
   "FFlagPasteVerbsUseInstanceInserter4": "True",
   "FFlagAddInsertionNavData": "True",
   "FFlagAIDiffMessageFeatureActivity": "True",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -849,5 +849,6 @@
   "FIntEventMonitorIsOffThrottling": "10000",
   "FIntEventMonitorIsOnThrottling": "10000",
   "FIntEventWillSleepThrottling": "10000",
-  "FFlagFixHangOnMonitorThreadExit": "True"
+  "FFlagFixHangOnMonitorThreadExit": "True",
+  "FLogStartPageIXPCheck_Rollout": "Warning,6;60;2024-06-10T16:29:15"
 }

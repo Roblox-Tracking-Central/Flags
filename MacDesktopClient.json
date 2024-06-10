@@ -144,6 +144,8 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagEnableContactsMemPool": "False",
+  "FFlagLuauCodegenSplitDoarith_Rollout": "True;60;2024-06-10T16:16:03",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -231,7 +233,6 @@
   "FFlagUIBloxUseFullPageModalZIndex": "True",
   "FIntThrottleParticipantsUpdateMs": "500",
   "DFIntFastClusterUpdateDurationTelemetryThrottlePerTenThousand": "100",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -546,5 +547,6 @@
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FFlagLuaAppResponsiveHooks": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
-  "FFlagOmniItemsRowDataEnabled2": "True"
+  "FFlagOmniItemsRowDataEnabled2": "True",
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-10T16:29:30"
 }
