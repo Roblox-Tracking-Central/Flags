@@ -12645,6 +12645,8 @@
   "FFlagTextureGeneratorReturnPartGroupSkipInvalidParts_Rollout": "True;60;2024-06-10T19:20:48",
   "FFlagPeekViewScrimColorOff_Rollout": "True;60;2024-06-10T19:24:14",
   "FFlagCapturesFixPromptShareDuplicateToast_Rollout": "True;60;2024-06-10T19:33:32",
+  "FFlagCaptureStorageBulkManagementM2Enabled": "True",
+  "FFlagShareCaptureUploadToApiEnabled2_Rollout": "True;60;2024-06-10T19:52:21",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

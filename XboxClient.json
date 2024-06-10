@@ -435,5 +435,6 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
   "FFlagUIBloxUseFullPageModalZIndex": "True",
-  "FFlagAXPersistentCatalogFiltersIXPEnabled2_Rollout": "True;60;2024-06-10T18:51:17"
+  "FFlagAXPersistentCatalogFiltersIXPEnabled2_Rollout": "True;60;2024-06-10T18:51:17",
+  "FFlagFFlagMoveCurrentSearchTypeToState_Rollout": "True;60;2024-06-10T19:45:20"
 }
