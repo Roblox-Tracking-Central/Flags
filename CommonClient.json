@@ -12625,6 +12625,8 @@
   "FFlagUnregisterEditorLogic_Rollout": "True;60;2024-06-10T16:38:21",
   "DFIntVideoStatsInfluxReportHundredthsPercent_Rollout": "2;60;2024-06-10T16:43:36",
   "FFlagStudioUris_Rollout": "True;60;2024-06-10T16:57:15",
+  "FFlagVideoReportDPI_Rollout": "False;60;2024-06-10T17:17:32",
+  "FFlagOpenURLUseRequestResponsev2_Rollout": "True;60;2024-06-10T17:19:05",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
