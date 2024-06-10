@@ -664,6 +664,7 @@
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "ExposeAppSuspended": "true",
+  "DFFlagHttpReportWhenAppSuspended_Rollout": "True;30;2024-06-10T20:38:23",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

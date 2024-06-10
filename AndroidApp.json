@@ -663,5 +663,6 @@
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
   "DFFlagHttpAppSuspendedTelemetry": "True",
-  "ExposeAppSuspended": "true"
+  "ExposeAppSuspended": "true",
+  "DFFlagHttpReportWhenAppSuspended_Rollout": "True;30;2024-06-10T20:38:23"
 }
