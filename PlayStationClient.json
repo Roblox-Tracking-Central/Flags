@@ -148,6 +148,7 @@
   "DFFlagEnableSetClientDeviceRam_Rollout": "True;60;2024-06-10T16:16:27",
   "DFFlagTestmodeErrorMessage_Rollout": "True;60;2024-06-10T16:44:21",
   "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-10T16:50:25",
+  "DFFlagRefactorAssetsUploadApiResultForCounterStats_Rollout": "True;10;2024-06-10T17:27:37",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
