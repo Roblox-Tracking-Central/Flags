@@ -434,5 +434,5 @@
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-11T20:32:00"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
 }

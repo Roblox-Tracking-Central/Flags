@@ -339,5 +339,5 @@
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagLuaAppHomeVngAppUpsell": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-11T20:32:00"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
 }
