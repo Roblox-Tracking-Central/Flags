@@ -154,7 +154,6 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
-  "FFlagLooksAnalyticsEmptyItemsFixes": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
