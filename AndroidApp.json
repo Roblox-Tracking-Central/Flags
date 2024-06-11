@@ -668,5 +668,9 @@
   "DFFlagReportAppSuspended": "True",
   "FStringDisableAECVariantParam_Rollout": "SoftwareVoiceProcessing;60;2024-06-11T16:39:22",
   "FStringDisableAGCVariantParam_Rollout": "SoftwareVoiceProcessing;60;2024-06-11T16:39:22",
-  "FStringDisableNSVariantParam_Rollout": "SoftwareVoiceProcessing;60;2024-06-11T16:39:22"
+  "FStringDisableNSVariantParam_Rollout": "SoftwareVoiceProcessing;60;2024-06-11T16:39:22",
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-11T16:42:38",
+  "FStringDisableAECIxpLayer_Rollout": "Voice.AudioInputQuality;60;2024-06-11T16:47:09",
+  "FStringDisableAGCIxpLayer_Rollout": "Voice.AudioInputQuality;60;2024-06-11T16:47:09",
+  "FStringDisableNSIxpLayer_Rollout": "Voice.AudioInputQuality;60;2024-06-11T16:47:09"
 }
