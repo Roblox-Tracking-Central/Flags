@@ -12712,6 +12712,7 @@
   "FFlagRenderFixFog": "True",
   "FFlagSimCSGV3ReplaceSeparateConnectedComponents": "True",
   "FFlagUseNewTerrainBroadPhase8_PlaceFilter": "False;8908228901",
+  "FFlagSmoothClusterFixSortBug_Rollout": "True;60;2024-06-11T22:41:20",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
