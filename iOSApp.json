@@ -143,7 +143,6 @@
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
-  "FFlagLuauCodegenUseVectorHooks_Rollout": "True;30;2024-06-11T16:08:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -629,5 +628,5 @@
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-  "FIntNewBlockingUtilityRollout": "1"
+  "FIntNewBlockingUtilityRollout": "0"
 }

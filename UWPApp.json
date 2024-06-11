@@ -143,7 +143,6 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
-  "FFlagLuauCodegenUseVectorHooks_Rollout": "True;30;2024-06-11T16:08:30",
   "FIntThrottleParticipantsUpdateMs_Rollout": "500;10;2024-06-11T17:05:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
