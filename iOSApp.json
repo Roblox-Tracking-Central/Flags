@@ -628,5 +628,6 @@
   "DFFlagEnableAdsApiClientV2Endpoint": "True",
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
+  "FIntNewBlockingUtilityRollout": "1"
 }

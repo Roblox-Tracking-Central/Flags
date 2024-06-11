@@ -665,5 +665,8 @@
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "ExposeAppSuspended": "true",
   "DFFlagHttpReportWhenAppSuspended": "True",
-  "DFFlagReportAppSuspended": "True"
+  "DFFlagReportAppSuspended": "True",
+  "FStringDisableAECVariantParam_Rollout": "SoftwareVoiceProcessing;60;2024-06-11T16:39:22",
+  "FStringDisableAGCVariantParam_Rollout": "SoftwareVoiceProcessing;60;2024-06-11T16:39:22",
+  "FStringDisableNSVariantParam_Rollout": "SoftwareVoiceProcessing;60;2024-06-11T16:39:22"
 }
