@@ -12711,6 +12711,7 @@
   "FFlagVoiceChatNewClientOperationFramework": "True",
   "FFlagRenderFixFog": "True",
   "FFlagSimCSGV3ReplaceSeparateConnectedComponents": "True",
+  "FFlagUseNewTerrainBroadPhase8_PlaceFilter": "False;8908228901",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
