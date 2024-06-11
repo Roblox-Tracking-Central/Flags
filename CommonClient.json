@@ -12676,6 +12676,7 @@
   "FFlagRobloxIDEDocDisableClientPresenceCall": "True",
   "FFlagRobloxApplicationDisableClientPresenceCall": "True",
   "FFlagLuauCodegenUseVectorHooks": "True",
+  "FFlagGrassLengthCustomization_UsageMetrics_Rollout": "True;60;2024-06-11T17:31:24",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
