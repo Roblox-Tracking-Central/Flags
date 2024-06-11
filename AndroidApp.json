@@ -661,13 +661,12 @@
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "ExposeAppSuspended": "true",
   "DFFlagHttpReportWhenAppSuspended": "True",
-  "DFFlagReportAppSuspended": "True",
+  "DFFlagReportAppSuspended": "False",
   "FStringDisableAECVariantParam": "SoftwareVoiceProcessing",
   "FStringDisableAGCVariantParam": "SoftwareVoiceProcessing",
   "FStringDisableNSVariantParam": "SoftwareVoiceProcessing",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringDisableAECIxpLayer": "Voice.AudioInputQuality",
   "FStringDisableAGCIxpLayer": "Voice.AudioInputQuality",
-  "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
-  "DFFlagReportAppSuspended_Rollout": "False;10;2024-06-11T22:32:30"
+  "FStringDisableNSIxpLayer": "Voice.AudioInputQuality"
 }
