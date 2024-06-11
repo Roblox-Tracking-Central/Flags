@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
+  "FFlagGpuGeometryManagerArm4VertexShading2_Rollout": "True;60;2024-06-11T20:01:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -355,7 +356,6 @@
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",
   "FFlagRefactorAuthPageForTenFoot": "True",
-  "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagTenFootUiCategoryTabSafeArea": "True",
   "FFlagRefactorPlayerNameTag2": "True",
   "FFlagLuaAppSignUpPageRefactor": "True",
@@ -434,5 +434,6 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagFFlagMoveCurrentSearchTypeToState": "True"
+  "FFlagFFlagMoveCurrentSearchTypeToState": "True",
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-11T20:32:00"
 }

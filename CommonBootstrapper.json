@@ -109,7 +109,6 @@
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
-  "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523",
   "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",

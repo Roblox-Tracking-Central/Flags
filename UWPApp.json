@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
+  "FFlagGpuGeometryManagerArm4VertexShading2_Rollout": "True;60;2024-06-11T20:01:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -331,7 +332,6 @@
   "FFlagReuseMicroprofilerCounterBuffer": "True",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
   "FFlagColorPickerSliderEpsilon2": "True",
-  "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523",
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagGameBasicSettingsFramerateCap5": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
@@ -339,5 +339,6 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagLuaAppHomeVngAppUpsell": "True",
-  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True"
+  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-11T20:32:00"
 }

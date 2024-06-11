@@ -143,6 +143,7 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
+  "FFlagGpuGeometryManagerArm4VertexShading2_Rollout": "True;60;2024-06-11T20:01:21",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
@@ -213,7 +214,6 @@
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagExperienceDetailsPlayButtonAutoFocus10ft": "True",
   "DFFlagUseFixedMemoryStatsOrbis2": "True",
-  "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagTenFootUiSeeAll6": "True",
   "FFlagDontReportKeyboardAndMouseSupportOnStart": "True",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
@@ -276,5 +276,6 @@
   "FFlagEnablePSAuthAndHomepagePrefetch": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagLuaAppHomeVngAppUpsell": "True",
-  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True"
+  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3_Rollout": "True;60;2024-06-11T20:32:00"
 }
