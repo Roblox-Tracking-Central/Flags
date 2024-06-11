@@ -12716,6 +12716,8 @@
   "DFIntFastClusterUpdateDurationTelemetryThrottlePerTenThousand_Rollout": "100;60;2024-06-11T23:24:55",
   "FFlagFastClusterUpdateDurationTelemetrySendOnLeave_Rollout": "True;60;2024-06-11T23:24:55",
   "FFlagMaterialPickerSearchPreviewer2": "True",
+  "FFlagSSOLoggingProtocolEnabled_Rollout": "True;60;2024-06-11T23:38:59",
+  "FFlagColorPickerApplyDefaultClothing_Rollout": "True;60;2024-06-11T23:41:20",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

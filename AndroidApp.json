@@ -145,6 +145,7 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
+  "FFlagMoveCurrentSearchTypeToState_v2_Rollout": "True;30;2024-06-11T23:35:10",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "CatalogPromoAssetId": "-1",
