@@ -144,8 +144,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagReuseOldVoicePlaybackNodeOnSubRetry_Rollout": "True;60;2024-06-11T17:37:30",
-  "FFlagFastClusterUpdateDurationTelemetrySendOnLeave_Rollout": "True;5;2024-06-11T18:04:30",
-  "DFIntFastClusterUpdateDurationTelemetryCountThreshold_Rollout": "10000;5;2024-06-11T18:05:08",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

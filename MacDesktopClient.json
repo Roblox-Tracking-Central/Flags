@@ -218,8 +218,6 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAutoSearchLoadingTimeEvent": "True",
-  "DFIntFastClusterUpdateDurationTelemetryCountThreshold": "10000",
-  "FFlagFastClusterUpdateDurationTelemetrySendOnLeave": "True",
   "FFlagFastClusterUpdateDurationTelemetry": "True",
   "DFIntFastClusterUpdateDurationTelemetryThrottlePerTenThousand": "100",
   "FFlagVideoCodecRemoveInProgressFrameCheck": "True",
