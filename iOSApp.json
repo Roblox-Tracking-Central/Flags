@@ -626,5 +626,5 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FIntNewBlockingUtilityRollout": "0",
-  "FFlagLuaAppFixOtaTelemetry_Rollout": "True;30;2024-06-11T20:26:23"
+  "FFlagLuaAppFixOtaTelemetry": "True"
 }
