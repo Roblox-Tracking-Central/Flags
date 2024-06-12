@@ -12643,7 +12643,6 @@
   "DFFlagCLI108675": "True",
   "FFlagTextureGeneratorFixTooltipAnchorPoint": "True",
   "FFlagPeekViewScrimColorOff": "True",
-  "FFlagTextureGeneratorReturnPartGroupSkipInvalidParts": "True",
   "FFlagCapturesFixPromptShareDuplicateToast": "True",
   "FFlagShareCaptureUploadToApiEnabled2": "True",
   "FFlagVideoReportBufferPoolStats2": "True",
