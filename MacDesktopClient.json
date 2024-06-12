@@ -528,5 +528,8 @@
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac",
   "FFlagGraphicsMetalNoShaderRelease_Rollout": "True;60;2024-06-12T21:40:15",
-  "FFlagVideoCaptureServiceLoadDevicesAsync2": "True"
+  "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
+  "DFFlagVoiceReliabilityTelemetryEventIngest_Rollout": "True;60;2024-06-12T22:47:46",
+  "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46",
+  "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46"
 }

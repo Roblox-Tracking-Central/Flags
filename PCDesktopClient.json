@@ -210,12 +210,12 @@
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "DFIntSimSolverFixCircularRead_Rollout": "100;30;2024-06-12T21:40:46",
   "FIntOtaLoaderInfoEventHundredthsPercent2_Rollout": "1;30;2024-06-12T21:56:55",
   "FFlagLuaAppFixOtaUserIdCheck": "True",
   "FFlagLuaAppFixOtaTelemetry": "True",
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
   "FIntOtaLoaderErrorEventHundredthsPercent2_Rollout": "1;30;2024-06-12T22:39:00",
+  "DFIntSimSolverFixCircularRead": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -524,5 +524,8 @@
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneWindows",
-  "FFlagVideoCaptureServiceLoadDevicesAsync2": "True"
+  "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
+  "DFFlagVoiceReliabilityTelemetryEventIngest_Rollout": "True;60;2024-06-12T22:47:46",
+  "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46",
+  "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46"
 }

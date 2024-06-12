@@ -818,7 +818,7 @@
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagVoiceChatAddDataChannelToSubConnection2": "False",
   "FFlagVoiceChatFixRejoin": "True",
-  "DFIntSimSolverFixCircularRead_Rollout": "100;30;2024-06-12T21:40:46",
+  "DFIntSimSolverFixCircularRead": "100",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
