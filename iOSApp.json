@@ -595,7 +595,6 @@
   "FFlagColorPickerSliderEpsilon2": "True",
   "FFlagShutdownOnIOS": "True",
   "FFlagEnableNotificationServiceExtension": "True",
-  "DFFlagReportTopLevelJobsTime": "True",
   "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming": "True",
   "FFlagEnableGothamCleanUp": "True",
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
