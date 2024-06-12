@@ -526,5 +526,6 @@
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac",
-  "FFlagVideoCaptureServiceLoadDevicesAsync2_Rollout": "True;60;2024-06-12T20:34:50"
+  "FFlagVideoCaptureServiceLoadDevicesAsync2_Rollout": "True;60;2024-06-12T20:34:50",
+  "FFlagGraphicsMetalNoShaderRelease_Rollout": "True;60;2024-06-12T21:40:15"
 }

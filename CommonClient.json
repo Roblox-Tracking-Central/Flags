@@ -12739,6 +12739,7 @@
   "DFIntGjkBulkTileThreshold_Rollout": "1000;30;2024-06-12T21:16:53",
   "FFlagUIListLayoutEnableFlex3_Rollout": "True;60;2024-06-12T21:18:45",
   "FFlagVideoThumbnailGenerator2": "True",
+  "FFlagSimSolverImprovedAeroForce2_Rollout": "True;60;2024-06-12T21:35:08",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
