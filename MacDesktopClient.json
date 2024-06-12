@@ -141,7 +141,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagMyDummyFlag": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -217,6 +216,7 @@
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
   "FIntOtaLoaderErrorEventHundredthsPercent2_Rollout": "1;30;2024-06-12T22:39:00",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
+  "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry_Rollout": "True;60;2024-06-12T23:21:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -528,9 +528,11 @@
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac",
-  "FFlagGraphicsMetalNoShaderRelease_Rollout": "True;60;2024-06-12T21:40:15",
   "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
   "DFFlagVoiceReliabilityTelemetryEventIngest_Rollout": "True;60;2024-06-12T22:47:46",
   "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46",
-  "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46"
+  "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46",
+  "FFlagGraphicsMetalNoShaderRelease": "True",
+  "FFlagEnableThirdPartyAssetLoading2": "False",
+  "FFlagEnableThirdPartyAssetLoading2_PlaceFilter": "True;16270624805"
 }
