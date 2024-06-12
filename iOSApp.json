@@ -143,9 +143,9 @@
   "FFlagUnifyNavigationGraph5": "False",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
-  "AllowVideoPreRoll": "True",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
@@ -523,8 +523,6 @@
   "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
   "FFlagEnableTempFixCollectibleBundlePurchase": "True",
   "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
-  "FFlagAXFixNoItemsFoundWidgetsResults": "True",
-  "FFlagAXFixTopicsNoResultsShimmer": "True",
   "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
   "FFlagHideDraggerPeekViewV3": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
@@ -614,7 +612,6 @@
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
-  "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAutoSearchLoadingTimeEvent": "True",
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
@@ -625,5 +622,6 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FIntNewBlockingUtilityRollout": "0",
-  "FFlagLuaAppFixOtaTelemetry": "True"
+  "FFlagLuaAppFixOtaTelemetry": "True",
+  "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS"
 }

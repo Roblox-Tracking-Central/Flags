@@ -143,8 +143,6 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
-  "FFlagAXFixTopicsNoResultsShimmer_Rollout": "True;60;2024-06-11T22:55:38",
-  "FFlagAXFixNoItemsFoundWidgetsResults_Rollout": "True;60;2024-06-11T22:56:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -338,7 +336,6 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
-  "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagLuaAppHomeVngAppUpsell": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"

@@ -143,9 +143,9 @@
   "FFlagUnifyNavigationGraph5": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
@@ -170,8 +170,6 @@
   "FFlagShorelinesRemoveDialog": "True",
   "FFlagTerrainEditorUseTerrainChannels": "True",
   "DFFlagTerrainVoxelChannelsLS": "True",
-  "FFlagAXFixNoItemsFoundWidgetsResults": "True",
-  "FFlagAXFixTopicsNoResultsShimmer": "True",
   "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
   "FFlagHideDraggerPeekViewV3": "True",
   "FFlagOmniSearchUpdatePlaceholderTextIXP_v2": "True",
@@ -213,7 +211,6 @@
   "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
-  "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAutoSearchLoadingTimeEvent": "True",
   "FFlagLuaAppHomeVngAppUpsell": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
@@ -529,5 +526,6 @@
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
   "FFlagOmniItemsRowDataEnabled2": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
+  "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac"
 }
