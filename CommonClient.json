@@ -12732,6 +12732,7 @@
   "FFlagStudioFixGPMTempItemsOOB": "True",
   "FFlagStudioRendererProfilerScopes": "True",
   "FFlagGamePerfFrameTotalAndRenderingSimulationDiff": "True",
+  "FFlagVideoThumbnailGenerator2_Rollout": "True;60;2024-06-12T19:47:26",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
