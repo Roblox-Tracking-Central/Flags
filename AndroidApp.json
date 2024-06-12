@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
-  "FFlagLuaAppHomeVngAppUpsell_Rollout": "True;30;2024-06-12T21:15:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -666,5 +665,5 @@
   "FStringDisableAGCIxpLayer": "Voice.AudioInputQuality",
   "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
-  "DFFlagEnableFdTracking_Rollout": "True;10;2024-06-12T21:30:43"
+  "DFFlagEnableFdTracking": "True"
 }

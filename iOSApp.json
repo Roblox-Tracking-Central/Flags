@@ -612,7 +612,6 @@
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "FFlagLuaAppHomeVngAppUpsell": "True",
   "DFFlagEnableAdsApiClientV2Endpoint": "True",
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
@@ -620,7 +619,7 @@
   "FIntNewBlockingUtilityRollout": "0",
   "FFlagLuaAppFixOtaTelemetry": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS",
-  "FFlagLuaAppGuiObjectUtilsRemoveDep_Rollout": "True;30;2024-06-12T21:29:41",
   "FIntOtaLoaderInfoEventHundredthsPercent2_Rollout": "1;30;2024-06-12T21:56:55",
-  "FFlagLuaAppFixOtaUserIdCheck": "True"
+  "FFlagLuaAppFixOtaUserIdCheck": "True",
+  "FFlagLuaAppGuiObjectUtilsRemoveDep": "True"
 }

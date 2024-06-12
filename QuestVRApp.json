@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
-  "FFlagEnableQuestHaptics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -666,7 +665,8 @@
   "FStringDisableAGCIxpLayer": "Voice.AudioInputQuality",
   "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
-  "DFFlagEnableFdTracking_Rollout": "True;10;2024-06-12T21:30:43",
+  "DFFlagEnableFdTracking": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -698,6 +698,5 @@
   "FFlagAimThereIsNoGameUpload": "True",
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagChatTabHideGroupsLinkOnVR": "True",
-  "FFlagLuaAppHomeVngAppUpsell": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True"
 }
