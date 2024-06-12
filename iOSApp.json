@@ -619,5 +619,6 @@
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FIntNewBlockingUtilityRollout": "0",
   "FFlagLuaAppFixOtaTelemetry": "True",
-  "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS"
+  "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS",
+  "FFlagLuaAppFixOtaUserIdCheck_Rollout": "True;30;2024-06-12T20:58:38"
 }

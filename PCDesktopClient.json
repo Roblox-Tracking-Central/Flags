@@ -211,6 +211,7 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagLuaAppHomeVngAppUpsell": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
+  "FFlagLuaAppFixOtaUserIdCheck_Rollout": "True;30;2024-06-12T20:58:38",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
