@@ -144,6 +144,7 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagAutoSearchLoadingTimeEvent_Rollout": "True;30;2024-06-12T18:04:58",
+  "FFlagLinkedSourceMigratorDoublePromiseSetCrash_Rollout": "True;60;2024-06-12T18:35:58",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
