@@ -12419,7 +12419,7 @@
   "DFFlagPacketErrorProgressServer": "True",
   "FFlagSoundManagerVolumeFix": "True",
   "FFlagFixAudioPlayerPreloadAsync": "True",
-  "FFlagMyDummyFlag": "False",
+  "FFlagMyDummyFlag": "True",
   "DFFlagPhoto2AvatarCounterAndStats": "False",
   "DFFlagPhoto2AvatarCounterAndStats_PlaceFilter": "True;16570073256;17362271377;17745270078",
   "DFFlagPhoto2AvatarDeleteResultFiles": "False",

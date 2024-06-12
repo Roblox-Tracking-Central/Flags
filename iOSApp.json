@@ -621,6 +621,6 @@
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS",
   "FFlagLuaAppFixOtaUserIdCheck": "True",
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
-  "FIntOtaLoaderErrorEventHundredthsPercent2_Rollout": "1;30;2024-06-12T22:39:00",
-  "FIntOtaLoaderInfoEventHundredthsPercent2": "1"
+  "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
+  "FIntOtaLoaderErrorEventHundredthsPercent2": "1"
 }
