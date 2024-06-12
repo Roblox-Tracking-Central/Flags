@@ -771,6 +771,7 @@
   "DFIntHttpParallelLimit_RequestHttpService": "8",
   "DFIntHttpParallelLimit_RequestHttpServiceStudioPlugins": "5",
   "FFlagChangeHistoryServiceIgnoreFirstWaypointMemory": "True",
+  "FFlagTerrainEditorTimeStatistic5_Rollout": "True;60;2024-06-12T20:44:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
