@@ -518,5 +518,6 @@
   "FIntFeedItemRowDataCounterThrottle": "1000",
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-  "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneWindows"
+  "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneWindows",
+  "FFlagVideoCaptureServiceLoadDevicesAsync2_Rollout": "True;60;2024-06-12T20:34:50"
 }
