@@ -620,5 +620,6 @@
   "FIntNewBlockingUtilityRollout": "0",
   "FFlagLuaAppFixOtaTelemetry": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS",
-  "FFlagLuaAppFixOtaUserIdCheck_Rollout": "True;30;2024-06-12T20:58:38"
+  "FFlagLuaAppFixOtaUserIdCheck_Rollout": "True;30;2024-06-12T20:58:38",
+  "FFlagLuaAppGuiObjectUtilsRemoveDep_Rollout": "True;30;2024-06-12T21:29:41"
 }

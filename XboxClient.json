@@ -142,6 +142,7 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
+  "FFlagLuaAppHomeVngAppUpsell_Rollout": "True;30;2024-06-12T21:15:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
