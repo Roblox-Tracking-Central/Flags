@@ -262,7 +262,6 @@
   "DFFlagHttpFixOsErrno": "True",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "FFlagProcessPSPlusItems": "True",

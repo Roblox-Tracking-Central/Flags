@@ -421,7 +421,6 @@
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
   "FLogXboxPlatformBase": "Debug",
   "FFlagPublishServiceSupportAdditionalParameters": "True",
-  "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",

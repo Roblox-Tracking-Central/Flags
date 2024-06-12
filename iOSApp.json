@@ -570,7 +570,6 @@
   "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
   "FFlagPlatformEventEnabled2": "False",
   "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
-  "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagEnableGUACControlTOSPPLinks": "True",
   "DFFlagPerformanceControlIXPMLOomThresholdIntegration": "True",
   "FFlagFixSceneMangerEndFrameNesting": "True",

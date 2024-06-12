@@ -616,7 +616,6 @@
   "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
   "EnableBuildVariantInDMParams": "True",
   "FFlagPlatformEventEnabled2": "False",
-  "FFlagLuaAppOverrideExperienceImage": "True",
   "FFlagAddUserScrollingStatData": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
   "FFlagUniversalAppCsat3": "True",

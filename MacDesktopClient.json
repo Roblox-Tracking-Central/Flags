@@ -497,7 +497,6 @@
   "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "10",
   "FFlagPlatformEventEnabled2": "False",
   "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
-  "FFlagLuaAppOverrideExperienceImage": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
   "FFlagAddUserScrollingStatData": "True",
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
