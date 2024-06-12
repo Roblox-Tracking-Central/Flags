@@ -215,6 +215,7 @@
   "FFlagLuaAppFixOtaUserIdCheck": "True",
   "FFlagLuaAppFixOtaTelemetry": "True",
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
+  "FIntOtaLoaderErrorEventHundredthsPercent2_Rollout": "1;30;2024-06-12T22:39:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

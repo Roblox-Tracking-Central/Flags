@@ -12744,6 +12744,7 @@
   "DFFlagPhoto2AvatarCounterAndStats_Rollout": "True;60;2024-06-12T22:25:26",
   "FFlagEditableImageFromImageContent_Rollout": "True;60;2024-06-12T22:27:04",
   "FFlagLuaAppHomeVngAppUpsell": "True",
+  "FFlagSimSolverImprovedAeroForceIntegrator2_Rollout": "True;60;2024-06-12T22:42:27",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
