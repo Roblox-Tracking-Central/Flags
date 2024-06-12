@@ -212,9 +212,10 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagLuaAppHomeVngAppUpsell": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagLuaAppFixOtaUserIdCheck_Rollout": "True;30;2024-06-12T20:58:38",
   "FFlagLuaAppFixOtaTelemetry_Rollout": "True;30;2024-06-12T21:19:18",
   "FFlagLuaAppGuiObjectUtilsRemoveDep_Rollout": "True;30;2024-06-12T21:29:41",
+  "FIntOtaLoaderInfoEventHundredthsPercent2_Rollout": "1;30;2024-06-12T21:56:55",
+  "FFlagLuaAppFixOtaUserIdCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -526,6 +527,6 @@
   "FFlagOmniItemsRowDataEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac",
-  "FFlagVideoCaptureServiceLoadDevicesAsync2_Rollout": "True;60;2024-06-12T20:34:50",
-  "FFlagGraphicsMetalNoShaderRelease_Rollout": "True;60;2024-06-12T21:40:15"
+  "FFlagGraphicsMetalNoShaderRelease_Rollout": "True;60;2024-06-12T21:40:15",
+  "FFlagVideoCaptureServiceLoadDevicesAsync2": "True"
 }
