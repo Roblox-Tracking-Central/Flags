@@ -780,6 +780,7 @@
   "DFFlagTaskWaitNoCancelledError": "True",
   "FFlagTagEditorSearchClear_Rollout": "True;60;2024-06-13T20:22:27",
   "FFlagTerrainEditorBrushPerformanceEnhancements_Rollout": "True;60;2024-06-13T20:46:43",
+  "DFFlagBanHistoryPagesFinish_Rollout": "True;60;2024-06-13T20:57:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
