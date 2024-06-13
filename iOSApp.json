@@ -623,5 +623,5 @@
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
-  "FFlagEDPMissingIconFixEnabled_Rollout": "True;60;2024-06-13T18:15:30"
+  "FFlagEDPMissingIconFixEnabled": "True"
 }

@@ -536,8 +536,8 @@
   "DFFlagVoiceReliabilityTelemetryEventIngest": "True",
   "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent": "10000",
   "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent": "10000",
-  "FFlagEDPMissingIconFixEnabled_Rollout": "True;60;2024-06-13T18:15:30",
   "DFFlagCreatorBanNewErrorMessage": "True",
   "FFlagFCSkinningCrashFix": "True",
-  "FFlagPath2DEnabled15_Rollout": "True;1;2024-06-13T19:18:11"
+  "FFlagEDPMissingIconFixEnabled": "True",
+  "FFlagPath2DEnabled15": "True"
 }
