@@ -667,6 +667,7 @@
   "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
   "DFFlagEnableFdTracking": "True",
+  "FFlagEnableContactsMemPool_Rollout": "False;60;2024-06-13T22:29:28",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
