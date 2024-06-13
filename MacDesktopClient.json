@@ -529,12 +529,12 @@
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac",
   "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
-  "DFFlagVoiceReliabilityTelemetryEventIngest_Rollout": "True;60;2024-06-12T22:47:46",
-  "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46",
-  "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-12T22:47:46",
   "FFlagGraphicsMetalNoShaderRelease": "True",
   "FFlagEnableThirdPartyAssetLoading2": "False",
   "FFlagEnableThirdPartyAssetLoading2_PlaceFilter": "True;16270624805",
   "DFFlagEnableAdsApiClientV2Endpoint": "False",
-  "DFFlagEnableAdsApiClientV2Endpoint_PlaceFilter": "True;16270624805"
+  "DFFlagEnableAdsApiClientV2Endpoint_PlaceFilter": "True;16270624805",
+  "DFFlagVoiceReliabilityTelemetryEventIngest": "True",
+  "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent": "10000",
+  "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent": "10000"
 }
