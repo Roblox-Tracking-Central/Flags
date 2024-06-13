@@ -142,7 +142,6 @@
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
-  "FFlagEnableFriendsLandingControllerBar2_Rollout": "True;30;2024-06-13T17:38:49",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -623,5 +622,6 @@
   "FFlagLuaAppFixOtaUserIdCheck": "True",
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
-  "FIntOtaLoaderErrorEventHundredthsPercent2": "100"
+  "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
+  "FFlagEDPMissingIconFixEnabled_Rollout": "True;60;2024-06-13T18:15:30"
 }

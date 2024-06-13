@@ -255,7 +255,6 @@
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagEnableMenuModernizationABTest4": "True",
   "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
-  "FFlagEnableFriendsLandingControllerBar2": "True",
   "DFFlagEnableParallelFrustumQueries3": "True",
   "FFlagUseRelativeToRootCFrameForAccessories": "True",
   "DFFlagHttpFixOsErrno": "True",
