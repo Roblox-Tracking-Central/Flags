@@ -141,6 +141,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUserAgreementsOnAppForegrounded": "True",
+  "FFlagMyDummyFlag": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagRevertSequenceEditorDockingChanges_Rollout": "True;60;2024-06-13T20:10:34",
   "FFlagSequenceEditorSimPauseCrashFix_Rollout": "True;60;2024-06-13T20:10:34",
@@ -434,5 +435,6 @@
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
+  "FFlagAXWidgetsByContext1_Rollout": "True;60;2024-06-13T20:26:33"
 }
