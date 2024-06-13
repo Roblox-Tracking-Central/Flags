@@ -432,5 +432,5 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-  "FFlagAXWidgetsByContext1_Rollout": "True;60;2024-06-13T20:26:33"
+  "FFlagAXWidgetsByContext1": "True"
 }
