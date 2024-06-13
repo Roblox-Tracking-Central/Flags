@@ -141,7 +141,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagMyDummyFlag": "False",
+  "FFlagMyDummyFlag": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -215,9 +215,8 @@
   "FFlagLuaAppFixOtaTelemetry": "True",
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
-  "FIntOtaLoaderErrorEventHundredthsPercent2": "1",
+  "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
-  "FIntOtaLoaderErrorEventHundredthsPercent2_Rollout": "100;30;2024-06-13T16:08:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -534,5 +533,6 @@
   "DFFlagVoiceReliabilityTelemetryEventIngest": "True",
   "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent": "10000",
   "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent": "10000",
-  "DFFlagCreatorBanNewErrorMessage_Rollout": "True;60;2024-06-13T16:53:51"
+  "DFFlagCreatorBanNewErrorMessage_Rollout": "True;60;2024-06-13T16:53:51",
+  "FFlagFCSkinningCrashFix_Rollout": "True;60;2024-06-13T17:35:19"
 }

@@ -141,7 +141,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagMyDummyFlag": "False",
+  "FFlagMyDummyFlag": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -623,6 +623,5 @@
   "FFlagLuaAppFixOtaUserIdCheck": "True",
   "FFlagLuaAppGuiObjectUtilsRemoveDep": "True",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
-  "FIntOtaLoaderErrorEventHundredthsPercent2": "1",
-  "FIntOtaLoaderErrorEventHundredthsPercent2_Rollout": "100;30;2024-06-13T16:08:01"
+  "FIntOtaLoaderErrorEventHundredthsPercent2": "100"
 }

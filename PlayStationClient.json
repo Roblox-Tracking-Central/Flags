@@ -141,7 +141,7 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "False",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagMyDummyFlag": "True",
+  "FFlagMyDummyFlag": "False",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
