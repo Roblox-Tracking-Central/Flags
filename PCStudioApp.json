@@ -824,6 +824,7 @@
   "FFlagVoiceChatAddDataChannelToSubConnection2": "False",
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
+  "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure_Rollout": "True;60;2024-06-13T20:39:57",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
