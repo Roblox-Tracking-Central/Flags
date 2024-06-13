@@ -12792,6 +12792,7 @@
   "FFlagAIDiffMessageBackgroundHighlight": "True",
   "FFlagFixSubmenuCloseIOS": "True",
   "DFFlagMoreReadNewSharedStringsPerf": "True",
+  "FFlagLightgridCPUAsyncCopyOnWrite_Rollout": "True;60;2024-06-13T23:41:30",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
