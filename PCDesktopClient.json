@@ -143,6 +143,7 @@
   "FFlagUserAgreementsOnAppForegrounded": "True",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagVoiceChatStopSendingIceCandidate_Rollout": "True;60;2024-06-13T22:25:41",
+  "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "100;30;2024-06-13T22:50:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
