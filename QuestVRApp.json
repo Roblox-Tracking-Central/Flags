@@ -143,7 +143,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
-  "FFlagEnableContactsMemPool": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -668,7 +667,7 @@
   "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
   "DFFlagEnableFdTracking": "True",
-  "FFlagWeakenDestroyedModule_Rollout": "True;60;2024-06-14T17:12:26",
+  "FFlagWeakenDestroyedModule": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -702,6 +701,6 @@
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagChatTabHideGroupsLinkOnVR": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagAppChatMigrateIGMInvite_Rollout": "True;60;2024-06-14T17:14:57",
-  "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04"
+  "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04",
+  "FFlagAppChatMigrateIGMInvite": "True"
 }
