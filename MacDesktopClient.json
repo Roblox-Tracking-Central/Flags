@@ -554,7 +554,7 @@
   "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
-  "FFlagAXAvatarWidgetData14_Rollout": "True;30;2024-06-14T18:18:43",
   "DFFlagGltfFlipEulerAngleOrder": "True",
-  "FFlagUniversalAppCsat4": "True"
+  "FFlagUniversalAppCsat4": "True",
+  "FFlagAXAvatarWidgetData14": "True"
 }
