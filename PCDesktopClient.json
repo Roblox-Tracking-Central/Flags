@@ -141,7 +141,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "True",
-  "FFlagMyDummyFlag": "True",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagEnableContactsMemPool": "True",
@@ -220,6 +219,8 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
   "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure": "True",
+  "FFlagAppChatMigrateIGMInvite_Rollout": "True;60;2024-06-14T17:14:57",
+  "DFFlagSimPartCountReportFix_Rollout": "True;60;2024-06-14T17:15:58",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -539,5 +540,11 @@
   "DFFlagCreatorBanNewErrorMessage": "True",
   "FFlagFCSkinningCrashFix": "True",
   "FFlagEDPMissingIconFixEnabled": "True",
-  "FFlagAXWidgetsByContext1": "True"
+  "FFlagAXWidgetsByContext1": "True",
+  "DFFlagGltfFlipEulerAngleOrder_Rollout": "True;60;2024-06-14T17:30:07",
+  "DFFlagThirdPartyVideoAdFetchMetrics": "False",
+  "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
+  "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
+  "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
+  "FFlagUniversalAppCsat4_Rollout": "True;60;2024-06-14T17:44:32"
 }

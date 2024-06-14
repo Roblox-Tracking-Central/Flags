@@ -141,7 +141,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagMyDummyFlag": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
   "FFlagEnableContactsMemPool": "True",
@@ -628,5 +627,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FFlagEDPMissingIconFixEnabled": "True",
   "FFlagAXWidgetsByContext1": "True",
-  "FFlagEnableFixForLanguageUpdate": "True"
+  "FFlagEnableFixForLanguageUpdate": "True",
+  "FFlagUniversalAppCsat4_Rollout": "True;60;2024-06-14T17:44:32"
 }
