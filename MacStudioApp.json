@@ -781,7 +781,6 @@
   "DFFlagTaskWaitNoCancelledError": "True",
   "FFlagDeviceChangesUseDataModelTasks": "True",
   "FFlagTagEditorSearchClear": "True",
-  "FFlagTerrainEditorBrushPerformanceEnhancements": "True",
   "DFFlagBanHistoryPagesFinish": "True",
   "FIntUGCValidateFacsDataOperationalThreshold": "105",
   "FFlagCLI_109140_OnePlaceForCSGLogFilename": "True",
