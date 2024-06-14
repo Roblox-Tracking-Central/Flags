@@ -144,6 +144,7 @@
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
   "FFlagEnableContactsMemPool": "True",
+  "FFlagMoreStrictLimitOnRelayout": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -626,5 +627,6 @@
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FFlagEDPMissingIconFixEnabled": "True",
-  "FFlagAXWidgetsByContext1": "True"
+  "FFlagAXWidgetsByContext1": "True",
+  "FFlagEnableFixForLanguageUpdate": "True"
 }
