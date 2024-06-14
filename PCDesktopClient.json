@@ -523,7 +523,7 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
   "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
-  "FIntWindowsClientCrashpadRolloutHundredthPercent": "10000",
+  "FIntWindowsClientCrashpadRolloutHundredthPercent": "500",
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FIntFeedItemRowDataCounterThrottle": "1000",
   "FFlagOmniItemsRowDataEnabled2": "True",
@@ -548,6 +548,5 @@
   "DFFlagGltfFlipEulerAngleOrder": "True",
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
-  "FFlagSocialAnalyticsSupportTelemetry": "True",
-  "FIntWindowsClientCrashpadRolloutHundredthPercent_Rollout": "500;1;2024-06-14T20:23:24"
+  "FFlagSocialAnalyticsSupportTelemetry": "True"
 }
