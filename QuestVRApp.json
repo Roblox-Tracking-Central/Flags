@@ -701,6 +701,6 @@
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagChatTabHideGroupsLinkOnVR": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04",
-  "FFlagAppChatMigrateIGMInvite": "True"
+  "FFlagAppChatMigrateIGMInvite": "True",
+  "FFlagSocialAnalyticsSupportTelemetry": "True"
 }

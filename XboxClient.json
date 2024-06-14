@@ -433,5 +433,5 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-  "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04"
+  "FFlagSocialAnalyticsSupportTelemetry": "True"
 }

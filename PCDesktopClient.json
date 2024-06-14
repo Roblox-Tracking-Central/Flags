@@ -218,9 +218,9 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
   "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure": "True",
-  "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-14T18:31:13",
   "FFlagAppChatMigrateIGMInvite": "True",
   "DFFlagSimPartCountReportFix": "True",
+  "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -545,8 +545,8 @@
   "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
-  "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04",
   "DFFlagGltfFlipEulerAngleOrder": "True",
   "FFlagUniversalAppCsat4": "True",
-  "FFlagAXAvatarWidgetData14": "True"
+  "FFlagAXAvatarWidgetData14": "True",
+  "FFlagSocialAnalyticsSupportTelemetry": "True"
 }
