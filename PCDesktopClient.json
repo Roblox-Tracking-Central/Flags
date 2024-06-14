@@ -541,12 +541,12 @@
   "FFlagFCSkinningCrashFix": "True",
   "FFlagEDPMissingIconFixEnabled": "True",
   "FFlagAXWidgetsByContext1": "True",
-  "DFFlagGltfFlipEulerAngleOrder_Rollout": "True;60;2024-06-14T17:30:07",
   "DFFlagThirdPartyVideoAdFetchMetrics": "False",
   "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
   "FFlagUniversalAppCsat4_Rollout": "True;60;2024-06-14T17:44:32",
   "FFlagAXAvatarWidgetData14_Rollout": "True;30;2024-06-14T18:18:43",
-  "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04"
+  "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04",
+  "DFFlagGltfFlipEulerAngleOrder": "True"
 }
