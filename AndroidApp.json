@@ -141,8 +141,9 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
+  "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
-  "DFIntHttpStatsErrorInfluxReportsPerMillion_Rollout": "100;30;2024-06-13T22:50:49",
+  "FFlagEnableContactsMemPool": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -666,6 +667,5 @@
   "FStringDisableAGCIxpLayer": "Voice.AudioInputQuality",
   "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
-  "DFFlagEnableFdTracking": "True",
-  "FFlagEnableContactsMemPool_Rollout": "False;60;2024-06-13T22:29:28"
+  "DFFlagEnableFdTracking": "True"
 }
