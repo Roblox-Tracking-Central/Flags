@@ -669,5 +669,6 @@
   "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
   "DFFlagEnableFdTracking": "True",
-  "FFlagWeakenDestroyedModule": "True"
+  "FFlagWeakenDestroyedModule": "True",
+  "FFlagFCSkinningCrashFix_Rollout": "True;60;2024-06-17T16:35:58"
 }

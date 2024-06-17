@@ -629,5 +629,6 @@
   "FFlagEnableFixForLanguageUpdate": "True",
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
-  "FFlagSocialAnalyticsSupportTelemetry": "True"
+  "FFlagSocialAnalyticsSupportTelemetry": "True",
+  "FFlagFCSkinningCrashFix_Rollout": "True;60;2024-06-17T16:35:58"
 }
