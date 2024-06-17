@@ -621,7 +621,6 @@
   "FFlagPlatformEventEnabled2": "False",
   "FFlagAddUserScrollingStatData": "True",
   "DFFlagRemoveRBXCRASHFromAdGui": "True",
-  "FFlagUniversalAppCsat3": "True",
   "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneAndroid",
   "DFIntRequiredMemoryInMebibytesForDeviceCapture": "2862",
   "FFlagDisableCameraOnLowSpecDevices": "True",

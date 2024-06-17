@@ -505,7 +505,6 @@
   "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
   "FFlagEarlierFetchTimeForFriendsCarousel_v1": "True",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
-  "FFlagUniversalAppCsat3": "True",
   "FFlagLuaAppSocialFeaturePill": "True",
   "FFlagContactImporterManagerPolicyFix_v1": "True",
   "DFFlagGltfAddAnimationEndTimeEpsilon": "True",
@@ -541,7 +540,6 @@
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
   "DFFlagGltfFlipEulerAngleOrder": "True",
-  "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True"

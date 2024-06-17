@@ -786,6 +786,7 @@
   "FFlagDontHighlightWorkspace": "True",
   "FFlagFixExplorerDescendantJumping": "True",
   "FFlagPathEditorMaxControlPointDisableAdd": "True",
+  "FFlagSTUDIOPLAT_34679_StopANRDetectorWhenMonitorIsOff_Rollout": "True;60;2024-06-17T23:13:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
