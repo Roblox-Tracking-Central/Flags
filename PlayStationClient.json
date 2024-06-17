@@ -145,6 +145,7 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableThirdPartyAssetLoading2": "True",
   "FFlagEDPMissingIconFixEnabled_Rollout": "True;60;2024-06-17T20:15:12",
+  "FFlagCollectionServicePerformanceUpgrades8_Rollout": "True;30;2024-06-17T20:37:05",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

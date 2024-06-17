@@ -145,6 +145,7 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagEnableThirdPartyAssetLoading2": "False",
   "AllowVideoPreRoll": "True",
+  "FFlagCollectionServicePerformanceUpgrades8_Rollout": "True;60;2024-06-17T19:45:46",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -219,7 +220,6 @@
   "DFFlagSimPartCountReportFix": "True",
   "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
   "FFlagFCSkinningCrashFix": "True",
-  "FFlagCollectionServicePerformanceUpgrades8_Rollout": "True;60;2024-06-17T19:45:46",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -537,5 +537,6 @@
   "DFFlagGltfFlipEulerAngleOrder": "True",
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
-  "FFlagSocialAnalyticsSupportTelemetry": "True"
+  "FFlagSocialAnalyticsSupportTelemetry": "True",
+  "FFlagEnableRuntimeThreadVisQueries3_Rollout": "True;60;2024-06-17T20:38:33"
 }
