@@ -143,6 +143,8 @@
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
+  "FFlagOmniItemsRowDataEnabled2_Rollout": "True;60;2024-06-17T16:13:38",
+  "FIntFeedItemRowDataCounterThrottle_Rollout": "1000;60;2024-06-17T16:15:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
