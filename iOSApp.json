@@ -143,7 +143,6 @@
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
-  "FFlagWeakenDestroyedModule_Rollout": "True;60;2024-06-17T17:16:33",
   "DFFlagVoiceReliabilityTelemetryEventIngest_Rollout": "True;60;2024-06-17T17:25:41",
   "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
   "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
