@@ -143,12 +143,12 @@
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
-  "AllowVideoPreRoll": "True",
   "FFlagAppChatMigrateIGMInvite_Rollout": "True;60;2024-06-17T18:40:49",
   "FFlagEnableThirdPartyAssetLoading2": "True",
-  "CaptureCountersIntervalInMinutes": "5",
-  "CaptureQTStudioCountersEnabled": "True",
   "AxisAdornmentGrabSize": "12",
+  "CaptureCountersIntervalInMinutes": "5",
+  "AllowVideoPreRoll": "True",
+  "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
   "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -631,6 +631,5 @@
   "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:07:14",
   "DFIntImmersiveAdVideoGenericErrorEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:07:18",
   "FFlagFCSkinningCrashFix": "True",
-  "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:14:16",
-  "FFlagEnableNextGenGamePassPurchase": "True"
+  "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:14:16"
 }
