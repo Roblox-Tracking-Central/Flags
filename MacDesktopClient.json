@@ -547,5 +547,6 @@
   "DFFlagGltfFlipEulerAngleOrder": "True",
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
-  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-17T21:12:26"
+  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-17T21:12:26",
+  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01"
 }

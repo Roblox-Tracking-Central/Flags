@@ -629,9 +629,10 @@
   "DFIntImmersiveAdVideoGenericErrorEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent": "10000",
-  "FFlagEnableKoreaKISACompliance_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagEnableKoreaKISAComplianceModularized_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagEnableModularizedUserAgreementsList_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagShouldEnableOtpSignup_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-17T21:12:26"
+  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-17T21:12:26",
+  "FFlagEnableKoreaKISACompliance": "True",
+  "FFlagEnableKoreaKISAComplianceModularized": "True",
+  "FFlagEnableModularizedUserAgreementsList": "True",
+  "FFlagShouldEnableOtpSignup": "True",
+  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01"
 }

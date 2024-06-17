@@ -673,8 +673,9 @@
   "DFFlagEnableFdTracking": "True",
   "FFlagFCSkinningCrashFix": "True",
   "FFlagRuntimeEnabled6": "True",
-  "FFlagEnableKoreaKISACompliance_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagEnableKoreaKISAComplianceModularized_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagEnableModularizedUserAgreementsList_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagShouldEnableOtpSignup_Rollout": "True;60;2024-06-17T19:53:00"
+  "FFlagEnableKoreaKISACompliance": "True",
+  "FFlagEnableKoreaKISAComplianceModularized": "True",
+  "FFlagEnableModularizedUserAgreementsList": "True",
+  "FFlagShouldEnableOtpSignup": "True",
+  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01"
 }
