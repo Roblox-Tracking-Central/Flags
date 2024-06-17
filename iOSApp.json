@@ -141,7 +141,6 @@
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
   "FFlagUserAgreementsOnAppForegrounded": "False",
-  "FFlagMyDummyFlag": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
   "FFlagEnableThirdPartyAssetLoading2": "True",
@@ -633,5 +632,6 @@
   "FFlagEnableKoreaKISACompliance_Rollout": "True;60;2024-06-17T19:53:00",
   "FFlagEnableKoreaKISAComplianceModularized_Rollout": "True;60;2024-06-17T19:53:00",
   "FFlagEnableModularizedUserAgreementsList_Rollout": "True;60;2024-06-17T19:53:00",
-  "FFlagShouldEnableOtpSignup_Rollout": "True;60;2024-06-17T19:53:00"
+  "FFlagShouldEnableOtpSignup_Rollout": "True;60;2024-06-17T19:53:00",
+  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-17T21:12:26"
 }
