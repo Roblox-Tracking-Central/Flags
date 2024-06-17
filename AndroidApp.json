@@ -145,9 +145,6 @@
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
   "FFlagAppChatMigrateIGMInvite_Rollout": "True;60;2024-06-17T18:40:49",
   "FFlagEnableThirdPartyAssetLoading2": "True",
-  "FFlagLuaAppFixOtaUserIdCheck_Rollout": "True;30;2024-06-17T18:42:59",
-  "FFlagLuaAppFixOtaTelemetry_Rollout": "True;30;2024-06-17T18:48:47",
-  "FFlagLuaAppGuiObjectUtilsRemoveDep_Rollout": "True;30;2024-06-17T18:59:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -673,5 +670,9 @@
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
   "DFFlagEnableFdTracking": "True",
   "FFlagFCSkinningCrashFix": "True",
-  "FFlagRuntimeEnabled6": "True"
+  "FFlagRuntimeEnabled6": "True",
+  "FFlagEnableKoreaKISACompliance_Rollout": "True;60;2024-06-17T19:53:00",
+  "FFlagEnableKoreaKISAComplianceModularized_Rollout": "True;60;2024-06-17T19:53:00",
+  "FFlagEnableModularizedUserAgreementsList_Rollout": "True;60;2024-06-17T19:53:00",
+  "FFlagShouldEnableOtpSignup_Rollout": "True;60;2024-06-17T19:53:00"
 }
