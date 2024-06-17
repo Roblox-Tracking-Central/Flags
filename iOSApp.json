@@ -626,10 +626,10 @@
   "DFIntImmersiveAdVideoGenericErrorEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent": "10000",
-  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-17T21:12:26",
   "FFlagEnableKoreaKISACompliance": "True",
   "FFlagEnableKoreaKISAComplianceModularized": "True",
   "FFlagEnableModularizedUserAgreementsList": "True",
   "FFlagShouldEnableOtpSignup": "True",
-  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01"
+  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01",
+  "FFlagAXAvatarWidgetTryOn5": "True"
 }

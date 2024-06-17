@@ -479,7 +479,7 @@
   "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007",
   "FFlagAXItemCardTallIXPEnabled": "True",
   "FFlagAXItemCardTallEnabled": "True",
-  "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
+  "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359",
   "FFlagEnableImpressionReporterCounter3": "True",
   "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
   "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
@@ -536,7 +536,7 @@
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagSocialAnalyticsSupportTelemetry": "True",
-  "FFlagEnableRuntimeThreadVisQueries3_Rollout": "True;60;2024-06-17T20:38:33",
-  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-17T21:12:26",
-  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01"
+  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01",
+  "FFlagEnableRuntimeThreadVisQueries3": "True",
+  "FFlagAXAvatarWidgetTryOn5": "True"
 }
