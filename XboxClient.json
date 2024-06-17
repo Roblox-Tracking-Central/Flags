@@ -144,7 +144,6 @@
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableThirdPartyAssetLoading2": "True",
-  "DFIntWeakExpiredRequireReportHundredthsPercent_Rollout": "10000;30;2024-06-17T20:57:38",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

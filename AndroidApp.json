@@ -144,7 +144,6 @@
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
   "FFlagEnableThirdPartyAssetLoading2": "True",
-  "DFIntWeakExpiredRequireReportHundredthsPercent_Rollout": "10000;30;2024-06-17T20:57:38",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -675,5 +674,6 @@
   "FFlagEnableKoreaKISAComplianceModularized": "True",
   "FFlagEnableModularizedUserAgreementsList": "True",
   "FFlagShouldEnableOtpSignup": "True",
-  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01"
+  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01",
+  "FFlagAXAvatarWidgetData14": "True"
 }

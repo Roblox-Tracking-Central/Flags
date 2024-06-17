@@ -730,7 +730,6 @@
   "FFlagCAPAddInternalTraceContextMenuOption": "True",
   "FFlagCrashpadAddLocations": "True",
   "FFlagAimThereIsNoGameUpload": "True",
-  "DFIntWeakExpiredRequireReportHundredthsPercent": "10000",
   "FFlagToolboxAudioSuggestionsEmptyState": "True",
   "DFFlagHttpServiceGenerateGuidLowercase": "True",
   "FFlagEnableAXClientLatencyLoggingByPlatform": "True",

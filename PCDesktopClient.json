@@ -144,7 +144,6 @@
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagEnableThirdPartyAssetLoading2": "False",
-  "DFIntWeakExpiredRequireReportHundredthsPercent_Rollout": "10000;30;2024-06-17T20:57:38",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
