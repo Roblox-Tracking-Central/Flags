@@ -143,13 +143,13 @@
   "FFlagUserAgreementsOnAppForegrounded": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
-  "FFlagEnableThirdPartyAssetLoading2_Rollout": "True;60;2024-06-17T17:09:46",
-  "AllowVideoPreRoll": "True",
-  "DFIntReportPath2DInstanceAPICallsHundrethsPercent_Rollout": "100;30;2024-06-17T17:19:08",
+  "AxisAdornmentGrabSize": "12",
   "DFFlagVoiceReliabilityTelemetryEventIngest_Rollout": "True;60;2024-06-17T17:25:41",
   "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
   "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
-  "AxisAdornmentGrabSize": "12",
+  "AllowVideoPreRoll": "True",
+  "FFlagAppChatMigrateIGMInvite_Rollout": "True;60;2024-06-17T18:40:49",
+  "FFlagEnableThirdPartyAssetLoading2": "True",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "CatalogPromoAssetId": "-1",
@@ -673,7 +673,7 @@
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneAndroid",
   "DFFlagEnableFdTracking": "True",
   "FFlagWeakenDestroyedModule": "True",
-  "FFlagEnableNextGenGamePassPurchase_Rollout": "True;60;2024-06-17T16:55:27",
   "FFlagRuntimeEnabled6_Rollout": "True;60;2024-06-17T17:15:18",
-  "FFlagFCSkinningCrashFix": "True"
+  "FFlagFCSkinningCrashFix": "True",
+  "FFlagEnableNextGenGamePassPurchase": "True"
 }

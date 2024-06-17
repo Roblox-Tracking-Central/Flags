@@ -113,6 +113,6 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagEnableNextGenGamePassPurchase_Rollout": "True;60;2024-06-17T16:55:27",
+  "FFlagEnableNextGenGamePassPurchase": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }
