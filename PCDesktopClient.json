@@ -144,6 +144,8 @@
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "FFlagEnableThirdPartyAssetLoading2": "False",
+  "AxisAdornmentGrabSize": "12",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -218,8 +220,6 @@
   "DFFlagSimPartCountReportFix": "True",
   "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
   "FFlagFCSkinningCrashFix": "True",
-  "AllowVideoPreRoll": "True",
-  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -535,8 +535,7 @@
   "DFFlagGltfFlipEulerAngleOrder": "True",
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
-  "FFlagSocialAnalyticsSupportTelemetry": "True",
-  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01",
   "FFlagEnableRuntimeThreadVisQueries3": "True",
-  "FFlagAXAvatarWidgetTryOn5": "True"
+  "FFlagAXAvatarWidgetTryOn5": "True",
+  "FFlagEnableInGameMenuChromeABTest3": "True"
 }

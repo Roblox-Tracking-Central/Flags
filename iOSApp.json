@@ -144,6 +144,8 @@
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
   "FFlagEnableThirdPartyAssetLoading2": "True",
+  "DFFlagThirdPartyVideoAdFetchMetrics_Rollout": "True;60;2024-06-17T22:35:16",
+  "DFIntThirdPartyVideoAdFetchHundredthsPercent_Rollout": "10000;60;2024-06-17T22:36:07",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -479,7 +481,6 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "10000",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
-  "FFlagDebugGraphicsCrashOnLeaks": "False",
   "DFIntOOMInferenceThreshold": "10001",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFFlagSendOrientationToPlayersGui": "True",
@@ -621,7 +622,6 @@
   "FFlagEnableFixForLanguageUpdate": "True",
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
-  "FFlagSocialAnalyticsSupportTelemetry": "True",
   "FFlagFCSkinningCrashFix": "True",
   "DFIntImmersiveAdVideoGenericErrorEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent": "10000",
@@ -630,6 +630,6 @@
   "FFlagEnableKoreaKISAComplianceModularized": "True",
   "FFlagEnableModularizedUserAgreementsList": "True",
   "FFlagShouldEnableOtpSignup": "True",
-  "FFlagEnableInGameMenuChromeABTest3_Rollout": "True;30;2024-06-17T21:27:01",
-  "FFlagAXAvatarWidgetTryOn5": "True"
+  "FFlagAXAvatarWidgetTryOn5": "True",
+  "FFlagEnableInGameMenuChromeABTest3": "True"
 }
