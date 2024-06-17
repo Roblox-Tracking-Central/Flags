@@ -628,8 +628,8 @@
   "FFlagUniversalAppCsat4": "True",
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagSocialAnalyticsSupportTelemetry": "True",
-  "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:07:14",
-  "DFIntImmersiveAdVideoGenericErrorEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:07:18",
   "FFlagFCSkinningCrashFix": "True",
-  "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:14:16"
+  "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T18:14:16",
+  "DFIntImmersiveAdVideoGenericErrorEventThrottleHundredthsPercent": "10000",
+  "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent": "10000"
 }
