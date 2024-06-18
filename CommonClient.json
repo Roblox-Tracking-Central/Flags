@@ -12864,6 +12864,7 @@
   "FFlagEnabledCompileGQL_Rollout": "True;60;2024-06-18T17:14:52",
   "FFlagRepositionInExperienceVRToasts_Rollout": "True;60;2024-06-18T17:20:41",
   "FFlagFixEditableInstanceNonRenderableTracking_Rollout": "True;60;2024-06-18T17:42:03",
+  "FFlagHumanoidDescriptionCleanUpLambda_Rollout": "True;60;2024-06-18T17:42:54",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
