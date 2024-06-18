@@ -147,7 +147,6 @@
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "10000",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "5",
   "FIntOtaLoaderErrorEventHundredthsPercent2": "1000",
-  "DFFlagCreatorBanNewErrorMessage_Rollout": "True;60;2024-06-18T20:08:20",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedAndroid",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedAndroid",
   "AllowVideoPreRoll": "True",
