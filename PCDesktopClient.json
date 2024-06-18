@@ -145,9 +145,9 @@
   "FFlagEnableThirdPartyAssetLoading2": "False",
   "DFFlagThirdPartyVideoAdFetchMetrics": "False",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
-  "DFFlagTaskWaitNoCancelledError_Rollout": "True;60;2024-06-18T17:09:56",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
+  "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -214,13 +214,12 @@
   "FFlagVoiceChatFixRejoin": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
   "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure": "True",
   "DFFlagSimPartCountReportFix": "True",
   "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
   "FFlagFCSkinningCrashFix": "True",
-  "FFlagFastClusterUpdateDurationTelemetry_Rollout": "True;60;2024-06-18T17:13:43",
+  "FFlagFastClusterUpdateDurationTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -537,5 +536,5 @@
   "FFlagEnableRuntimeThreadVisQueries3": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FFlagAXRefactorTryOnItems4_Rollout": "True;30;2024-06-18T17:19:41"
+  "FFlagAXRefactorTryOnItems4": "True"
 }

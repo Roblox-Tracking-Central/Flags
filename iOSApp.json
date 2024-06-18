@@ -145,9 +145,9 @@
   "FFlagEnableThirdPartyAssetLoading2": "True",
   "DFFlagThirdPartyVideoAdFetchMetrics": "True",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "10000",
-  "DFFlagTaskWaitNoCancelledError_Rollout": "True;60;2024-06-18T17:09:56",
-  "AllowVideoPreRoll": "True",
   "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
+  "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -616,7 +616,6 @@
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FIntNewBlockingUtilityRollout": "0",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS",
-  "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FFlagAXWidgetsByContext1": "True",
   "FFlagEnableFixForLanguageUpdate": "True",
   "FFlagAXAvatarWidgetData14": "True",
@@ -630,7 +629,7 @@
   "FFlagShouldEnableOtpSignup": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FIntNewBlockingUtilityRollout_v1": "50",
-  "FFlagAXRefactorTryOnItems4_Rollout": "True;30;2024-06-18T17:19:41",
-  "FFlagEnableRuntimeThreadVisQueries3_Rollout": "True;60;2024-06-18T18:08:57"
+  "FIntNewBlockingUtilityRollout_v1": "100",
+  "FFlagEnableRuntimeThreadVisQueries3_Rollout": "True;60;2024-06-18T18:08:57",
+  "FFlagAXRefactorTryOnItems4": "True"
 }
