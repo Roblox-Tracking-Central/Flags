@@ -140,6 +140,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
+  "FFlagMyDummyFlag": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickediOS",
   "FFlagEnableThirdPartyAssetLoading2": "True",
@@ -630,5 +631,5 @@
   "FFlagShouldEnableOtpSignup": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FIntNewBlockingUtilityRollout_v1": "1"
+  "FIntNewBlockingUtilityRollout_v1": "10"
 }
