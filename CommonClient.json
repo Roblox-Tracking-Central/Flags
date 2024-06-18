@@ -12770,7 +12770,6 @@
   "DFIntDataStoreFixedRequestLimit_PlaceFilter": "150;166986752",
   "DFIntSimReportAveWorldstepTimeEventIngestPercent_PlaceFilter": "10000;4924922222",
   "FFlagQueryWithCallTunableInitialStateZero": "True",
-  "DFFlagPath2DAnalytics_ProfilerScope": "True",
   "DFFlagReportPath2DAnalyticsEnabled_Perf": "True",
   "DFIntReportPath2DInstanceAPICallsHundrethsPercent": "2500",
   "FFlagFixOpenWithMenuConsole": "True",
