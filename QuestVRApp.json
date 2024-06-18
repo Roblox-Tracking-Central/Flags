@@ -145,6 +145,8 @@
   "FFlagEnableThirdPartyAssetLoading2": "True",
   "DFFlagThirdPartyVideoAdFetchMetrics": "True",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "10000",
+  "FIntOtaLoaderInfoEventHundredthsPercent2_Rollout": "5;30;2024-06-18T16:42:07",
+  "FFlagLuauCodegenUserdataOpsFixA64_Rollout": "True;30;2024-06-18T16:51:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

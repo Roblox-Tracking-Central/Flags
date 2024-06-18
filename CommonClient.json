@@ -12855,6 +12855,8 @@
   "FFlagUIBloxUseInputResponsiveShortcutBarChanges": "True",
   "FFlagShouldEnableOtpDisambiguationPeekViewFix": "True",
   "FFlagLocalizeMenuNavigationToggleDialog": "True",
+  "FFlagLuaAppPlayButtonStyle_Rollout": "True;60;2024-06-18T16:42:03",
+  "FFlagLuaAppWideTilePlayButtonStyle_Rollout": "True;60;2024-06-18T16:42:52",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

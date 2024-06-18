@@ -146,6 +146,7 @@
   "DFFlagThirdPartyVideoAdFetchMetrics": "False",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagLuauCodegenUserdataOpsFixA64_Rollout": "True;30;2024-06-18T16:51:18",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",

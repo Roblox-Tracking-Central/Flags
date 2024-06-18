@@ -146,6 +146,7 @@
   "DFFlagThirdPartyVideoAdFetchMetrics": "True",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent": "10000",
   "AllowVideoPreRoll": "True",
+  "FFlagLuauCodegenUserdataOpsFixA64_Rollout": "True;30;2024-06-18T16:51:18",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -628,5 +629,6 @@
   "FFlagEnableModularizedUserAgreementsList": "True",
   "FFlagShouldEnableOtpSignup": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
-  "FFlagEnableInGameMenuChromeABTest3": "True"
+  "FFlagEnableInGameMenuChromeABTest3": "True",
+  "FIntNewBlockingUtilityRollout_v1": "1"
 }
