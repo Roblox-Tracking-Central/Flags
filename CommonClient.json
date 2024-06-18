@@ -12194,6 +12194,7 @@
   "FStringUnlockVoiceIcon": "icons/controls/microphone",
   "FFlagAUMAdapterReferenceInvisible": "True",
   "FFlagUserAgreementsDefaultSelection": "True",
+  "FFlagUserAgreementsOnAppForegrounded": "True",
   "FFlagLuauCodegenVectorMispredictFix": "True",
   "FFlagLuauPushErrorStackCheck": "True",
   "FFlagPlayerIconAvatarFix": "True",
