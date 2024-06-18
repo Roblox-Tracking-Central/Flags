@@ -347,5 +347,5 @@
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FFlagFCSkinningCrashFix": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FFlagEnableRuntimeThreadVisQueries3_Rollout": "True;60;2024-06-18T18:08:57"
+  "FFlagEnableRuntimeThreadVisQueries3": "True"
 }

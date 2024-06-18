@@ -443,5 +443,5 @@
   "DFIntXboxGamepadUserInfoHundredthsPercentage": "500",
   "FFlagXboxGamepadUserInfoAnalytics": "True",
   "FFlagXboxSkipEngagementScreenTestEnabled": "True",
-  "FFlagEnableRuntimeThreadVisQueries3_Rollout": "True;60;2024-06-18T18:08:57"
+  "FFlagEnableRuntimeThreadVisQueries3": "True"
 }
