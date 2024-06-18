@@ -140,6 +140,7 @@
   "FFlagColorPickerSliderIXPEnabledForAll7": "False",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
   "FFlagFriendsCarouselInjectSocialBtn12": "True",
+  "DFIntWebrtcNeteqCngTimeoutMs": "86400000",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedAndroid",
   "FFlagEnableThirdPartyAssetLoading2": "True",
