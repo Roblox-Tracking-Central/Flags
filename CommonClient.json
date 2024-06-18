@@ -12514,7 +12514,6 @@
   "DFFlagSimSolverAerodynamicIntegratorHighGFix": "True",
   "FFlagEnableWebrtcFieldTrials": "True",
   "FFlagLuaAppGameTileProps": "True",
-  "FFlagEnableNewChatTabExperiment5": "True",
   "FFlagThreadLockFix": "True",
   "FFlagStudioPluginPopupAnchorPoint": "True",
   "FFlagSkipRenderingEmptyGlyphOrCursor": "True",
