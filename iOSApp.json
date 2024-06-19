@@ -631,7 +631,7 @@
   "FFlagShouldEnableOtpSignup": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FIntNewBlockingUtilityRollout_v1": "100",
+  "FIntNewBlockingUtilityRollout_v1": "0",
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagAXAvatarEventIngestService": "True"
 }
