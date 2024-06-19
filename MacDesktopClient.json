@@ -538,7 +538,6 @@
   "DFFlagPath2DAnalyticsEnabled2_PlaceFilter": "True;17833603397",
   "DFIntReportPath2DInstanceAPICallsHundrethsPercent_PlaceFilter": "10000;17833603397",
   "DFIntReportPath2DRecomputeTimeHundrethsPercent_PlaceFilter": "10000;17833603397",
-  "FFlagAXWidgetsByContext1": "True",
   "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
   "DFFlagGltfFlipEulerAngleOrder": "True",
