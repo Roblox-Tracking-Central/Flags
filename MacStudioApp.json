@@ -318,7 +318,6 @@
   "FStringDevForumAnnouncementsUrlSuffix": "tags/c/36/studio",
   "FStringDevForumRootUrl": "https://devforum.roblox.com/",
   "FStringStudioPluginsBacktraceToken": "37f816e4fd552fe0e43209ded2937e0d8a9bfd1790b866891988b56bc6f9410c",
-  "DFFlagRenderTC2_6": "False",
   "FFlagFixScreenScaleAlwaysBeingOne": "True",
   "DFStringRobloxAnalyticsSubDomain": "studio-ecsv2",
   "DFIntAnalyticsDeferredEventIngestMaxPostByteSize": "10000",
