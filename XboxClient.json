@@ -442,6 +442,5 @@
   "FFlagFCSkinningCrashFix": "True",
   "DFIntXboxGamepadUserInfoHundredthsPercentage": "500",
   "FFlagXboxGamepadUserInfoAnalytics": "True",
-  "FFlagXboxSkipEngagementScreenTestEnabled": "True",
-  "FFlagEnableRuntimeThreadVisQueries3": "True"
+  "FFlagXboxSkipEngagementScreenTestEnabled": "True"
 }

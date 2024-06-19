@@ -544,6 +544,5 @@
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FFlagAXRefactorTryOnItems4": "True",
-  "FFlagEnableRuntimeThreadVisQueries3": "True"
+  "FFlagAXRefactorTryOnItems4": "True"
 }

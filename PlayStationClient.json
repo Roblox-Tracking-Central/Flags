@@ -278,6 +278,5 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagEnablePSAuthAndHomepagePrefetch": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-  "FFlagEnableRuntimeThreadVisQueries3": "True"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
 }

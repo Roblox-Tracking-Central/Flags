@@ -346,6 +346,5 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FFlagFCSkinningCrashFix": "True",
-  "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FFlagEnableRuntimeThreadVisQueries3": "True"
+  "FFlagEnableInGameMenuChromeABTest3": "True"
 }

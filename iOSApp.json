@@ -633,6 +633,5 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FIntNewBlockingUtilityRollout_v1": "100",
   "FFlagAXRefactorTryOnItems4": "True",
-  "FFlagEnableRuntimeThreadVisQueries3": "True",
   "FFlagAXAvatarEventIngestService": "True"
 }
