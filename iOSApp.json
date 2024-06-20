@@ -631,5 +631,6 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FIntNewBlockingUtilityRollout_v1": "0",
   "FFlagAXRefactorTryOnItems4": "True",
-  "FFlagAXAvatarEventIngestService": "True"
+  "FFlagAXAvatarEventIngestService": "True",
+  "FFlagLuaAppMockUserRemoveDev_Rollout": "True;30;2024-06-20T16:12:39"
 }
