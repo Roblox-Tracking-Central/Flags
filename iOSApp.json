@@ -631,6 +631,5 @@
   "FIntNewBlockingUtilityRollout_v1": "0",
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagAXAvatarEventIngestService": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True",
-  "DFFlagEnableAdsApiClientV2Endpoint": "True"
+  "FFlagLuaAppMockUserRemoveDev": "True"
 }

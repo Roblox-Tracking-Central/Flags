@@ -540,7 +540,5 @@
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FFlagAXRefactorTryOnItems4": "True",
-  "DFFlagEnableAdsApiClientV2Endpoint": "False",
-  "DFFlagEnableAdsApiClientV2Endpoint_PlaceFilter": "True;16270624805"
+  "FFlagAXRefactorTryOnItems4": "True"
 }
