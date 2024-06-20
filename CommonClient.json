@@ -12876,7 +12876,6 @@
   "DFFlagCreatorBanNewErrorMessage": "True",
   "FFlagLuauFixBindingForGlobalPos": "True",
   "FFlagVoiceChatEnableSessionConfigFlags": "True",
-  "FFlagPluginCalloutBindToCloseCrash2": "True",
   "FFlagDevFrameworkEditTreeItemIdSupport": "True",
   "FIntAppNotificationHighVolumePercentage": "17",
   "FIntAppSelectVolumePercentage": "13",
