@@ -534,8 +534,6 @@
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac",
   "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
   "FFlagEnableThirdPartyAssetLoading2_PlaceFilter": "True;16270624805",
-  "DFFlagEnableAdsApiClientV2Endpoint": "False",
-  "DFFlagEnableAdsApiClientV2Endpoint_PlaceFilter": "True;16270624805",
   "DFFlagPath2DAnalytics_ProfilerScope_PlaceFilter": "True;17833603397",
   "DFFlagReportPath2DAnalyticsEnabled_Perf_PlaceFilter": "True;17833603397",
   "DFFlagPath2DAnalyticsEnabled2_PlaceFilter": "True;17833603397",

@@ -616,7 +616,6 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
   "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-  "DFFlagEnableAdsApiClientV2Endpoint": "True",
   "DFFlagHttpAppSuspendedTelemetry": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",

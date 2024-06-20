@@ -528,8 +528,6 @@
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneWindows",
   "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
   "FFlagEnableThirdPartyAssetLoading2_PlaceFilter": "True;16270624805",
-  "DFFlagEnableAdsApiClientV2Endpoint": "False",
-  "DFFlagEnableAdsApiClientV2Endpoint_PlaceFilter": "True;16270624805",
   "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
   "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
   "DFFlagGltfFlipEulerAngleOrder": "True",
