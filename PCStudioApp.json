@@ -786,6 +786,7 @@
   "FFlagFixExplorerDescendantJumping": "True",
   "FFlagPathEditorMaxControlPointDisableAdd": "True",
   "FFlagSTUDIOPLAT_34679_StopANRDetectorWhenMonitorIsOff": "True",
+  "FFlagSTUDIOPLAT_34678_CrashpadRefreshDebugInfo2_Rollout": "True;30;2024-06-20T17:26:30",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
