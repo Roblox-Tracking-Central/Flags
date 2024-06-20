@@ -12889,6 +12889,7 @@
   "DFFlagNANOutInertiaData": "True",
   "FFlagLuauCodegenUserdataOps_Rollout": "True;60;2024-06-20T16:10:36",
   "FFlagLuaAppChartsPageRenameIXP_Rollout": "True;60;2024-06-20T16:30:26",
+  "FFlagEnableNextGenGamePassPurchase_Rollout": "True;60;2024-06-20T16:53:59",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
