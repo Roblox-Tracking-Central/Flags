@@ -12908,6 +12908,7 @@
   "FFlagStudioFixComponentTestOverrideRegistration": "True",
   "DFFlagSimPartCountReportFix": "True",
   "DFFlagHandleTaskSchedulerHangInST": "True",
+  "FFlagSTFSMEnableAppSessionSuccess_Rollout": "False;30;2024-06-21T21:39:31",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
