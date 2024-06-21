@@ -641,6 +641,6 @@
   "FFlagAXEnableSearchTelemetry_Rollout": "True;60;2024-06-21T18:31:53",
   "FFlagAXFixSearchResultsBarSpacing1_Rollout": "True;60;2024-06-21T18:31:53",
   "FFlagAXSearchRefactorForAnalytics_Rollout": "True;60;2024-06-21T18:31:53",
-  "FFlagAXAvatarLevel3Sessionization_Rollout": "True;30;2024-06-21T18:41:11",
-  "FFlagCounterNoInternetConnectionResultsList": "True"
+  "FFlagCounterNoInternetConnectionResultsList": "True",
+  "FFlagAXAvatarLevel3Sessionization": "True"
 }
