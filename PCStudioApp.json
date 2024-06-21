@@ -791,6 +791,7 @@
   "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;30;2024-06-21T16:22:04",
   "FFlagDeprecatedMemberInOtherClass_Rollout": "True;30;2024-06-21T16:25:07",
   "FFlagScriptDebuggerSafeGetIndexInfo_Rollout": "True;30;2024-06-21T16:25:09",
+  "FFlagSoundServicePreventsAppNap_Rollout": "True;60;2024-06-21T16:35:22",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

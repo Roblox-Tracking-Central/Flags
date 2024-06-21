@@ -12891,6 +12891,7 @@
   "FFlagLegacyAppShellLogOnRequire": "True",
   "FFlagEnableNextGenGamePassPurchase": "True",
   "FFlagCapsAssistant": "True",
+  "FFlagLuaAppChartsExpCustomExposureLog_Rollout": "True;30;2024-06-21T16:37:11",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
