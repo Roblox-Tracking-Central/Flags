@@ -226,6 +226,8 @@
   "FFlagFCSkinningCrashFix": "True",
   "FFlagFastClusterUpdateDurationTelemetry": "True",
   "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-21T17:09:50",
+  "FFlagVoiceChatAddDataChannelToSubConnection3_Rollout": "True;60;2024-06-21T17:28:29",
+  "FFlagVoiceChatCustomAudioMixerEnableUpdateSourcesTelemetry_Rollout": "True;60;2024-06-21T17:32:05",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

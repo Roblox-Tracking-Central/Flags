@@ -844,6 +844,7 @@
   "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
   "FFlagFastClusterUpdateDurationTelemetry": "True",
   "FFlagFixPlayerGuiResetCrash": "True",
+  "FFlagVoiceChatCustomAudioMixerEnableUpdateSourcesTelemetry_Rollout": "True;60;2024-06-21T17:32:05",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
