@@ -468,7 +468,6 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagUniversalAppCsat2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
@@ -534,6 +533,6 @@
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXRefactorTryOnItems4": "True",
-  "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;30;2024-06-21T16:22:04",
-  "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17"
+  "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17",
+  "DFFlagSignalArgStorageNoSubmitTask": "True"
 }

@@ -475,7 +475,6 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagUniversalAppCsat2": "True",
   "FFlagLuaAppDisableSound": "True",
@@ -545,6 +544,6 @@
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXRefactorTryOnItems4": "True",
-  "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;30;2024-06-21T16:22:04",
-  "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17"
+  "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17",
+  "DFFlagSignalArgStorageNoSubmitTask": "True"
 }
