@@ -550,5 +550,5 @@
   "FFlagAXRefactorTryOnItems4": "True",
   "DFFlagSignalArgStorageNoSubmitTask": "True",
   "FFlagLuaAppRemoveSeeAllDropdownIXP": "True",
-  "FFlagAXAvatarEventIngestService_Rollout": "True;30;2024-06-21T18:33:46"
+  "FFlagAXAvatarEventIngestService": "True"
 }
