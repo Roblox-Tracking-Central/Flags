@@ -150,6 +150,7 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "1000",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedAndroid",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedAndroid",
+  "DFFlagSimPartCountReportFix_Rollout": "True;60;2024-06-21T18:49:11",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

@@ -223,9 +223,14 @@
   "FFlagFCSkinningCrashFix": "True",
   "FFlagFastClusterUpdateDurationTelemetry": "True",
   "FFlagFixPlayerGuiResetCrash": "True",
-  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-21T17:09:50",
-  "FFlagVoiceChatCustomAudioMixerEnableUpdateSourcesTelemetry_Rollout": "True;60;2024-06-21T17:32:05",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry2_Rollout": "True;60;2024-06-21T17:36:48",
+  "FFlagAXAddShowBottomBarProp_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXEnableSearchCounters_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXEnableSearchTelemetry_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXFixSearchResultsBarSpacing1_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXSearchRefactorForAnalytics_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagCounterNoInternetConnectionResultsList": "True",
+  "FFlagVoiceChatCustomAudioMixerEnableUpdateSourcesTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -544,5 +549,6 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXRefactorTryOnItems4": "True",
   "DFFlagSignalArgStorageNoSubmitTask": "True",
-  "FFlagLuaAppRemoveSeeAllDropdownIXP": "True"
+  "FFlagLuaAppRemoveSeeAllDropdownIXP": "True",
+  "FFlagAXAvatarEventIngestService_Rollout": "True;30;2024-06-21T18:33:46"
 }

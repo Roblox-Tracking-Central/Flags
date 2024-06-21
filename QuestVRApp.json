@@ -150,6 +150,7 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "1000",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedAndroid",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedAndroid",
+  "DFFlagSimPartCountReportFix_Rollout": "True;60;2024-06-21T18:49:11",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -709,5 +710,10 @@
   "FFlagAimThereIsNoGameUpload": "True",
   "FFlagIBFixLegacyItemStatus": "True",
   "FFlagChatTabHideGroupsLinkOnVR": "True",
-  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True"
+  "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
+  "FFlagAXAddShowBottomBarProp_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXEnableSearchCounters_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXEnableSearchTelemetry_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXFixSearchResultsBarSpacing1_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXSearchRefactorForAnalytics_Rollout": "True;60;2024-06-21T18:31:53"
 }

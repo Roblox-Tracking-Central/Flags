@@ -150,6 +150,7 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickediOS",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderediOS",
+  "DFFlagSimPartCountReportFix_Rollout": "True;60;2024-06-21T18:49:11",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -633,7 +634,13 @@
   "FFlagAXAvatarEventIngestService": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
   "FFlagCheckFor0UserIdOnContactImporter": "True",
-  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-21T17:09:50",
   "DFIntPerfDataGlobalThrottleHundredthsPercent_PlaceFilter": "500;189707;16270624805;4954752502;3623096087;3101667897;3351674303",
-  "FFlagLuaAppRemoveSeeAllDropdownIXP": "True"
+  "FFlagLuaAppRemoveSeeAllDropdownIXP": "True",
+  "FFlagAXAddShowBottomBarProp_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXEnableSearchCounters_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXEnableSearchTelemetry_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXFixSearchResultsBarSpacing1_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXSearchRefactorForAnalytics_Rollout": "True;60;2024-06-21T18:31:53",
+  "FFlagAXAvatarLevel3Sessionization_Rollout": "True;30;2024-06-21T18:41:11",
+  "FFlagCounterNoInternetConnectionResultsList": "True"
 }
