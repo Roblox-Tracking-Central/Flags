@@ -150,6 +150,9 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
+  "FFlagScriptingCommandBarTelemetry_Rollout": "True;60;2024-06-21T16:20:34",
+  "FFlagCAPThumbnailAssetDataLoaderComponent_Rollout": "True;60;2024-06-21T16:21:19",
+  "FFlagCAPConversationalAIExperimentationComponent2_Rollout": "True;60;2024-06-21T16:24:25",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -540,5 +543,6 @@
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FFlagAXRefactorTryOnItems4": "True"
+  "FFlagAXRefactorTryOnItems4": "True",
+  "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;30;2024-06-21T16:22:04"
 }
