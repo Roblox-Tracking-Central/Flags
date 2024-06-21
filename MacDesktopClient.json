@@ -218,7 +218,6 @@
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
-  "DFFlagSimPartCountReportFix": "True",
   "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
   "FFlagFCSkinningCrashFix": "True",
   "FFlagFastClusterUpdateDurationTelemetry": "True",
