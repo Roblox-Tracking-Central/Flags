@@ -150,9 +150,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
-  "FFlagScriptingCommandBarTelemetry_Rollout": "True;60;2024-06-21T16:20:34",
-  "FFlagCAPThumbnailAssetDataLoaderComponent_Rollout": "True;60;2024-06-21T16:21:19",
-  "FFlagCAPConversationalAIExperimentationComponent2_Rollout": "True;60;2024-06-21T16:24:25",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -536,6 +533,8 @@
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXRefactorTryOnItems4": "True",
-  "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17",
-  "DFFlagSignalArgStorageNoSubmitTask": "True"
+  "DFFlagSignalArgStorageNoSubmitTask": "True",
+  "FFlagWinInferredSetup_Rollout": "True;60;2024-06-21T18:04:38",
+  "FFlagEnableAppInitTTILog_Rollout": "True;60;2024-06-21T18:04:49",
+  "FFlagLuaAppRemoveSeeAllDropdownIXP": "True"
 }
