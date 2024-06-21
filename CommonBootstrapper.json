@@ -113,5 +113,6 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagMoveCurrentSearchTypeToState_v2": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
+  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-21T17:09:50",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }
