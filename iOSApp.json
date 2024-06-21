@@ -636,11 +636,11 @@
   "FFlagCheckFor0UserIdOnContactImporter": "True",
   "DFIntPerfDataGlobalThrottleHundredthsPercent_PlaceFilter": "500;189707;16270624805;4954752502;3623096087;3101667897;3351674303",
   "FFlagLuaAppRemoveSeeAllDropdownIXP": "True",
-  "FFlagAXAddShowBottomBarProp_Rollout": "True;60;2024-06-21T18:31:53",
-  "FFlagAXEnableSearchCounters_Rollout": "True;60;2024-06-21T18:31:53",
-  "FFlagAXEnableSearchTelemetry_Rollout": "True;60;2024-06-21T18:31:53",
-  "FFlagAXFixSearchResultsBarSpacing1_Rollout": "True;60;2024-06-21T18:31:53",
-  "FFlagAXSearchRefactorForAnalytics_Rollout": "True;60;2024-06-21T18:31:53",
   "FFlagCounterNoInternetConnectionResultsList": "True",
-  "FFlagAXAvatarLevel3Sessionization": "True"
+  "FFlagAXAvatarLevel3Sessionization": "True",
+  "FFlagAXAddShowBottomBarProp": "True",
+  "FFlagAXEnableSearchCounters": "True",
+  "FFlagAXEnableSearchTelemetry": "True",
+  "FFlagAXFixSearchResultsBarSpacing1": "True",
+  "FFlagAXSearchRefactorForAnalytics": "True"
 }
