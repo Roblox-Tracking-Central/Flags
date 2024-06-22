@@ -801,7 +801,6 @@
   "FFlagExplorerCreateSelectedBetter": "True",
   "FFlagSelectionHighlightManagerPerf": "True",
   "FFlagHighlightingEffectManagerPerf": "True",
-  "FFlagPropertiesMigrateImageUpload": "True",
   "FFlagPropertiesCacheDescriptorVisibility": "True",
   "FFlagStudioPropertiesBetterInfoLabel": "True",
   "FFlagReflectionMetadataFasterLookup": "True",
