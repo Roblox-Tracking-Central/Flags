@@ -377,7 +377,6 @@
   "FFlagStudioFixSchroedingerLogin": "True",
   "FFlagStudioAutoLoginResurrectedUsers": "True",
   "FFlagDisableSkipFrameForBusyInTestMode": "True",
-  "FFlagGamepadDeviceTypeSelectionFix": "True",
   "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled": "False",
   "FFlagLuauLintDeprecatedFenv": "True",
   "FFlagLuauLintTableIndexer": "True",
@@ -769,7 +768,6 @@
   "FFlagDeviceChangesUseDataModelTasks": "True",
   "FFlagTagEditorSearchClear": "True",
   "FIntUGCValidateFacsDataOperationalThreshold": "105",
-  "FFlagCLI_109140_OnePlaceForCSGLogFilename": "True",
   "DFFlagGltfFlipEulerAngleOrder": "True",
   "FFlagAddInsertionNavDataSeeAll": "True",
   "FFlagDontHighlightWorkspace": "True",
@@ -803,12 +801,12 @@
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FFlagCollisionGroupNamePropertyItemImprovement": "True",
   "FFlagSTUDIOPLAT_27752_ReportFileDialogVisible": "True",
-  "FFlagSTUDIOPLAT_34655_PatchForStudioSidCasing_Rollout": "True;60;2024-06-24T17:01:49",
   "FFlagLuauAttributeSyntaxFunExpr": "True",
   "FIntHttpCacheRedirectsTimeoutMs_Rollout": "1000;60;2024-06-24T17:43:34",
   "FFlagToolboxThrottleContextualRecommendationRequests_Rollout": "True;60;2024-06-24T17:56:42",
   "DFFlagCLI109666_Rollout": "True;30;2024-06-24T17:58:20",
   "FFlagLuaAppMockUserRemoveDev": "True",
+  "FFlagSTUDIOPLAT_34655_PatchForStudioSidCasing": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -870,6 +868,5 @@
   "FIntEventMonitorIsOnThrottling": "10000",
   "FIntEventWillSleepThrottling": "10000",
   "FFlagFixHangOnMonitorThreadExit": "True",
-  "FLogStartPageIXPCheck": "Warning,6",
-  "FFlagSTUDIOPLAT_27752_ReportFileDialogVisible_Rollout": "True;60;2024-06-24T17:19:46"
+  "FLogStartPageIXPCheck": "Warning,6"
 }

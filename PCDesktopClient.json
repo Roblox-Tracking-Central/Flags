@@ -150,8 +150,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
-  "FFlagCLI_109140_OnePlaceForCSGLogFilename_Rollout": "True;60;2024-06-24T16:56:04",
-  "FFlagGamepadDeviceTypeSelectionFix_Rollout": "True;60;2024-06-24T17:17:08",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -544,5 +542,6 @@
   "FFlagAXAvatarEventIngestService": "True",
   "FFlagEnableAppInitTTILog": "True",
   "FFlagWinInferredSetup": "True",
-  "FFlagVideoCaptureServiceWinEnumeratorAsyncFix_Rollout": "True;60;2024-06-24T17:38:03"
+  "FFlagVideoCaptureServiceWinEnumeratorAsyncFix_Rollout": "True;60;2024-06-24T17:38:03",
+  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T18:33:58"
 }
