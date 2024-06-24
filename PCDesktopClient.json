@@ -540,5 +540,6 @@
   "FFlagEnableAppInitTTILog": "True",
   "FFlagWinInferredSetup": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "FFlagVideoCaptureServiceWinEnumeratorAsyncFix_Rollout": "True;60;2024-06-24T19:31:18"
+  "FFlagVideoCaptureServiceWinEnumeratorAsyncFix_Rollout": "True;60;2024-06-24T19:31:18",
+  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T19:39:37"
 }

@@ -640,5 +640,6 @@
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
-  "FFlagAXSearchRefactorForAnalytics": "True"
+  "FFlagAXSearchRefactorForAnalytics": "True",
+  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T19:39:37"
 }
