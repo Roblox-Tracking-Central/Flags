@@ -12908,6 +12908,8 @@
   "FFlagStudioFixComponentTestOverrideRegistration": "True",
   "DFFlagSimPartCountReportFix": "True",
   "DFFlagHandleTaskSchedulerHangInST": "True",
+  "FFlagRenderOptimizeDecalTransparencyInvalidation_Rollout": "True;60;2024-06-24T16:02:01",
+  "FFlagBB91ImpersonatorLoaderFacetChange_Rollout": "True;60;2024-06-24T16:12:22",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
