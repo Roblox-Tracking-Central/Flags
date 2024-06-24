@@ -678,5 +678,6 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagAXRefactorTryOnItems4": "True",
-  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T19:39:37"
+  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T19:39:37",
+  "FIntVkErrorEventsThrottleHundredthsPercent_Rollout": "500;30;2024-06-24T20:11:04"
 }
