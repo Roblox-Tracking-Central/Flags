@@ -552,5 +552,6 @@
   "FFlagLuaAppRemoveSeeAllDropdownIXP": "True",
   "FFlagAXAvatarEventIngestService": "True",
   "FFlagEnableAppInitTTILog": "True",
-  "FFlagWinInferredSetup": "True"
+  "FFlagWinInferredSetup": "True",
+  "FFlagVideoCaptureServiceWinEnumeratorAsyncFix_Rollout": "True;60;2024-06-24T17:38:03"
 }
