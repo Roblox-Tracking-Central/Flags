@@ -645,5 +645,5 @@
   "FFlagAXWidgetsByContextRouteFix": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagLightgridCPUAsyncUpdate4": "True",
-  "FFlagAXFixAvatarLayeredClothing_Rollout": "True;30;2024-06-24T22:45:42"
+  "FFlagAXFixAvatarLayeredClothing": "True"
 }
