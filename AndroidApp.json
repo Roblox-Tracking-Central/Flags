@@ -150,9 +150,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "1000",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedAndroid",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedAndroid",
-  "FFlagXboxSkipEngagementScreenTestEnabled_Rollout": "True;60;2024-06-24T16:45:04",
-  "FFlagXboxGamepadUserInfoAnalytics_Rollout": "True;60;2024-06-24T16:45:31",
-  "FFlagSTUDIOPLAT_34679_ReportTelemetryWhenMonitorGoesOnOff_Rollout": "True;60;2024-06-24T16:53:32",
   "FFlagCLI_109140_OnePlaceForCSGLogFilename_Rollout": "True;60;2024-06-24T16:56:04",
   "FFlagGamepadDeviceTypeSelectionFix_Rollout": "True;60;2024-06-24T17:17:08",
   "AllowVideoPreRoll": "True",
@@ -683,6 +680,6 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagAXRefactorTryOnItems4": "True",
-  "FIntVkErrorEventsThrottleHundredthsPercent_Rollout": "500;60;2024-06-24T16:46:31",
-  "DFFlagHttpBlockWhenAppSuspended_Rollout": "True;60;2024-06-24T17:07:50"
+  "DFFlagHttpBlockWhenAppSuspended_Rollout": "True;60;2024-06-24T17:07:50",
+  "FIntVkErrorEventsThrottleHundredthsPercent": "500"
 }
