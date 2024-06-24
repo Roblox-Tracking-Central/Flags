@@ -120,5 +120,6 @@
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
+  "FFlagWinInstallerReportStatusFileTelemetry_Rollout": "True;60;2024-06-24T23:20:49",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }
