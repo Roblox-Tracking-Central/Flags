@@ -12922,6 +12922,8 @@
   "DFFlagMicroProfilerMemoryScope_Rollout": "True;30;2024-06-24T19:35:50",
   "FFlagSetDbgInfoMetal_Rollout": "True;30;2024-06-24T19:36:40",
   "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-06-24T19:38:43",
+  "FFlagEnableNewChatTabExperiment5_Rollout": "True;60;2024-06-24T19:44:18",
+  "FFlagHumanoidDescriptionResetIncludesBodyParts_Rollout": "True;60;2024-06-24T19:47:48",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
