@@ -159,6 +159,8 @@
   "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking_Rollout": "True;30;2024-06-24T16:46:44",
   "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking_CrashReporter_Rollout": "True;30;2024-06-24T16:48:30",
   "FFlagSTUDIOPLAT_34239_ReportHangsToBacktraceOnWindows_Rollout": "True;30;2024-06-24T16:49:14",
+  "FFlagSTUDIOPLAT_34679_ReportTelemetryWhenMonitorGoesOnOff_Rollout": "True;60;2024-06-24T16:53:32",
+  "FFlagCLI_109140_OnePlaceForCSGLogFilename_Rollout": "True;60;2024-06-24T16:56:04",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -452,5 +454,6 @@
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
-  "FFlagAXSearchRefactorForAnalytics": "True"
+  "FFlagAXSearchRefactorForAnalytics": "True",
+  "FFlagLuaAppMockUserRemoveDev_Rollout": "True;30;2024-06-24T17:06:35"
 }
