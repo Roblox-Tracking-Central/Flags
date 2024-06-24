@@ -227,9 +227,7 @@
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
-  "FFlagExplorerPackageIconIxpExperimentation": "True",
   "FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth": "50",
-  "FFlagExplorerPackageIconColumn2": "True",
   "FFlagAffineSkinning5": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagAXAvatarLevel3Sessionization": "True",
@@ -556,5 +554,6 @@
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
-  "FFlagLightgridCPUAsyncUpdate4": "True"
+  "FFlagLightgridCPUAsyncUpdate4": "True",
+  "FFlagAXFixAvatarLayeredClothing_Rollout": "True;30;2024-06-24T22:45:42"
 }
