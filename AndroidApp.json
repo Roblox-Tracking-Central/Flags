@@ -678,8 +678,8 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagAXRefactorTryOnItems4": "True",
-  "FFlagLightgridCPUAsyncUpdate4_Rollout": "True;60;2024-06-24T20:42:50",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FIntVkErrorEventsThrottleHundredthsPercent": "500",
-  "DFFlagHttpBlockWhenAppSuspended": "True"
+  "DFFlagHttpBlockWhenAppSuspended": "True",
+  "FFlagLightgridCPUAsyncUpdate4": "True"
 }

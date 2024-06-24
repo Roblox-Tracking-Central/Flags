@@ -119,6 +119,6 @@
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
-  "FFlagUseCatalogItemDetailsToResolveBundlePurchase_Rollout": "True;60;2024-06-24T20:34:34",
+  "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }
