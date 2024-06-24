@@ -445,5 +445,7 @@
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
-  "FFlagAXSearchRefactorForAnalytics": "True"
+  "FFlagAXSearchRefactorForAnalytics": "True",
+  "FFlagUseCatalogItemDetailsToResolveBundlePurchase_Rollout": "True;60;2024-06-24T20:34:34",
+  "FFlagAXWidgetsByContextRouteFix_Rollout": "True;30;2024-06-24T20:41:26"
 }

@@ -641,5 +641,8 @@
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
-  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T19:39:37"
+  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T19:39:37",
+  "FFlagUseCatalogItemDetailsToResolveBundlePurchase_Rollout": "True;60;2024-06-24T20:34:34",
+  "FFlagAXWidgetsByContextRouteFix_Rollout": "True;30;2024-06-24T20:41:26",
+  "FFlagLightgridCPUAsyncUpdate4_Rollout": "True;60;2024-06-24T20:42:50"
 }

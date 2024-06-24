@@ -278,5 +278,6 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagEnablePSAuthAndHomepagePrefetch": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
+  "FFlagUseCatalogItemDetailsToResolveBundlePurchase_Rollout": "True;60;2024-06-24T20:34:34"
 }
