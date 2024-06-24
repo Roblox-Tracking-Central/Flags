@@ -679,7 +679,7 @@
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagLightgridCPUAsyncUpdate4_Rollout": "True;60;2024-06-24T20:42:50",
-  "DFFlagHttpBlockWhenAppSuspended_Rollout": "True;1;2024-06-24T20:57:33",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
-  "FIntVkErrorEventsThrottleHundredthsPercent": "500"
+  "FIntVkErrorEventsThrottleHundredthsPercent": "500",
+  "DFFlagHttpBlockWhenAppSuspended": "True"
 }

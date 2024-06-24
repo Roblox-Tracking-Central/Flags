@@ -227,12 +227,12 @@
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
-  "FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth_Rollout": "50;60;2024-06-24T19:51:31",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase_Rollout": "True;60;2024-06-24T20:34:34",
   "FFlagAffineSkinning5_Rollout": "True;60;2024-06-24T20:35:44",
   "FFlagExplorerPackageIconIxpExperimentation": "True",
-  "FFlagExplorerPackageIconColumn2_Rollout": "True;30;2024-06-24T20:43:15",
   "FFlagAXAvatarLevel3Sessionization_Rollout": "True;30;2024-06-24T21:09:18",
+  "FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth": "50",
+  "FFlagExplorerPackageIconColumn2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -545,8 +545,8 @@
   "FFlagEnableAppInitTTILog": "True",
   "FFlagWinInferredSetup": "True",
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-  "FFlagAXWidgetsByContextRouteFix_Rollout": "True;30;2024-06-24T20:41:26",
   "FFlagLightgridCPUAsyncUpdate4_Rollout": "True;60;2024-06-24T20:42:50",
   "FFlagVideoCaptureServiceWinEnumeratorAsyncFix": "True",
-  "FFlagEnableHarmonyOnFrameRateManager4": "True"
+  "FFlagEnableHarmonyOnFrameRateManager4": "True",
+  "FFlagAXWidgetsByContextRouteFix": "True"
 }
