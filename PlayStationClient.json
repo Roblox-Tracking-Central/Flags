@@ -278,7 +278,5 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagEnablePSAuthAndHomepagePrefetch": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True",
-  "FFlagUnifyNavigationGraph5_Rollout": "False;60;2024-06-24T18:30:10"
+  "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True"
 }

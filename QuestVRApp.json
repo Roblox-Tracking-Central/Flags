@@ -678,9 +678,6 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagAXRefactorTryOnItems4": "True",
-  "FIntVkErrorEventsThrottleHundredthsPercent": "500",
-  "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T18:33:58",
-  "DFFlagHttpBlockWhenAppSuspended": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
@@ -716,6 +713,5 @@
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
-  "FFlagAXSearchRefactorForAnalytics": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True"
+  "FFlagAXSearchRefactorForAnalytics": "True"
 }
