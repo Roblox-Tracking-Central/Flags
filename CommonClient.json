@@ -12924,6 +12924,8 @@
   "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-06-24T19:38:43",
   "FFlagEnableNewChatTabExperiment5_Rollout": "True;60;2024-06-24T19:44:18",
   "FFlagHumanoidDescriptionResetIncludesBodyParts_Rollout": "True;60;2024-06-24T19:47:48",
+  "FFlagLuaAppShowPillContainsStrongLanguage_Rollout": "True;30;2024-06-24T19:58:19",
+  "FFlagFixReloadChatOnConflict_Rollout": "True;60;2024-06-24T20:08:02",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
