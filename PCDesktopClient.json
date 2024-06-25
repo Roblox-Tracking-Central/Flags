@@ -551,6 +551,6 @@
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
-  "FFlagSelectInSceneReportMenu2_Rollout": "True;30;2024-06-25T18:20:35",
-  "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;30;2024-06-25T18:49:27"
+  "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;30;2024-06-25T18:49:27",
+  "FFlagSelectInSceneReportMenu2": "True"
 }

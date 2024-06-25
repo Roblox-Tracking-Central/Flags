@@ -648,9 +648,9 @@
   "FFlagLuaAppCollectionViewOta": "True",
   "FFlagAppChatIsMessageFromSelfFix": "True",
   "FFlagNavigationIncorrectPolyRefPathfindingLink": "True",
-  "FFlagSelectInSceneReportMenu2_Rollout": "True;30;2024-06-25T18:20:35",
   "FFlagAXHideSeeAllIfTooFewItems_Rollout": "True;60;2024-06-25T18:38:32",
   "FFlagAXRedesignWidgetDividers2_Rollout": "True;60;2024-06-25T18:38:32",
   "FFlagEDPContextRedesign3": "True",
-  "FFlagLuaAppDeprecateGameSortEntry": "True"
+  "FFlagLuaAppDeprecateGameSortEntry": "True",
+  "FFlagSelectInSceneReportMenu2": "True"
 }

@@ -345,5 +345,6 @@
   "FFlagLuaAppSocialLibUseLazyRequire": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-  "FFlagEnableInGameMenuChromeABTest3": "True"
+  "FFlagEnableInGameMenuChromeABTest3": "True",
+  "FFlagAXAvatarWidgetData14_Rollout": "True;30;2024-06-25T19:24:00"
 }

@@ -862,6 +862,7 @@
   "FFlagAffineSkinning5": "True",
   "FFlagAXAvatarLevel3Sessionization": "True",
   "FFlagNavigationIncorrectPolyRefPathfindingLink": "True",
+  "FFlagAXAvatarWidgetData14_Rollout": "True;30;2024-06-25T19:24:00",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
