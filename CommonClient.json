@@ -12960,6 +12960,8 @@
   "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
   "FFlagAXWidgetItemsPerRowLowerBound": "True",
   "FFlagSyncStorageWithSystemLocale_Rollout": "True;60;2024-06-25T20:23:13",
+  "FFlagUseCachedAudibilityMeasurements_Rollout": "True;60;2024-06-25T20:45:16",
+  "FFlagTrackDistanceAttenuationTelemetry_Rollout": "True;60;2024-06-25T20:46:34",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

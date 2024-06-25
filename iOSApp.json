@@ -650,8 +650,8 @@
   "FFlagEDPContextRedesign3": "True",
   "FFlagLuaAppDeprecateGameSortEntry": "True",
   "FFlagSelectInSceneReportMenu2": "True",
-  "FFlagLuaAppUnifyGameModel_Rollout": "True;30;2024-06-25T19:37:14",
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",
-  "FFlagAffineSkinning5_Rollout": "True;60;2024-06-25T20:22:59"
+  "FFlagAffineSkinning5_Rollout": "True;60;2024-06-25T20:22:59",
+  "FFlagLuaAppUnifyGameModel": "True"
 }
