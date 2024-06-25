@@ -74,7 +74,6 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
-  "DFIntMemoryUtilityCurveTotalMemoryReserve": "100000000",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "0",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -285,5 +284,8 @@
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
   "FFlagAXHideSeeAllIfTooFewItems_Rollout": "True;60;2024-06-25T18:38:32",
-  "FFlagAXRedesignWidgetDividers2_Rollout": "True;60;2024-06-25T18:38:32"
+  "FFlagAXRedesignWidgetDividers2_Rollout": "True;60;2024-06-25T18:38:32",
+  "FFlagAXEnableSearchCounters_Rollout": "True;60;2024-06-25T19:01:06",
+  "FFlagAXEnableSearchTelemetry_Rollout": "True;60;2024-06-25T19:01:06",
+  "FFlagAXSearchRefactorForAnalytics_Rollout": "True;60;2024-06-25T19:01:06"
 }

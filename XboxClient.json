@@ -74,7 +74,6 @@
   "FFlagEnableSoundTelemetry": "False",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "False",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
-  "DFIntMemoryUtilityCurveTotalMemoryReserve": "100000000",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "0",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
