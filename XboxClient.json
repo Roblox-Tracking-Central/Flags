@@ -149,7 +149,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "1000",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
-  "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-25T19:46:20",
   "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;60;2024-06-25T19:59:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

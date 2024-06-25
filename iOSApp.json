@@ -149,7 +149,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickediOS",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderediOS",
-  "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-25T19:46:20",
   "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;60;2024-06-25T19:59:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -653,5 +652,12 @@
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagAffineSkinning5_Rollout": "True;60;2024-06-25T20:22:59",
-  "FFlagLuaAppUnifyGameModel": "True"
+  "FFlagLuaAppUnifyGameModel": "True",
+  "DFIntMemoryUtilityCurveTotalMemoryReserve_Rollout": "125000000;30;2024-06-25T21:13:15",
+  "FFlagAXCreatorNamesInWidgets_Rollout": "True;60;2024-06-25T21:26:19",
+  "FFlagAXFixMissingPaddingInLooksWidgets_Rollout": "True;60;2024-06-25T21:26:19",
+  "FFlagAXFixWidgetTileHeights_Rollout": "True;60;2024-06-25T21:26:19",
+  "FFlagAXLocalizedStringsInWidgets_Rollout": "True;60;2024-06-25T21:26:19",
+  "FFlagAXRefactorGridItemHeightGetter_Rollout": "True;60;2024-06-25T21:26:19",
+  "FFlagAXWidgetRowCountBreakpoints_Rollout": "True;60;2024-06-25T21:26:19"
 }
