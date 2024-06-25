@@ -781,7 +781,6 @@
   "DFFlagSignalArgStorageNoSubmitTask": "True",
   "FFlagDeprecatedMemberInOtherClass": "True",
   "FFlagScriptDebuggerSafeGetIndexInfo": "True",
-  "FFlagSoundServicePreventsAppNap": "True",
   "FFlagDevFrameworkFixTextInputStylizerMissing": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "FFlagSystemOutputControllerComponent2": "True",
