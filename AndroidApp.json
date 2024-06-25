@@ -62,6 +62,7 @@
   "FFlagMultiTryOnPurchaseIXPEnabled2": "True",
   "FFlagVerifiedBadgeInFriendsLanding": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "True",
+  "FFlagScreenGuiStopReplicatingIgnoreGuiInset": "False",
   "DFIntCLI64234Max": "0",
   "FIntMultiview2": "0",
   "FIntOpenXrASW": "0",
@@ -691,5 +692,6 @@
   "FFlagPYMKCarouselLoadingEvents_Rollout": "True;30;2024-06-25T22:25:11",
   "FFlagDisableCameraOnLowSpecDevices2": "True",
   "FFlagOnlyShowToastOnce2": "True",
-  "FFlagOnlyShowToastOnceInLifetime2": "True"
+  "FFlagOnlyShowToastOnceInLifetime2": "True",
+  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-25T23:12:24"
 }

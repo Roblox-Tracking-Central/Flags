@@ -62,6 +62,7 @@
   "FFlagMultiTryOnPurchaseIXPEnabled2": "True",
   "FFlagVerifiedBadgeInFriendsLanding": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "False",
+  "FFlagScreenGuiStopReplicatingIgnoreGuiInset": "True",
   "DFIntCLI64234Max": "100000000",
   "FIntMultiview2": "0",
   "FIntOpenXrASW": "0",
@@ -810,7 +811,6 @@
   "FFlagLuauCodegenInstG": "True",
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",
-  "FFlagScreenGuiStopReplicatingIgnoreGuiInset_Rollout": "True;30;2024-06-25T22:06:07",
   "FFlagDevFrameworkMaterialActionAsTool_Rollout": "True;60;2024-06-25T22:28:31",
   "FFlagDevFrameworkLimitDropdownHeightFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -881,5 +881,6 @@
   "FIntEventWillSleepThrottling": "10000",
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FLogStartPageIXPCheck": "Warning,6",
-  "FFlagPrintFileAndLineForClampedColorValues_Rollout": "True;30;2024-06-25T22:26:31"
+  "FFlagPrintFileAndLineForClampedColorValues_Rollout": "True;30;2024-06-25T22:26:31",
+  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-25T23:12:24"
 }

@@ -62,6 +62,7 @@
   "FFlagMultiTryOnPurchaseIXPEnabled2": "False",
   "FFlagVerifiedBadgeInFriendsLanding": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "False",
+  "FFlagScreenGuiStopReplicatingIgnoreGuiInset": "False",
   "DFIntCLI64234Max": "0",
   "FIntMultiview2": "0",
   "FIntOpenXrASW": "0",
