@@ -74,6 +74,7 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
+  "DFIntMemoryUtilityCurveTotalMemoryReserve": "100000000",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -646,8 +647,9 @@
   "FFlagAXWidgetsByContextRouteFix": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
-  "FFlagAppChatIsMessageFromSelfFix_Rollout": "True;60;2024-06-25T16:25:04",
   "FFlagNavigationIncorrectPolyRefPathfindingLink_Rollout": "True;60;2024-06-25T16:42:10",
   "FFlagLuaAppCollectionViewOta": "True",
-  "FFlagEDPContextRedesign3_Rollout": "True;30;2024-06-25T17:35:17"
+  "FFlagEDPContextRedesign3_Rollout": "True;30;2024-06-25T17:35:17",
+  "FFlagLuaAppDeprecateGameSortEntry_Rollout": "True;30;2024-06-25T18:01:12",
+  "FFlagAppChatIsMessageFromSelfFix": "True"
 }
