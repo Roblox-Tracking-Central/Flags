@@ -149,7 +149,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "1000",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
-  "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;60;2024-06-25T19:59:16",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

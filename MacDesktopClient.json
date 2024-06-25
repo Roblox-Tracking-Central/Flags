@@ -149,7 +149,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
-  "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;60;2024-06-25T19:59:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

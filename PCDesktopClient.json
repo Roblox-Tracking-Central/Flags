@@ -149,7 +149,6 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
-  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -236,6 +235,7 @@
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagAXAvatarEventIngestService": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -547,6 +547,5 @@
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
-  "FFlagSelectInSceneReportMenu2": "True",
-  "FFlagMoveUpdateCheckToUniversalApp": "True"
+  "FFlagSelectInSceneReportMenu2": "True"
 }
