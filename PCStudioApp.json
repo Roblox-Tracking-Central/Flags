@@ -814,7 +814,6 @@
   "FFlagDevFrameworkMaterialActionAsTool_Rollout": "True;60;2024-06-25T22:28:31",
   "FFlagDevFrameworkLimitDropdownHeightFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagSplitDescendantDirtyBit3_Rollout": "True;15;2024-06-25T23:26:57",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
