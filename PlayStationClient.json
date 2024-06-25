@@ -282,9 +282,9 @@
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
-  "FFlagAXEnableSearchCounters_Rollout": "True;60;2024-06-25T19:01:06",
-  "FFlagAXEnableSearchTelemetry_Rollout": "True;60;2024-06-25T19:01:06",
-  "FFlagAXSearchRefactorForAnalytics_Rollout": "True;60;2024-06-25T19:01:06",
   "FFlagAXHideSeeAllIfTooFewItems": "True",
-  "FFlagAXRedesignWidgetDividers2": "True"
+  "FFlagAXRedesignWidgetDividers2": "True",
+  "FFlagAXEnableSearchCounters": "True",
+  "FFlagAXEnableSearchTelemetry": "True",
+  "FFlagAXSearchRefactorForAnalytics": "True"
 }

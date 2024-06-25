@@ -345,7 +345,7 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True",
-  "FFlagAXAvatarWidgetTryOn5_Rollout": "True;30;2024-06-25T19:31:42",
-  "FFlagAXRefactorTryOnItems4_Rollout": "True;30;2024-06-25T19:33:07",
-  "FFlagAXAvatarWidgetData14": "True"
+  "FFlagAXAvatarWidgetData14": "True",
+  "FFlagAXAvatarWidgetTryOn5": "True",
+  "FFlagAXRefactorTryOnItems4": "True"
 }

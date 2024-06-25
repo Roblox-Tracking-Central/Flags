@@ -12811,7 +12811,6 @@
   "FFlagFixMicSelection": "True",
   "FFlagUsePolishedAnimations": "True",
   "FFlagWindowFixes": "True",
-  "FFlagClientTokenFromHeader33_PlaceFilter": "True;151748951",
   "FFlagFinishRolloutsForStaleFlags2": "True",
   "FIntStaleRolloutTimeSeconds": "7200",
   "FFlagSimSolverDecreasePartMinimumDensityPhasedRollout2": "True",
