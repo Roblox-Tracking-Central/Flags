@@ -12950,6 +12950,7 @@
   "FFlagStudioRemovePscFromDiagnostics_Rollout": "True;60;2024-06-25T17:05:12",
   "FFlagStudioFixPlaceManagerSaveCrashes_Rollout": "True;60;2024-06-25T17:05:16",
   "FFlagQualityFiltersFixInResultsView_Rollout": "True;60;2024-06-25T17:13:17",
+  "FFlagLuaAppDefaultSelectionCursor_Rollout": "True;30;2024-06-25T17:29:20",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
