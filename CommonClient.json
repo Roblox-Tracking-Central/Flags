@@ -12910,7 +12910,6 @@
   "DFFlagHandleTaskSchedulerHangInST": "True",
   "FIntUnexpectedLuaFileRequiredErrorThrottleHundrethsPercent": "500",
   "FFlagLuauAttributeSyntax": "True",
-  "FFlagRenderOptimizeDecalTransparencyInvalidation": "True",
   "FFlagBB91ImpersonatorLoaderFacetChange": "True",
   "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking": "True",
   "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking_CrashReporter": "True",
