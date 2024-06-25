@@ -681,7 +681,6 @@
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FIntVkErrorEventsThrottleHundredthsPercent": "500",
   "DFFlagHttpBlockWhenAppSuspended": "True",
-  "FFlagLightgridCPUAsyncUpdate4": "True",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

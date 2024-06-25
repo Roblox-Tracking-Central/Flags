@@ -547,6 +547,5 @@
   "FFlagVideoCaptureServiceWinEnumeratorAsyncFix": "True",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
-  "FFlagLightgridCPUAsyncUpdate4": "True",
   "FFlagAXFixAvatarLayeredClothing": "True"
 }

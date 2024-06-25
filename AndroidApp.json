@@ -680,6 +680,5 @@
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FIntVkErrorEventsThrottleHundredthsPercent": "500",
-  "DFFlagHttpBlockWhenAppSuspended": "True",
-  "FFlagLightgridCPUAsyncUpdate4": "True"
+  "DFFlagHttpBlockWhenAppSuspended": "True"
 }

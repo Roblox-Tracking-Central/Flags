@@ -644,6 +644,5 @@
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
-  "FFlagLightgridCPUAsyncUpdate4": "True",
   "FFlagAXFixAvatarLayeredClothing": "True"
 }

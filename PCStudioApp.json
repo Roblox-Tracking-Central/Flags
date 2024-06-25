@@ -873,6 +873,5 @@
   "FIntEventMonitorIsOnThrottling": "10000",
   "FIntEventWillSleepThrottling": "10000",
   "FFlagFixHangOnMonitorThreadExit": "True",
-  "FLogStartPageIXPCheck": "Warning,6",
-  "FFlagLightgridCPUAsyncUpdate4": "True"
+  "FLogStartPageIXPCheck": "Warning,6"
 }

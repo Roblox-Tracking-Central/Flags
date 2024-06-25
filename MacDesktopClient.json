@@ -554,6 +554,5 @@
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
-  "FFlagLightgridCPUAsyncUpdate4": "True",
   "FFlagAXFixAvatarLayeredClothing": "True"
 }
