@@ -152,8 +152,8 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickediOS",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderediOS",
   "FFlagGamepadDeviceTypeSelectionFix_Rollout": "True;60;2024-06-25T17:16:31",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
+  "AllowVideoPreRoll": "True",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -648,9 +648,11 @@
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagLuaAppCollectionViewOta": "True",
-  "FFlagEDPContextRedesign3_Rollout": "True;30;2024-06-25T17:35:17",
   "FFlagLuaAppDeprecateGameSortEntry_Rollout": "True;30;2024-06-25T18:01:12",
   "FFlagAppChatIsMessageFromSelfFix": "True",
   "FFlagNavigationIncorrectPolyRefPathfindingLink": "True",
-  "FFlagSelectInSceneReportMenu2_Rollout": "True;30;2024-06-25T18:20:35"
+  "FFlagSelectInSceneReportMenu2_Rollout": "True;30;2024-06-25T18:20:35",
+  "FFlagAXHideSeeAllIfTooFewItems_Rollout": "True;60;2024-06-25T18:38:32",
+  "FFlagAXRedesignWidgetDividers2_Rollout": "True;60;2024-06-25T18:38:32",
+  "FFlagEDPContextRedesign3": "True"
 }
