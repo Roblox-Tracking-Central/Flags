@@ -652,15 +652,15 @@
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagLuaAppUnifyGameModel": "True",
-  "FFlagAXCreatorNamesInWidgets_Rollout": "True;60;2024-06-25T21:26:19",
-  "FFlagAXFixMissingPaddingInLooksWidgets_Rollout": "True;60;2024-06-25T21:26:19",
-  "FFlagAXFixWidgetTileHeights_Rollout": "True;60;2024-06-25T21:26:19",
-  "FFlagAXLocalizedStringsInWidgets_Rollout": "True;60;2024-06-25T21:26:19",
-  "FFlagAXRefactorGridItemHeightGetter_Rollout": "True;60;2024-06-25T21:26:19",
-  "FFlagAXWidgetRowCountBreakpoints_Rollout": "True;60;2024-06-25T21:26:19",
   "FFlagEnableUserBlockingReducerOnProfile": "True",
   "FFlagUserBlockingApiPlayerContextMenuEnabled": "True",
   "FFlagAffineSkinning5": "True",
   "FFlagPYMKCarouselLoadingEvents_Rollout": "True;30;2024-06-25T22:25:11",
-  "FFlagAXCounterBeforeSharingSheet_Rollout": "True;5;2024-06-25T22:33:54"
+  "FFlagAXCounterBeforeSharingSheet_Rollout": "True;5;2024-06-25T22:33:54",
+  "FFlagAXCreatorNamesInWidgets": "True",
+  "FFlagAXFixMissingPaddingInLooksWidgets": "True",
+  "FFlagAXFixWidgetTileHeights": "True",
+  "FFlagAXLocalizedStringsInWidgets": "True",
+  "FFlagAXRefactorGridItemHeightGetter": "True",
+  "FFlagAXWidgetRowCountBreakpoints": "True"
 }
