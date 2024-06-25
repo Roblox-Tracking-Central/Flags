@@ -12946,6 +12946,8 @@
   "FFlagLuauCheckedEmbeddedDefinitions2": "True",
   "DFFlagSimWakeAssembliesDequeOptimization": "True",
   "FFlagCAPConversationalAIModelComponent4": "True",
+  "DFFlagVideoCaptureReportRemoveExtraCall_Rollout": "True;60;2024-06-25T16:44:54",
+  "DFFlagIkLimitFixBadCache_Rollout": "True;60;2024-06-25T16:45:20",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

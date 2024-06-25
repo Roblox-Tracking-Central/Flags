@@ -232,6 +232,7 @@
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagAXAvatarLevel3Sessionization": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
+  "FFlagNavigationIncorrectPolyRefPathfindingLink_Rollout": "True;60;2024-06-25T16:42:10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -554,5 +555,6 @@
   "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
-  "FFlagAXFixAvatarLayeredClothing": "True"
+  "FFlagAXFixAvatarLayeredClothing": "True",
+  "DFIntMemoryUtilityCurveTotalMemoryReserve_Rollout": "25000000;30;2024-06-25T16:49:36"
 }

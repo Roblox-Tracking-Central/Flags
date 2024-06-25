@@ -646,5 +646,6 @@
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagAppChatIsMessageFromSelfFix_Rollout": "True;60;2024-06-25T16:25:04",
-  "FFlagLuaAppCollectionViewOta_Rollout": "True;30;2024-06-25T16:26:33"
+  "FFlagLuaAppCollectionViewOta_Rollout": "True;30;2024-06-25T16:26:33",
+  "FFlagNavigationIncorrectPolyRefPathfindingLink_Rollout": "True;60;2024-06-25T16:42:10"
 }
