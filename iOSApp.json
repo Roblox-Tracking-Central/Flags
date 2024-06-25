@@ -656,7 +656,6 @@
   "FFlagEnableUserBlockingReducerOnProfile": "True",
   "FFlagUserBlockingApiPlayerContextMenuEnabled": "True",
   "FFlagAffineSkinning5": "True",
-  "FFlagPYMKCarouselLoadingEvents_Rollout": "True;30;2024-06-25T22:25:11",
   "FFlagAXCreatorNamesInWidgets": "True",
   "FFlagAXFixMissingPaddingInLooksWidgets": "True",
   "FFlagAXFixWidgetTileHeights": "True",
@@ -664,5 +663,6 @@
   "FFlagAXRefactorGridItemHeightGetter": "True",
   "FFlagAXWidgetRowCountBreakpoints": "True",
   "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-25T23:12:24",
-  "FFlagAXCounterBeforeSharingSheet": "True"
+  "FFlagAXCounterBeforeSharingSheet": "True",
+  "FFlagPYMKCarouselLoadingEvents": "True"
 }
