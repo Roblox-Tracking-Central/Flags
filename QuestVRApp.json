@@ -688,6 +688,7 @@
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagEnableQuestHaptics": "True",
   "FFlagSelectInSceneReportMenu2": "True",
+  "FFlagAXAvatarEventIngestService_Rollout": "True;30;2024-06-25T19:31:16",
   "FFlagDisablePostFx": "True",
   "FFlagEnableAlwaysOnTopForPanel3D": "True",
   "FStringMaquettesVrAppId": "5804350719675181",
