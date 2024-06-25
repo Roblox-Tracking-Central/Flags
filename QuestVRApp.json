@@ -153,6 +153,7 @@
   "FFlagAXCloseTryOnManagerWhenUnselectingLook_Rollout": "True;60;2024-06-25T18:38:32",
   "AllowVideoPreRoll": "True",
   "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-25T19:46:20",
+  "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;60;2024-06-25T19:59:16",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
