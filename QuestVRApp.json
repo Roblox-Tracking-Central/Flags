@@ -688,6 +688,7 @@
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FFlagAXAvatarEventIngestService": "True",
   "FFlagAXAvatarLevel3Sessionization": "True",
+  "FFlagPYMKCarouselLoadingEvents_Rollout": "True;30;2024-06-25T22:25:11",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

@@ -285,5 +285,6 @@
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
-  "FFlagAXSearchRefactorForAnalytics": "True"
+  "FFlagAXSearchRefactorForAnalytics": "True",
+  "FFlagPYMKCarouselLoadingEvents_Rollout": "True;30;2024-06-25T22:25:11"
 }
