@@ -12948,6 +12948,8 @@
   "FFlagCAPConversationalAIModelComponent4": "True",
   "DFFlagVideoCaptureReportRemoveExtraCall_Rollout": "True;60;2024-06-25T16:44:54",
   "DFFlagIkLimitFixBadCache_Rollout": "True;60;2024-06-25T16:45:20",
+  "FFlagStudioRemovePscFromDiagnostics_Rollout": "True;60;2024-06-25T17:05:12",
+  "FFlagStudioFixPlaceManagerSaveCrashes_Rollout": "True;60;2024-06-25T17:05:16",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

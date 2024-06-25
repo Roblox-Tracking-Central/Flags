@@ -681,6 +681,7 @@
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FIntVkErrorEventsThrottleHundredthsPercent": "500",
   "DFFlagHttpBlockWhenAppSuspended": "True",
+  "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "6500;60;2024-06-25T17:04:57",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

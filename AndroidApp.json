@@ -680,5 +680,6 @@
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FIntVkErrorEventsThrottleHundredthsPercent": "500",
-  "DFFlagHttpBlockWhenAppSuspended": "True"
+  "DFFlagHttpBlockWhenAppSuspended": "True",
+  "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "6500;60;2024-06-25T17:04:57"
 }
