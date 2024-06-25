@@ -152,6 +152,7 @@
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
   "FFlagAXCloseTryOnManagerWhenUnselectingLook_Rollout": "True;60;2024-06-25T18:38:32",
   "FFlagAXWidgetItemsPerRowLowerBound_Rollout": "True;60;2024-06-25T18:38:32",
+  "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-25T19:46:20",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",

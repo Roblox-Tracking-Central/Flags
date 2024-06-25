@@ -152,6 +152,7 @@
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderediOS",
   "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
+  "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-25T19:46:20",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -652,5 +653,6 @@
   "FFlagAXRedesignWidgetDividers2_Rollout": "True;60;2024-06-25T18:38:32",
   "FFlagEDPContextRedesign3": "True",
   "FFlagLuaAppDeprecateGameSortEntry": "True",
-  "FFlagSelectInSceneReportMenu2": "True"
+  "FFlagSelectInSceneReportMenu2": "True",
+  "FFlagLuaAppUnifyGameModel_Rollout": "True;30;2024-06-25T19:37:14"
 }
