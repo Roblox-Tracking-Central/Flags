@@ -683,5 +683,6 @@
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FIntVkErrorEventsThrottleHundredthsPercent": "500",
   "DFFlagHttpBlockWhenAppSuspended": "True",
-  "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "6500;60;2024-06-25T17:04:57"
+  "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "6500;60;2024-06-25T17:04:57",
+  "FFlagSelectInSceneReportMenu2_Rollout": "True;30;2024-06-25T18:20:35"
 }
