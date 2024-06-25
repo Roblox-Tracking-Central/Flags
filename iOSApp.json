@@ -644,5 +644,7 @@
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
-  "FFlagAXFixAvatarLayeredClothing": "True"
+  "FFlagAXFixAvatarLayeredClothing": "True",
+  "FFlagAppChatIsMessageFromSelfFix_Rollout": "True;60;2024-06-25T16:25:04",
+  "FFlagLuaAppCollectionViewOta_Rollout": "True;30;2024-06-25T16:26:33"
 }
