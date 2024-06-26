@@ -12979,6 +12979,7 @@
   "FFlagScriptProfilerUseNewAPI_Rollout": "True;60;2024-06-26T16:44:22",
   "FFlagUIBloxUseNewInteractableCoreScript_Rollout": "True;60;2024-06-26T17:07:20",
   "DFFlagSimSolverAeroCleanupPrimitiveAeroStrength_Rollout": "True;60;2024-06-26T17:23:10",
+  "FFlagSocialLuaAnalyticsAddPlatformValueFix_Rollout": "True;60;2024-06-26T17:51:17",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
