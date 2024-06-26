@@ -12977,6 +12977,7 @@
   "FFlagLuaAppTextLabelHeightIsOffset3": "True",
   "DFFlagReportSharedStringBreakdown2": "True",
   "FFlagScriptProfilerUseNewAPI_Rollout": "True;60;2024-06-26T16:44:22",
+  "FFlagUIBloxUseNewInteractableCoreScript_Rollout": "True;60;2024-06-26T17:07:20",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

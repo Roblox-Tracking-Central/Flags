@@ -815,6 +815,8 @@
   "FFlagDevFrameworkMaterialActionAsTool": "True",
   "FFlagCAPConvAiExperimentBackendRename_Rollout": "True;60;2024-06-26T16:34:21",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01",
+  "DFFlagRandomNewSeedLimitReport_Rollout": "True;30;2024-06-26T16:55:29",
+  "DFFlagRandomNewSeedLimitReportOnce_Rollout": "True;60;2024-06-26T16:59:08",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
