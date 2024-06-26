@@ -552,5 +552,6 @@
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagSelectInSceneReportMenu2": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
-  "FFlagPrintFileAndLineForClampedColorValues": "True"
+  "FFlagPrintFileAndLineForClampedColorValues": "True",
+  "FFlagWinFixTIIRegression0529_Rollout": "True;60;2024-06-26T16:48:50"
 }

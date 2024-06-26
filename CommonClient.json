@@ -12976,6 +12976,7 @@
   "FFlagEnablePSUpdateAdapter": "True",
   "FFlagLuaAppTextLabelHeightIsOffset3": "True",
   "DFFlagReportSharedStringBreakdown2": "True",
+  "FFlagScriptProfilerUseNewAPI_Rollout": "True;60;2024-06-26T16:44:22",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
