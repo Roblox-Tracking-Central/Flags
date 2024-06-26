@@ -141,7 +141,6 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "1000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
-  "DFIntWebrtcNeteqCngTimeoutMs": "86400000",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "FFlagEnableThirdPartyAssetLoading2": "True",
@@ -151,6 +150,7 @@
   "FIntOtaLoaderErrorEventHundredthsPercent2": "1000",
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
+  "FFlagMoveUpdateCheckToUniversalApp": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -347,6 +347,5 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
-  "FFlagAXRefactorTryOnItems4": "True",
-  "FFlagMoveUpdateCheckToUniversalApp_Rollout": "False;60;2024-06-25T23:03:54"
+  "FFlagAXRefactorTryOnItems4": "True"
 }
