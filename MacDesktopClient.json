@@ -150,7 +150,6 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "AxisAdornmentGrabSize": "12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -242,6 +241,7 @@
   "AllowVideoPreRoll": "True",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
+  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -542,7 +542,6 @@
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
   "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneMac",
-  "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
   "FFlagEnableThirdPartyAssetLoading2": "False",
   "FFlagEnableThirdPartyAssetLoading2_PlaceFilter": "True;16270624805",
   "DFFlagPath2DAnalytics_ProfilerScope_PlaceFilter": "True;17833603397",
@@ -563,8 +562,8 @@
   "FFlagSelectInSceneReportMenu2": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
-  "FFlagProfileTrackLoadingTime_v1_Rollout": "True;60;2024-06-26T18:00:43",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
-  "FFlagRobloxTelemetryDualWritePointToV2": "True"
+  "FFlagRobloxTelemetryDualWritePointToV2": "True",
+  "FFlagProfileTrackLoadingTime_v1": "True"
 }

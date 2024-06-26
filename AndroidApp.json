@@ -150,7 +150,6 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedAndroid",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedAndroid",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "FFlagVideoCaptureServiceLoadDevicesAsync2_Rollout": "True;60;2024-06-26T18:01:59",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -693,10 +692,10 @@
   "FFlagOnlyShowToastOnceInLifetime2": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
-  "FFlagProfileTrackLoadingTime_v1_Rollout": "True;60;2024-06-26T18:00:43",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34"
+  "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
+  "FFlagProfileTrackLoadingTime_v1": "True"
 }
