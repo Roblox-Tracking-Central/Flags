@@ -141,6 +141,7 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "1000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
+  "FFlagMyDummyFlag": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedCommon",
   "DFFlagThirdPartyVideoAdFetchMetrics": "True",
@@ -452,8 +453,8 @@
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
-  "DFFlagRandomNewSeedLimitReportOnce_Rollout": "True;60;2024-06-26T16:59:08",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26"
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26",
+  "DFFlagRandomNewSeedLimitReportOnce": "True"
 }
