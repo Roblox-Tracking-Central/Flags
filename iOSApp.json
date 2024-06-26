@@ -673,8 +673,8 @@
   "FFlagRobloxTelemetryDualWritePointToV2": "True",
   "FFlagMediaGalleryFullViewMobile": "True",
   "FFlagLuaAppUseCollectionViewIXP2": "True",
-  "FFlagEnableSuspendReceiveRemoteNotification_Rollout": "True;60;2024-06-26T19:02:14",
   "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
-  "FFlagMediaGallerySnappingTelemetry_Rollout": "True;30;2024-06-26T19:30:37",
-  "FFlagProfileTrackLoadingTime_v1": "True"
+  "FFlagProfileTrackLoadingTime_v1": "True",
+  "FFlagMediaGallerySnappingTelemetry": "True",
+  "FFlagEnableSuspendReceiveRemoteNotification": "True"
 }

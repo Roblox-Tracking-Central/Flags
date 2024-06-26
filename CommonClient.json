@@ -12981,7 +12981,6 @@
   "FFlagLuaAppOmniFeedLoadMoreRows": "True",
   "FFlagSocialLuaAnalyticsAddPlatformValueFix": "True",
   "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
-  "FFlagSimUseFactoryMethodForListInArray_Rollout": "True;60;2024-06-26T19:50:48",
   "FFlagEnableVRToggleForVRInitialization": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
