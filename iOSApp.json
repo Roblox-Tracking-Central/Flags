@@ -96,7 +96,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "True",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "52",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache, RenderingQuality",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
@@ -664,7 +664,6 @@
   "FFlagAXWidgetRowCountBreakpoints": "True",
   "FFlagAXCounterBeforeSharingSheet": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance;60;2024-06-26T17:53:41",
   "FFlagProfileTrackLoadingTime_v1_Rollout": "True;60;2024-06-26T18:00:43",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
@@ -677,5 +676,7 @@
   "FFlagRobloxTelemetryDualWritePointToV2": "True",
   "FFlagMediaGalleryFullViewMobile": "True",
   "FFlagLuaAppUseCollectionViewIXP2": "True",
-  "FFlagEnableSuspendReceiveRemoteNotification_Rollout": "True;60;2024-06-26T19:02:14"
+  "FFlagEnableSuspendReceiveRemoteNotification_Rollout": "True;60;2024-06-26T19:02:14",
+  "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
+  "FFlagMediaGallerySnappingTelemetry_Rollout": "True;30;2024-06-26T19:30:37"
 }

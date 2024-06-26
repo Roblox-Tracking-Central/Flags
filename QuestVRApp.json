@@ -698,6 +698,7 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
   "FFlagEnableQuestHaptics": "True",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
+  "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
