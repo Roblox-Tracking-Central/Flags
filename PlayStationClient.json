@@ -287,6 +287,6 @@
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
-  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-25T23:12:24",
-  "FFlagPYMKCarouselLoadingEvents": "True"
+  "FFlagPYMKCarouselLoadingEvents": "True",
+  "FFlagCounterNoInternetConnectionResultsList": "True"
 }

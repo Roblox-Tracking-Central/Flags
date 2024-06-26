@@ -812,8 +812,8 @@
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagDevFrameworkLimitDropdownHeightFix": "True",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagDevFrameworkMaterialActionAsTool": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -878,6 +878,5 @@
   "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FLogStartPageIXPCheck": "Warning,6",
-  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-25T23:12:24",
   "FFlagPrintFileAndLineForClampedColorValues": "True"
 }

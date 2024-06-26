@@ -121,6 +121,5 @@
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagWinInstallerReportStatusFileTelemetry": "True",
-  "FFlagUIBloxUseFullPageModalZIndex": "True",
-  "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-25T23:12:24"
+  "FFlagUIBloxUseFullPageModalZIndex": "True"
 }
