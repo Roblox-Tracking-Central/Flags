@@ -151,6 +151,7 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -238,9 +239,8 @@
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagAXAvatarEventIngestService": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01",
-  "DFFlagRandomNewSeedLimitReport_Rollout": "True;30;2024-06-26T16:55:29",
   "DFFlagRandomNewSeedLimitReportOnce_Rollout": "True;60;2024-06-26T16:59:08",
-  "AllowVideoPreRoll": "True",
+  "DFFlagRandomNewSeedLimitReport": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -563,5 +563,6 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
   "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "True;60;2024-06-26T17:20:32",
-  "DFStringDualWritePointToV2WhiteList_Rollout": "experience_launch_flow,clientcrash;60;2024-06-26T17:20:35"
+  "DFStringDualWritePointToV2WhiteList_Rollout": "experience_launch_flow,clientcrash;60;2024-06-26T17:20:35",
+  "FFlagProfileTrackLoadingTime_v1_Rollout": "True;60;2024-06-26T18:00:43"
 }
