@@ -141,7 +141,6 @@
   "DFIntLuauNativeExecutionEventHundredthsPercent": "1000",
   "FFlagColorPickerSliderIXPEnabledForAll7": "True",
   "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;17427651911;17332573759",
-  "FFlagMyDummyFlag": "False",
   "DFIntHttpStatsErrorInfluxReportsPerMillion": "100",
   "FStringChatLandingGroupsBtnClicked": "ChatLandingGroupsBtnClickedDUAR",
   "DFFlagThirdPartyVideoAdFetchMetrics": "False",
@@ -563,8 +562,8 @@
   "FFlagSelectInSceneReportMenu2": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
-  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "True;60;2024-06-26T17:20:32",
-  "DFStringDualWritePointToV2WhiteList_Rollout": "experience_launch_flow,clientcrash;60;2024-06-26T17:20:35",
   "FFlagProfileTrackLoadingTime_v1_Rollout": "True;60;2024-06-26T18:00:43",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26"
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26",
+  "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
+  "FFlagRobloxTelemetryDualWritePointToV2": "True"
 }
