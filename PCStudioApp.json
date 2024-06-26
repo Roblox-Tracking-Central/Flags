@@ -815,12 +815,12 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "FFlagCAPConvAiExperimentBackendRename": "True",
   "FFlagSplitDescendantDirtyBit3": "True",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "FFlagAssetImportStopCheckingOldConfig_Rollout": "True;60;2024-06-26T18:44:13",
   "FFlagDevFrameworkFixCheckboxTreeView_Rollout": "True;60;2024-06-26T18:44:13",
   "FFlagDevFrameworkLevenshteinDistance_Rollout": "True;60;2024-06-26T18:44:13",
   "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -887,6 +887,5 @@
   "FIntEventWillSleepThrottling": "10000",
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FLogStartPageIXPCheck": "Warning,6",
-  "FFlagPrintFileAndLineForClampedColorValues": "True",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26"
+  "FFlagPrintFileAndLineForClampedColorValues": "True"
 }

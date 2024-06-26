@@ -693,11 +693,11 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
-  "FFlagEnableQuestHaptics": "True",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
   "FFlagProfileTrackLoadingTime_v1": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -731,6 +731,5 @@
   "FFlagAXAddShowBottomBarProp": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26"
+  "FFlagLuaAppMockUserRemoveDev": "True"
 }

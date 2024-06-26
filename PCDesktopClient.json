@@ -237,10 +237,10 @@
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagAXAvatarEventIngestService": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
-  "AllowVideoPreRoll": "True",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -556,6 +556,5 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
   "FFlagWinFixTIIRegression0529": "True",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26",
   "FFlagProfileTrackLoadingTime_v1": "True"
 }

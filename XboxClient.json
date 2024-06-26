@@ -452,8 +452,7 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "1000",
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34"
 }
