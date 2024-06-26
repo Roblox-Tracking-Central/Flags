@@ -12922,7 +12922,7 @@
   "FFlagShareExperienceInviteLinkPolicy": "True",
   "FFlagEnableNewChatTabExperiment5": "True",
   "FFlagHumanoidDescriptionResetIncludesBodyParts": "True",
-  "FFlagRuppFromServer24_DataCenterFilter": "True;361;369;265",
+  "FFlagRuppFromServer24_DataCenterFilter": "True;361;369;265;353",
   "FFlagFixReloadChatOnConflict": "True",
   "FFlagSTUDIOPLAT_34529_ProtectCrashreporterDestruction": "True",
   "FFlagCheckFirstItemVisibleForPadding": "True",

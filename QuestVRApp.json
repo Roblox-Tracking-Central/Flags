@@ -693,6 +693,7 @@
   "FFlagOnlyShowToastOnceInLifetime2": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

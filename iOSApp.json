@@ -663,5 +663,6 @@
   "FFlagAXRefactorGridItemHeightGetter": "True",
   "FFlagAXWidgetRowCountBreakpoints": "True",
   "FFlagAXCounterBeforeSharingSheet": "True",
-  "FFlagPYMKCarouselLoadingEvents": "True"
+  "FFlagPYMKCarouselLoadingEvents": "True",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01"
 }

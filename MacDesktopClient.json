@@ -237,6 +237,7 @@
   "FFlagAXAvatarWidgetTryOn5": "True",
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagAXAvatarEventIngestService": "True",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

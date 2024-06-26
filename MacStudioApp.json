@@ -813,6 +813,8 @@
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagDevFrameworkLimitDropdownHeightFix": "True",
   "FFlagDevFrameworkMaterialActionAsTool": "True",
+  "FFlagCAPConvAiExperimentBackendRename_Rollout": "True;60;2024-06-26T16:34:21",
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
