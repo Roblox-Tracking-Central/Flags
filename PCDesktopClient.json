@@ -243,7 +243,14 @@
   "FFlagEnableCapturesHotkeyExperiment_v4": "True",
   "DFFlagContentProviderPriorityListFix": "True",
   "DFFlagCleanModuleStateMap": "True",
-  "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-06-27T19:46:16",
+  "DFFlagPhysicsAddPlaceInstanceId_Rollout": "True;60;2024-06-27T21:22:27",
+  "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
+  "FFlagAXCreatorNamesInWidgets_Rollout": "True;60;2024-06-27T21:25:35",
+  "FFlagAXFixMissingPaddingInLooksWidgets_Rollout": "True;60;2024-06-27T21:25:35",
+  "FFlagAXFixWidgetTileHeights_Rollout": "True;60;2024-06-27T21:25:35",
+  "FFlagAXLocalizedStringsInWidgets_Rollout": "True;60;2024-06-27T21:25:35",
+  "FFlagAXRefactorGridItemHeightGetter_Rollout": "True;60;2024-06-27T21:25:35",
+  "FFlagAXWidgetRowCountBreakpoints_Rollout": "True;60;2024-06-27T21:25:35",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -560,10 +567,10 @@
   "FFlagWinFixTIIRegression0529": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FFlagLuaAppReportExperienceLaunchedParams_Rollout": "True;30;2024-06-27T20:26:39",
   "FFlagLuaAppConsoleSupportRFY4_Rollout": "True;30;2024-06-27T21:01:27",
   "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "True;60;2024-06-27T21:08:44",
   "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T21:09:33",
   "FFlagInstanceAttributesNewStorage": "True",
-  "FFlagLuaAppUseCollectionViewIXP2_Rollout": "True;30;2024-06-27T21:16:58"
+  "FFlagLuaAppUseCollectionViewIXP2_Rollout": "True;30;2024-06-27T21:16:58",
+  "FFlagLuaAppReportExperienceLaunchedParams": "True"
 }
