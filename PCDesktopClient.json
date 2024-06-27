@@ -150,7 +150,6 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "FFlagRobloxTelemetryDualWritePointToV2": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "AllowVideoPreRoll": "True",
   "FFlagScriptDebuggerSafeGetIndexInfo_Rollout": "True;30;2024-06-27T16:17:19",
@@ -560,5 +559,6 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
   "FFlagWinFixTIIRegression0529": "True",
-  "FFlagProfileTrackLoadingTime_v1": "True"
+  "FFlagProfileTrackLoadingTime_v1": "True",
+  "FFlagRuntimeEnabled6_Rollout": "True;60;2024-06-27T17:00:03"
 }

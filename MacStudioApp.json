@@ -150,7 +150,6 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "FFlagRobloxTelemetryDualWritePointToV2": "True",
   "AllowVideoPreRoll": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "CaptureCountersIntervalInMinutes": "5",
@@ -823,6 +822,7 @@
   "DFFlagRandomNewSeedLimitWarn": "True",
   "DFFlagIsFlacWavAudioUploadEnabled_Rollout": "True;60;2024-06-27T16:38:14",
   "FFlagUseBindingsForAudioPlayhead_Rollout": "True;30;2024-06-27T16:43:23",
+  "FFlagStudioUseAutoSaveFolderInfra_Rollout": "True;60;2024-06-27T17:10:03",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -889,6 +889,5 @@
   "FFlagFixHangOnMonitorThreadExit": "True",
   "FLogStartPageIXPCheck": "Warning,6",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
-  "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
-  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "False;60;2024-06-27T15:32:37"
+  "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash"
 }
