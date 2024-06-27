@@ -150,6 +150,7 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
+  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "False;60;2024-06-27T14:06:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
