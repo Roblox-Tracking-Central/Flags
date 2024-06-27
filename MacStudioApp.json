@@ -821,6 +821,8 @@
   "FFlagDevFrameworkFixCheckboxTreeView": "True",
   "FFlagDevFrameworkLevenshteinDistance": "True",
   "DFFlagRandomNewSeedLimitWarn": "True",
+  "DFFlagIsFlacWavAudioUploadEnabled_Rollout": "True;60;2024-06-27T16:38:14",
+  "FFlagUseBindingsForAudioPlayhead_Rollout": "True;30;2024-06-27T16:43:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
