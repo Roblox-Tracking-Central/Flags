@@ -887,5 +887,6 @@
   "FLogStartPageIXPCheck": "Warning,6",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
-  "FFlagRobloxTelemetryDualWritePointToV2": "True"
+  "FFlagRobloxTelemetryDualWritePointToV2": "True",
+  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "False;60;2024-06-27T15:32:37"
 }
