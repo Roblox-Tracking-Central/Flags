@@ -246,6 +246,7 @@
   "FFlagInstanceAttributesNewStorage_Rollout": "True;60;2024-06-27T19:08:48",
   "DFFlagContentProviderPriorityListFix": "True",
   "DFFlagCleanModuleStateMap": "True",
+  "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-06-27T19:46:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
