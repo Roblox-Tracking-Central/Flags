@@ -12982,7 +12982,7 @@
   "FFlagSocialLuaAnalyticsAddPlatformValueFix": "True",
   "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
   "FFlagEnableVRToggleForVRInitialization": "True",
-  "FFlagEnableOptionalVRDeviceCreation_Rollout": "True;60;2024-06-26T23:49:58",
+  "FFlagEnableOptionalVRDeviceCreation": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

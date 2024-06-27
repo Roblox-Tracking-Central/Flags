@@ -150,8 +150,12 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedAndroid",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedAndroid",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "False;60;2024-06-27T14:06:29",
+  "FFlagRobloxTelemetryDualWritePointToV2": "False",
   "AllowVideoPreRoll": "True",
+  "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;60;2024-06-27T16:16:46",
+  "FFlagScriptDebuggerSafeGetIndexInfo_Rollout": "True;30;2024-06-27T16:17:19",
+  "FFlagDeprecatedMemberInOtherClass_Rollout": "True;30;2024-06-27T16:17:37",
+  "FFlagLuauCodegenInstG_Rollout": "True;30;2024-06-27T16:18:30",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -696,6 +700,7 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
-  "FFlagProfileTrackLoadingTime_v1": "True"
+  "FFlagProfileTrackLoadingTime_v1": "True",
+  "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "4000;30;2024-06-27T16:09:12",
+  "DFFlagRandomNewSeedLimitWarn": "True"
 }
