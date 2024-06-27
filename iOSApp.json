@@ -682,5 +682,6 @@
   "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
   "FFlagDisableBulkPurchaseWhenNoItems": "True",
   "FFlagProfileShareLinksIXPSetupEnabled_v2_Rollout": "True;60;2024-06-27T22:27:26",
-  "FFlagProfileShareLinkAddProfileShareFriendType_Rollout": "True;60;2024-06-27T22:29:23"
+  "FFlagProfileShareLinkAddProfileShareFriendType_Rollout": "True;60;2024-06-27T22:29:23",
+  "FFlagAddTimerToBulkPurchaseBuyButton": "True"
 }

@@ -255,6 +255,7 @@
   "AllowVideoPreRoll": "True",
   "FFlagProfileShareLinksIXPSetupEnabled_v2_Rollout": "True;60;2024-06-27T22:27:26",
   "FFlagProfileShareLinkAddProfileShareFriendType_Rollout": "True;60;2024-06-27T22:29:23",
+  "FFlagAddTimerToBulkPurchaseBuyButton": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -570,12 +571,13 @@
   "FFlagWinFixTIIRegression0529": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "True;60;2024-06-27T21:08:44",
-  "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T21:09:33",
   "FFlagInstanceAttributesNewStorage": "True",
   "FFlagLuaAppReportExperienceLaunchedParams": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled_Rollout": "True;60;2024-06-27T22:06:29",
   "FFlagLuaAppConsoleSupportRFY4": "True",
   "FFlagLuaAppUseCollectionViewIXP2": "True",
-  "DFFlagContentProviderPriorityListFix_Rollout": "True;60;2024-06-27T22:24:00"
+  "DFFlagContentProviderPriorityListFix_Rollout": "True;60;2024-06-27T22:24:00",
+  "DFFlagCalculateStatsWhileVideoPlaying": "True",
+  "FFlagDeprecateMidPhaseComponentBase": "True",
+  "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-06-27T22:41:24"
 }

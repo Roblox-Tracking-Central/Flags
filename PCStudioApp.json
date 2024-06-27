@@ -839,6 +839,7 @@
   "FFlagStudioUseNewAutoSaveLocation_Rollout": "True;60;2024-06-27T22:12:45",
   "FFlagPopupMessageBoxAdjustSizeFix_Rollout": "True;60;2024-06-27T22:13:27",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+  "FFlagAddTimerToBulkPurchaseBuyButton": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
