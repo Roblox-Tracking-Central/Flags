@@ -242,6 +242,7 @@
   "FFlagTweenMoreMoves_Rollout": "True;60;2024-06-27T17:23:42",
   "FFlagEnableCapturesHotkeyExperiment_v4_Rollout": "True;60;2024-06-27T17:30:03",
   "FFlagFixDuplicateAutoSearch_v2_Rollout": "True;30;2024-06-27T17:42:32",
+  "DFFlagCleanModuleStateMap_Rollout": "True;60;2024-06-27T17:56:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
