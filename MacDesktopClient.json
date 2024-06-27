@@ -242,6 +242,8 @@
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn": "True",
   "FFlagTweenMoreMoves_Rollout": "True;60;2024-06-27T17:23:42",
+  "FFlagEnableCapturesHotkeyExperiment_v4_Rollout": "True;60;2024-06-27T17:30:03",
+  "FFlagFixDuplicateAutoSearch_v2_Rollout": "True;30;2024-06-27T17:42:32",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -564,5 +566,6 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagPrintFileAndLineForClampedColorValues": "True",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
-  "FFlagProfileTrackLoadingTime_v1": "True"
+  "FFlagProfileTrackLoadingTime_v1": "True",
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31"
 }

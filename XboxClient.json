@@ -455,5 +455,6 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "DFFlagRandomNewSeedLimitWarn": "True"
+  "DFFlagRandomNewSeedLimitWarn": "True",
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31"
 }

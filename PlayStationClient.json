@@ -293,5 +293,6 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "DFFlagRandomNewSeedLimitWarn": "True"
+  "DFFlagRandomNewSeedLimitWarn": "True",
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31"
 }
