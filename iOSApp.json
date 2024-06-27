@@ -680,5 +680,6 @@
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
-  "FFlagDisableBulkPurchaseWhenNoItems": "True"
+  "FFlagDisableBulkPurchaseWhenNoItems": "True",
+  "FFlagAddTimerToBulkPurchaseBuyButton": "True"
 }
