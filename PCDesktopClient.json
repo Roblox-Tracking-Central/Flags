@@ -560,8 +560,10 @@
   "FFlagWinFixTIIRegression0529": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FFlagInstanceAttributesNewStorage_Rollout": "True;20;2024-06-27T20:20:27",
   "FFlagLuaAppReportExperienceLaunchedParams_Rollout": "True;30;2024-06-27T20:26:39",
   "FFlagLuaAppConsoleSupportRFY4_Rollout": "True;30;2024-06-27T21:01:27",
-  "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "True;60;2024-06-27T21:08:44"
+  "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "True;60;2024-06-27T21:08:44",
+  "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T21:09:33",
+  "FFlagInstanceAttributesNewStorage": "True",
+  "FFlagLuaAppUseCollectionViewIXP2_Rollout": "True;30;2024-06-27T21:16:58"
 }
