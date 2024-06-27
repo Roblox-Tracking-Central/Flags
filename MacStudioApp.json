@@ -828,7 +828,7 @@
   "FFlagToolboxUpdateDisplayedAudioTags_Rollout": "True;60;2024-06-27T19:42:54",
   "FFlagNoPermissionGrantingOnNewUniverse": "True",
   "FFlagStudioVisualizationModes7_Rollout": "True;60;2024-06-27T20:16:26",
-  "FFlagTerrainEditorCopyPasteFix_Rollout": "True;10;2024-06-27T20:22:43",
+  "FFlagTerrainEditorCopyPasteFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

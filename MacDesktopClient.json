@@ -569,5 +569,7 @@
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T20:15:21",
   "FFlagLuaAppReportExperienceLaunchedParams_Rollout": "True;30;2024-06-27T20:26:39",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, RenderingQuality;60;2024-06-27T20:35:06"
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, RenderingQuality;60;2024-06-27T20:35:06",
+  "FFlagLuaAppConsoleSupportRFY4_Rollout": "True;30;2024-06-27T21:01:27",
+  "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "True;60;2024-06-27T21:08:44"
 }
