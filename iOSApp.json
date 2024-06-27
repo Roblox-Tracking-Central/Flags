@@ -75,6 +75,7 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
+  "DFIntMemoryUtilityCurvePenaltyBuffer": "400000000",
   "DFIntMemoryUtilityCurveTotalMemoryReserve": "125000000",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
@@ -150,7 +151,6 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickediOS",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderediOS",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry2_Rollout": "True;60;2024-06-27T18:32:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -679,5 +679,6 @@
   "FFlagFixDuplicateAutoSearch_v2": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-06-27T19:46:16"
+  "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-06-27T19:46:16",
+  "FFlagAffineSkinning5_Rollout": "True;60;2024-06-27T20:16:24"
 }

@@ -75,6 +75,7 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "50",
+  "DFIntMemoryUtilityCurvePenaltyBuffer": "400000000",
   "DFIntMemoryUtilityCurveTotalMemoryReserve": "100000000",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
@@ -217,7 +218,6 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
-  "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry2": "True",
   "FFlagAXAddShowBottomBarProp": "True",
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
@@ -241,7 +241,6 @@
   "FFlagFixDuplicateAutoSearch_v2": "True",
   "FFlagTweenMoreMoves": "True",
   "FFlagEnableCapturesHotkeyExperiment_v4": "True",
-  "FFlagInstanceAttributesNewStorage_Rollout": "True;60;2024-06-27T19:08:48",
   "DFFlagContentProviderPriorityListFix": "True",
   "DFFlagCleanModuleStateMap": "True",
   "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-06-27T19:46:16",
@@ -560,5 +559,6 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagWinFixTIIRegression0529": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True"
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
+  "FFlagInstanceAttributesNewStorage_Rollout": "True;20;2024-06-27T20:20:27"
 }

@@ -75,6 +75,7 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "50",
+  "DFIntMemoryUtilityCurvePenaltyBuffer": "75000000",
   "DFIntMemoryUtilityCurveTotalMemoryReserve": "25000000",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent": "10000",
@@ -217,7 +218,6 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
-  "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry2": "True",
   "FFlagAXAddShowBottomBarProp": "True",
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
@@ -566,6 +566,6 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "DFIntMemoryUtilityCurvePenaltyBuffer_Rollout": "75000000;30;2024-06-27T19:02:33",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True"
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
+  "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T20:15:21"
 }
