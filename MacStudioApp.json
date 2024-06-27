@@ -835,6 +835,7 @@
   "FFlagAXRefactorGridItemHeightGetter_Rollout": "True;60;2024-06-27T21:25:35",
   "FFlagAXWidgetRowCountBreakpoints_Rollout": "True;60;2024-06-27T21:25:35",
   "FFlagStudioVisualizationModes7": "True",
+  "FFlagDisableBulkPurchaseWhenNoItems": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

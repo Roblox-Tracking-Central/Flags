@@ -698,5 +698,5 @@
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FFlagAffineSkinning5_Rollout": "True;60;2024-06-27T20:22:19"
+  "FFlagAffineSkinning5": "True"
 }

@@ -679,5 +679,6 @@
   "FFlagFixDuplicateAutoSearch_v2": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagFixExposureLoggingForDisplayNameTooltip": "True"
+  "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
+  "FFlagDisableBulkPurchaseWhenNoItems": "True"
 }

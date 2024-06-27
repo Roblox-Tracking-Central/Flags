@@ -97,7 +97,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
-  "FStringPerformanceControlIncludedTunables": "RenderingQuality",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, RenderingQuality",
   "DFFlagAUMPAnalytics": "False",
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
@@ -251,6 +251,7 @@
   "FFlagAXLocalizedStringsInWidgets_Rollout": "True;60;2024-06-27T21:25:35",
   "FFlagAXRefactorGridItemHeightGetter_Rollout": "True;60;2024-06-27T21:25:35",
   "FFlagAXWidgetRowCountBreakpoints_Rollout": "True;60;2024-06-27T21:25:35",
+  "FFlagDisableBulkPurchaseWhenNoItems": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -574,11 +575,11 @@
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, RenderingQuality;60;2024-06-27T20:35:06",
-  "FFlagLuaAppConsoleSupportRFY4_Rollout": "True;30;2024-06-27T21:01:27",
   "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "True;60;2024-06-27T21:08:44",
   "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-06-27T21:16:55",
   "FFlagLuaAppUseCollectionViewIXP2_Rollout": "True;30;2024-06-27T21:16:58",
   "FFlagLuaAppReportExperienceLaunchedParams": "True",
-  "FFlagDeprecateMidPhaseComponentBase": "True"
+  "FFlagDeprecateMidPhaseComponentBase": "True",
+  "FFlagShareLinkPrivateServerAnalyticsEnabled_Rollout": "True;60;2024-06-27T22:06:29",
+  "FFlagLuaAppConsoleSupportRFY4": "True"
 }
