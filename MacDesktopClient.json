@@ -567,5 +567,6 @@
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T20:15:21"
+  "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T20:15:21",
+  "FFlagLuaAppReportExperienceLaunchedParams_Rollout": "True;30;2024-06-27T20:26:39"
 }

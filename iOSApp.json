@@ -679,6 +679,5 @@
   "FFlagFixDuplicateAutoSearch_v2": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-06-27T19:46:16",
-  "FFlagAffineSkinning5_Rollout": "True;60;2024-06-27T20:16:24"
+  "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-06-27T19:46:16"
 }

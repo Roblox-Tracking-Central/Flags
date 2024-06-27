@@ -560,5 +560,6 @@
   "FFlagWinFixTIIRegression0529": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FFlagInstanceAttributesNewStorage_Rollout": "True;20;2024-06-27T20:20:27"
+  "FFlagInstanceAttributesNewStorage_Rollout": "True;20;2024-06-27T20:20:27",
+  "FFlagLuaAppReportExperienceLaunchedParams_Rollout": "True;30;2024-06-27T20:26:39"
 }
