@@ -240,11 +240,11 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "FFlagTweenMoreMoves_Rollout": "True;60;2024-06-27T17:23:42",
-  "FFlagEnableCapturesHotkeyExperiment_v4_Rollout": "True;60;2024-06-27T17:30:03",
   "DFFlagCleanModuleStateMap_Rollout": "True;60;2024-06-27T17:56:00",
   "DFFlagContentProviderPriorityListFix_Rollout": "True;30;2024-06-27T18:28:23",
   "FFlagFixDuplicateAutoSearch_v2": "True",
+  "FFlagTweenMoreMoves": "True",
+  "FFlagEnableCapturesHotkeyExperiment_v4": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -567,8 +567,7 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31",
-  "FFlagOnContactTouchedUntouched_Rollout": "True;60;2024-06-27T18:14:52",
-  "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T18:34:47",
-  "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-06-27T18:41:16"
+  "DFIntMemoryUtilityCurveTotalMemoryReserve_Rollout": "25000000;30;2024-06-27T18:57:23",
+  "DFIntMemoryUtilityCurvePenaltyBuffer_Rollout": "75000000;30;2024-06-27T19:02:33",
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True"
 }

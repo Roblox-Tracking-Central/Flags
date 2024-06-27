@@ -240,11 +240,12 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "FFlagTweenMoreMoves_Rollout": "True;60;2024-06-27T17:23:42",
-  "FFlagEnableCapturesHotkeyExperiment_v4_Rollout": "True;60;2024-06-27T17:30:03",
   "DFFlagCleanModuleStateMap_Rollout": "True;60;2024-06-27T17:56:00",
   "DFFlagContentProviderPriorityListFix_Rollout": "True;30;2024-06-27T18:28:23",
   "FFlagFixDuplicateAutoSearch_v2": "True",
+  "FFlagTweenMoreMoves": "True",
+  "FFlagEnableCapturesHotkeyExperiment_v4": "True",
+  "FFlagInstanceAttributesNewStorage_Rollout": "True;60;2024-06-27T19:08:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -560,5 +561,5 @@
   "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagWinFixTIIRegression0529": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31"
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True"
 }
