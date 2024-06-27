@@ -150,6 +150,7 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
+  "FFlagCollisionGroupNamePropertyItemImprovement_Rollout": "True;60;2024-06-27T18:20:58",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -243,6 +244,7 @@
   "FFlagEnableCapturesHotkeyExperiment_v4_Rollout": "True;60;2024-06-27T17:30:03",
   "FFlagFixDuplicateAutoSearch_v2_Rollout": "True;30;2024-06-27T17:42:32",
   "DFFlagCleanModuleStateMap_Rollout": "True;60;2024-06-27T17:56:00",
+  "DFFlagContentProviderPriorityListFix_Rollout": "True;30;2024-06-27T18:28:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -556,7 +558,6 @@
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagSelectInSceneReportMenu2": "True",
   "FFlagPYMKCarouselLoadingEvents": "True",
-  "FFlagPrintFileAndLineForClampedColorValues": "True",
   "FFlagWinFixTIIRegression0529": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31"
