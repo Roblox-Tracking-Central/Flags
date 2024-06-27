@@ -151,7 +151,6 @@
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
-  "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;60;2024-06-27T16:16:46",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
@@ -293,6 +292,5 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "DFFlagRandomNewSeedLimitWarn": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31"
 }

@@ -151,7 +151,6 @@
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedAndroid",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "AllowVideoPreRoll": "True",
-  "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;60;2024-06-27T16:16:46",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -697,6 +696,5 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "DFFlagRandomNewSeedLimitWarn": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31"
 }
