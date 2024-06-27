@@ -150,8 +150,6 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
   "FFlagMoveUpdateCheckToUniversalApp": "False",
-  "FFlagCollisionGroupNamePropertyItemImprovement_Rollout": "True;60;2024-06-27T18:20:58",
-  "FFlagVoiceChatCustomAudioMixerEnableUpdateSourcesTelemetry_Rollout": "True;60;2024-06-27T18:30:01",
   "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry2_Rollout": "True;60;2024-06-27T18:32:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
