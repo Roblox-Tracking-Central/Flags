@@ -151,8 +151,8 @@
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "FFlagCollisionGroupNamePropertyItemImprovement_Rollout": "True;60;2024-06-27T18:20:58",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -242,9 +242,9 @@
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagTweenMoreMoves_Rollout": "True;60;2024-06-27T17:23:42",
   "FFlagEnableCapturesHotkeyExperiment_v4_Rollout": "True;60;2024-06-27T17:30:03",
-  "FFlagFixDuplicateAutoSearch_v2_Rollout": "True;30;2024-06-27T17:42:32",
   "DFFlagCleanModuleStateMap_Rollout": "True;60;2024-06-27T17:56:00",
   "DFFlagContentProviderPriorityListFix_Rollout": "True;30;2024-06-27T18:28:23",
+  "FFlagFixDuplicateAutoSearch_v2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -568,5 +568,7 @@
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-06-27T17:35:31",
-  "FFlagOnContactTouchedUntouched_Rollout": "True;60;2024-06-27T18:14:52"
+  "FFlagOnContactTouchedUntouched_Rollout": "True;60;2024-06-27T18:14:52",
+  "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-06-27T18:34:47",
+  "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-06-27T18:41:16"
 }
