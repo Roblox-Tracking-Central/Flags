@@ -696,6 +696,5 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn_Rollout": "True;60;2024-06-26T19:30:34",
-  "FFlagProfileTrackLoadingTime_v1": "True",
-  "FFlagAffineSkinning5_Rollout": "True;60;2024-06-26T23:49:33"
+  "FFlagProfileTrackLoadingTime_v1": "True"
 }

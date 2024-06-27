@@ -11478,7 +11478,7 @@
   "DFFlagEnableRealWorldCommercePOC": "False",
   "DFFlagEnableRealWorldCommercePOC_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
   "DFStringInExperienceRealWorldCommerceUrlAllowlist": "",
-  "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,myshopify.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
+  "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,thingmade.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
   "FFlagScriptProfilerMobileSettingsUI": "True",
   "FFlagUseLargerCDLCodeFontForVRV2": "True",
   "FFlagErrorPromptResizesHeight": "True",
