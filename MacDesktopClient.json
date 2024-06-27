@@ -578,12 +578,12 @@
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-06-27T21:16:55",
   "FFlagLuaAppReportExperienceLaunchedParams": "True",
   "FFlagDeprecateMidPhaseComponentBase": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled_Rollout": "True;60;2024-06-27T22:06:29",
   "FFlagLuaAppConsoleSupportRFY4": "True",
   "FFlagLuaAppUseCollectionViewIXP2": "True",
   "DFFlagContentProviderPriorityListFix_Rollout": "True;60;2024-06-27T22:24:00",
-  "DFFlagCalculateStatsWhileVideoPlaying": "True"
+  "DFFlagCalculateStatsWhileVideoPlaying": "True",
+  "FFlagDeprecateMidPhaseCollection": "True"
 }
