@@ -573,12 +573,12 @@
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagInstanceAttributesNewStorage": "True",
   "FFlagLuaAppReportExperienceLaunchedParams": "True",
-  "FFlagShareLinkPrivateServerAnalyticsEnabled_Rollout": "True;60;2024-06-27T22:06:29",
   "FFlagLuaAppConsoleSupportRFY4": "True",
   "FFlagLuaAppUseCollectionViewIXP2": "True",
   "DFFlagContentProviderPriorityListFix_Rollout": "True;60;2024-06-27T22:24:00",
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseComponentBase": "True",
   "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-06-27T22:41:24",
-  "FFlagOnContactTouchedUntouched_Rollout": "True;60;2024-06-27T23:39:21"
+  "FFlagOnContactTouchedUntouched_Rollout": "True;60;2024-06-27T23:39:21",
+  "FFlagShareLinkPrivateServerAnalyticsEnabled": "True"
 }
