@@ -13022,6 +13022,7 @@
   "FFlagFixPluginDependencyInNcgMetrics_Rollout": "True;60;2024-06-28T17:39:39",
   "FFlagAffineSkinning5": "True",
   "FFlagSimIslandReIntegration2_Rollout": "True;60;2024-06-28T17:41:47",
+  "FFlagGCRemovalTimeLimit2_Rollout": "True;60;2024-06-28T17:47:12",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
