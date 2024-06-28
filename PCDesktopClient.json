@@ -106,6 +106,7 @@
   "FFlagChatTranslationShowFTUX": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "DFFlagSimLimitAssemblyCount2": "True",
+  "FFlagDeprecateAncientInferredCrash": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "10",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedDUAR",
@@ -577,6 +578,5 @@
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseComponentBase": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagDeprecateMidPhaseCollection": "True",
-  "FFlagDeprecateAncientInferredCrash_Rollout": "True;60;2024-06-28T16:51:57"
+  "FFlagDeprecateMidPhaseCollection": "True"
 }

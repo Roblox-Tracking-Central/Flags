@@ -106,6 +106,7 @@
   "FFlagChatTranslationShowFTUX": "False",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "DFFlagSimLimitAssemblyCount2": "True",
+  "FFlagDeprecateAncientInferredCrash": "False",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1400",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedAndroid",
