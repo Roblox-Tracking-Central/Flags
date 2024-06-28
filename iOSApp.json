@@ -684,5 +684,5 @@
   "FFlagAddTimerToBulkPurchaseBuyButton": "True",
   "FFlagProfileShareLinkAddProfileShareFriendType": "True",
   "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
-  "DFFlagContentProviderPriorityListFix_Rollout": "True;5;2024-06-28T02:52:00"
+  "DFFlagContentProviderPriorityListFix": "True"
 }

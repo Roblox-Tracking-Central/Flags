@@ -294,5 +294,5 @@
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "DFFlagContentProviderPriorityListFix_Rollout": "True;5;2024-06-28T02:52:00"
+  "DFFlagContentProviderPriorityListFix": "True"
 }

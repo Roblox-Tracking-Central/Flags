@@ -19,6 +19,5 @@
   "FFlagEnableRandomRobloxChannelSelection": "True",
   "FFlagBootstrapperCheckOSBitPreReq": "True",
   "FIntWin32BitClientDeprecationLevel": "1",
-  "FStringClientChannelProbabilityString": "1000;zflag=50",
-  "DFFlagContentProviderPriorityListFix_Rollout": "True;5;2024-06-28T02:52:00"
+  "FStringClientChannelProbabilityString": "1000;zflag=50"
 }
