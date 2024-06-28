@@ -150,7 +150,6 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -224,7 +223,6 @@
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth": "50",
-  "FFlagAffineSkinning5": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagAXAvatarLevel3Sessionization": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
@@ -255,6 +253,8 @@
   "FFlagAXWidgetRowCountBreakpoints": "True",
   "FFlagProfileShareLinkAddProfileShareFriendType": "True",
   "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
+  "FFlagSearchEventCurrentPage_Rollout": "True;30;2024-06-28T17:09:37",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -578,5 +578,5 @@
   "FFlagDeprecateMidPhaseComponentBase": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "FFlagDeprecateMidPhaseCollection": "True",
-  "FFlagOnContactTouchedUntouched": "True"
+  "FFlagDeprecateAncientInferredCrash_Rollout": "True;60;2024-06-28T16:51:57"
 }
