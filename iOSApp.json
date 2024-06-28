@@ -684,7 +684,7 @@
   "FFlagProfileShareLinkAddProfileShareFriendType": "True",
   "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
   "DFFlagContentProviderPriorityListFix": "True",
-  "FFlagRuntimeEnabled6_Rollout": "True;60;2024-06-28T18:09:23",
   "FFlagSearchEventCurrentPage": "True",
-  "FFlagCapturesRemoveCoreUIDescendants": "True"
+  "FFlagCapturesRemoveCoreUIDescendants": "True",
+  "FFlagRuntimeEnabled6": "True"
 }
