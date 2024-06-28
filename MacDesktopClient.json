@@ -584,5 +584,5 @@
   "FFlagDeprecateMidPhaseCollection": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "DFIntEngineContextValidationReportingCap": "5",
-  "FFlagEnableEngineContextScope3_Rollout": "True;60;2024-06-28T17:15:24"
+  "FFlagEnableEngineContextScope3": "True"
 }
