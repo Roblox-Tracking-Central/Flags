@@ -685,6 +685,5 @@
   "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
   "DFFlagContentProviderPriorityListFix": "True",
   "FFlagSearchEventCurrentPage": "True",
-  "FFlagCapturesRemoveCoreUIDescendants": "True",
-  "FFlagRuntimeEnabled6": "True"
+  "FFlagCapturesRemoveCoreUIDescendants": "True"
 }
