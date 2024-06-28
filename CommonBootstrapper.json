@@ -125,6 +125,6 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn": "True",
-  "DFFlagContentProviderPriorityListFix_Rollout": "True;60;2024-06-27T22:24:00",
+  "DFFlagContentProviderPriorityListFix": "True",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }

@@ -245,9 +245,6 @@
   "DFFlagCleanModuleStateMap": "True",
   "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
   "FFlagDisableBulkPurchaseWhenNoItems": "True",
-  "AllowVideoPreRoll": "True",
-  "FFlagProfileShareLinksIXPSetupEnabled_v2_Rollout": "True;60;2024-06-27T22:27:26",
-  "FFlagProfileShareLinkAddProfileShareFriendType_Rollout": "True;60;2024-06-27T22:29:23",
   "FFlagAddTimerToBulkPurchaseBuyButton": "True",
   "DFFlagPhysicsAddPlaceInstanceId": "True",
   "FFlagAXCreatorNamesInWidgets": "True",
@@ -256,6 +253,9 @@
   "FFlagAXLocalizedStringsInWidgets": "True",
   "FFlagAXRefactorGridItemHeightGetter": "True",
   "FFlagAXWidgetRowCountBreakpoints": "True",
+  "FFlagProfileShareLinkAddProfileShareFriendType": "True",
+  "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -575,10 +575,9 @@
   "FFlagLuaAppReportExperienceLaunchedParams": "True",
   "FFlagLuaAppConsoleSupportRFY4": "True",
   "FFlagLuaAppUseCollectionViewIXP2": "True",
-  "DFFlagContentProviderPriorityListFix_Rollout": "True;60;2024-06-27T22:24:00",
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseComponentBase": "True",
-  "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-06-27T22:41:24",
   "FFlagOnContactTouchedUntouched_Rollout": "True;60;2024-06-27T23:39:21",
-  "FFlagShareLinkPrivateServerAnalyticsEnabled": "True"
+  "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
+  "FFlagDeprecateMidPhaseCollection": "True"
 }
