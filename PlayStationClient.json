@@ -151,6 +151,8 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
+  "FFlagOnContactTouchedUntouched_Rollout": "True;60;2024-06-28T16:03:04",
+  "FFlagAffineSkinning5_Rollout": "True;60;2024-06-28T16:10:03",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
