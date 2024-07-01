@@ -152,7 +152,6 @@
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickediOS",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickediOS",
-  "FFlagRenderAdreno730Workaround_Rollout": "True;60;2024-07-01T20:44:41",
   "FFlagStudioSleepInheritsStopToken_Rollout": "True;60;2024-07-01T21:11:56",
   "FFlagStudioWithUiContextRemoveShortCircuit_Rollout": "True;60;2024-07-01T21:12:41",
   "AllowVideoPreRoll": "True",
@@ -687,7 +686,6 @@
   "FFlagSearchEventCurrentPage": "True",
   "FFlagCapturesRemoveCoreUIDescendants": "True",
   "FFlagAXFixUnitsAvailableForConsumption": "True",
-  "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent_Rollout": "10000;60;2024-07-01T20:44:50",
-  "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent_Rollout": "10000;60;2024-07-01T20:45:16",
-  "FIntNewBlockingUtilityRollout_v1": "100"
+  "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": "10000",
+  "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": "10000"
 }
