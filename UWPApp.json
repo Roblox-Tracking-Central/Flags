@@ -152,8 +152,6 @@
   "FFlagMoveUpdateCheckToUniversalApp": "False",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
-  "FFlagStudioSleepInheritsStopToken_Rollout": "True;60;2024-07-01T21:11:56",
-  "FFlagStudioWithUiContextRemoveShortCircuit_Rollout": "True;60;2024-07-01T21:12:41",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
