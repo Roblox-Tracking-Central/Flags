@@ -102,7 +102,6 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "FFlagLuaAppEnableGameGridTable2": "True",
-  "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
   "FFlagChatTranslationShowFTUX": "True",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "DFFlagSimLimitAssemblyCount2": "True",
