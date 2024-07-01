@@ -257,6 +257,7 @@
   "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
   "FFlagSearchEventCurrentPage": "True",
   "FFlagCheckWeakenedModuleResult_Rollout": "True;60;2024-07-01T16:01:19",
+  "FFlagAppChatIsMessageFromSelfFix_Rollout": "True;60;2024-07-01T16:47:59",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
