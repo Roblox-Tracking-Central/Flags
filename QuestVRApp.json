@@ -698,6 +698,7 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
+  "FIntNewBlockingUtilityRollout_v1": "100",
   "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",

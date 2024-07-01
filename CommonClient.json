@@ -13044,6 +13044,7 @@
   "FFlagSafeMaxInstancesPerBatch_Rollout": "True;60;2024-07-01T21:05:48",
   "FIntVoiceChatCustomAudioDeviceNeedMorePlayoutTelemetryIntervalSeconds_Rollout": "-1;60;2024-07-01T21:46:27",
   "FFlagFullProfileViewIXPSetupEnabled_Rollout": "False;60;2024-07-01T21:51:26",
+  "FFlagStudioCleanupPluginWidgetImmediately_Rollout": "True;60;2024-07-01T22:01:57",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
