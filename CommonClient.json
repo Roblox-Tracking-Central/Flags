@@ -13031,6 +13031,7 @@
   "FFlagFixAssistantEvalLocalization_Rollout": "True;60;2024-07-01T16:49:59",
   "DFIntMaxAudibleSoundChannels_Rollout": "300;60;2024-07-01T16:51:04",
   "FIntProfilePlatformAnalyticsThrottlingThousandths_Rollout": "10000;60;2024-07-01T17:02:03",
+  "FFlagStudioHasItsOwnMasterVolume2_Rollout": "True;60;2024-07-01T17:20:28",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

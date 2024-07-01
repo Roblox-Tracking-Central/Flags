@@ -153,6 +153,8 @@
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
+  "FStringChatDetailsAddFriendsBtnClickedCounter_Rollout": "ChatDetailsAddFriendsBtnClickedDUAR;60;2024-07-01T17:11:07",
+  "FStringChatDetailsLeaveGroupBtnClickedCounter_Rollout": "ChatDetailsLeaveGroupBtnClickedDUAR;60;2024-07-01T17:11:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

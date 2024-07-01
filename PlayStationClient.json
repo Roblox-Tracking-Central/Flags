@@ -153,6 +153,8 @@
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
+  "FStringChatDetailsAddFriendsBtnClickedCounter_Rollout": "ChatDetailsAddFriendsBtnClickedCommon;60;2024-07-01T17:11:07",
+  "FStringChatDetailsLeaveGroupBtnClickedCounter_Rollout": "ChatDetailsLeaveGroupBtnClickedCommon;60;2024-07-01T17:11:07",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
   "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
   "DFIntHttpCacheRetryCount": "2000",

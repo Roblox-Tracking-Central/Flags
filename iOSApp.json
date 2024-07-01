@@ -153,6 +153,8 @@
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
+  "FStringChatDetailsAddFriendsBtnClickedCounter_Rollout": "ChatDetailsAddFriendsBtnClickediOS;60;2024-07-01T17:11:07",
+  "FStringChatDetailsLeaveGroupBtnClickedCounter_Rollout": "ChatDetailsLeaveGroupBtnClickediOS;60;2024-07-01T17:11:07",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
