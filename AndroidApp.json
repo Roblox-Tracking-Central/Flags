@@ -153,6 +153,8 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedAndroid",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedAndroid",
   "AllowVideoPreRoll": "True",
+  "FFlagStudioSleepInheritsStopToken_Rollout": "True;60;2024-07-01T21:11:56",
+  "FFlagStudioWithUiContextRemoveShortCircuit_Rollout": "True;60;2024-07-01T21:12:41",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
