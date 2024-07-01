@@ -683,7 +683,6 @@
   "FFlagAddTimerToBulkPurchaseBuyButton": "True",
   "FFlagProfileShareLinkAddProfileShareFriendType": "True",
   "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
-  "DFFlagContentProviderPriorityListFix": "True",
   "FFlagSearchEventCurrentPage": "True",
   "FFlagCapturesRemoveCoreUIDescendants": "True"
 }

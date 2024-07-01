@@ -240,7 +240,6 @@
   "FFlagFixDuplicateAutoSearch_v2": "True",
   "FFlagTweenMoreMoves": "True",
   "FFlagEnableCapturesHotkeyExperiment_v4": "True",
-  "DFFlagContentProviderPriorityListFix": "True",
   "DFFlagCleanModuleStateMap": "True",
   "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
   "FFlagDisableBulkPurchaseWhenNoItems": "True",

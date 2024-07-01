@@ -696,6 +696,5 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagProfileTrackLoadingTime_v1": "True",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "DFFlagContentProviderPriorityListFix_Rollout": "True;30;2024-07-01T02:16:26"
+  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True"
 }

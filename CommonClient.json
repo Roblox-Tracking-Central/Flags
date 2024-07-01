@@ -13044,5 +13044,6 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
-  "FIntRuntimeMaxNumOfMutexes": "2400"
+  "FIntRuntimeMaxNumOfMutexes": "2400",
+  "DFFlagContentProviderPriorityListFix": "True"
 }

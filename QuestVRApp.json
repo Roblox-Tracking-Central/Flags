@@ -731,6 +731,5 @@
   "FFlagAXAddShowBottomBarProp": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True",
-  "DFFlagContentProviderPriorityListFix": "True"
+  "FFlagLuaAppMockUserRemoveDev": "True"
 }

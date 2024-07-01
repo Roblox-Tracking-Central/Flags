@@ -839,7 +839,6 @@
   "FFlagAXWidgetRowCountBreakpoints": "True",
   "FFlagStudioUseNewAutoSaveLocation": "True",
   "FFlagPopupMessageBoxAdjustSizeFix": "True",
-  "DFFlagContentProviderPriorityListFix": "True",
   "FFlagReportIsMainThreadAcquiringToBT": "True",
   "FFlagRuntimeConsistentSseState": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",

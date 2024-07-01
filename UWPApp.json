@@ -347,6 +347,5 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
-  "FFlagAXRefactorTryOnItems4": "True",
-  "DFFlagContentProviderPriorityListFix": "True"
+  "FFlagAXRefactorTryOnItems4": "True"
 }
