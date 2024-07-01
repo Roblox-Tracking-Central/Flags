@@ -258,7 +258,8 @@
   "FFlagCheckWeakenedModuleResult": "True",
   "FFlagAppChatIsMessageFromSelfFix": "True",
   "DFIntEngineContextValidationReportingCap": "5",
-  "FFlagAXFixUnitsAvailableForConsumption_Rollout": "True;60;2024-07-01T18:49:25",
+  "FFlagAXFixUnitsAvailableForConsumption": "True",
+  "FFlagEnableEngineContextScope3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -584,6 +585,5 @@
   "FFlagLuaAppUseCollectionViewIXP2": "True",
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseCollection": "True",
-  "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagEnableEngineContextScope3": "True"
+  "FFlagShareLinkPrivateServerAnalyticsEnabled": "True"
 }
