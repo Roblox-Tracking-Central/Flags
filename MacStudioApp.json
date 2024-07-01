@@ -847,6 +847,7 @@
   "FFlagStudioSkipLinkedScriptsForBuiltInPlugins": "True",
   "FFlagAXFixUnitsAvailableForConsumption": "True",
   "DFFlagSimEnableStepPhysicsSelective": "True",
+  "FFlagEnableFlagParseTiming_Rollout": "True;60;2024-07-01T20:35:54",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
