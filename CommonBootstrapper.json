@@ -126,5 +126,6 @@
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "DFFlagRandomNewSeedLimitWarn": "True",
   "DFFlagContentProviderPriorityListFix": "True",
+  "FFlagAXFixUnitsAvailableForConsumption_Rollout": "True;60;2024-07-01T18:49:25",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }

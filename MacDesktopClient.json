@@ -150,8 +150,8 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedDUAR",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedDUAR",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
-  "FStringChatDetailsAddFriendsBtnClickedCounter_Rollout": "ChatDetailsAddFriendsBtnClickedDUAR;60;2024-07-01T17:11:07",
-  "FStringChatDetailsLeaveGroupBtnClickedCounter_Rollout": "ChatDetailsLeaveGroupBtnClickedDUAR;60;2024-07-01T17:11:07",
+  "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedDUAR",
+  "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -257,6 +257,8 @@
   "FFlagSearchEventCurrentPage": "True",
   "FFlagCheckWeakenedModuleResult": "True",
   "FFlagAppChatIsMessageFromSelfFix": "True",
+  "DFIntEngineContextValidationReportingCap": "5",
+  "FFlagAXFixUnitsAvailableForConsumption_Rollout": "True;60;2024-07-01T18:49:25",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -583,6 +585,5 @@
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseCollection": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "DFIntEngineContextValidationReportingCap": "5",
   "FFlagEnableEngineContextScope3": "True"
 }
