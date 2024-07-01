@@ -347,5 +347,6 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXAvatarWidgetData14": "True",
   "FFlagAXAvatarWidgetTryOn5": "True",
-  "FFlagAXRefactorTryOnItems4": "True"
+  "FFlagAXRefactorTryOnItems4": "True",
+  "FFlagAXFixAvatarLayeredClothing_Rollout": "True;30;2024-07-01T22:56:44"
 }

@@ -12942,7 +12942,6 @@
   "FFlagFixTextNilCrash2": "True",
   "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
   "FFlagSyncStorageWithSystemLocale": "True",
-  "FFlagUseCachedAudibilityMeasurements": "True",
   "FFlagTrackDistanceAttenuationTelemetry": "True",
   "FFlagStudioDeviceEmulatorFixInitialPlayerGuiCurrentScreenOrientation": "True",
   "FFlagStudioDeviceEmulatorUpdateHardwareSafeAreaInsets": "True",
