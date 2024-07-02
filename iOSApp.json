@@ -685,5 +685,5 @@
   "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": "10000",
   "FFlagEditProfileAddLoadingTracker_Rollout": "True;60;2024-07-02T16:15:44",
-  "FFlagLuaAppGameCarouselUseFormula2_Rollout": "True;30;2024-07-02T16:24:37"
+  "FFlagLuaAppGameCarouselUseFormula2": "True"
 }
