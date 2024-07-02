@@ -263,6 +263,7 @@
   "FFlagEnableEngineContextScope3": "True",
   "FFlagEnableFlagParseTiming": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
+  "FFlagSyncSubStateOnVoiceJoin_Rollout": "True;60;2024-07-02T18:50:18",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
