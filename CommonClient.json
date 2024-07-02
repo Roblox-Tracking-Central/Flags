@@ -13059,6 +13059,7 @@
   "FFlagRealMobileOutline4": "True",
   "DFFlagSimSolverOptimizeGeometricStiffness4_Rollout": "True;60;2024-07-02T20:39:31",
   "FFlagSimSolverEnableMoverConstraintRootBehaviorPhasedRollout_Rollout": "True;60;2024-07-02T20:42:44",
+  "FFlagFixMainRibbonDropdownButtonCrash_Rollout": "True;60;2024-07-02T20:50:27",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

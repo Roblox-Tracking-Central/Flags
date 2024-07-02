@@ -153,6 +153,7 @@
   "FFlagRobloxTelemetryDualWritePointToV2": "True",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedDUAR",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedDUAR",
+  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "False;30;2024-07-02T20:48:54",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
