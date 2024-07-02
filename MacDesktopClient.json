@@ -584,5 +584,6 @@
   "FFlagLuaAppUseCollectionViewIXP2": "True",
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseCollection": "True",
-  "FFlagShareLinkPrivateServerAnalyticsEnabled": "True"
+  "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
+  "FFlagLuaAppGameCarouselUseFormula2_Rollout": "True;30;2024-07-02T16:24:37"
 }
