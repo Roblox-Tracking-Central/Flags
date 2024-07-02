@@ -684,6 +684,6 @@
   "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": "10000",
   "FFlagEditProfileAddLoadingTracker": "True",
-  "FFlagAXAvatarEventIngestServiceForEditor": "True",
+  "FFlagAXAvatarEventIngestServiceForEditor": "False",
   "DFFlagReportFirstThirdPartyErrorOnly_Rollout": "True;60;2024-07-02T20:34:21"
 }
