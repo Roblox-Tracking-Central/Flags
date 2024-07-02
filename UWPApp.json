@@ -152,6 +152,7 @@
   "FFlagMoveUpdateCheckToUniversalApp": "False",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
+  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "True;60;2024-07-02T16:13:36",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
