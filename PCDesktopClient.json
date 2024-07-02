@@ -259,7 +259,6 @@
   "DFIntEngineContextValidationReportingCap": "5",
   "DFFlagShortContextCheck": "True",
   "FFlagAXFixUnitsAvailableForConsumption": "True",
-  "FFlagEnableEngineContextScope3": "True",
   "FFlagEnableFlagParseTiming": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "AllowVideoPreRoll": "True",

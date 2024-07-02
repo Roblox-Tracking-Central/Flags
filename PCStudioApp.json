@@ -908,7 +908,6 @@
   "FFlagAppChatIsMessageFromSelfFix": "True",
   "DFIntEngineContextValidationReportingCap": "5",
   "DFFlagShortContextCheck": "True",
-  "FFlagEnableEngineContextScope3": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
