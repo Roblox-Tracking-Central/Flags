@@ -453,5 +453,6 @@
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
-  "DFFlagRandomNewSeedLimitReportOnce": "True"
+  "DFFlagRandomNewSeedLimitReportOnce": "True",
+  "DFIntMemoryUtilityCurveTotalMemoryReserve_Rollout": "250000000;30;2024-07-02T22:51:26"
 }
