@@ -586,5 +586,6 @@
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseCollection": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagLuaAppGameCarouselUseFormula2": "True"
+  "FFlagLuaAppGameCarouselUseFormula2": "True",
+  "FFlagGraphicsMetalTryCatch_Rollout": "True;60;2024-07-02T18:38:28"
 }
