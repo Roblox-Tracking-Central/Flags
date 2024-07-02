@@ -12356,7 +12356,6 @@
   "FFlagScriptProfilerPluginAnnotation": "True",
   "FFlagAddArialToLegacyContent": "True",
   "FFlagAddGothamToLegacyContent": "True",
-  "FFlagScriptProfilerShowPlugins2": "True",
   "FFlagScriptProfilerRememberExpandedNodes2": "True",
   "DFFlagEnableCaptureServiceServerEventsHandling": "True",
   "FFlagScriptProfilerNewAPIAccess": "True",
