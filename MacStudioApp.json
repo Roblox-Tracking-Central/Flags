@@ -907,7 +907,7 @@
   "FFlagAppChatIsMessageFromSelfFix": "True",
   "DFIntEngineContextValidationReportingCap": "5",
   "FFlagEnableEngineContextScope3": "True",
-  "FFlagAXFixAvatarLayeredClothing_Rollout": "True;30;2024-07-01T22:56:44",
+  "FFlagAXFixAvatarLayeredClothing": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",

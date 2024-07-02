@@ -693,5 +693,5 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-  "FFlagAXFixAvatarLayeredClothing_Rollout": "True;30;2024-07-01T22:56:44"
+  "FFlagAXFixAvatarLayeredClothing": "True"
 }

@@ -908,7 +908,7 @@
   "DFIntEngineContextValidationReportingCap": "5",
   "DFFlagShortContextCheck": "True",
   "FFlagEnableEngineContextScope3": "True",
-  "FFlagAXFixAvatarLayeredClothing_Rollout": "True;30;2024-07-01T22:56:44",
+  "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagDebugLuaAppValidateProps": "True",
   "FStringFeature_CookieProtocolEnabled": "524;100",
   "FFlagUseParallelTypecheckInLSP2": "True",
