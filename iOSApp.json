@@ -660,7 +660,6 @@
   "FFlagAXRefactorGridItemHeightGetter": "True",
   "FFlagAXWidgetRowCountBreakpoints": "True",
   "FFlagAXCounterBeforeSharingSheet": "True",
-  "FFlagPYMKCarouselLoadingEvents": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "FFlagEnableThirdPartyAssetLoading2": "True",
@@ -673,7 +672,6 @@
   "FFlagMediaGallerySnappingTelemetry": "True",
   "FFlagEnableSuspendReceiveRemoteNotification": "True",
   "FFlagFixDuplicateAutoSearch_v2": "True",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
   "FFlagDisableBulkPurchaseWhenNoItems": "True",
@@ -685,7 +683,6 @@
   "FFlagAXFixUnitsAvailableForConsumption": "True",
   "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": "10000",
-  "FFlagLuaAppGameCarouselUseFormula2": "True",
   "FFlagEditProfileAddLoadingTracker": "True",
   "FFlagAXAvatarEventIngestServiceForEditor": "True"
 }

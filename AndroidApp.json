@@ -688,11 +688,9 @@
   "FFlagDisableCameraOnLowSpecDevices2": "True",
   "FFlagOnlyShowToastOnce2": "True",
   "FFlagOnlyShowToastOnceInLifetime2": "True",
-  "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
   "FFlagAXFixAvatarLayeredClothing": "True"
 }

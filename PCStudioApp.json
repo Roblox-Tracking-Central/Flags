@@ -153,8 +153,6 @@
   "FFlagRobloxTelemetryDualWritePointToV2": "True",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-07-02T18:25:53",
-  "FFlagPYMKCarouselLoadingEvents_Rollout": "True;60;2024-07-02T18:26:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

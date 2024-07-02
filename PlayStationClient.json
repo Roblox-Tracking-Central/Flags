@@ -288,10 +288,8 @@
   "FFlagAXEnableSearchCounters": "True",
   "FFlagAXEnableSearchTelemetry": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
-  "FFlagPYMKCarouselLoadingEvents": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
-  "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True"
+  "DFFlagRandomNewSeedLimitReportOnce": "True"
 }
