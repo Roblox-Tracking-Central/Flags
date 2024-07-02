@@ -150,6 +150,7 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickediOS",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderediOS",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
+  "FFlagRobloxTelemetryDualWritePointToV2": "False",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickediOS",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickediOS",
   "AllowVideoPreRoll": "True",
@@ -684,6 +685,7 @@
   "FFlagAXFixUnitsAvailableForConsumption": "True",
   "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": "10000",
-  "FFlagEditProfileAddLoadingTracker_Rollout": "True;60;2024-07-02T16:15:44",
-  "FFlagLuaAppGameCarouselUseFormula2": "True"
+  "FFlagLuaAppGameCarouselUseFormula2": "True",
+  "FFlagEditProfileAddLoadingTracker": "True",
+  "FFlagAXAvatarEventIngestServiceForEditor_Rollout": "True;30;2024-07-02T18:00:22"
 }
