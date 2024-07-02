@@ -152,6 +152,8 @@
   "FFlagMoveUpdateCheckToUniversalApp": "True",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
+  "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "True;60;2024-07-02T23:19:49",
+  "DFStringDualWritePointToV2WhiteList_Rollout": "GameServerInitializationError;60;2024-07-02T23:20:41",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
   "DFIntHttpCacheCleanMinFilesRequired": "2000",
