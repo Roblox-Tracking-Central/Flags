@@ -154,7 +154,6 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedAndroid",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedAndroid",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
-  "FFlagRuntimeConsistentSseState_Rollout": "True;60;2024-07-03T16:21:06",
   "FFlagUseCatalogItemDetailsToResolveBundlePurchase_Rollout": "True;60;2024-07-03T16:45:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",

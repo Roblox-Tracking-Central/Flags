@@ -841,7 +841,6 @@
   "FFlagStudioUseNewAutoSaveLocation": "True",
   "FFlagPopupMessageBoxAdjustSizeFix": "True",
   "FFlagReportIsMainThreadAcquiringToBT": "True",
-  "FFlagRuntimeConsistentSseState": "True",
   "FFlagLintRedundantNativeAttribute": "True",
   "FFlagLuauReusableSubstitutions": "True",
   "FFlagStudioSkipLinkedScriptsForBuiltInPlugins": "True",
