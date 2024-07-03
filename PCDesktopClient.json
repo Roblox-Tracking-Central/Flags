@@ -582,5 +582,6 @@
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseComponentBase": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagDeprecateMidPhaseCollection": "True"
+  "FFlagDeprecateMidPhaseCollection": "True",
+  "FFlagUseNewTerrainBroadPhase10_PlaceFilter": "True;8908228901"
 }
