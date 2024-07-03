@@ -688,5 +688,6 @@
   "FFlagAXAvatarEventIngestServiceForEditor": "False",
   "DFFlagReportFirstThirdPartyErrorOnly": "True",
   "DFFlagEnableThirdPartyAdErrorEventReporting": "True",
-  "DFFlagEnableThirdPartyAdVolumeEventReporting": "True"
+  "DFFlagEnableThirdPartyAdVolumeEventReporting": "True",
+  "FFlagAXAvatarEventIngestServiceForEditor_Rollout": "True;30;2024-07-03T17:46:17"
 }
