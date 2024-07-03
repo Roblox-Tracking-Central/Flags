@@ -293,5 +293,6 @@
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
-  "DFFlagRandomNewSeedLimitReportOnce": "True"
+  "DFFlagRandomNewSeedLimitReportOnce": "True",
+  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure;59;2024-07-03T17:05:00"
 }
