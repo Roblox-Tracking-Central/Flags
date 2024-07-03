@@ -12857,7 +12857,6 @@
   "DFFlagMicroprofilerOutput2": "True",
   "FFlagAXAddCopyLinkButtonAndMeetCompanyCompliance": "True",
   "FFlagShareLinkAvatarItemDetailsSupport": "True",
-  "FFlagUseNewShortLinkGeneration": "True",
   "FFlagRemoveRBXMathTelemetryDep": "True",
   "DFFlagNANOutInertiaData": "True",
   "FFlagLuauCodegenUserdataOps": "True",
