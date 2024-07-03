@@ -150,10 +150,10 @@
   "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
   "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
   "FFlagMoveUpdateCheckToUniversalApp": "True",
+  "FFlagRobloxTelemetryDualWritePointToV2": "False",
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
-  "FLogSignalRNotification": "0",
-  "FStringFeature_CookieProtocolEnabled": "496;100",
+  "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -911,6 +911,8 @@
   "FFlagEnableEngineContextScope3": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagSyncSubStateOnVoiceJoin": "True",
+  "FLogSignalRNotification": "0",
+  "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
   "DFLogTrackHttpRequest": "0",
   "FFlagMacClientSupportIME9": "True",
@@ -920,6 +922,5 @@
   "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
   "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
   "FFlagFixHangOnMonitorThreadExit": "True",
-  "FLogStartPageIXPCheck": "Warning,6",
-  "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash"
+  "FLogStartPageIXPCheck": "Warning,6"
 }

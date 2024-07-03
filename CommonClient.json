@@ -12961,7 +12961,6 @@
   "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
   "FFlagEnableVRToggleForVRInitialization": "True",
   "FFlagEnableOptionalVRDeviceCreation": "True",
-  "FFlagRobloxTelemetryDualWritePointToV2": "False",
   "FFlagDeprecatedMemberInOtherClass": "True",
   "FFlagLuauCodegenInstG": "True",
   "FFlagScriptDebuggerSafeGetIndexInfo": "True",
