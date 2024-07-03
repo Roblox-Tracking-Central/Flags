@@ -75,8 +75,8 @@
   "FFlagEnableSoundTelemetry": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled5": "True",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
-  "DFIntMemoryUtilityCurvePenaltyBuffer": "400000000",
-  "DFIntMemoryUtilityCurveTotalMemoryReserve": "100000000",
+  "DFIntMemoryUtilityCurvePenaltyBuffer": "250000000",
+  "DFIntMemoryUtilityCurveTotalMemoryReserve": "250000000",
   "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
   "DFIntBatchLogMessageIngestHundredthsPercent": "0",
   "FFlagGuiServiceEnableAsymmetricSafeAreaInsets2": "True",
@@ -292,7 +292,5 @@
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
-  "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "DFIntMemoryUtilityCurveTotalMemoryReserve_Rollout": "250000000;30;2024-07-02T22:51:26",
-  "DFIntMemoryUtilityCurvePenaltyBuffer_Rollout": "250000000;30;2024-07-02T22:55:03"
+  "DFFlagRandomNewSeedLimitReportOnce": "True"
 }

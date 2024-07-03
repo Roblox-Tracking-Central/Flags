@@ -585,5 +585,5 @@
   "FFlagDeprecateMidPhaseCollection": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "FFlagGraphicsMetalTryCatch": "True",
-  "FFlagGraphicsMetalForceCrash_Rollout": "True;60;2024-07-02T22:26:21"
+  "FFlagGraphicsMetalForceCrash": "True"
 }
