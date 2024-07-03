@@ -586,6 +586,5 @@
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseCollection": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagGraphicsMetalTryCatch": "True",
-  "FFlagGraphicsMetalForceCrash": "True"
+  "FFlagGraphicsMetalTryCatch": "True"
 }
