@@ -683,9 +683,8 @@
   "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": "10000",
   "FFlagEditProfileAddLoadingTracker": "True",
-  "FFlagAXAvatarEventIngestServiceForEditor": "False",
+  "FFlagAXAvatarEventIngestServiceForEditor": "True",
   "DFFlagReportFirstThirdPartyErrorOnly": "True",
   "DFFlagEnableThirdPartyAdErrorEventReporting": "True",
-  "DFFlagEnableThirdPartyAdVolumeEventReporting": "True",
-  "FFlagAXAvatarEventIngestServiceForEditor_Rollout": "True;30;2024-07-03T17:46:17"
+  "DFFlagEnableThirdPartyAdVolumeEventReporting": "True"
 }
