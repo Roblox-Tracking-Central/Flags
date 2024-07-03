@@ -448,7 +448,6 @@
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
-  "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",

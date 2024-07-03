@@ -641,7 +641,6 @@
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FFlagEnableHarmonyOnFrameRateManager4": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
-  "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagLuaAppCollectionViewOta": "True",
   "FFlagAppChatIsMessageFromSelfFix": "True",

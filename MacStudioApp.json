@@ -800,7 +800,6 @@
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagToolboxThrottleContextualRecommendationRequests": "True",
   "DFFlagCLI109666": "True",
-  "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
   "DFFlagRemoveBanKicks": "True",
   "FFlagPathEditorSelectToolRename": "True",

@@ -154,7 +154,6 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedAndroid",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedAndroid",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
-  "FFlagEnableQuestHaptics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -695,6 +694,7 @@
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -727,6 +727,5 @@
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagAXAddShowBottomBarProp": "True",
   "FFlagAXFixSearchResultsBarSpacing1": "True",
-  "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagLuaAppMockUserRemoveDev": "True"
 }

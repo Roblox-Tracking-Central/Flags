@@ -227,7 +227,6 @@
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth": "50",
-  "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
   "FFlagLuaAppMockUserRemoveDev": "True",
   "FFlagNavigationIncorrectPolyRefPathfindingLink": "True",
   "FFlagAXHideSeeAllIfTooFewItems": "True",
