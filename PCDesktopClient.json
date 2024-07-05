@@ -237,7 +237,6 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "FFlagFixDuplicateAutoSearch_v2": "True",
   "FFlagTweenMoreMoves": "True",
   "FFlagEnableCapturesHotkeyExperiment_v4": "True",
   "DFFlagCleanModuleStateMap": "True",
