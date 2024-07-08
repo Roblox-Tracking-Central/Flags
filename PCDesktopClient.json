@@ -155,6 +155,8 @@
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedDUAR",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
   "FFlagUseParallelTypecheckInLSP2_Rollout": "True;60;2024-07-08T17:44:25",
+  "FFlagCodeAssistAddInlineRequestMetaField_Rollout": "True;30;2024-07-08T18:51:50",
+  "FFlagLuauAttributeSyntaxFunExpr_Rollout": "True;60;2024-07-08T19:04:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -262,7 +264,7 @@
   "FFlagEnableFlagParseTiming": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagSyncSubStateOnVoiceJoin": "True",
-  "FFlagAXFixScrollToTopOnFiltersChange_Rollout": "True;60;2024-07-08T17:35:08",
+  "FFlagAXFixScrollToTopOnFiltersChange": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -582,6 +584,8 @@
   "FFlagDeprecateMidPhaseComponentBase": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "FFlagDeprecateMidPhaseCollection": "True",
-  "FFlagUseNewTerrainBroadPhase10_Rollout": "True;60;2024-07-08T17:28:19",
-  "FFlagLuaAppGameCarouselUseFormula2": "True"
+  "FFlagLuaAppGameCarouselUseFormula2": "True",
+  "FFlagLuaAppSupportGridTilesOnDiscover_Rollout": "True;40;2024-07-08T18:46:05",
+  "FFlagUseNewTerrainBroadPhase10": "True",
+  "FFlagLuaAppAddUniverseIdToHoverPlayEvent_Rollout": "True;30;2024-07-08T19:03:32"
 }
