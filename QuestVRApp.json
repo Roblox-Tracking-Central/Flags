@@ -155,7 +155,6 @@
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedAndroid",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
   "FFlagLuauAttributeSyntaxFunExpr_Rollout": "True;60;2024-07-08T19:04:26",
-  "FFlagEnableQuestHaptics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -697,6 +696,7 @@
   "DFFlagRandomNewSeedLimitReportOnce": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "CrashpadEnableApiUnification": "true",
+  "FFlagEnableQuestHaptics": "True",
   "JavaCrashUploadToBacktracePercentage": "100",
   "FFlagOpenXrUIScalingPercent": "True",
   "FFlagDisablePostFx": "True",
@@ -728,6 +728,5 @@
   "FFlagChatTabHideGroupsLinkOnVR": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
   "FFlagAXAddShowBottomBarProp": "True",
-  "FFlagAXFixSearchResultsBarSpacing1": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True"
+  "FFlagAXFixSearchResultsBarSpacing1": "True"
 }

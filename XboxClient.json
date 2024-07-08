@@ -449,7 +449,6 @@
   "FFlagAXFixSearchResultsBarSpacing1": "True",
   "FFlagAXSearchRefactorForAnalytics": "True",
   "FFlagAXWidgetsByContextRouteFix": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True",
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",

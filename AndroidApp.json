@@ -155,7 +155,6 @@
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedAndroid",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
   "FFlagLuauAttributeSyntaxFunExpr_Rollout": "True;60;2024-07-08T19:04:26",
-  "FFlagLuaAppMockUserRemoveDev_Rollout": "True;30;2024-07-08T19:29:39",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",

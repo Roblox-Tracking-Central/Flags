@@ -283,7 +283,6 @@
   "FFlagAXCatalogRefreshEnabled": "True",
   "FFlagEnablePSAuthAndHomepagePrefetch": "True",
   "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-  "FFlagLuaAppMockUserRemoveDev": "True",
   "FFlagAXHideSeeAllIfTooFewItems": "True",
   "FFlagAXRedesignWidgetDividers2": "True",
   "FFlagAXEnableSearchCounters": "True",
