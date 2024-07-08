@@ -689,5 +689,6 @@
   "FFlagLuaAppGameCarouselUseFormula2": "True",
   "FFlagAXFixScrollToTopOnFiltersChange": "True",
   "FFlagLuaAppSupportGridTilesOnDiscover": "True",
-  "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True"
+  "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
+  "FFlagAXCounterBeforeSharingSheet": "False"
 }
