@@ -849,6 +849,8 @@
   "FFlagToolboxShowArtistThenCreator": "True",
   "FFlagAXFixScrollToTopOnFiltersChange": "True",
   "FFlagLuaAppDeprecateGameSortEntry_Rollout": "True;30;2024-07-08T19:28:19",
+  "FFlagLuaAppUnifyGameModel_Rollout": "True;30;2024-07-08T19:40:50",
+  "FFlagLuaAppCollectionViewOta_Rollout": "True;30;2024-07-08T19:44:22",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
