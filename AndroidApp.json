@@ -693,5 +693,6 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "FFlagAXFixAvatarLayeredClothing": "True"
+  "FFlagAXFixAvatarLayeredClothing": "True",
+  "CrashpadEnableApiUnification": "true"
 }
