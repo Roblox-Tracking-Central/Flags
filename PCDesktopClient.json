@@ -154,8 +154,8 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedDUAR",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedDUAR",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -585,5 +585,6 @@
   "FFlagLuaAppGameCarouselUseFormula2": "True",
   "FFlagUseNewTerrainBroadPhase10": "True",
   "FFlagLuaAppSupportGridTilesOnDiscover": "True",
-  "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True"
+  "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
+  "FFlagVideoCaptureServiceWinEnumeratorAsyncFix_Rollout": "True;1;2024-07-08T21:36:25"
 }
