@@ -154,7 +154,7 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickediOS",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickediOS",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
-  "FFlagLuauAttributeSyntaxFunExpr_Rollout": "True;60;2024-07-08T19:04:26",
+  "FFlagRenamePassesAndGearToSubscriptionsAndPasses_Rollout": "True;60;2024-07-08T20:40:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
