@@ -13092,6 +13092,7 @@
   "FFlagEnableAppChatPlacementContext": "True",
   "FFlagLuauAttributeSyntaxFunExpr": "True",
   "FFlagEnableSubscriptionPurchaseInEdpIxpExperiment_Rollout": "True;60;2024-07-08T20:43:08",
+  "DFFlagSimUsePartForInertia_Rollout": "True;60;2024-07-08T21:06:40",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
