@@ -154,7 +154,6 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedDUAR",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedDUAR",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
-  "FFlagCodeAssistAddInlineRequestMetaField_Rollout": "True;30;2024-07-08T18:51:50",
   "FFlagLuauAttributeSyntaxFunExpr_Rollout": "True;60;2024-07-08T19:04:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -591,6 +590,6 @@
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "FFlagGraphicsMetalTryCatch": "True",
   "FFlagLuaAppGameCarouselUseFormula2": "True",
-  "FFlagLuaAppSupportGridTilesOnDiscover_Rollout": "True;40;2024-07-08T18:46:05",
-  "FFlagLuaAppAddUniverseIdToHoverPlayEvent_Rollout": "True;30;2024-07-08T19:03:32"
+  "FFlagLuaAppSupportGridTilesOnDiscover": "True",
+  "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True"
 }

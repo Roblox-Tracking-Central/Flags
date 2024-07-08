@@ -154,7 +154,6 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
-  "FFlagCodeAssistAddInlineRequestMetaField_Rollout": "True;30;2024-07-08T18:51:50",
   "FFlagLuauAttributeSyntaxFunExpr_Rollout": "True;60;2024-07-08T19:04:26",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
