@@ -585,7 +585,6 @@
   "DFFlagHttpDisableSslReleaseBuffers_DataCenterFilter": "True;265;370;295",
   "FFlagContactImporterUIRefactor_v1": "True",
   "FFlagUseRoduxContactsV091": "True",
-  "FFlagAXFixCatalogDataOverride": "True",
   "FFlagEnableMetricFlagsOverride": "True",
   "FStringMetricFlagsOverride": "{\u0022CrashUniqueId\u0022: 1}",
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",

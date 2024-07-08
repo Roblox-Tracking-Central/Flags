@@ -542,7 +542,6 @@
   "DFFlagHarmonyStreamingNewMetrics": "True",
   "FFlagContactImporterUIRefactor_v1": "True",
   "FFlagUseRoduxContactsV091": "True",
-  "FFlagAXFixCatalogDataOverride": "True",
   "FFlagAXFixBuyActionBarLoadingHeight1": "True",
   "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
   "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
