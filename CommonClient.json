@@ -13081,6 +13081,8 @@
   "FFlagRenderDisableOpaqueWithAlphaPrepassAndroid_Rollout": "True;60;2024-07-08T16:58:24",
   "DFIntNetworkStreamingGCMaxMicroSecondLimitPartsModels_Rollout": "50000;60;2024-07-08T17:14:32",
   "DFIntNetworkStreamingGCUrgentMaxMicroSecondLimitPartsModels_Rollout": "100000;60;2024-07-08T17:19:18",
+  "FFlagUseNewShortLinkGeneration_Rollout": "True;10;2024-07-08T17:31:15",
+  "FFlagLuauCompileUserdataInfo_Rollout": "True;60;2024-07-08T17:31:54",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",

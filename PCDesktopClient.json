@@ -579,5 +579,7 @@
   "DFFlagCalculateStatsWhileVideoPlaying": "True",
   "FFlagDeprecateMidPhaseComponentBase": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
-  "FFlagDeprecateMidPhaseCollection": "True"
+  "FFlagDeprecateMidPhaseCollection": "True",
+  "FFlagUseNewTerrainBroadPhase10_Rollout": "True;60;2024-07-08T17:28:19",
+  "FFlagLuaAppGameCarouselUseFormula2_Rollout": "True;30;2024-07-08T17:33:16"
 }
