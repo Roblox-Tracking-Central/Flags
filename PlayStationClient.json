@@ -154,7 +154,6 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
-  "FFlagRenamePassesAndGearToSubscriptionsAndPasses_Rollout": "True;60;2024-07-08T20:40:18",
   "FFlagAXFixCatalogDataOverride_Rollout": "True;60;2024-07-08T21:41:26",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
