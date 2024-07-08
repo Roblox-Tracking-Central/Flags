@@ -586,5 +586,5 @@
   "FFlagDeprecateMidPhaseCollection": "True",
   "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
   "FFlagGraphicsMetalTryCatch": "True",
-  "FFlagLuaAppGameCarouselUseFormula2_Rollout": "True;30;2024-07-08T17:33:16"
+  "FFlagLuaAppGameCarouselUseFormula2": "True"
 }
