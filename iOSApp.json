@@ -686,7 +686,7 @@
   "DFFlagReportFirstThirdPartyErrorOnly": "True",
   "DFFlagEnableThirdPartyAdErrorEventReporting": "True",
   "DFFlagEnableThirdPartyAdVolumeEventReporting": "True",
-  "FFlagAppChatCheckEmptyConversationResponse_Rollout": "True;60;2024-07-08T16:35:15",
   "FFlagLuaAppGameCarouselUseFormula2_Rollout": "True;30;2024-07-08T17:33:16",
-  "FFlagAXFixScrollToTopOnFiltersChange_Rollout": "True;60;2024-07-08T17:35:08"
+  "FFlagAXFixScrollToTopOnFiltersChange_Rollout": "True;60;2024-07-08T17:35:08",
+  "FFlagAppChatCheckEmptyConversationResponse": "True"
 }
