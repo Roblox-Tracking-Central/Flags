@@ -618,7 +618,6 @@
   "FFlagAddChannelInfoToMainWindowTitle": "True",
   "FFlagStudioRenderErrorModel": "True",
   "FFlagStudioWarnWhenLowOnMemory2": "True",
-  "FFlagFixRestoreIDEStateRaceCondition": "True",
   "FFlagDoNotPausePriorToGameLoading": "True",
   "FFlagHandleExitingPlaySoloDuringLoad": "True",
   "FFlagStudioRenderingSelectionColorController": "True",

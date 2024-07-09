@@ -13120,6 +13120,7 @@
   "FIntCAP1209DataSharingRolloutPercentage": "5",
   "FIntCAP1209DataSharingTOSVersion": "71024",
   "FFlagPath2DFixPropertyPanelChangesUpdateTooling": "True",
+  "FFlagFixRestoreIDEStateRaceCondition": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
