@@ -263,7 +263,7 @@
   "FFlagLuaAppCollectionViewOta": "True",
   "FFlagLuaAppUnifyGameModel": "True",
   "FFlagUseNewTerrainBroadPhase10": "True",
-  "FFlagBootcampCLI110965_Rollout": "True;60;2024-07-09T20:35:24",
+  "FFlagBootcampCLI110965": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
