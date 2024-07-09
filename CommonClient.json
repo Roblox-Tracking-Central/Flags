@@ -13111,6 +13111,7 @@
   "FFlagRenderCloudsSkipGLES2": "True",
   "FFlagRenderFixSetScissorAssert": "True",
   "DFFlagRenderingHighlightsTreatGLSLAsDesktop_Rollout": "True;30;2024-07-09T19:42:28",
+  "FFlagEnableSubscriptionPurchaseInEDP4": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
