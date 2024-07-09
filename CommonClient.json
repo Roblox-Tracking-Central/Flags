@@ -13112,6 +13112,8 @@
   "FFlagRenderFixSetScissorAssert": "True",
   "DFFlagRenderingHighlightsTreatGLSLAsDesktop_Rollout": "True;30;2024-07-09T19:42:28",
   "FFlagEnableSubscriptionPurchaseInEDP4": "True",
+  "DFFlagContentProviderPriorityListFix": "True",
+  "FFlagPath2DFixPropertyPanelChangesUpdateTooling_Rollout": "True;60;2024-07-09T20:34:41",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
@@ -13134,6 +13136,5 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaRollouts": "True",
   "FIntRuntimeMaxNumOfConditions": "2400",
-  "FIntRuntimeMaxNumOfMutexes": "2400",
-  "DFFlagContentProviderPriorityListFix": "True"
+  "FIntRuntimeMaxNumOfMutexes": "2400"
 }
