@@ -629,7 +629,6 @@
   "FFlagEnableInGameMenuChromeABTest3": "True",
   "FFlagAXRefactorTryOnItems4": "True",
   "FFlagCheckFor0UserIdOnContactImporter": "True",
-  "DFIntPerfDataGlobalThrottleHundredthsPercent_PlaceFilter": "500;189707;16270624805;4954752502;3623096087;3101667897;3351674303",
   "FFlagLuaAppRemoveSeeAllDropdownIXP": "True",
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "FFlagAXAddShowBottomBarProp": "True",
