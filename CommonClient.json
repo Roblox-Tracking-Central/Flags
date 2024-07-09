@@ -12867,7 +12867,7 @@
   "FFlagCAPThumbnailAssetDataLoaderComponent": "True",
   "FFlagSimReduceBuffersAPS": "True",
   "FIntGameGridFlexFeedItemTileNumPerFeed": "500",
-  "FIntMaxTimestepMultiplierVelocity_PlaceFilter": "4;189707;2913303231",
+  "FIntMaxTimestepMultiplierVelocity_PlaceFilter": "4;189707",
   "FFlagManagerAddDisplayOrderAndBackgroundDismiss": "True",
   "DFFlagSimHumanoidTimestepModelUpdate_PlaceFilter": "True;189707;537413528;2913303231",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
