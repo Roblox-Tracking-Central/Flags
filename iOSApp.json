@@ -154,6 +154,7 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickediOS",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickediOS",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
+  "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-07-09T20:56:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -687,5 +688,6 @@
   "FFlagAXFixScrollToTopOnFiltersChange": "True",
   "FFlagLuaAppSupportGridTilesOnDiscover": "True",
   "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
-  "FFlagAXCounterBeforeSharingSheet": "False"
+  "FFlagAXCounterBeforeSharingSheet": "False",
+  "FFlagLuaAppMigrateOmniContentType_Rollout": "True;30;2024-07-09T21:08:39"
 }

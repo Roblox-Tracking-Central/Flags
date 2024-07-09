@@ -154,6 +154,7 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedDUAR",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedDUAR",
   "DFStringDualWritePointToV2WhiteList": "experience_launch_flow,clientcrash",
+  "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-07-09T20:56:32",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",

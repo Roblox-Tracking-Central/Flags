@@ -154,6 +154,7 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedCommon",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedCommon",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
+  "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-07-09T20:56:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -454,5 +455,6 @@
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
   "DFFlagRandomNewSeedLimitReportOnce": "True",
-  "FFlagEnableFlagParseTiming": "True"
+  "FFlagEnableFlagParseTiming": "True",
+  "FFlagLuaAppMigrateOmniContentType_Rollout": "True;30;2024-07-09T21:08:39"
 }

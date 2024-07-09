@@ -154,6 +154,7 @@
   "FStringChatDetailsAddFriendsBtnClickedCounter": "ChatDetailsAddFriendsBtnClickedAndroid",
   "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedAndroid",
   "DFStringDualWritePointToV2WhiteList": "GameServerInitializationError",
+  "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-07-09T20:56:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
