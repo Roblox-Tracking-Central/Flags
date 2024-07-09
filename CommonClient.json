@@ -12869,7 +12869,7 @@
   "FIntGameGridFlexFeedItemTileNumPerFeed": "500",
   "FIntMaxTimestepMultiplierVelocity_PlaceFilter": "4;189707",
   "FFlagManagerAddDisplayOrderAndBackgroundDismiss": "True",
-  "DFFlagSimHumanoidTimestepModelUpdate_PlaceFilter": "True;189707;537413528;2913303231",
+  "DFFlagSimHumanoidTimestepModelUpdate_PlaceFilter": "True;189707;537413528;2913303231;12177325772",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "DFIntSessionReportAppSuccessEventIngestThrottleHundredthsPercent": "10000",
   "DFFlagPlayerHumanoidPropertyUpdateRestrict": "True",
