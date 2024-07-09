@@ -688,5 +688,6 @@
   "FFlagLuaAppSupportGridTilesOnDiscover": "True",
   "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
   "FFlagAXCounterBeforeSharingSheet": "False",
-  "FFlagLuaAppMigrateOmniContentType_Rollout": "True;30;2024-07-09T21:08:39"
+  "FFlagLuaAppMigrateOmniContentType_Rollout": "True;30;2024-07-09T21:08:39",
+  "FFlagUniversalAppCsat4_Rollout": "True;30;2024-07-09T22:00:52"
 }
