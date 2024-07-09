@@ -128,5 +128,6 @@
   "DFFlagContentProviderPriorityListFix": "True",
   "FFlagAXFixUnitsAvailableForConsumption": "True",
   "FFlagAXFixScrollToTopOnFiltersChange": "True",
+  "FFlagEnableFlagParseTiming_Rollout": "True;30;2024-07-09T19:25:24",
   "FFlagUIBloxUseFullPageModalZIndex": "True"
 }

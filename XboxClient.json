@@ -453,5 +453,6 @@
   "FFlagCounterNoInternetConnectionResultsList": "True",
   "DFFlagRandomNewSeedLimitReport": "True",
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
-  "DFFlagRandomNewSeedLimitReportOnce": "True"
+  "DFFlagRandomNewSeedLimitReportOnce": "True",
+  "FFlagEnableFlagParseTiming_Rollout": "True;30;2024-07-09T19:25:24"
 }
