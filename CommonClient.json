@@ -13106,6 +13106,7 @@
   "FFlagMoveShouldStoreOriginalValues_Rollout": "True;60;2024-07-09T16:02:18",
   "DFFlagFloorCacheAccessCorrectOrder_Rollout": "True;60;2024-07-09T16:38:38",
   "DFFlagTrackSessionIndex_Rollout": "True;60;2024-07-09T16:38:40",
+  "FFlagSimSolverConsolidatePerfTelemetrySendLogic_Rollout": "True;30;2024-07-09T16:59:01",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
