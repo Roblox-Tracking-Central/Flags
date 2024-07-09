@@ -12475,6 +12475,7 @@
   "FFlagDumpCodeSizeStudioFix": "True",
   "FFlagLuauCodegenLoadTypeUpvalCheck": "True",
   "FFlagEnableLoginByUsernameSSOErrorsTelemetry": "True",
+  "DFIntHttpStatsErrorInfluxReportsPerMillion": "500",
   "FFlagCodegenStatsProtectAssertion": "True",
   "FFlagTerrainEditorHeightmapClearImages": "True",
   "FFlagFixLoopingReplicationWhitelist": "True",
