@@ -9964,7 +9964,7 @@
   "FFlagContactsToastPolicyEnabled": "True",
   "DFFlagDontSubscribeIfNotVoiceEnabled": "True",
   "DFFlagFixInteractionGroupSignaling": "True",
-  "FFlagNavigationUseProjectionForNeighourSelection2_PlaceFilter": "True;13238950471",
+  "FFlagNavigationUseProjectionForNeighourSelection2_PlaceFilter": "False;13238950471",
   "FFlagShareLinkAddTrackingForStamp": "True",
   "FFlagContactsToastExperimentEnabled": "True",
   "FFlagNoRethrowSetAndLockParent_PlaceFilter": "False;6737970321;12985361032",

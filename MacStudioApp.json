@@ -909,7 +909,7 @@
   "FFlagEnableEngineContextScope3": "True",
   "FFlagAXFixAvatarLayeredClothing": "True",
   "FFlagSyncSubStateOnVoiceJoin": "True",
-  "FFlagUseNewTerrainBroadPhase10_Rollout": "True;60;2024-07-09T16:53:33",
+  "FFlagUseNewTerrainBroadPhase10": "True",
   "FLogSignalRNotification": "0",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FFlagDebugLuaAppValidateProps": "True",
