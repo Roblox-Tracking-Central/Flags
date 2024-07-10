@@ -13122,7 +13122,7 @@
   "FFlagPath2DFixPropertyPanelChangesUpdateTooling": "True",
   "FFlagFixRestoreIDEStateRaceCondition": "True",
   "DFFlagAnalyticsServiceEnabled_PlaceFilter": "True;16571223438",
-  "DFFlagNoFileAndLineTelemetry_Rollout": "True;60;2024-07-09T23:23:12",
+  "DFFlagNoFileAndLineTelemetry": "True",
   "DFFlagEnableRemoteProfiling": "True",
   "DFFlagRakNetDetectNetUnreachable": "True",
   "DFFlagReportClientMemoryCat": "True",
